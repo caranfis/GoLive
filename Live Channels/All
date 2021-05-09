@@ -142,10 +142,10 @@ https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live
 #EXTINF:-1 tvg-id="ArabicaMusic.lb" tvg-name="Arabica Music" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://arabicagroup.tv/images/app1.png" group-title="Music",Arabica TV (720p)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Asharq.sa" tvg-name="Asharq" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://asharq.com/asharq-preview-logo.png" group-title="Business",Asharq (1280p) [Portrait]
+#EXTINF:-1 tvg-id="Asharq.sa" tvg-name="Asharq" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://asharq.com/asharq-preview-logo.png" group-title="General",Asharq (1280p) [Portrait]
 https://bcliveunivsecure-lh.akamaihd.net/i/VERTICAL_1@301860/master.m3u8
 
-#EXTINF:-1 tvg-id="Asharq.sa" tvg-name="Asharq" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://asharq.com/asharq-preview-logo.png" group-title="Business",Asharq (1080p)
+#EXTINF:-1 tvg-id="Asharq.sa" tvg-name="Asharq" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://asharq.com/asharq-preview-logo.png" group-title="General",Asharq (1080p)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/index.m3u8
 
 #EXTINF:-1 tvg-id="AssyrianANB.iq" tvg-name="Assyrian ANB" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/way7KwN.jpg" group-title="General",Assyrian ANB (720p)
@@ -172,7 +172,7 @@ http://142.112.39.133:8080/hls/catv/index.m3u8
 #EXTINF:-1 tvg-id="CharityTV.lb" tvg-name="CharityTV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://kreim-storage.fra1.digitaloceanspaces.com/APP%20Logo%20PNG.png" group-title="Religious",CharityTV (1080p)
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
 
-#EXTINF:-1 tvg-id="CNBCArabiya.us" tvg-name="CNBC Arabiya" tvg-country="US" tvg-language="Arabic" tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="Business",CNBC Arabiya (720p)
+#EXTINF:-1 tvg-id="CNBCArabiya.us" tvg-name="CNBC Arabiya" tvg-country="US" tvg-language="Arabic" tvg-logo="https://i.imgur.com/a6QmjRT.png" group-title="General",CNBC Arabiya (720p)
 https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
 
 #EXTINF:-1 tvg-id="CopticTV.eg" tvg-name="Coptic TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="http://www.ctvchannel.tv/Images/Page/Logo.png" group-title="Religious",Coptic TV (720p)
@@ -238,7 +238,7 @@ http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
 #EXTINF:-1 tvg-id="HawasTV.ae" tvg-name="Hawas TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rVYdkth.jpg" group-title="General",Hawas TV
 https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
 
-#EXTINF:-1 tvg-id="JascoEventsTV.sa" tvg-name="Jasco Events TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="" group-title="Travel",Jasco Events TV
+#EXTINF:-1 tvg-id="JascoEventsTV.sa" tvg-name="Jasco Events TV" tvg-country="SA" tvg-language="Arabic" tvg-logo="" group-title="General",Jasco Events TV
 http://82.212.74.100:8000/live/hls/8131.m3u8
 
 #EXTINF:-1 tvg-id="JawharaFM.jo" tvg-name="Jawhara FM" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png" group-title="Music",Jawhara FM (720p)
@@ -319,7 +319,7 @@ http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
 #EXTINF:-1 tvg-id="NabaaTV.lb" tvg-name="Nabaa TV" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png" group-title="News",Nabaa TV (480p)
 https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
 
-#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR" tvg-name="National Geographic Abu Dhabi AR" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="Documentary",National Geographic Abu Dhabi (1080p)
+#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR" tvg-name="National Geographic Abu Dhabi AR" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="General",National Geographic Abu Dhabi (1080p)
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="NBNHD.lb" tvg-name="NBN HD" tvg-country="LB" tvg-language="Arabic" tvg-logo="" group-title="",NBN HD (720p)
@@ -472,9 +472,6 @@ https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
 
 #EXTINF:-1 tvg-id="WeyyakNawaem.ae" tvg-name="Weyyak Nawaem" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/d867c2e9-328d-ea11-831d-02d662556796/poster-image" group-title="",Weyyak Nawaem (720p)
 https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
-
-#EXTINF:-1 tvg-id="YasTV.ae" tvg-name="Yas TV" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ky1sNul.png" group-title="Sport",Yas TV (1080p)
-https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Zagros.iq" tvg-name="Zagros" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://www.zagrosnews.net/sites/default/files/zagros-logo-01_1.png" group-title="General",Zagros (720p)
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
