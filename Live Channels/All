@@ -130,7 +130,7 @@ https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="alltv.sy" tvg-name="alltv" tvg-country="SY" tvg-language="Arabic" tvg-logo="Music" group-title="Syria",alltv (400p)
 http://185.96.70.242:1935/live/alltv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MTV LEBNON" tvg-name="MTV LEBNON" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.pngix.com/pngfile/middle/108-1084828_mtv-lebanon-mtv-lebanon-logo-png-transparent-png.png" group-title="Lebanon",MTV LEBNON
+#EXTINF:-1 tvg-id="MTV LEBANON" tvg-name="MTV LEBANON" tvg-country="LB" tvg-language="Arabic" tvg-logo="https://www.pngix.com/pngfile/middle/108-1084828_mtv-lebanon-mtv-lebanon-logo-png-transparent-png.png" group-title="Lebanon",MTV LEBANON
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56012.m3u8
 
 #EXTINF:-1 tvg-id="AL Rai ARB" tvg-name="AL Rai ARB" tvg-country="KW" tvg-language="Arabic" tvg-logo="http://f.alrai.tv/TV/Programs/60_Alrai_Tv21_-__RT655x0-_OS492x240-_RD492x240-.png" group-title="General",Alrai TV (1080p)
