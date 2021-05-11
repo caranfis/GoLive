@@ -412,6 +412,12 @@ https://streaming.viewmedia.tv/viewsatstream12/viewsatstream12.smil/playlist.m3u
 #EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="Syria",Syria Drama (270p)
 http://82.137.248.16:1935/Drama/stream19042021/index.m3u8
 
+#EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="Syria",Syria Drama (270p)
+http://82.137.248.16:1935/Drama/stream19042021/1.m3u8
+
+#EXTINF:-1 tvg-id="Syria Drama ARB" tvg-name="Syria Drama ARB" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/5EnxvkU.png" group-title="Syria",Syria Drama (270p)
+http://82.137.248.16:1935/Drama/stream19042021/2.m3u8
+
 #EXTINF:-1 tvg-id="Syria Satellite Channel ARB" tvg-name="Syria Satellite Channel ARB" tvg-country="SY" tvg-language="Arabic" tvg-logo="https://i.imgur.com/ajsrKzA.png" group-title="Syria",Syria Satellite Channel (270p)
 http://82.137.248.16:1935/Sat/stream19042021/playlist.m3u8
 
