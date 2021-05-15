@@ -1,88 +1,64 @@
 #EXTM3U
-#EXTINF:-1 group-title="News",Al Jazeera
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/41148.m3u8
-#EXTINF:-1 group-title="News",Al_Jazeera.Doc
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55001.m3u8
-#EXTINF:-1 group-title="News",AlJazeera English
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55052.m3u8
-#EXTINF:-1 group-title="News",Al_Jazeera.En
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55002.m3u8
-#EXTINF:-1 group-title="News",ALarabia.Hadath
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55005.m3u8
-#EXTINF:-1 group-title="News",AlArabiya HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55007.m3u8
-#EXTINF:-1 group-title="News",Alaraby.TV
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55008.m3u8
-#EXTINF:-1 group-title="UAE",Abudhabi.aloula
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54798.m3u8
-#EXTINF:-1 group-title="UAE",AbuDhabi.Drama
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54799.m3u8
-#EXTINF:-1 group-title="UAE",AbuDhabi.Emarat
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54800.m3u8
-#EXTINF:-1 group-title="Movies",Action-Movies
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54801.m3u8
-#EXTINF:-1 group-title="UAE",AD.Nat.Geo
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54807.m3u8
-#EXTINF:-1 group-title="Music",Aghani-Aghani
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54826.m3u8
-#EXTINF:-1 group-title="News",Al Jazeera Arabic Live Stream HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54892.m3u8
-#EXTINF:-1 group-title="News",Al-hurra
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54974.m3u8
-#EXTINF:-1 group-title="News",AL.ALAM
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54976.m3u8
-#EXTINF:-1 group-title="News",Al.Jazeera
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54984.m3u8
-#EXTINF:-1 group-title="News",Al.Jazeera.Mubasher
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54985.m3u8
-#EXTINF:-1 group-title="News",Al.Mustakillah
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54989.m3u8
-#EXTINF:-1 group-title="General",Al.Rayyan
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54992.m3u8
-#EXTINF:-1 group-title="Egypt",AL.Sa3aa.Comedy
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54993.m3u8
-#EXTINF:-1 group-title="Iraq",Al.Sharqiya.TV
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54995.m3u8
-#EXTINF:-1 group-title="Egypt",Al.Thanya.Masr
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54998.m3u8
-#EXTINF:-1 group-title="General",AL.yom1
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54999.m3u8
-#EXTINF:-1 group-title="General",AlfajerTV
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55015.m3u8
-#EXTINF:-1 group-title="Egypt",ALhayah.ALaan
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55040.m3u8
-#EXTINF:-1 group-title="Egypt",AlHayah2
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55041.m3u8
-#EXTINF:-1 group-title="Egypt",AlHayat.Musalsalat
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55044.m3u8
-#EXTINF:-1 group-title="Egypt",Alhayat1
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55045.m3u8
-#EXTINF:-1 group-title="General",alhiwar
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55049.m3u8
-#EXTINF:-1 group-title="Lebanon",Aljadeed
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55050.m3u8
-#EXTINF:-1 group-title="Egypt",ALMasriya
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55099.m3u8
-#EXTINF:-1 group-title="General",Alqanat9
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55106.m3u8
-#EXTINF:-1 group-title="General",AlQuds
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55107.m3u8
-#EXTINF:-1 group-title="General",Alrai
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55109.m3u8
-#EXTINF:-1 group-title="Iraq",Anb
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55116.m3u8
-#EXTINF:-1 group-title="Egypt",Apple.Comedy
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55121.m3u8
-#EXTINF:-1 group-title="Egypt",Apple.Hekayat
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55122.m3u8
-#EXTINF:-1 group-title="Egypt",Apple.Moslsalat
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55123.m3u8
-#EXTINF:-1 group-title="Egypt",Apple.Today
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55124.m3u8
-#EXTINF:-1 group-title="Egypt",Apple.Cinema
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55131.m3u8
-#EXTINF:-1 group-title="beIN",AR_beIN SERIES HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55210.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/rLR5q2x.png",Al Hadath TV (1080p)
+https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://gdb.alhurra.eu/C4BE79AD-607A-4EBA-8449-7CC6E2B12566_w1200_r1_s.jpg",Al Hurra (486p)
+https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/GRl09vk.jpg",Al Hurra (720p)
+https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/8EmVL2d.jpg",Al Hurra Iraq (720p)
+https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/NciF5rO.png",Al Ekhbariya (1080p)
+https://iptv--iptv.repl.co/Arabic/Ekhbariyah/
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/dmDzNQO.png",Al Manar (576p)
+https://manar.live/x.smil/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png",Al Mayadeen (576p)
+https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://alrafidain.org/style/assets/imgs/logo.png",Al Rafidain (1024p)
+https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/x5buqzt.jpg",Al Rafidain HQ (1024p)
+http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/qNi4rwG.jpg",Al Sharqiya News (450p)
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png",Al Yaum TV (720p)
+https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/x5buqzt.jpg",Al-Rafidain TV
+http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/LNI1HNi.png",Alaraby TV (1080p)
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/oFGPG9Y.png",BBC Arabic (720p)
+http://vs-cmaf-pushb-ww-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd
+#EXTINF:-1 group-title="News" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png",Dijlah
+http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png",Dijlah (576p)
+https://ghaasiflu.online/Dijlah/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW Arabic (400p)
+https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 Arabic (576p)
+https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2020/12/%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-170-01.png",Halab Today TV (480p)
+http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/K0MQiNB.png",Mekameleen TV (720p)
+https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png",Nabaa TV
+http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png",Nabaa TV (480p)
+https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://www.newvision.tv/wp-content/uploads/2020/05/Logo.jpg",Newvision
+https://master.starmena-cloud.com/hls/newv.m3u8
+#EXTINF:-1 group-title="News",RT Arabic (720p)
+https://rt-arab-gd.secure2.footprint.net/1104.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/kF7TvcH.png",Sky News Arabia (720p)
+https://stream.skynewsarabia.com/hls/sna.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/6KUtkKz.png",Syrian News Channel (270p)
+http://82.137.248.16:1935/Snews/stream19042021/playlist.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png",TRT Arabi (1080p)
+https://tv-trtarabi.live.trt.com.tr/master.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://www.tvseventeen.com/img/logo.png",TV Seventeen (720p)
+https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="http://www.u-news.net/themes/publication_1/theme_1/_img/logoimg.png",Unews (360p)
+https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/playlist.m3u8
+#EXTINF:-1 group-title="News",Ekhbariyah
+http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1 group-title="MBC",AR_MBC_ACTION
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55218.m3u8
 #EXTINF:-1 group-title="MBC",AR_MBC_BOLLYWOOD
@@ -95,148 +71,6 @@ http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55221.m3u8
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55222.m3u8
 #EXTINF:-1 group-title="MBC",AR_MBC_MAX
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55223.m3u8
-#EXTINF:-1 group-title="ART",ART AFLAM 1
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55242.m3u8
-#EXTINF:-1 group-title="ART",ART Aflam 1
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55243.m3u8
-#EXTINF:-1 group-title="ART",ART Aflam 2
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55245.m3u8
-#EXTINF:-1 group-title="ART",ART Cinema
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55247.m3u8
-#EXTINF:-1 group-title="ART",ART CINEMA HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55249.m3u8
-#EXTINF:-1 group-title="ART",ART Hekayat 1
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55252.m3u8
-#EXTINF:-1 group-title="ART",ART Hekayat 2
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55253.m3u8
-#EXTINF:-1 group-title="ART",ART.Hekayat
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55255.m3u8
-#EXTINF:-1 group-title="ART",ART.Hekayat2
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55256.m3u8
-#EXTINF:-1 group-title="News",BBC.Arabic
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55311.m3u8
-#EXTINF:-1 group-title="beIN",beIN AMC HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55312.m3u8
-#EXTINF:-1 group-title="beIN",beIN BOXOFFICE 3
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55323.m3u8
-#EXTINF:-1 group-title="beIN",beIN DMAX HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55326.m3u8
-#EXTINF:-1 group-title="beIN",beIN DRAMA
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55328.m3u8
-#EXTINF:-1 group-title="beIN",beIN DRAMA HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55330.m3u8
-#EXTINF:-1 group-title="beIN",beIN DREAMWORKS HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55332.m3u8
-#EXTINF:-1 group-title="beIN",beIN DTX
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55334.m3u8
-#EXTINF:-1 group-title="beIN",beIN Fatafeat
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55337.m3u8
-#EXTINF:-1 group-title="beIN",beIN Fox
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55340.m3u8
-#EXTINF:-1 group-title="beIN",beIN FOX MOVIES
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55342.m3u8
-#EXTINF:-1 group-title="beIN",beIN GOURMET
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55346.m3u8
-#EXTINF:-1 group-title="beIN",beIN HGTV HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55348.m3u8
-#EXTINF:-1 group-title="beIN",beIN MOVIES 2
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55352.m3u8
-#EXTINF:-1 group-title="beIN",beIN Movies 3 Drama
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55355.m3u8
-#EXTINF:-1 group-title="beIN",beIN Movies 4 Family
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55359.m3u8
-#EXTINF:-1 group-title="beIN",beIN Movies Action 2+ HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55362.m3u8
-#EXTINF:-1 group-title="beIN",beIN Movies Family 4 HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55365.m3u8
-#EXTINF:-1 group-title="beIN",beIN Movies HD 1 Premiere
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55368.m3u8
-#EXTINF:-1 group-title="beIN",beIN Movies HD 2 Action
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55369.m3u8
-#EXTINF:-1 group-title="beIN",beIN Movies HD 3 Drama
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55370.m3u8
-#EXTINF:-1 group-title="beIN",beIN Movies Premiere 1+ HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55373.m3u8
-#EXTINF:-1 group-title="beIN",beIN Series 1 HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55377.m3u8
-#EXTINF:-1 group-title="beIN",beIN Series 1 HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55378.m3u8
-#EXTINF:-1 group-title="beIN",beIN Series 2 HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55380.m3u8
-#EXTINF:-1 group-title="beIN",beIN Series 2 HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55381.m3u8
-#EXTINF:-1 group-title="beIN",beIN Star MOVIES HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55445.m3u8
-#EXTINF:-1 group-title="beIN",beIN StarWorld HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55446.m3u8
-#EXTINF:-1 group-title="beIN",beIN-BOXOFFICE-1
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55448.m3u8
-#EXTINF:-1 group-title="beIN",beIN-BOXOFFICE-2
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55449.m3u8
-#EXTINF:-1 group-title="beIN",beIN-BOXOFFICE-3
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55450.m3u8
-#EXTINF:-1 group-title="beIN",beIN MOVIES-HD1
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55451.m3u8
-#EXTINF:-1 group-title="beIN",beIN MOVIES-HD2
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55452.m3u8
-#EXTINF:-1 group-title="beIN",beIN MOVIES-HD4
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55454.m3u8
-#EXTINF:-1 group-title="Egypt",CBC
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55524.m3u8
-#EXTINF:-1 group-title="Egypt",CBC.Drama
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55531.m3u8
-#EXTINF:-1 group-title="Egypt",CBC.Extra
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55532.m3u8
-#EXTINF:-1 group-title="Egypt",CBC.Sofra
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55533.m3u8
-#EXTINF:-1 group-title="General",CNBC.arabia
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55560.m3u8
-#EXTINF:-1 group-title="Movies",Comedy-Movies
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55564.m3u8
-#EXTINF:-1 group-title="Movies",Disney-Movies
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55572.m3u8
-#EXTINF:-1 group-title="Egypt",DMC
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55574.m3u8
-#EXTINF:-1 group-title="Egypt",DMC.Drama
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55581.m3u8
-#EXTINF:-1 group-title="Egypt",Dolly.Mosalsalat
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55583.m3u8
-#EXTINF:-1 group-title="News",France24.Arabic
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55696.m3u8
-#EXTINF:-1 group-title="News",FRANCE24.Arabic
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55697.m3u8
-#EXTINF:-1 group-title="General",Funoon
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55699.m3u8
-#EXTINF:-1 group-title="Lebanon",Future
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55701.m3u8
-#EXTINF:-1 group-title="Movies",FX-HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55704.m3u8
-#EXTINF:-1 group-title="Egypt",Apple Alwan
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55719.m3u8
-#EXTINF:-1 group-title="Movies",James Bond سلسلة افلام
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55761.m3u8
-#EXTINF:-1 group-title="General",Jordan
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55768.m3u8
-#EXTINF:-1 group-title="General",Kuwait.TV1
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55815.m3u8
-#EXTINF:-1 group-title="General",Kuwait.TV2
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55816.m3u8
-#EXTINF:-1 group-title="Lebanon",Lana+
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55823.m3u8
-#EXTINF:-1 group-title="Lebanon",LBC
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55826.m3u8
-#EXTINF:-1 group-title="Lebanon",LDC
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55833.m3u8
-#EXTINF:-1 group-title="Movies",M.Cinema
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55877.m3u8
-#EXTINF:-1 group-title="Movies",M.Classic
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55878.m3u8
-#EXTINF:-1 group-title="Egypt",Maspero.Zaman
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55897.m3u8
-#EXTINF:-1 group-title="Movies",MasterPiece-Movies
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55898.m3u8
-#EXTINF:-1 group-title="Music",Mazzika
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55901.m3u8
 #EXTINF:-1 group-title="MBC",MBC 1 HD
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55903.m3u8
 #EXTINF:-1 group-title="MBC",MBC 1 HD
@@ -303,62 +137,246 @@ http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55961.m3u8
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55962.m3u8
 #EXTINF:-1 group-title="MBC",MBC5
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55963.m3u8
-#EXTINF:-1 group-title="Egypt",Al-Mehwar
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55973.m3u8
+#EXTINF:-1 group-title="MBC" tvg-logo="https://i.imgur.com/eKBXOKd.png",MBC (1080p)
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
+#EXTINF:-1 group-title="MBC" tvg-logo="https://i.imgur.com/eKBXOKd.png",MBC (360p)
+https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_5.m3u8
+#EXTINF:-1 group-title="MBC" tvg-logo="https://i.imgur.com/KXuzL1u.png",MBC 2 (1080p)
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
+#EXTINF:-1 group-title="MBC" tvg-logo="https://i.imgur.com/pfF61uH.png",MBC 4 (1080p)
+https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+#EXTINF:-1 group-title="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png",MBC 5 (1080p)
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+#EXTINF:-1 group-title="MBC" tvg-logo="https://i.imgur.com/n3TgfP0.png",MBC Action (1080p)
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
+#EXTINF:-1 group-title="MBC" tvg-logo="https://i.imgur.com/F5ER0we.png",MBC Drama (1080p)
+https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
+#EXTINF:-1 group-title="MBC" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png",MBC Iraq (1080p)
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
+#EXTINF:-1 group-title="MBC" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr.png",MBC Masr 1 (1080p)
+https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
+#EXTINF:-1 group-title="MBC" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr_2.png",MBC Masr 2 (1080p)
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
+#EXTINF:-1 group-title="MBC" tvg-logo="https://i.imgur.com/X6EliFm.png",MBC Max (1080p)
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
+#EXTINF:-1 group-title="MBC" tvg-logo="https://i.imgur.com/F5ER0we.png",MBC Plus Drama (1080p)
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
+#EXTINF:-1 group-title="MBC",MBC1.HD
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55956.m3u8
+#EXTINF:-1 group-title="Rotana",Romance-Movies
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56543.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana Aflam
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56545.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana Cinema
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56548.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana Classic
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56551.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana Clip
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56553.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana Drama
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56555.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana Khalijia
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56560.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana.Aflam
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56569.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana.Cinema.EGY
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56570.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana.Cinema.KSA
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56571.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana.Classic
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56572.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana.Clip
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56573.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana.Khalijiya
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56575.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana.Music
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56576.m3u8
+#EXTINF:-1 group-title="Rotana" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png",Rotana Cinema HD (1080p)
+https://hiplayer.hibridcdn.net/t/rotana-cinema.m3u8
+#EXTINF:-1 group-title="Rotana" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png",Rotana Cinema HD (1080p)
+https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
+#EXTINF:-1 group-title="Rotana" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png",Rotana Cinema HD KSA (1080p)
+https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
+#EXTINF:-1 group-title="Rotana" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png",Rotana Classic HD (1080p)
+https://hiplayer.hibridcdn.net/t/rotana-classical.m3u8
+#EXTINF:-1 group-title="Rotana" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png",Rotana Comedy HD (1080p)
+https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
+#EXTINF:-1 group-title="Rotana" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png",Rotana Drama HD (1080p)
+https://hiplayer.hibridcdn.net/t/rotana-drama.m3u8
+#EXTINF:-1 group-title="Rotana" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png",Rotana Khalijia HD (1080p)
+https://hiplayer.hibridcdn.net/t/rotana-khaleejiya.m3u8
+#EXTINF:-1 group-title="Rotana" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png",Rotana+ (1080p)
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
+#EXTINF:-1 group-title="Rotana",Rotana.Drama
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56574.m3u8
+#EXTINF:-1 group-title="Iraq",Al.Sharqiya.TV
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54995.m3u8
+#EXTINF:-1 group-title="Iraq" tvg-logo="http://alsharqiyatv.info/tv.jpg",Al Sharqiya (450p)
+http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
+#EXTINF:-1 group-title="Iraq" tvg-logo="https://alrasheedmedia.com/wp-content/themes/alrasheedv4/alr-logo.png",Al Rasheed (408p)
+https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
 #EXTINF:-1 group-title="Iraq",UTV
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55976.m3u8
-#EXTINF:-1 group-title="Egypt",Mosalsalat.Tube
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56004.m3u8
-#EXTINF:-1 group-title="Movies",mThe-Movies
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56006.m3u8
-#EXTINF:-1 group-title="Movies",mThe-Movies2
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56007.m3u8
+#EXTINF:-1 group-title="Iraq" tvg-logo="https://babylontv.net/wp-content/themes/babylontv/images/logo.png",Babylon TV
+https://iqlivestream.com/live/babylontv.flv
+#EXTINF:-1 group-title="Iraq" tvg-logo="https://www.zagrosnews.net/sites/default/files/zagros-logo-01_1.png",Zagros (720p)
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+#EXTINF:-1 group-title="Iraq",Anb
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55116.m3u8
+#EXTINF:-1 group-title="UAE" tvg-logo="https://i.imgur.com/WjJ8MHC.png",Dubai One (1080p)
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="UAE",Dubai One (720p)
+https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
+#EXTINF:-1 group-title="UAE" tvg-logo="https://i.imgur.com/7Bx66K7.jpg",Abu Dhabi Drama (1080p)
+https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="UAE",AbuDhabi.Drama
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54799.m3u8
+#EXTINF:-1 group-title="UAE" tvg-logo="https://i.imgur.com/baXbWro.jpg",National Geographic Abu Dhabi (1080p)
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="UAE",AD.Nat.Geo
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54807.m3u8
+#EXTINF:-1 group-title="UAE",AbuDhabi.Emarat
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54800.m3u8
+#EXTINF:-1 group-title="UAE" tvg-logo="https://i.imgur.com/5S2ci8p.png",Al Emarat TV (1080p)
+https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="UAE" tvg-logo="https://i.imgur.com/oExmYqk.jpg",Abu Dhabi TV (1080p)
+https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="UAE",Abudhabi.aloula
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54798.m3u8
+#EXTINF:-1 group-title="UAE" tvg-logo="https://i.imgur.com/dWueFIE.png",Dubai TV (1080p)
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="UAE" tvg-logo="https://i.imgur.com/F5U9qpf.png",Dubai Zaman (576p)
+https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="UAE" tvg-logo="https://i.imgur.com/bF6I3N1.jpg",Sama Dubai (1080p)
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
+#EXTINF:-1 group-title="UAE" tvg-logo="https://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png",Al Dafrah TV (1080p)
+https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
+#EXTINF:-1 group-title="UAE",Noor.Dubai
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56197.m3u8
 #EXTINF:-1 group-title="Lebanon",MTV.Lebanon
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56012.m3u8
-#EXTINF:-1 group-title="Music",Music.Sha3beyat
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56019.m3u8
+#EXTINF:-1 group-title="Lebanon",Aljadeed
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55050.m3u8
+#EXTINF:-1 group-title="Lebanon",Future
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55701.m3u8
+#EXTINF:-1 group-title="Lebanon" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png",Lana HD TV (720p)
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
+#EXTINF:-1 group-title="Lebanon" tvg-logo="https://lanacanal.tv/LanaTVPlus/wp-content/uploads/2019/09/Untitled-1.png",Lana Plus TV (720p)
+https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
+#EXTINF:-1 group-title="Lebanon",Lana+
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55823.m3u8
+#EXTINF:-1 group-title="Lebanon" tvg-logo="https://i.imgur.com/YLcmYCR.png",LBC (1080p)
+https://hiplayer.hibridcdn.net/t/rotana-lbc.m3u8
+#EXTINF:-1 group-title="Lebanon",LBC
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55826.m3u8
+#EXTINF:-1 group-title="Lebanon",LDC
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55833.m3u8
+#EXTINF:-1 group-title="Lebanon",NBN HD (720p)
+https://nbntv.me:8443/nbntv/index.m3u8
+#EXTINF:-1 group-title="Lebanon",NBN
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56109.m3u8
+#EXTINF:-1 group-title="Lebanon",OTV.Lebanon
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56505.m3u8
+#EXTINF:-1 group-title="Lebanon",TL.Lebanon
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56762.m3u8
+#EXTINF:-1 group-title="Syria",Sama.TV
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56604.m3u8
+#EXTINF:-1 group-title="Syria" tvg-logo="https://i.imgur.com/Bg52GiG.png",Sama TV
+http://stream.sama-tv.net:8080/hls/samatv.m3u8
+#EXTINF:-1 group-title="Syria",Syria.Satellite
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56725.m3u8
+#EXTINF:-1 group-title="Syria" tvg-logo="https://i.imgur.com/ajsrKzA.png",Syria Satellite Channel (270p)
+http://82.137.248.16:1935/Sat/stream19042021/playlist.m3u8
+#EXTINF:-1 group-title="Syria" tvg-logo="https://i.imgur.com/rKTE8Qw.png",Syria TV (1080p)
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Syria",Syria.TV
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56726.m3u8
+#EXTINF:-1 group-title="Syria",Syrian.Drama
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56728.m3u8
+#EXTINF:-1 group-title="Syria" tvg-logo="https://i.imgur.com/5EnxvkU.png",Syria Drama (270p)
+http://82.137.248.16:1935/Drama/stream19042021/playlist.m3u8
+#EXTINF:-1 group-title="Syria",Syria.Nour
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56724.m3u8
+#EXTINF:-1 group-title="Syria",Sham.FM
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56672.m3u8
+#EXTINF:-1 group-title="Music",Aghani-Aghani
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54826.m3u8
+#EXTINF:-1 group-title="Music",Mazzika
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55901.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://arabicagroup.tv/images/app1.png",Arabica TV (720p)
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+#EXTINF:-1 group-title="Music",Arabica.TV
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55228.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/GmgibYW.jpg",Wanasah (1080p)
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 #EXTINF:-1 group-title="Music",music1
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56020.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png",Dijlah Tarab (576p)
+https://ghaasiflu.online/tarab/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png",Jawhara FM (720p)
+http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png",MBC FM (1080p)
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://storage.googleapis.com/nogoumfm-eu-web/1/2019/12/logo-nogoum-1.png",Nogoum FM TV (180p)
+https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/6ttWNu0.jpg",Nojoum TV
+http://51.210.199.41/hls/stream.m3u8
+#EXTINF:-1 group-title="Music",Panorama FM (1080p)
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/eR8QSEt.png",Souryana Radio (270p)
+http://82.137.248.16:1935/Souryana/stream19042021/playlist.m3u8
+#EXTINF:-1 group-title="Music",Music.Sha3beyat
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56019.m3u8
+#EXTINF:-1 group-title="Egypt",AL.Sa3aa.Comedy
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54993.m3u8
+#EXTINF:-1 group-title="Egypt",Al.Thanya.Masr
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54998.m3u8
+#EXTINF:-1 group-title="Egypt",ALhayah.ALaan
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55040.m3u8
+#EXTINF:-1 group-title="Egypt",AlHayah2
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55041.m3u8
+#EXTINF:-1 group-title="Egypt",AlHayat.Musalsalat
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55044.m3u8
+#EXTINF:-1 group-title="Egypt",Alhayat1
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55045.m3u8
+#EXTINF:-1 group-title="Egypt",ALMasriya
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55099.m3u8
+#EXTINF:-1 group-title="Egypt",Apple.Comedy
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55121.m3u8
+#EXTINF:-1 group-title="Egypt",Apple.Hekayat
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55122.m3u8
+#EXTINF:-1 group-title="Egypt",Apple.Moslsalat
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55123.m3u8
+#EXTINF:-1 group-title="Egypt",Apple.Today
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55124.m3u8
+#EXTINF:-1 group-title="Egypt",Apple.Cinema
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55131.m3u8
+#EXTINF:-1 group-title="Egypt",CBC
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55524.m3u8
+#EXTINF:-1 group-title="Egypt",CBC.Drama
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55531.m3u8
+#EXTINF:-1 group-title="Egypt",CBC.Extra
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55532.m3u8
+#EXTINF:-1 group-title="Egypt",CBC.Sofra
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55533.m3u8
+#EXTINF:-1 group-title="Egypt",DMC
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55574.m3u8
+#EXTINF:-1 group-title="Egypt",DMC.Drama
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55581.m3u8
+#EXTINF:-1 group-title="Egypt",Dolly.Mosalsalat
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55583.m3u8
+#EXTINF:-1 group-title="Egypt",Apple Alwan
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55719.m3u8
+#EXTINF:-1 group-title="Egypt",Maspero.Zaman
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55897.m3u8
+#EXTINF:-1 group-title="Egypt",Al-Mehwar
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55973.m3u8
+#EXTINF:-1 group-title="Egypt",Mosalsalat.Tube
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56004.m3u8
 #EXTINF:-1 group-title="Egypt",Al-Nahar
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56100.m3u8
 #EXTINF:-1 group-title="Egypt",Nahar.Drama
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56102.m3u8
-#EXTINF:-1 group-title="Lebanon",NBN
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56109.m3u8
-#EXTINF:-1 group-title="Netflix",Netflix Action 1
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56120.m3u8
-#EXTINF:-1 group-title="Netflix",Netflix Action 2
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56121.m3u8
-#EXTINF:-1 group-title="Netflix",Netflix Action 4
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56123.m3u8
-#EXTINF:-1 group-title="Netflix",Netflix Action 5
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56124.m3u8
-#EXTINF:-1 group-title="Netflix",Netflix Action 6
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56125.m3u8
-#EXTINF:-1 group-title="Netflix",Netflix Comedy
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56130.m3u8
-#EXTINF:-1 group-title="Netflix",Netflix Comedy 1
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56131.m3u8
-#EXTINF:-1 group-title="Netflix",Netflix Comedy 2
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56132.m3u8
-#EXTINF:-1 group-title="Netflix",Netflix Comedy 3
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56133.m3u8
-#EXTINF:-1 group-title="Netflix",Netflix Comedy 4
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56134.m3u8
-#EXTINF:-1 group-title="Netflix",Netflix Comedy 5
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56135.m3u8
-#EXTINF:-1 group-title="Netflix",Netflix Comedy 6
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56136.m3u8
-#EXTINF:-1 group-title="Netflix",Netflix Horror
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56140.m3u8
-#EXTINF:-1 group-title="Netflix",Netflix Horror 1
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56141.m3u8
-#EXTINF:-1 group-title="Netflix",Netflix Horror 2
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56142.m3u8
-#EXTINF:-1 group-title="Netflix",Netflix Horror 3
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56143.m3u8
-#EXTINF:-1 group-title="Netflix",Netflix Horror 4
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56144.m3u8
 #EXTINF:-1 group-title="Egypt",Nile Cinema
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56162.m3u8
 #EXTINF:-1 group-title="Egypt",Nile Comedy
@@ -385,22 +403,32 @@ http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56181.m3u8
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56182.m3u8
 #EXTINF:-1 group-title="Egypt",Nile.News
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56183.m3u8
-#EXTINF:-1 group-title="UAE",Noor.Dubai
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56197.m3u8
-#EXTINF:-1 group-title="General",Oman.TV.Cultural
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56218.m3u8
-#EXTINF:-1 group-title="General",Oman.TV.General
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56219.m3u8
-#EXTINF:-1 group-title="General",Oman.TV.Mobashir
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56220.m3u8
 #EXTINF:-1 group-title="Egypt",ON.Drama
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56229.m3u8
 #EXTINF:-1 group-title="Egypt",ON.E
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56230.m3u8
 #EXTINF:-1 group-title="Egypt",ON.Live
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56231.m3u8
-#EXTINF:-1 group-title="News",Orient News
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56234.m3u8
+#EXTINF:-1 group-title="Egypt",Panorama.Drama
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56523.m3u8
+#EXTINF:-1 group-title="Egypt",Panorama.Drama2
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56524.m3u8
+#EXTINF:-1 group-title="Egypt",Panorama.Film
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56525.m3u8
+#EXTINF:-1 group-title="Egypt",Panorama.Food
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56526.m3u8
+#EXTINF:-1 group-title="Egypt",Sada.El.Balad
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56592.m3u8
+#EXTINF:-1 group-title="Egypt",Sada.El.Balad-Drama
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56593.m3u8
+#EXTINF:-1 group-title="Egypt",Sada.El.Balad.2
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56594.m3u8
+#EXTINF:-1 group-title="Egypt",Watan_TV
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56839.m3u8
+#EXTINF:-1 group-title="Egypt" tvg-logo="http://www.watanegypt.tv/design/home/img/f-logo.png",Watan TV (1080p)
+http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
+#EXTINF:-1 group-title="Egypt",Apple.Aflam
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55130.m3u8
 #EXTINF:-1 group-title="OSN",OSN  CINEMA1
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56238.m3u8
 #EXTINF:-1 group-title="OSN",OSN Binge HD
@@ -517,74 +545,83 @@ http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56499.m3u8
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56500.m3u8
 #EXTINF:-1 group-title="OSN",OSN YAHALA HD
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56501.m3u8
-#EXTINF:-1 group-title="Lebanon",OTV.Lebanon
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56505.m3u8
+#EXTINF:-1 group-title="OSN",OSN Musalslat
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56385.m3u8
+#EXTINF:-1 group-title="OSN",OSN Comedy
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56450.m3u8
+#EXTINF:-1 group-title="OSN",OSN Movies-Disney
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56469.m3u8
+#EXTINF:-1 group-title="OSN",OSN Movies-Drama-HD
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56470.m3u8
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55378.m3u8
+#EXTINF:-1 group-title="beIN",beIN Series 2 HD
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55380.m3u8
+#EXTINF:-1 group-title="beIN",beIN Series 2 HD
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55381.m3u8
+#EXTINF:-1 group-title="beIN",beIN Star MOVIES HD
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55445.m3u8
+#EXTINF:-1 group-title="beIN",beIN StarWorld HD
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55446.m3u8
+#EXTINF:-1 group-title="beIN",beIN-BOXOFFICE-1
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55448.m3u8
+#EXTINF:-1 group-title="beIN",beIN-BOXOFFICE-2
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55449.m3u8
+#EXTINF:-1 group-title="beIN",beIN-BOXOFFICE-3
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55450.m3u8
+#EXTINF:-1 group-title="beIN",beIN MOVIES-HD1
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55451.m3u8
+#EXTINF:-1 group-title="beIN",beIN MOVIES-HD2
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55452.m3u8
+#EXTINF:-1 group-title="beIN",beIN MOVIES-HD4
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55454.m3u8
+#EXTINF:-1 group-title="beIN",beIN MOVIES 3
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55354.m3u8
+#EXTINF:-1 group-title="Movies",Action-Movies
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54801.m3u8
+#EXTINF:-1 group-title="Movies",ART AFLAM 1
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55242.m3u8
+#EXTINF:-1 group-title="Movies",ART Aflam 1
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55243.m3u8
+#EXTINF:-1 group-title="Movies",ART Aflam 2
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55245.m3u8
+#EXTINF:-1 group-title="Movies",ART Cinema
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55247.m3u8
+#EXTINF:-1 group-title="Movies",ART CINEMA HD
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55249.m3u8
+#EXTINF:-1 group-title="Movies",ART Hekayat 1
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55252.m3u8
+#EXTINF:-1 group-title="Movies",ART Hekayat 2
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55253.m3u8
+#EXTINF:-1 group-title="Movies",ART.Hekayat
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55255.m3u8
+#EXTINF:-1 group-title="Movies",ART.Hekayat2
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55256.m3u8
+#EXTINF:-1 group-title="Movies",Comedy-Movies
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55564.m3u8
+#EXTINF:-1 group-title="Movies",Disney-Movies
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55572.m3u8
+#EXTINF:-1 group-title="Movies",FX-HD
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55704.m3u8
+#EXTINF:-1 group-title="Movies",James Bond سلسلة افلام
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55761.m3u8
+#EXTINF:-1 group-title="Movies",M.Cinema
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55877.m3u8
+#EXTINF:-1 group-title="Movies",M.Classic
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55878.m3u8
+#EXTINF:-1 group-title="Movies",MasterPiece-Movies
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55898.m3u8
+#EXTINF:-1 group-title="Movies",mThe-Movies
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56006.m3u8
+#EXTINF:-1 group-title="Movies",mThe-Movies2
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56007.m3u8
 #EXTINF:-1 group-title="Movies",oXn Movies
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56507.m3u8
 #EXTINF:-1 group-title="Movies",oXn Movies Action
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56508.m3u8
 #EXTINF:-1 group-title="Movies",oXn Movies First
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56509.m3u8
-#EXTINF:-1 group-title="General",Palestine.Today
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56516.m3u8
-#EXTINF:-1 group-title="Egypt",Panorama.Drama
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56523.m3u8
-#EXTINF:-1 group-title="Egypt",Panorama.Drama2
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56524.m3u8
-#EXTINF:-1 group-title="Egypt",Panorama.Film
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56525.m3u8
-#EXTINF:-1 group-title="Egypt",Panorama.Food
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56526.m3u8
 #EXTINF:-1 group-title="Movies",Premiere-Movies
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56533.m3u8
-#EXTINF:-1 group-title="General",Qatar
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56537.m3u8
-#EXTINF:-1 group-title="Rotana",Romance-Movies
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56543.m3u8
-#EXTINF:-1 group-title="Rotana",Rotana Aflam
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56545.m3u8
-#EXTINF:-1 group-title="Rotana",Rotana Cinema
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56548.m3u8
-#EXTINF:-1 group-title="Rotana",Rotana Classic
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56551.m3u8
-#EXTINF:-1 group-title="Rotana",Rotana Clip
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56553.m3u8
-#EXTINF:-1 group-title="Rotana",Rotana Drama
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56555.m3u8
-#EXTINF:-1 group-title="Rotana",Rotana Khalijia
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56560.m3u8
-#EXTINF:-1 group-title="Rotana",Rotana.Aflam
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56569.m3u8
-#EXTINF:-1 group-title="Rotana",Rotana.Cinema.EGY
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56570.m3u8
-#EXTINF:-1 group-title="Rotana",Rotana.Cinema.KSA
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56571.m3u8
-#EXTINF:-1 group-title="Rotana",Rotana.Classic
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56572.m3u8
-#EXTINF:-1 group-title="Rotana",Rotana.Clip
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56573.m3u8
-#EXTINF:-1 group-title="Rotana",Rotana.Khalijiya
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56575.m3u8
-#EXTINF:-1 group-title="Rotana",Rotana.Music
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56576.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Sa2nBTP.png",Roya
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56577.m3u8
-#EXTINF:-1 group-title="General",Russia.Alyaum
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56586.m3u8
-#EXTINF:-1 group-title="Egypt",Sada.El.Balad
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56592.m3u8
-#EXTINF:-1 group-title="Egypt",Sada.El.Balad-Drama
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56593.m3u8
-#EXTINF:-1 group-title="Egypt",Sada.El.Balad.2
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56594.m3u8
-#EXTINF:-1 group-title="Syria",Sama.TV
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56604.m3u8
-#EXTINF:-1 group-title="News",Saudia.Alikhbaria
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56637.m3u8
-#EXTINF:-1 group-title="General",SBC
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56643.m3u8
-#EXTINF:-1 group-title="Syria",Sham.FM
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56672.m3u8
 #EXTINF:-1 group-title="Movies",STAR MOVIES HD
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56696.m3u8
 #EXTINF:-1 group-title="Movies",STAR WORLD
@@ -595,18 +632,6 @@ http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56698.m3u8
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56699.m3u8
 #EXTINF:-1 group-title="Movies",Star.Cinema2
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56700.m3u8
-#EXTINF:-1 group-title="Syria",Syria.Nour
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56724.m3u8
-#EXTINF:-1 group-title="Syria",Syria.Satellite
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56725.m3u8
-#EXTINF:-1 group-title="Syria",Syria.TV
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56726.m3u8
-#EXTINF:-1 group-title="Syria",Syrian.Drama
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56728.m3u8
-#EXTINF:-1 group-title="Lebanon",TL.Lebanon
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56762.m3u8
-#EXTINF:-1 group-title="Egypt",Watan_TV
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56839.m3u8
 #EXTINF:-1 group-title="Movies",Thriller-Movies
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56757.m3u8
 #EXTINF:-1 group-title="Movies",Charlie Chaplin سلسلة افلام
@@ -627,7 +652,7 @@ http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56767.m3u8
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56770.m3u8
 #EXTINF:-1 group-title="Movies",Twilight سلسلة افلام
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56829.m3u8
-#EXTINF:-1 group-title="Movies",Superman سلسلة افلام
+#EXTINF:-1 group-title="Movies",Supermanسلسلة افلام
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56707.m3u8
 #EXTINF:-1 group-title="Movies",Batman سلسلة افلام
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55304.m3u8
@@ -653,64 +678,50 @@ http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55691.m3u8
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55692.m3u8
 #EXTINF:-1 group-title="Movies",W-Movies
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56834.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/fAkScnI.png",Thikrayat TV (1080p)
+https://iptv--iptv.repl.co/Arabic/Zikrayat/
+#EXTINF:-1 group-title="Movies",Netflix Action 1
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56120.m3u8
+#EXTINF:-1 group-title="Movies",Netflix Action 2
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56121.m3u8
+#EXTINF:-1 group-title="Movies",Netflix Action 4
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56123.m3u8
+#EXTINF:-1 group-title="Movies",Netflix Action 5
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56124.m3u8
+#EXTINF:-1 group-title="Movies",Netflix Action 6
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56125.m3u8
+#EXTINF:-1 group-title="Movies",Netflix Comedy
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56130.m3u8
+#EXTINF:-1 group-title="Movies",Netflix Comedy 1
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56131.m3u8
+#EXTINF:-1 group-title="Movies",Netflix Comedy 2
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56132.m3u8
+#EXTINF:-1 group-title="Movies",Netflix Comedy 3
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56133.m3u8
+#EXTINF:-1 group-title="Movies",Netflix Comedy 4
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56134.m3u8
+#EXTINF:-1 group-title="Movies",Netflix Comedy 5
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56135.m3u8
+#EXTINF:-1 group-title="Movies",Netflix Comedy 6
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56136.m3u8
+#EXTINF:-1 group-title="Movies",Netflix Horror
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56140.m3u8
+#EXTINF:-1 group-title="Movies",Netflix Horror 1
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56141.m3u8
+#EXTINF:-1 group-title="Movies",Netflix Horror 2
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56142.m3u8
+#EXTINF:-1 group-title="Movies",Netflix Horror 3
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56143.m3u8
+#EXTINF:-1 group-title="Movies",Netflix Horror 4
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56144.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg",ABNsat
 http://rtmp1.abnsat.com/hls/arabic.m3u8
-#EXTINF:-1 group-title="UAE" tvg-logo="https://i.imgur.com/7Bx66K7.jpg",Abu Dhabi Drama (1080p)
-https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="UAE" tvg-logo="https://i.imgur.com/oExmYqk.jpg",Abu Dhabi TV (1080p)
-https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/jY1u1zz.png",Al Alam (576p)
-https://live2.alalamtv.net/alalam.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/x9TQYI3.jpg",Al Jazeera Arabic (1080p)
-https://live-hls-web-aja.getaj.net/AJA/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/xx6uOhZ.png",Al Jazeera Mubasher (1080p)
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/7OrfyOx.jpg",Al Arabiya (1080p)
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/rLR5q2x.png",Al Hadath TV (1080p)
-https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://gdb.alhurra.eu/C4BE79AD-607A-4EBA-8449-7CC6E2B12566_w1200_r1_s.jpg",Al Hurra (486p)
-https://mbnhls-lh.akamaihd.net/i/MBN_1@118619/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/GRl09vk.jpg",Al Hurra (720p)
-https://mbningestworld-i.akamaihd.net/hls/live/586122/worldsafe/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/8EmVL2d.jpg",Al Hurra Iraq (720p)
-https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
-#EXTINF:-1 group-title="UAE" tvg-logo="https://aldafrah.ae/wp-content/uploads/2018/02/logo_2x-1.png",Al Dafrah TV (1080p)
-https://dcunilive62-lh.akamaihd.net/i/dclive_1@783592/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/NciF5rO.png",Al Ekhbariya (1080p)
-https://iptv--iptv.repl.co/Arabic/Ekhbariyah/
-#EXTINF:-1 group-title="UAE" tvg-logo="https://i.imgur.com/5S2ci8p.png",Al Emarat TV (1080p)
-https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/9HocMyE.jpg",Al Hayat TV (360p)
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/VCfZB73.png",Al Horreya TV (1080p)
 http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Al Horreya TV
 http://media.smc-host.com:1935/alhorreya.tv/alhorreya.smil/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/dmDzNQO.png",Al Manar (576p)
-https://manar.live/x.smil/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png",Al Mayadeen (576p)
-https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://alrafidain.org/style/assets/imgs/logo.png",Al Rafidain (1024p)
-https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/x5buqzt.jpg",Al Rafidain HQ (1024p)
-http://149.202.79.190:8081/arrafidaintv/publish/playlist.m3u8
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://alrasheedmedia.com/wp-content/themes/alrasheedv4/alr-logo.png",Al Rasheed (408p)
-https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/uQMoKXn.png",Al Rayyan (1080p)
-https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/mVwHGbc.png",Al Rayyan Al Qadeem (1080p)
-https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
-#EXTINF:-1 group-title="Iraq" tvg-logo="http://alsharqiyatv.info/tv.jpg",Al Sharqiya (450p)
-http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/qNi4rwG.jpg",Al Sharqiya News (450p)
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://alyaumtv.net/wp-content/uploads/2019/04/alyaom-1-1_small2.png",Al Yaum TV (720p)
-https://ikomg1.s.llnwi.net/alyaumtv/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/x5buqzt.jpg",Al-Rafidain TV
-http://149.202.79.190:8081/arrafidaintv/publish/chunks.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/LNI1HNi.png",Alaraby TV (1080p)
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i1.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-AU.png",Alkarma TV Australia (1080p)
 https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaau.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i2.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-Family.png",Alkarma TV Family (1080p)
@@ -725,116 +736,14 @@ https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i0.wp.com/en.alkarmatv.com/wp-content/uploads/2020/11/Logo-US-1024x576-1.png",Alkarma TV Youth & English (1080p)
 https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/vkqYIO4.jpg",Amman TV (720p)
-https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://arabicagroup.tv/images/app1.png",Arabica TV (720p)
-http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://asharq.com/asharq-preview-logo.png",Asharq (1280p) [Portrait]
-https://bcliveunivsecure-lh.akamaihd.net/i/VERTICAL_1@301860/master.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://asharq.com/asharq-preview-logo.png",Asharq (1080p)
-https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/index.m3u8
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://babylontv.net/wp-content/themes/babylontv/images/logo.png",Babylon TV
-https://iqlivestream.com/live/babylontv.flv
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/oFGPG9Y.png",BBC Arabic (720p)
-http://vs-cmaf-pushb-ww-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/7aD1yan.jpg",Beity
-http://82.212.74.2:8000/live/7312.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://kreim-storage.fra1.digitaloceanspaces.com/APP%20Logo%20PNG.png",CharityTV (1080p)
 http://185.105.4.236:1935/live/ngrp:livestream_all/live.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/a6QmjRT.png",CNBC Arabiya (720p)
-https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="http://www.ctvchannel.tv/Images/Page/Logo.png",Coptic TV (720p)
 https://5d12bc59c4748.streamlock.net/redirect/ctvchannel.tv/ctv.smil?type=m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="http://www.cycnow.com/wp-content/uploads/2018/08/logo.png",CYC (Christan Youth Channel) (1080p)
 http://media3.smc-host.com:1935/cycnow.com/smil:cyc.smil/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png",Dijlah
-http://91.134.145.75:10001/Dijlah/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png",Dijlah (576p)
-https://ghaasiflu.online/Dijlah/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png",Dijlah Tarab (576p)
-https://ghaasiflu.online/tarab/index.m3u8
-#EXTINF:-1 group-title="UAE",Dubai One (720p)
-https://ch.iptvmate.net/f5d063ba7b6f6a5acbb3dd649ecf38d8.m3u8
-#EXTINF:-1 group-title="UAE" tvg-logo="https://i.imgur.com/WjJ8MHC.png",Dubai One (1080p)
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="UAE" tvg-logo="https://i.imgur.com/dWueFIE.png",Dubai TV (1080p)
-https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="UAE" tvg-logo="https://i.imgur.com/F5U9qpf.png",Dubai Zaman (576p)
-https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW Arabic (400p)
-https://dwstream2-lh.akamaihd.net/i/dwstream2_live@124400/master.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="http://en.elbesharagtv.com/uploads/7/9/0/0/79001918/300x169_3_orig.png",Elbeshara Tv
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="http://elsharq.tv/img/elsharq.png",Elsharq TV (1080p)
-https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 Arabic (576p)
-https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/BVJWUpc.png",Hala London (1080p)
-https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/OzjftEl.png",Hala TV (1080p)
-https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://halabtodaytv.net/wp-content/uploads/2020/12/%D8%AD%D9%84%D8%A8-%D8%A7%D9%84%D9%8A%D9%88%D9%85-170-01.png",Halab Today TV (480p)
-http://streaming.tootvs.com:1935/8010/8010/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/rVYdkth.jpg",Hawas TV
-https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
-#EXTINF:-1 group-title="General",Jasco Events TV
-http://82.212.74.100:8000/live/hls/8131.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png",Jawhara FM (720p)
-http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/siAiiws.jpg",Jordan TV
-https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i5.satexpat.com/cha/kw/khallikBilbait-95x73.gif",KTV Khallik Bilbait (1080p)
-https://hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8
-#EXTINF:-1 group-title="Lebanon" tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png",Lana HD TV (720p)
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
-#EXTINF:-1 group-title="Lebanon" tvg-logo="https://lanacanal.tv/LanaTVPlus/wp-content/uploads/2019/09/Untitled-1.png",Lana Plus TV (720p)
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
-#EXTINF:-1 group-title="Lebanon" tvg-logo="https://i.imgur.com/YLcmYCR.png",LBC (1080p)
-https://hiplayer.hibridcdn.net/t/rotana-lbc.m3u8
-#EXTINF:-1 group-title="MBC" tvg-logo="https://i.imgur.com/eKBXOKd.png",MBC (1080p)
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
-#EXTINF:-1 group-title="MBC" tvg-logo="https://i.imgur.com/eKBXOKd.png",MBC (360p)
-https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index_5.m3u8
-#EXTINF:-1 group-title="MBC" tvg-logo="https://i.imgur.com/KXuzL1u.png",MBC 2 (1080p)
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index.m3u8
-#EXTINF:-1 group-title="MBC" tvg-logo="https://i.imgur.com/pfF61uH.png",MBC 4 (1080p)
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
-#EXTINF:-1 group-title="MBC" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png",MBC 5 (1080p)
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
-#EXTINF:-1 group-title="MBC" tvg-logo="https://i.imgur.com/n3TgfP0.png",MBC Action (1080p)
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index.m3u8
-#EXTINF:-1 group-title="MBC" tvg-logo="https://i.imgur.com/F5ER0we.png",MBC Drama (1080p)
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png",MBC FM (1080p)
-https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
-#EXTINF:-1 group-title="MBC" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png",MBC Iraq (1080p)
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index.m3u8
-#EXTINF:-1 group-title="MBC" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr.png",MBC Masr 1 (1080p)
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index.m3u8
-#EXTINF:-1 group-title="MBC" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr_2.png",MBC Masr 2 (1080p)
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index.m3u8
-#EXTINF:-1 group-title="MBC" tvg-logo="https://i.imgur.com/X6EliFm.png",MBC Max (1080p)
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index.m3u8
-#EXTINF:-1 group-title="MBC" tvg-logo="https://i.imgur.com/F5ER0we.png",MBC Plus Drama (1080p)
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/K0MQiNB.png",Mekameleen TV (720p)
-https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/C5nT9yi.png",MTA 3 (1080p)
-https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png",Nabaa TV
-http://31.14.40.237:1935/live/Nabaa/chunklist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://nabaa.tv/wp-content/uploads/2018/07/nabaa-logo-66x116.png",Nabaa TV (480p)
-https://5dc7d824154d0.streamlock.net/live/Nabaa/playlist.m3u8
-#EXTINF:-1 group-title="UAE" tvg-logo="https://i.imgur.com/baXbWro.jpg",National Geographic Abu Dhabi (1080p)
-https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Lebanon",NBN HD (720p)
-https://nbntv.me:8443/nbntv/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="http://www.newvision.tv/wp-content/uploads/2020/05/Logo.jpg",Newvision
-https://master.starmena-cloud.com/hls/newv.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://storage.googleapis.com/nogoumfm-eu-web/1/2019/12/logo-nogoum-1.png",Nogoum FM TV (180p)
-https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/6ttWNu0.jpg",Nojoum TV
-http://51.210.199.41/hls/stream.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/5VvPLEl.jpg",Nour Al Koddas (406p)
 https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/6yxE1jv.jpg",Nour Al Shabab (406p)
@@ -845,83 +754,83 @@ https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
 https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/QrwZu4W.png",NourSAT (576p)
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Music",Panorama FM (1080p)
-https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Sa2nBTP.png",Ro'ya TV (720p)
-https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
-#EXTINF:-1 group-title="Rotana" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png",Rotana Cinema HD (1080p)
-https://hiplayer.hibridcdn.net/t/rotana-cinema.m3u8
-#EXTINF:-1 group-title="Rotana" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png",Rotana Cinema HD (1080p)
-https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index.m3u8
-#EXTINF:-1 group-title="Rotana" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png",Rotana Cinema HD KSA (1080p)
-https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index.m3u8
-#EXTINF:-1 group-title="Rotana" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/classic.png",Rotana Classic HD (1080p)
-https://hiplayer.hibridcdn.net/t/rotana-classical.m3u8
-#EXTINF:-1 group-title="Rotana" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/comedy.png",Rotana Comedy HD (1080p)
-https://hiplayer.hibridcdn.net/t/rotana-comedy.m3u8
-#EXTINF:-1 group-title="Rotana" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/drama.png",Rotana Drama HD (1080p)
-https://hiplayer.hibridcdn.net/t/rotana-drama.m3u8
-#EXTINF:-1 group-title="Rotana" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/khalijiat.png",Rotana Khalijia HD (1080p)
-https://hiplayer.hibridcdn.net/t/rotana-khaleejiya.m3u8
-#EXTINF:-1 group-title="Rotana" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/hd.png",Rotana+ (1080p)
-https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index.m3u8
-#EXTINF:-1 group-title="News",RT Arabic (720p)
-https://rt-arab-gd.secure2.footprint.net/1104.m3u8
-#EXTINF:-1 group-title="UAE" tvg-logo="https://i.imgur.com/bF6I3N1.jpg",Sama Dubai (1080p)
-https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Syria" tvg-logo="https://i.imgur.com/Bg52GiG.png",Sama TV
-http://stream.sama-tv.net:8080/hls/samatv.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/xvJw3qt.png",SAT-7 ARABIC (720p)
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/kF7TvcH.png",Sky News Arabia (720p)
-https://stream.skynewsarabia.com/hls/sna.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/eR8QSEt.png",Souryana Radio (270p)
-http://82.137.248.16:1935/Souryana/stream19042021/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/PrNVVOu.png",Suboro TV
 https://streaming.viewmedia.tv/viewsatstream12/viewsatstream12.smil/playlist.m3u8
-#EXTINF:-1 group-title="Syria" tvg-logo="https://i.imgur.com/5EnxvkU.png",Syria Drama (270p)
-http://82.137.248.16:1935/Drama/stream19042021/playlist.m3u8
-#EXTINF:-1 group-title="Syria" tvg-logo="https://i.imgur.com/ajsrKzA.png",Syria Satellite Channel (270p)
-http://82.137.248.16:1935/Sat/stream19042021/playlist.m3u8
-#EXTINF:-1 group-title="Syria" tvg-logo="https://i.imgur.com/rKTE8Qw.png",Syria TV (1080p)
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/6KUtkKz.png",Syrian News Channel (270p)
-http://82.137.248.16:1935/Snews/stream19042021/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/6xa14aQ.png",The Kingdom Sat (576p)
 https://bcovlive-a.akamaihd.net/87f7c114719b4646b7c4263c26515cf3/eu-central-1/6008340466001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/fAkScnI.png",Thikrayat TV (1080p)
-https://iptv--iptv.repl.co/Arabic/Zikrayat/
-#EXTINF:-1 group-title="News" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png",TRT Arabi (1080p)
-https://tv-trtarabi.live.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://www.tvseventeen.com/img/logo.png",TV Seventeen (720p)
-https://cdn.tvseventeen.com/test_tv_seventeen/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="http://www.u-news.net/themes/publication_1/theme_1/_img/logoimg.png",Unews (360p)
-https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/GmgibYW.jpg",Wanasah (1080p)
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
-#EXTINF:-1 group-title="Egypt" tvg-logo="http://www.watanegypt.tv/design/home/img/f-logo.png",Watan TV (1080p)
-http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
-#EXTINF:-1 group-title="Iraq" tvg-logo="https://www.zagrosnews.net/sites/default/files/zagros-logo-01_1.png",Zagros (720p)
-https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-#EXTINF:-1 group-title="Egypt",Apple.Aflam
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55130.m3u8
-#EXTINF:-1 group-title="Music",Arabica.TV
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55228.m3u8
-#EXTINF:-1 group-title="beIN",beIN MOVIES 3
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55354.m3u8
-#EXTINF:-1 group-title="MBC",MBC1.HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55956.m3u8
-#EXTINF:-1 group-title="OSN",OSN Musalslat
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56385.m3u8
-#EXTINF:-1 group-title="OSN",OSN Comedy
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56450.m3u8
-#EXTINF:-1 group-title="OSN",OSN Movies-Disney
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56469.m3u8
-#EXTINF:-1 group-title="OSN",OSN Movies-Drama-HD
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56470.m3u8
+#EXTINF:-1 group-title="General",Al.Rayyan
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54992.m3u8
+#EXTINF:-1 group-title="General",AL.yom1
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/54999.m3u8
+#EXTINF:-1 group-title="General",AlfajerTV
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55015.m3u8
+#EXTINF:-1 group-title="General",alhiwar
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55049.m3u8
+#EXTINF:-1 group-title="General",Alqanat9
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55106.m3u8
+#EXTINF:-1 group-title="General",AlQuds
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55107.m3u8
+#EXTINF:-1 group-title="General",Alrai
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55109.m3u8
+#EXTINF:-1 group-title="General",CNBC.arabia
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55560.m3u8
+#EXTINF:-1 group-title="General",Funoon
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55699.m3u8
+#EXTINF:-1 group-title="General",Jordan
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55768.m3u8
+#EXTINF:-1 group-title="General",Kuwait.TV1
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55815.m3u8
+#EXTINF:-1 group-title="General",Kuwait.TV2
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/55816.m3u8
+#EXTINF:-1 group-title="General",Oman.TV.Cultural
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56218.m3u8
+#EXTINF:-1 group-title="General",Oman.TV.General
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56219.m3u8
+#EXTINF:-1 group-title="General",Oman.TV.Mobashir
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56220.m3u8
+#EXTINF:-1 group-title="General",Palestine.Today
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56516.m3u8
+#EXTINF:-1 group-title="General",Qatar
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56537.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Sa2nBTP.png",Roya
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56577.m3u8
+#EXTINF:-1 group-title="General",Russia.Alyaum
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56586.m3u8
+#EXTINF:-1 group-title="General",SBC
+http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56643.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/vkqYIO4.jpg",Amman TV (720p)
+https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/uQMoKXn.png",Al Rayyan (1080p)
+https://svs.itworkscdn.net/alrayyanlive/alrayyan.smil/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/mVwHGbc.png",Al Rayyan Al Qadeem (1080p)
+https://svs.itworkscdn.net/alrayyanqadeemlive/alrayyanqadeem.smil/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://asharq.com/asharq-preview-logo.png",Asharq (1280p) [Portrait]
+https://bcliveunivsecure-lh.akamaihd.net/i/VERTICAL_1@301860/master.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://asharq.com/asharq-preview-logo.png",Asharq (1080p)
+https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/index.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/7aD1yan.jpg",Beity
+http://82.212.74.2:8000/live/7312.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/a6QmjRT.png",CNBC Arabiya (720p)
+https://hiplayer.hibridcdn.net/t/cnbcarabia-live.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="http://elsharq.tv/img/elsharq.png",Elsharq TV (1080p)
+https://mn-nl.mncdn.com/elsharq_live/live/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/BVJWUpc.png",Hala London (1080p)
+https://halaldn.cdn.mangomolo.com/halavd/smil:halavd.stream.smil/chunklist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/OzjftEl.png",Hala TV (1080p)
+https://gstream4.panet.co.il/edge/halaTV/playlist.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/rVYdkth.jpg",Hawas TV
+https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
+#EXTINF:-1 group-title="General",Jasco Events TV
+http://82.212.74.100:8000/live/hls/8131.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/siAiiws.jpg",Jordan TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i5.satexpat.com/cha/kw/khallikBilbait-95x73.gif",KTV Khallik Bilbait (1080p)
+https://hiplayer.hibridcdn.net/t/kwmedia-kwtvkids.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/C5nT9yi.png",MTA 3 (1080p)
+https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
+#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/Sa2nBTP.png",Ro'ya TV (720p)
+https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 #EXTINF:-1 group-title="General",Palestine
 http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56510.m3u8
-#EXTINF:-1 group-title="Rotana",Rotana.Drama
-http://dankstream.com:2082/live/iptvtree/lHKqL4YNIc/56574.m3u8
-#EXTINF:-1 group-title="Iraq",Ekhbariyah
-http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
