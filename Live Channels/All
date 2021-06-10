@@ -83,8 +83,6 @@ https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
 #EXTINF:-1 tvg-id="WeyyakNawaem.ae" tvg-name="Weyyak Nawaem" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://content.weyyak.com/d867c2e9-328d-ea11-831d-02d662556796/poster-image" group-title="",Weyyak Nawaem (720p)
 https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
-#EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/06/RotanaClip.png" group-title="",Rotana Clip
-https://edge-1180-ch-gv.filmon.com/live/2603.high.stream/playlist.m3u8?id=035bca1a71b11fce016d28acd3dbea51cbc96ddfe5b9ed3f8fe3286df6a738d30f925f879e42ded261d0fff8a521347597d87b580f37d4174c0be3ebf497c2f9d6c7de83c493159bc80a5e689cabf77bf99a474a459e97ef09460d8e430c5ba1b5d1a844c355a0b4961b0620401c87db0650eff4946ba4416ce7fb15268e4e142efe085e5c59f895ea65ffa1752ea8376333bf1af86d0090
 #EXTINF:-1 tvg-id="Rotana Cinema ARB" tvg-name="Rotana Cinema ARB" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme/images/channels/cinema.png" group-title="",Rotana Cinema HD (1080p)
 https://hiplayer.hibridcdn.net/t/rotana-cinema.m3u8
 #EXTINF:-1 tvg-id="RotanaCinemaHD.sa" tvg-name="Rotana Cinema HD" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png" group-title="",Rotana Cinema HD (1080p)
