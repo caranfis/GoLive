@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="الكبير أوي",#################### الجزءالاول ####################
+
 #EXTINF:-1 tvg-id="Al Arabiya" tvg-name="Al Arabiya" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="",Al Arabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Al Arabiya Al Hadath" tvg-name="Al Arabiya Al Hadath" tvg-country="AE" tvg-language="Arabic" tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="",Al Hadath TV (1080p)
@@ -201,9 +204,7 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Roya TV ARB" tvg-name="Roya TV ARB" tvg-country="JO" tvg-language="Arabic" tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="",Ro'ya TV (720p)
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 #EXTINF:-1 tvg-id="WatanTV.eg" tvg-name="Watan TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="http://www.watanegypt.tv/design/home/img/f-logo.png" group-title="",Watan TV (1080p)
-http://51.15.246.58:8081/watantv_source2/live/playlist.m3u8
-#EXTINF:-1 tvg-id="WatanTV.eg" tvg-name="Watan TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="http://www.watanegypt.tv/design/home/img/f-logo.png" group-title="",Watan TV
-http://watantv.origin.technostreaming.net:8081/watantv_source2/live/chunks.m3u8
+https://cdg8.edge.technocdn.com/watantv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHayatTV.eg" tvg-name="Al Hayat TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/9HocMyE.jpg" group-title="",Al Hayat TV (720p)
 http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="AlHorreyaTV.us" tvg-name="Al Horreya TV" tvg-country="US" tvg-language="Arabic" tvg-logo="https://i.imgur.com/VCfZB73.png" group-title="",Al Horreya TV (1080p)
