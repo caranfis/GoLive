@@ -10,7 +10,7 @@ https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
 
 #EXTINF:-1 tvg-id="AL Hurra Iraq HD" tvg-name="AL Hurra Iraq HD" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/8EmVL2d.jpg" group-title="",Al Hurra Iraq (720p)
-https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master_2596.m3u8
 
 #EXTINF:-1 tvg-id="AlarabyTV.uk" tvg-name="Alaraby TV" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="",Alaraby TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
