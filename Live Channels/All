@@ -21,23 +21,14 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/stream03/strea
 #EXTINF:-1 tvg-id="AlEkhbariya.sa" tvg-name="Al Ekhbariya" tvg-country="SA" tvg-language="Arabic" tvg-logo="https://i.imgur.com/NciF5rO.png" group-title="قنوات عربية",Al Ekhbariya (1080p)
 https://svs.itworkscdn.net/ekhbariyalive/ikhbariya.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AlIraqiyaAl3ama.iq" tvg-name="Al Iraqiya Al 3ama" tvg-country="IQ" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="قنوات عربية",Al Iraqiya Al 3ama (720p)
-http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AlIraqiyaTVARB.iq" tvg-name="Al Iraqiya TV ARB" tvg-country="IQ" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="قنوات عربية",Al Iraqiya News (720p)
-http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
+#EXTINF:-1 tvg-id="AlIraqiyaAl3ama.iq" tvg-name="Al Iraqiya Al 3ama" tvg-country="IQ" tvg-language="Arabic" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg" group-title="قنوات عربية",Ishtar
+http://ishtar.cdncast.xyz:1935/live/iShtarHD/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Dijlah.iq" tvg-name="Dijlah" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="قنوات عربية",Dijlah (576p)
 https://ghaasiflu.online/Dijlah/index.m3u8
 
-#EXTINF:-1 tvg-id="AlMayadeen.lb" tvg-name="Al Mayadeen" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://media.almayadeen.tv/uploads/archive/web-logo.png" group-title="قنوات عربية",Al Mayadeen (576p)
-https://lmdstrm.cdn.octivid.com/mayadeen-live/smil:mayadeen.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="AlRafidain.iq" tvg-name="Al Rafidain" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://alrafidain.org/style/assets/imgs/logo.png" group-title="قنوات عربية",Al Rafidain (1024p)
 https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="France24Arabic.fr" tvg-name="France 24 Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="قنوات عربية",France 24 Arabic (576p)
-https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 
 #EXTINF:-1 tvg-id="AlSharqiyaNews.iq" tvg-name="Al Sharqiya News" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" group-title="قنوات عربية",Al Sharqiya News (450p)
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
@@ -48,21 +39,9 @@ https://stream.skynewsarabia.com/hls/sna.m3u8
 #EXTINF:-1 tvg-id="TRTArabi.tr" tvg-name="TRT Arabi" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="قنوات عربية",TRT Arabi (1080p)
 https://tv-trtarabi.live.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-id="Unews.lb" tvg-name="Unews" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://www.u-news.net/themes/publication_1/theme_1/_img/logoimg.png" group-title="قنوات عربية",Unews (360p)
-https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/unews/mbr2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="MekameleenTV.eg" tvg-name="Mekameleen TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="https://i.imgur.com/K0MQiNB.png" group-title="قنوات عربية",Mekameleen TV (720p)
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RTArabic.ru" tvg-name="RT Arabic" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="" group-title="قنوات عربية",RT Arabic (720p)
-http://rt-arab.secure.footprint.net:80/1104.m3u8
-
-#EXTINF:-1 tvg-id="Newvision.lb" tvg-name="Newvision" tvg-country="LB" tvg-language="Arabic" tvg-logo="http://www.newvision.tv/wp-content/uploads/2020/05/Logo.jpg" group-title="قنوات عربية",Newvision
-https://master.starmena-cloud.com/hls/newv.m3u8
-
-#EXTINF:-1 tvg-id="AlAlam.ir" tvg-name="Al Alam" tvg-country="IR" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="قنوات عربية",Al Alam (576p)
-https://live2.alalamtv.net/alalam.m3u8
-
+**************************************************************************************************************************************************************
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC" tvg-country="ARAB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="قنوات عربية",MBC 1 KSA (1080p)
 https://shls-mbc1ksa-prod-dub.shahid.net/out/v1/451b666db1fb41c7a4bbecf7b4865107/index.m3u8
 
@@ -321,3 +300,24 @@ http://rtmp1.abnsat.com/hls/arabic.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="Iraq" tvg-language="Arabic" tvg-logo="http://www.riseuptv.tv/wp-content/uploads/2020/08/cropped-Al-Kiama-TV-Logo-2_RedWhite-small.png" group-title="قنوات عربية",Al-Qiama-TV
 https://5d12bc59c4748.streamlock.net/redirect/riseuptv.tv/riseup?type=m3u8
+
+
+########################################################## MAN VS BEE ###################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="MAN VS BEE",الحلقة(01)
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="MAN VS BEE",الحلقة(02)
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="MAN VS BEE",الحلقة(03)
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="MAN VS BEE",الحلقة(04)
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="MAN VS BEE",الحلقة(05)
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="MAN VS BEE",الحلقة(06)
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="MAN VS BEE",الحلقة(07)
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="MAN VS BEE",الحلقة(08)
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="MAN VS BEE",الحلقة(09)
