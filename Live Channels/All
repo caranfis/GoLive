@@ -274,6 +274,18 @@ http://rtmp1.abnsat.com/hls/arabic.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="Iraq" tvg-language="Arabic" tvg-logo="http://www.riseuptv.tv/wp-content/uploads/2020/08/cropped-Al-Kiama-TV-Logo-2_RedWhite-small.png" group-title="قنوات عربية",Al-Qiama-TV
 https://5d12bc59c4748.streamlock.net/redirect/riseuptv.tv/riseup?type=m3u8
 
+#EXTINF:-1 tvg-id="ABNsat.iq" tvg-name="CSAT TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="قنوات عربية",CSAT TV
+http://media.smc-host.com:1935/csat.tv/smil:csat.smil/chunklist_w1421926306_b692000_slar_t64SEQ=.m3u8
+
+#EXTINF:-1 tvg-id="ABNsat.iq" tvg-name="AGHAPY TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="قنوات عربية",AGHAPY TV
+http://46.105.112.176:1935/aghapy.tv/aghapy.smil/chunklist_w1857611052_b1400000_slar_t64SEQ=.m3u8
+
+#EXTINF:-1 tvg-id="ABNsat.iq" tvg-name="AL HAYAT TV" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="قنوات عربية",AL HAYAT TV
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b2128000.m3u8
+
+#EXTINF:-1 tvg-id="ABNsat.iq" tvg-name="MIRACLE CHANNEL EGYPT" tvg-country="EG" tvg-language="Arabic" tvg-logo="" group-title="قنوات عربية",MIRACLE CHANNEL EGYPT
+https://miracle_manager-01.stream.boxigy.com/hls/miracle1_high/index.m3u8
+
 
 ########################################################## MAN VS BEE ###################################################################
 
