@@ -27,9 +27,6 @@ http://ishtar.cdncast.xyz:1935/live/iShtarHD/playlist.m3u8
 #EXTINF:-1 tvg-id="Dijlah.iq" tvg-name="Dijlah" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="قنوات عربية",Dijlah (576p)
 https://ghaasiflu.online/Dijlah/index.m3u8
 
-#EXTINF:-1 tvg-id="Dijlah.iq" tvg-name="Dijlah" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="قنوات عربية",Dijlah Tarab (576p)
-https://ghaasiflu.online/tarab/index.m3u8
-
 #EXTINF:-1 tvg-id="AlRafidain.iq" tvg-name="Al Rafidain" tvg-country="IQ" tvg-language="Arabic" tvg-logo="https://alrafidain.org/style/assets/imgs/logo.png" group-title="قنوات عربية",Al Rafidain (1024p)
 https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/playlist.m3u8
 
