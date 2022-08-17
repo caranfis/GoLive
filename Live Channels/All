@@ -296,37 +296,6 @@ https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunk
 https://miracle_manager-01.stream.boxigy.com/hls/miracle1_high/index.m3u8
 
 
-########################################################## MAN VS BEE ###################################################################
-
-#EXTINF:-1 tvg-id="" tvg-logo"" group-title="MAN VS BEE",الحلقة(01)
-https://archive.org/download/Man.vs.Bee.S01/Man.vs.Bee.S01E01.1080p.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo"" group-title="MAN VS BEE",الحلقة(02)
-https://archive.org/download/Man.vs.Bee.S01/Man.vs.Bee.S01E02.1080p.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo"" group-title="MAN VS BEE",الحلقة(03)
-https://archive.org/download/Man.vs.Bee.S01/Man.vs.Bee.S01E03.1080p.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo"" group-title="MAN VS BEE",الحلقة(04)
-https://archive.org/download/Man.vs.Bee.S01/Man.vs.Bee.S01E04.1080p.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo"" group-title="MAN VS BEE",الحلقة(05)
-https://archive.org/download/Man.vs.Bee.S01/Man.vs.Bee.S01E05.1080p.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo"" group-title="MAN VS BEE",الحلقة(06)
-https://archive.org/download/Man.vs.Bee.S01/Man.vs.Bee.S01E06.1080p.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo"" group-title="MAN VS BEE",الحلقة(07)
-https://archive.org/download/Man.vs.Bee.S01/Man.vs.Bee.S01E07.1080p.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo"" group-title="MAN VS BEE",الحلقة(08)
-https://archive.org/download/Man.vs.Bee.S01/Man.vs.Bee.S01E08.1080p.mp4
-
-#EXTINF:-1 tvg-id="" tvg-logo"" group-title="MAN VS BEE",الحلقة(09)
-https://archive.org/download/Man.vs.Bee.S01/Man.vs.Bee.S01E09.1080p.mp4
-
-#EXTM3U
-
 ##########################################################الكبير أوي الجزء الاول###################################################################
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="الكبير أوي",#################### الجزءالاول ####################
@@ -1519,6 +1488,35 @@ https://archive.org/download/foreign-movies/Johnny%20English%20Reborn%202011.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="افلام اجنبية",(Extraction_2020)
 https://archive.org/download/foreign-movies/Extraction.2020.720p.mp4
+
+########################################################## MAN VS BEE ###################################################################
+
+#EXTINF:-1 tvg-id="" tvg-logo"" group-title="MAN VS BEE",الحلقة(01)
+https://archive.org/download/Man.vs.Bee.S01/Man.vs.Bee.S01E01.1080p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo"" group-title="MAN VS BEE",الحلقة(02)
+https://archive.org/download/Man.vs.Bee.S01/Man.vs.Bee.S01E02.1080p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo"" group-title="MAN VS BEE",الحلقة(03)
+https://archive.org/download/Man.vs.Bee.S01/Man.vs.Bee.S01E03.1080p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo"" group-title="MAN VS BEE",الحلقة(04)
+https://archive.org/download/Man.vs.Bee.S01/Man.vs.Bee.S01E04.1080p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo"" group-title="MAN VS BEE",الحلقة(05)
+https://archive.org/download/Man.vs.Bee.S01/Man.vs.Bee.S01E05.1080p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo"" group-title="MAN VS BEE",الحلقة(06)
+https://archive.org/download/Man.vs.Bee.S01/Man.vs.Bee.S01E06.1080p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo"" group-title="MAN VS BEE",الحلقة(07)
+https://archive.org/download/Man.vs.Bee.S01/Man.vs.Bee.S01E07.1080p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo"" group-title="MAN VS BEE",الحلقة(08)
+https://archive.org/download/Man.vs.Bee.S01/Man.vs.Bee.S01E08.1080p.mp4
+
+#EXTINF:-1 tvg-id="" tvg-logo"" group-title="MAN VS BEE",الحلقة(09)
+https://archive.org/download/Man.vs.Bee.S01/Man.vs.Bee.S01E09.1080p.mp4
 
 ######################################################################### مسرحيات ####################################################################
 
