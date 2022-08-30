@@ -3,7 +3,7 @@
 #EXTINF:-1  tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="قنوات عربية",Al Arabiya (1080p)
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/rLR5q2x.png",Al Hadath TV (1080p)
+#EXTINF:-1  tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="قنوات عربية",Al Hadath TV (1080p)
 https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="قنوات عربية",Al Jazeera Mubasher (1080p)
