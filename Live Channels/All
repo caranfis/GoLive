@@ -1,19 +1,19 @@
 #EXTM3U
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="قنوات عربية",Al Arabiya (1080p)
-https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+https://live.alarabiya.net/alarabiapublish/alarabiya_1080p/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="قنوات عربية",Al Hadath TV (1080p)
-https://live.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
+https://live.alarabiya.net/alarabiapublish/alhadath_1080p/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="قنوات عربية",Al Jazeera Mubasher (1080p)
-https://live-hls-web-ajm.getaj.net/AJM/index.m3u8
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/8EmVL2d.jpg" group-title="قنوات عربية",Al Hurra Iraq (720p)
-https://mbningestworld-i.akamaihd.net/hls/live/644021/iraqworldsafe/master.m3u8
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_HLS/master_2596.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="قنوات عربية",Alaraby TV (1080p)
-https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/oFGPG9Y.png" group-title="قنوات عربية",BBC Arabic (720p)
 http://vs-cmaf-pushb-ww-live.akamaized.net/manifest/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_dash_live_http.mpd
@@ -167,6 +167,9 @@ http://82.212.74.2:8000/live/7312.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/siAiiws.jpg" group-title="قنوات عربية",Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/siAiiws.jpg" group-title="قنوات عربية",Al Jadeed
+https://www.dailymotion.com/video/x7ztkw7
 
 #EXTINF:-1  tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png" group-title="قنوات عربية",Lana HD TV (720p)
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
