@@ -1564,60 +1564,73 @@ https://archive.org/download/Homy_Houn/Homy%20Houn-EP19.mp4
 https://archive.org/download/Homy_Houn/Homy%20Houn-EP20.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (21)
-
+https://archive.org/download/Homy_Houn/Homy%20Houn-EP21.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (22)
-
+https://archive.org/download/Homy_Houn/Homy%20Houn-EP22.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (23)
-
+https://archive.org/download/Homy_Houn/Homy%20Houn-EP23.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (24)
-
+https://archive.org/download/Homy_Houn/Homy%20Houn-EP24.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (25)
-
+https://archive.org/download/Homy_Houn/Homy%20Houn-EP25.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (26)
-
+https://archive.org/download/Homy_Houn/Homy%20Houn-EP26.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (27)
-
+https://archive.org/download/Homy_Houn/Homy%20Houn-EP27.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (28)
-
+https://archive.org/download/Homy_Houn/Homy%20Houn-EP28.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (29)
-
+https://archive.org/download/Homy_Houn/Homy%20Houn-EP29.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (30)
-
+https://archive.org/download/Homy_Houn/Homy%20Houn-EP30.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (31)
-
+https://archive.org/download/Homy_Houn/Homy%20Houn-EP31.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (32)
-
+https://archive.org/download/Homy_Houn/Homy%20Houn-EP32.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (33)
-
+https://archive.org/download/Homy_Houn/Homy%20Houn-EP33.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (34)
-
+https://archive.org/download/Homy_Houn/Homy%20Houn-EP34.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (35)
-
+https://archive.org/download/Homy_Houn/Homy%20Houn-EP35.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (36)
-
+https://archive.org/download/Homy_Houn/Homy%20Houn-EP36.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (37)
-
+https://archive.org/download/Homy_Houn/Homy%20Houn-EP37.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (38)
-
+https://archive.org/download/Homy_Houn/Homy%20Houn-EP38.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (39)
-
+https://archive.org/download/Homy_Houn/Homy%20Houn-EP39.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (40)
+https://archive.org/download/Homy_Houn/Homy%20Houn-EP40.mp4
+
+
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="Group3",Channel 1
+http://example.com/ch1.mp4
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="Group1;Group3",Channel 2
+http://example.com/ch2.mp4
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="Group1;Group2",Channel 3
+http://example.com/ch3.mp4
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="Group1;Group2;Group3",Channel 4
+http://example.com/ch4.mp4
+#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="Group2;Group3",Channel 5
+http://example.com/ch5.mp4
