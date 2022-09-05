@@ -1622,15 +1622,3 @@ https://archive.org/download/Homy_Houn/Homy%20Houn-EP39.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسلسلات",هومي هون - (40)
 https://archive.org/download/Homy_Houn/Homy%20Houn-EP40.mp4
-
-
-#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="Group3",Channel 1
-http://example.com/ch1.mp4
-#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="Group1;Group3",Channel 2
-http://example.com/ch2.mp4
-#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="Group1;Group2",Channel 3
-http://example.com/ch3.mp4
-#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="Group1;Group2;Group3",Channel 4
-http://example.com/ch4.mp4
-#EXTINF:-1 tvg-id="x" tvg-logo="x" group-title="Group2;Group3",Channel 5
-http://example.com/ch5.mp4
