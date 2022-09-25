@@ -207,35 +207,35 @@ https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="قنوات عربية",Ro'ya TV (720p)
 https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/9HocMyE.jpg" group-title="قنوات عربية",Al Hayat TV (720p)
-http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="LogosTV.us" tvg-logo="https://logoschannel.com/images/logo.png" group-title="قنوات عربية",Logos TV Mubasher (1080p)
-https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/VCfZB73.png" group-title="قنوات عربية",Al Horreya TV (1080p)
-http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TheKingdomSat.eg" tvg-logo="https://i.imgur.com/6xa14aQ.png" group-title="قنوات عربية",The Kingdom Sat (576p)
-https://svs.itworkscdn.net/kingdomsatlive/kingdomsat.smil/playlist_dvr.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/5VvPLEl.jpg" group-title="قنوات عربية",Nour Al Koddas (406p)
+#EXTINF:-1  tvg-logo="https://i.imgur.com/5VvPLEl.jpg" group-title="قنوات مسيحية",Nour Al Koddas (406p)
 https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/hiAwky4.jpg" group-title="قنوات عربية",Nour Al Sharq (576p)
+#EXTINF:-1  tvg-logo="https://i.imgur.com/hiAwky4.jpg" group-title="قنوات مسيحية",Nour Al Sharq (576p)
 https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" group-title="قنوات عربية",Nour Mariam (576p)
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" group-title="قنوات مسيحية",Nour Mariam (576p)
 https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/QrwZu4W.png" group-title="قنوات عربية",NourSAT (576p)
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QrwZu4W.png" group-title="قنوات مسيحية",NourSAT (576p)
 https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات عربية",ABNsat
-http://rtmp1.abnsat.com/hls/arabic.m3u8
-
-#EXTINF:-1  tvg-logo="http://www.riseuptv.tv/wp-content/uploads/2020/08/cropped-Al-Kiama-TV-Logo-2_RedWhite-small.png" group-title="قنوات عربية",Al-Qiama-TV
+#EXTINF:-1  tvg-logo="http://www.riseuptv.tv/wp-content/uploads/2020/08/cropped-Al-Kiama-TV-Logo-2_RedWhite-small.png" group-title="قنوات مسيحية",Al-Qiama-TV
 https://5d12bc59c4748.streamlock.net/redirect/riseuptv.tv/riseup?type=m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/9HocMyE.jpg" group-title="قنوات مسيحية",Al Hayat TV (720p)
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/VCfZB73.png" group-title="قنوات مسيحية",Al Horreya TV (1080p)
+http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheKingdomSat.eg" tvg-logo="https://i.imgur.com/6xa14aQ.png" group-title="قنوات مسيحية",The Kingdom Sat (576p)
+https://svs.itworkscdn.net/kingdomsatlive/kingdomsat.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="LogosTV.us" tvg-logo="https://logoschannel.com/images/logo.png" group-title="قنوات مسيحية",Logos TV Mubasher (1080p)
+https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",ABNsat
+http://rtmp1.abnsat.com/hls/arabic.m3u8
 
 
 ##########################################################الكبير أوي الجزء الاول###################################################################
