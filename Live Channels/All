@@ -45,8 +45,20 @@ https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/in
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mbc-2.png?20210330151826" group-title="قنوات عربية",MBC 2
 http://teledunet.com:8080/?getts=http%3A%2F%2Fteledunet.com%3A8080%2Flive%2F2211318816%2F2211318816%2F10090.ts
 
+#EXTINF:-1  tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082010/MBC_4_0.jpg?itok=nO2AstgG" group-title="قنوات عربية",MBC 4
+http://alchacha.com/?protocol=http:&play_ts=http://teledunet.com:8080/live/2211318816/2211318816/10092.ts
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="قنوات عربية",MBC 5 (1080p)
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MBC_Action_TV_Channel_Logo.png/1200px-MBC_Action_TV_Channel_Logo.png" group-title="قنوات عربية",MBC Action
+http://alchacha.com/?protocol=http:&play_ts=http://teledunet.com:8080/live/2211318816/2211318816/10093.ts
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="قنوات عربية",MBC MAX
+http://alchacha.com/?protocol=http:&play_ts=http://teledunet.com:8080/live/2211318816/2211318816/10098.ts
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/MBC_Variety.jpeg/revision/latest/scale-to-width-down/250?cb=20191214071902" group-title="قنوات عربية",MBC Variety
+http://alchacha.com/?protocol=http:&play_ts=http://teledunet.com:8080/live/2211318816/2211318816/50355.ts
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="قنوات عربية",MBC Drama KSA (1080p)
 https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index.m3u8
