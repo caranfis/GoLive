@@ -43,7 +43,7 @@ https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ce/Mbc-2.png?20210330151826" group-title="قنوات عربية",MBC 2
-http://multies.xyz:8000/live/22.,-1.0-,.MBc,,2.MAx.-AcT.,..,.-Visit,-Multies.Net/T3UoJmUHRX/1889.m3u8
+http://teledunet.com:8080/?getts=http%3A%2F%2Fteledunet.com%3A8080%2Flive%2F2211318816%2F2211318816%2F10090.ts
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="قنوات عربية",MBC 5 (1080p)
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
