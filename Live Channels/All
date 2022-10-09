@@ -100,22 +100,22 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/thik
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="قنوات عربية",Arabic Movies 1
-https://youtu.be/i4A1L4xW6Ns
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665329918/ei/npZCY67pKt6i1gLi35mIBQ/ip/92.205.10.243/id/i4A1L4xW6Ns.2/source/yt_live_broadcast/requiressl/yes/tx/24287370/txs/24287370%2C24287371%2C24287372/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/beids/24277541/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAO5-ZsoERI2asOY683kmBxed3lT8kGdrqfX2S838-J_HAiEAojYRa6T86-2yEZfzJZqk9zSyev16KE86DGQRh_VfS9s%3D/file/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="قنوات عربية",Arabic Movies 2
-https://youtu.be/89iVz5VtvVM
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665329895/ei/h5ZCY6W6Ho3px_AP3PiM0AE/ip/92.205.10.243/id/89iVz5VtvVM.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhAP17mxyytKqOQ47cgtqvVFzBHk3IgdsJM4iDV5imQOpkAiEAxnlYoRWDDCCOsdQvCbToC08cGAxCgTPfrmtF1GecPrU%3D/file/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="قنوات عربية",Arabic Movies 3
-https://youtu.be/uiqvy-qLRPo
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665329868/ei/bJZCY_GOApKR1gLb2bLQDQ/ip/92.205.10.243/id/uiqvy-qLRPo.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRgIhALmh16Gg23-LbLY6zhC0t6VCnMSbyk5cGFDY2qCaEavDAiEAlBR4ofGn-qrk6-ZgAt8BE8SiHvghy_TjIay6bt4Y_OA%3D/file/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="قنوات عربية",Arabic Movies 4
-https://youtu.be/_oyNdtGv82A
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665329829/ei/RZZCY9K5E8y31gK1_KzYDw/ip/92.205.10.243/id/_oyNdtGv82A.1/source/yt_live_broadcast/requiressl/yes/tx/24280135/txs/24280135%2C24280136%2C24280137%2C24280138%2C24280139/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgdjkpM_PqP1HSsIlgWfvDpxyCG68oKQQUGaeRNx6KuBYCIEj-7HG3YS2dQXFeGGw5JJajoB7efafs6_JGU-SAoCe-/file/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="قنوات عربية",English Movies 1
-https://youtu.be/k9vE2eMF10o
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665329778/ei/EpZCY-zDC4jy1gLM2rm4AQ/ip/92.205.10.243/id/k9vE2eMF10o.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgCADPHlRYjPBcB1lMKMlh5bycesPl8EV-2Ex12Fe4kewCIQC59I6AMBdYiOGHcKfWUVFZPecHJczEzMf1UCNK7NLWaQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="قنوات عربية",alkaherawalnas
-https://youtu.be/dwqtL2VCcy4
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1665329622/ei/dpVCY9WWHdvB1gKMoquIBA/ip/92.205.10.243/id/dwqtL2VCcy4.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAPPmYU2q1WOZv3GpKlQ0PAbrSkC-8WyNLK_0HAYwzvRaAiBeYgcKrg-zOlkttOUoNmtjODsPMjkU5LLvf5Ib-YGdQQ%3D%3D/file/index.m3u8
 
 #EXTINF:-1  tvg-logo="http://service.mobile.rotanaradio.jo/sites/default/files/studio.png" group-title="قنوات عربية",Rotana Radio Jordan (220p)
 http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
