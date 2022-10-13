@@ -651,10 +651,151 @@ https://5d658d7e9f562.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w184268064
 https://cdn3.wowza.com/1/ejBLZGxwQmwzTDk4/aFBrWEk4/hls/ttl5bbs8/2728/chunklist.m3u8
 
 
-########################################################## BeIN Sports ###################################################################
+########################################################## Sports ###################################################################
 
 #EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN Sports 1 PREMIUM FHD
 http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F778050.ts
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN Sports 1 PREMIUM VIP
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F4751.ts
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN Sports 1 PREMIUM LOCAL
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F795854.ts
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN Sports 1 FR FHD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F51445.ts
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN Sports 2 PREMIUM FHD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F778051.ts
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN Sports 2 PREMIUM VIP
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F4752.ts
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN Sports 2 PREMIUM LOCAL
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F795858.ts
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN Sports 3 PREMIUM FHD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F778052.ts
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN Sports 3 PREMIUM VIP
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F4753.ts
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN Sports 3 PREMIUM LOCAL
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F795859.ts
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",ABU DHABI SPORTS PREMIUM 1
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F101230.ts
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",ABU DHABI SPORTS PREMIUM 2
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F101231.ts
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN Sports 1 FHD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F778053.ts
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN Sports 1 VIP
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F14636.ts
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",
 
 ##########################################################الكبير أوي الجزء الاول###################################################################
 
