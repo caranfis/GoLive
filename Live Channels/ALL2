@@ -650,6 +650,12 @@ https://5d658d7e9f562.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w184268064
 #EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Christ TV
 https://cdn3.wowza.com/1/ejBLZGxwQmwzTDk4/aFBrWEk4/hls/ttl5bbs8/2728/chunklist.m3u8
 
+
+########################################################## BeIN Sports ###################################################################
+
+#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN Sports 1 PREMIUM FHD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F778050.ts
+
 ##########################################################الكبير أوي الجزء الاول###################################################################
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="الكبير أوي",#################### الجزءالاول ####################
