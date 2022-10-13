@@ -66,250 +66,475 @@ http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F11030
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ROTANA CLIP
 http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F1103060177%2F1103060177%2F10108.ts
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ON E
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10170.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ON DRAMA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10171.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALHAYAT EGYPT
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10205.ts
+
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALHAYAT MUSALSALAT
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F50384.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALOULA EGYPT
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1158.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALTHANIYA EGYPT
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F12285.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALMASRIYA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10168.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALNAHAR
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10188.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALNAHAR DRAMA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10189.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DMC
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10179.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DMC DRAMA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10180.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC TV
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10192.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC XTRA NEWS
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F333497.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC DRAMA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10193.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC SOFRA EGYPT
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F792284.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALMEHWAR
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10202.ts
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",NILE NEWS
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",TEN EGYPT
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10201.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",NILE TV INTERNATIONAL
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F101510.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",NILE CINEMA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10186.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",NILE COMEDY
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10182.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",NILE DRAMA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10184.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",SADA ALBALAD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10190.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",PANORAMA FOOD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10206.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",PANORAMA DRAMA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10207.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",PANORAMA DRAMA 2
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10208.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",PANORAMA FILM
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F20208.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALKAHERA W NAS
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10177.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALKAHERA W NAS 2
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1163.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CIMA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10187.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MELODY CLASSIC
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10196.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CINEMA 1
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10176.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CINEMA 2
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10175.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",STAR CINEMA 1
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F333496.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",STAR CINEMA 2
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F333504.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",FREE MUSIC
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1164.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALBAIT BAITAK CINEMA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1165.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",TOKTOK AFLAM
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F50350.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MEKAMELEN
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC EGYPT
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALHAYAT DRAMA EGYPT
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F101541.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALSA3A ALYOUM
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F792268.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALSA3A DRAMA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F792269.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALSA3A CLASSIC
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F792270.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",APPLE CINEMA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F792279.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",APPLE ALWAN
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F792277.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",APPLE HEKAYAT
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F792281.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CINEMA PRO
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F792289.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CINEMA PRO CLASSIC
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DOLLY CINEMA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F792291.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DOLLY MOSALSALAT
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F792293.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALSHARQ TV
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F792307.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALJADEED FHD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1148.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MTV LEBANON FHD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F777868.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",TELE LEBANON
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10012.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OTV HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1909.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",LBCI HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F50706.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",FUTURE TV HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10007.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",NBN
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10006.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",LBC HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10004.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALMAYADEEN HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10002.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ARABICA LEBANON HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1150.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ONE LEBANON HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10010.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",HAWACOM HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10014.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AGHANI
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F333623.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN YAHALA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F33358.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN YAHALA BIL3ARABI
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F33348.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN COMEDY
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1048.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN YAHALA CINEMA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F333480.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN ACTION
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F102256.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN ALYAWM
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F33350.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN MUSALSALAT
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F30364.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN SERIES PRIME
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F333610.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN MOVIES PREMIERE
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F102267.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN STAR MOVIES
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F20330.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN STAR WORLD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F20299.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN MUSIC
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F50299.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN CINEMA 1
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10295.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN CINEMA 2
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1050.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN ART AFLAM 1
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F101514.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN ART AFLAM 2
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F101515.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN ART CINEMA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1051.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN ART HIKAYAT 1
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F101520.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN ART HIKAYAT 2
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F102270.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN SYFY HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1365.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN TLC
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10309.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN LIVING HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1055.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN MEZZE
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1052.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN WWE
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F333609.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN FANN
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F102276.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN NICKELODEON
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F779025.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN DISNEY CHANNEL
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F779029.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN ALSAFWA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F333589.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN NAT GEO WILD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10311.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN ANIMAL PLANET
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1056.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN DISCOVERY HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1054.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN HISTORY
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F101525.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OSN E!
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F779024.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALIRAQIYA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F50383.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALIRAQIYA NEWS
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F3337.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALSHARQIYA IRAQ HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F777524.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALSHARQIYA NEWS IRAQ
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10042.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",HONA BAGHDAD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10159.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",UTV IRAQ
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1212.ts
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALAHED
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AL3AHED
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F777509.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC IRAQ
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F101509.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AFAQ
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10162.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALMAWSILIYA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10156.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",SAMARRA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F50352.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALSUMARIA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10164.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALRASHEED
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10153.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DIJLAH TV
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F101511.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DIJLAH TARAB
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1216.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ISHTAR
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1214.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ZAGROS
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F33394.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALRAFIDAIN
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10151.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",SYRIA TV PLUS
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F798614.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",SYRIA DRAMA HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F14789.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",SAMA SYRIA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10022.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",NOOR SHAM SYRIA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10021.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",SYRIA TV
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F50374.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",LANA SYRIA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10023.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",LANA+ SYRIA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1151.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",SYRIA NEWS TV
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1151.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",SYRIA HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F798618.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALYAUM TV
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F798624.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALALAM SYRIA TV
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F798629.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",BEIN MOVIES PREMIERE
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F102249.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",BEIN MOVIES ACTION HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10084.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",BEIN MOVIES FAMILY HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10085.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",BEIN DRAMA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1040.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",BEIN FOX LIFE
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1023.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",BEIN FOX ACTION
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1025.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",BEIN FATAFEAT
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F33373.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",BEIN GOURMET
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1021.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALEKHBARIYA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10139.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DUBAI
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10126.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ABU DHABI
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10119.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",EMIRATES
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10121.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DUBAI ZAMAN
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F10131.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",SHARJAH TV
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F3338.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AJMAN
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F50348.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",JORDAN TV
+ttp://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F3335.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AMMAN TV
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1240.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ROYA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F3334.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",QATAR HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F798630.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",QATAR 2 HD
+ttp://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F798631.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",QATAR TODAY 1
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F798632.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALJAZEERA DOCUMENTARY HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F798634.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALARABY TV
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F798635.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALJAZEERA HD
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F798636.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALRAYYAN TV
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F798638.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ALRAYYAN ALQADEEM TV
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F798637.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",SHAHID MOVIES
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1058.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",SHAHID COMEDY
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1081.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",SHAHID ARABIC
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1082.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",SHAHID ARABIA
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1083.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",NETFLIX ARABIC 2
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1085.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",NETFLIX ACTION
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1087.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",NETFLIX HORROR
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F1102.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",NETFLIX COMEDY
+http://teledunet.com:8080/?getts=http%3A%2F%2Falchacha.com%3A8080%2Flive%2F3894867006%2F3894867006%2F778849.ts
