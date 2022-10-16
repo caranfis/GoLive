@@ -2,130 +2,130 @@
 
 ########################################################## SPORTS ###################################################################
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 1 PREMIUM FHD
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 1 PREMIUM FHD
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778050.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 1 PREMIUM VIP
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 1 PREMIUM VIP
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/4751.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 1 PREMIUM LOCAL
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 1 PREMIUM LOCAL
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795854.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 1 FR FHD
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 1 FR FHD
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/51445.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 2 PREMIUM FHD
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 2 PREMIUM FHD
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778051.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 2 PREMIUM VIP
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 2 PREMIUM VIP
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/4752.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 2 PREMIUM LOCAL
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 2 PREMIUM LOCAL
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795858.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 3 PREMIUM FHD
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 3 PREMIUM FHD
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778052.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 3 PREMIUM VIP
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 3 PREMIUM VIP
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/4753.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 3 PREMIUM LOCAL
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 3 PREMIUM LOCAL
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795859.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",ABU DHABI SPORTS PREMIUM 1
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",ABU DHABI SPORTS PREMIUM 1
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/101230.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",ABU DHABI SPORTS PREMIUM 2
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",ABU DHABI SPORTS PREMIUM 2
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/101231.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 1 FHD
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 1 FHD
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778053.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 1 VIP
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 1 VIP
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/14636.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 1 LOCAL
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 1 LOCAL
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795860.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 2 FHD
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 2 FHD
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778054.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 2 VIP
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 2 VIP
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/47520.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 2 LOCAL
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 2 LOCAL
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795861.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 3 FHD
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 3 FHD
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778055.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 3 VIP
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 3 VIP
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/47530.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 3 LOCAL
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 3 LOCAL
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795862.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 4 FHD
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 4 FHD
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778056.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 4 VIP
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 4 VIP
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/47540.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 4 LOCAL
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 4 LOCAL
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795863.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 5 FHD
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 5 FHD
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778057.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 5 VIP
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 5 VIP
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/14837.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 5 LOCAL
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 5 LOCAL
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795864.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 6 FHD
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 6 FHD
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778058.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 6 VIP
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 6 VIP
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/14838.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 6 LOCAL
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 6 LOCAL
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795865.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 7 FHD
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 7 FHD
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778059.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 7 VIP
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 7 VIP
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/14839.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS 7 LOCAL
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 7 LOCAL
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795866.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS NBA
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS NBA
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799052.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS AFC
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS AFC
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795855.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS AFC 1
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS AFC 1
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795850.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS AFC 2
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS AFC 2
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795851.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS AFC 3
+#EXTINF:-1  tvg-logo="" group-title="SPORTSSPORTS",BeIN SPORTS AFC 3
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795852.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS NEWS
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS NEWS
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/1001.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS GLOBAL
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS GLOBAL
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/475351.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS XTRA 1 VIP
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS XTRA 1 VIP
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/777547.ts
 
-#EXTINF:-1  tvg-logo="" group-title="BeIN Sports",BeIN SPORTS XTRA 2 VIP
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS XTRA 2 VIP
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/777546.ts
 
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS MAX 1 VIP
