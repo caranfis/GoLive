@@ -2,6 +2,8 @@
 
 ########################################################## SPORTS ###################################################################
 
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",################################# WORLD CUP ###############################################
+
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 1 PREMIUM FHD
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778050.ts
 
@@ -224,7 +226,7 @@ http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/221131
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",PREMIER SPORTS UK 2
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799054.ts
 
-
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",################################# SPORTS SD ###############################################
 
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 1 PREMIUM SD
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799021.ts
@@ -257,7 +259,7 @@ http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/221131
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799030.ts
 
 
-
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",################################# SPORTS FRANCE ###############################################
 
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 1 FR FHD
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799055.ts
@@ -291,3 +293,35 @@ http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/221131
 
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",C+ SPORTS
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/1294.ts
+
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",################################# UK VIP SPORTS ###############################################
+
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SKY SPORTS MAIN EVENTS HD
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799035.ts
+
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799036.ts
+
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SKY SPORTS MIX HD
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799037.ts
+
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SKY SPORTS ARENA HD
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799038.ts
+
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",SKY SPORTS FOOTBALL HD
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799039.ts
+
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",LA LIGA TV HD
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799040.ts
+
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BT SPORT 1 HD
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799041.ts
+
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BT SPORT 2 HD
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799042.ts
+
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BT SPORT 3 HD
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799043.ts
+
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BT SPORT ESPN
+http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799044.ts
