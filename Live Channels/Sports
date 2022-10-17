@@ -115,7 +115,7 @@ http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/221131
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS AFC 2
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795851.ts
 
-#EXTINF:-1  tvg-logo="" group-title="SPORTSSPORTS",BeIN SPORTS AFC 3
+#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS AFC 3
 http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795852.ts
 
 #EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS NEWS
