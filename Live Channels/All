@@ -187,10 +187,12 @@ https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3
 https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="قنوات عربية",Syria TV
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/playlist.m3u8
+https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="قنوات عربية",Ro'ya TV
-https://weyyak-live.akamaized.net/weyyak_roya/index.m3u8
+https://weyyak-live.akamaized.net/weyyak_roya/tracks-v1a1/mono.m3u8
+
+
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/5VvPLEl.jpg" group-title="قنوات مسيحية",Nour Al Koddas
 https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
