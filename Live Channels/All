@@ -40,16 +40,16 @@ https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/index_1.m3u8
 https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index_1.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/MBC_2_HD_logo.png" group-title="قنوات عربية",MBC 2 HD
-http://venomtt.com:8000/kdcxxD1U/543545/27514
+http://free.one24tv.com:80/42551670753758/42551670753758/95
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 4 HD
+http://free.one24tv.com:80/42551670753758/42551670753758/97
 
 #EXTINF:-1  tvg-logo="https://res.9appsinstall.com/group3/M00/35/2D/4pMEAFrabp2AZa1CAAAwkaW4VvY622.png?x-oss-process=style/mq200" group-title="قنوات عربية",MBC Action HD
-http://venomtt.com:8000/kdcxxD1U/543545/31251
-
-#EXTINF:-1  tvg-logo="https://res.9appsinstall.com/group3/M00/35/2D/4pMEAFrabp2AZa1CAAAwkaW4VvY622.png?x-oss-process=style/mq200" group-title="قنوات عربية",MBC Action HD
-http://venomtt.com:8000/kdcxxD1U/543545/27511
+http://free.one24tv.com:80/42551670753758/42551670753758/9606
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="قنوات عربية",MBC MAX
-http://venomtt.com:8000/kdcxxD1U/543545/27506
+
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="قنوات عربية",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
