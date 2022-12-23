@@ -39,11 +39,14 @@ https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/index_1.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="قنوات عربية",MBC 1 USA
 https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index_1.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/MBC_2_HD_logo.png" group-title="قنوات عربية",MBC 2 HD
-http://free.one24tv.com:80/42551670753758/42551670753758/95
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/MBC_2_HD_logo.png" group-title="قنوات عربية",MBC 2
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/651.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 4 HD
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 4 HD
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/2187.ts
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="قنوات عربية",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
@@ -69,12 +72,11 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 #EXTINF:-1  tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="قنوات عربية",MBC Plus Drama
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
-
 #EXTINF:-1  tvg-logo="https://res.9appsinstall.com/group3/M00/35/2D/4pMEAFrabp2AZa1CAAAwkaW4VvY622.png?x-oss-process=style/mq200" group-title="قنوات عربية",MBC Action HD
-
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/2191.ts
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="قنوات عربية",MBC MAX
-
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/2192.ts
 
 #EXTINF:-1  tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png" group-title="قنوات عربية",Rotana Cinema HD
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
