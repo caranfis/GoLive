@@ -109,30 +109,118 @@ http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/thik
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC
-
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/384.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC Drama
-
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC Extra
-
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/382.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC Sofra
-
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/383.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DMC
-
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/392.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DMC Drama
-
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/391.ts
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CIMA
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/390.ts
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Maspero Zaman
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/433.ts
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile Cinema
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/441.ts
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile Comedy
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/442.ts
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile Family
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/445.ts
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile Life
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/446.ts
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile TV
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/448.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ON-DRAMA
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/449.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ON E
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/450.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",QUEEN AFLAM
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/456.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",QUEEN  DRAMA
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/458.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Panorama Drama
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/463.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Panorama Drama 2
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/462.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Panorama Film
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/464.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Panorama Food
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/465.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Sada El Balad Drama
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/478.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Sada El Balad 2
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/479.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Sada El Balad
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/480.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",TEN TV
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/482.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Mix Bel Araby
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/7043.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Oscar TV
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/8716.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AL Shams
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/17822.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",etc
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/17823.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",FUTURE
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/611.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Al JADEED
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10288.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",LBC
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10289.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",LBC INT
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10290.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MTV
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10294.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",NBN
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/622.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ONE
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/623.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OTV
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10295.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",TELE LIBAN
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/625.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",LBC 2
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/12004.ts
 
 #EXTINF:-1  tvg-logo="http://service.mobile.rotanaradio.jo/sites/default/files/studio.png" group-title="قنوات عربية",Rotana Radio Jordan
 http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
@@ -218,14 +306,14 @@ https://www.dailymotion.com/video/x7ztkw7
 #EXTINF:-1  tvg-logo="https://i.imgur.com/5sZr5rw.png" group-title="قنوات عربية",OTV
 http://62.182.82.104/OTV/index.m3u8?token=test
 
-#EXTINF:-1  tvg-logo="https://lanacanal.tv/lana/wp-content/uploads/2020/10/logo1.png" group-title="قنوات عربية",Lana HD TV
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc/master22-vod.m3u8
-
-#EXTINF:-1  tvg-logo="https://lanacanal.tv/LanaTVPlus/wp-content/uploads/2019/09/Untitled-1.png" group-title="قنوات عربية",Lana Plus TV
-https://eitc.secure2.footprint.net/egress/chandler/emirates/eitc2/m3u8/sdi2-720p.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="قنوات عربية",Syria TV
-https://svs.itworkscdn.net/syriatvlive/syriatv.smil/syriatv_chunks.m3u8
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/932.ts
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="قنوات عربية",Syria Drama
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/934.ts
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",SAMA TV
+http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/939.ts
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="قنوات عربية",Ro'ya TV
 https://weyyak-live.akamaized.net/weyyak_roya/tracks-v1a1/mono.m3u8
