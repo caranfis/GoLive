@@ -1,134 +1,2203 @@
-#EXTINF:-1,BeIN SPORTS 1 Premium 4K
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1126.ts
-#EXTINF:-1,BeIN SPORTS 2 Premium  4K
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1127.ts
-#EXTINF:-1,BeIN SPORTS 3 Premium  4K
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1128.ts
-#EXTINF:-1,BeIN SPORTS 1 4K
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1129.ts
-#EXTINF:-1,BeIN SPORTS 2 4K
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1130.ts
-#EXTINF:-1,BeIN SPORTS 3 4K
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1131.ts
-#EXTINF:-1,BeIN SPORTS 4 4K
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1132.ts
-#EXTINF:-1,BeIN SPORTS 5 4K
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1133.ts
-#EXTINF:-1,BeIN SPORTS 6 4K
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1134.ts
-#EXTINF:-1,BeIN SPORTS 7 4K
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1135.ts
-#EXTINF:-1,BeIN SPORTS 1 EN 4K
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1136.ts
-#EXTINF:-1,BeIN SPORTS 2 EN 4K
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1137.ts
-#EXTINF:-1,BeIN SPORTS 3 EN 4K
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1138.ts
-#EXTINF:-1,BeIN Sports News 4K
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1125.ts
-#EXTINF:-1,beIN Sport EXTRA 1 4K
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1142.ts
-#EXTINF:-1,beIN Sport EXTRA 2 4K
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/1143.ts
-#EXTINF:-1,AL KASS EXTRA 1 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/13382.ts
-#EXTINF:-1,AL KASS EXTRA 2 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/13383.ts
-#EXTINF:-1,AD Sport 1 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/839.ts
-#EXTINF:-1,AD Sport 2 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/840.ts
-#EXTINF:-1,AR: Al Jazeera Documentary FHD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/844.ts
-#EXTINF:-1,BH- Bahrain Sports 1 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/845.ts
-#EXTINF:-1,BH- Bahrain Sports 2 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/846.ts
-#EXTINF:-1,SP- WWE HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/847.ts
-#EXTINF:-1,SPORT- Abu Dhabi Sports  2 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/848.ts
-#EXTINF:-1,SPORT- Abu Dhabi Sports 1 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/849.ts
-#EXTINF:-1,SPORT- Dubai Sport 1 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/854.ts
-#EXTINF:-1,SPORT- Dubai Sport 2 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/855.ts
-#EXTINF:-1,SPORT- Dubai Sport 3 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/856.ts
-#EXTINF:-1,SPORT- Jordan Sport TV
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/857.ts
-#EXTINF:-1,SPORT- KSA Sport 1 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/858.ts
-#EXTINF:-1,SPORT- KSA Sport 2 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/859.ts
-#EXTINF:-1,SPORT- KSA Sport 3 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/860.ts
-#EXTINF:-1,SPORT- KSA Sport 4 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/861.ts
-#EXTINF:-1,SPORT- Libya Sport TV
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/862.ts
-#EXTINF:-1,SPORT- On Sport 2
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/863.ts
-#EXTINF:-1,SPORT- ON Sport HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/864.ts
-#EXTINF:-1,Sport: Sharjah Sport HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/867.ts
-#EXTINF:-1,Sport:ALL Sports
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/868.ts
-#EXTINF:-1,SSC 2 FHD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/870.ts
-#EXTINF:-1,SSC1 FHD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/871.ts
-#EXTINF:-1,SSC3 FHD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/872.ts
-#EXTINF:-1,SSC4 FHD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/873.ts
-#EXTINF:-1,SSC5 FHD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/874.ts
-#EXTINF:-1,STARZPLAY SPORT 1 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/764.ts
-#EXTINF:-1,STARZPLAY SPORT 2 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/765.ts
-#EXTINF:-1,AD SPORT ASIA 1 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/766.ts
-#EXTINF:-1,AD SPORT ASIA 2 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/767.ts
-#EXTINF:-1,AD SPORT PREMUIM 1  4K
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/768.ts
-#EXTINF:-1,AD SPORT PREMUIM 2 4K
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/769.ts
-#EXTINF:-1,STARZPLAY SPORTS
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/770.ts
-#EXTINF:-1,STARZPLAY CricLife 2 FHD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/771.ts
-#EXTINF:-1,STARZPLAY YAS SPORT FHD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/772.ts
-#EXTINF:-1,STARZPLAY GOLF TV FHD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/773.ts
-#EXTINF:-1,STARZPLAY CRICLIFE 1 FHD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/774.ts
-#EXTINF:-1,STARZPLAY PREMIER SPORT FHD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/775.ts
-#EXTINF:-1,STARZPLAY STAR ASIANET 4K
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/776.ts
-#EXTINF:-1,STARZPLAY ASIANET MOVIES
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/777.ts
-#EXTINF:-1,STARZPLAY STAR GOLD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/778.ts
-#EXTINF:-1,STARZPLAY STAR VIJAY
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/779.ts
-#EXTINF:-1,STARZPLAY STAR PLUS
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/780.ts
-#EXTINF:-1,Tr- Bein Sport 2 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/701.ts
-#EXTINF:-1,TR- beIN Sports 1 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/702.ts
-#EXTINF:-1,TR- beIN Sports 3 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/704.ts
-#EXTINF:-1,TR- beIN Sports 4 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/705.ts
-#EXTINF:-1,TR- beIN Sports Max 2 HD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/707.ts
-#EXTINF:-1,TR: S Sport 2 FHD
-http://ourtv.live:8080/live/MediastarTV/MediastarTV/760.ts
+#EXTM3U
+#EXTINF:-1,beIN Sports Global
+http://mjidiptv.com:1997/asem/1234567890/9626
+#EXTINF:-1,beIN SPORTS NEWS
+http://mjidiptv.com:1997/asem/1234567890/9627
+#EXTINF:-1,beIN SPORTS MAX 1 FHD
+http://mjidiptv.com:1997/asem/1234567890/92410
+#EXTINF:-1,beIN SPORTS MAX 1 HD
+http://mjidiptv.com:1997/asem/1234567890/92409
+#EXTINF:-1,beIN SPORTS MAX 1 SD
+http://mjidiptv.com:1997/asem/1234567890/92408
+#EXTINF:-1,beIN SPORTS MAX 2 FHD
+http://mjidiptv.com:1997/asem/1234567890/92407
+#EXTINF:-1,beIN SPORTS MAX 2 HD
+http://mjidiptv.com:1997/asem/1234567890/92406
+#EXTINF:-1,beIN SPORTS MAX 2 SD
+http://mjidiptv.com:1997/asem/1234567890/92405
+#EXTINF:-1,beIN SPORTS MAX 3 FHD
+http://mjidiptv.com:1997/asem/1234567890/92404
+#EXTINF:-1,beIN SPORTS MAX 3 HD
+http://mjidiptv.com:1997/asem/1234567890/92403
+#EXTINF:-1,beIN SPORTS MAX 3 SD
+http://mjidiptv.com:1997/asem/1234567890/92402
+#EXTINF:-1,beIN SPORTS MAX 4 FHD
+http://mjidiptv.com:1997/asem/1234567890/92401
+#EXTINF:-1,beIN SPORTS MAX 4 HD
+http://mjidiptv.com:1997/asem/1234567890/92400
+#EXTINF:-1,beIN SPORTS MAX 4 SD
+http://mjidiptv.com:1997/asem/1234567890/92399
+#EXTINF:-1,beIN SPORTS MAX 1 4K
+http://mjidiptv.com:1997/asem/1234567890/92414
+#EXTINF:-1,beIN SPORTS MAX 2 4K
+http://mjidiptv.com:1997/asem/1234567890/92413
+#EXTINF:-1,beIN SPORTS MAX 3 4K
+http://mjidiptv.com:1997/asem/1234567890/92412
+#EXTINF:-1,beIN SPORTS MAX 4 4K
+http://mjidiptv.com:1997/asem/1234567890/92411
+#EXTINF:-1,beIN SPORTS MAX 5 FHD
+http://mjidiptv.com:1997/asem/1234567890/92398
+#EXTINF:-1,beIN SPORTS MAX 6 FHD
+http://mjidiptv.com:1997/asem/1234567890/92396
+#EXTINF:-1,beIN SPORTS 1 FHD
+http://mjidiptv.com:1997/asem/1234567890/9674
+#EXTINF:-1,beIN SPORTS 1HD
+http://mjidiptv.com:1997/asem/1234567890/9673
+#EXTINF:-1,beIN SPORTS 1 SD
+http://mjidiptv.com:1997/asem/1234567890/9672
+#EXTINF:-1,beIN SPORTS 2 FHD
+http://mjidiptv.com:1997/asem/1234567890/9670
+#EXTINF:-1,beIN SPORTS 2HD
+http://mjidiptv.com:1997/asem/1234567890/9669
+#EXTINF:-1,beIN SPORTS 2 SD
+http://mjidiptv.com:1997/asem/1234567890/47544
+#EXTINF:-1,beIN SPORTS 3 FHD
+http://mjidiptv.com:1997/asem/1234567890/9666
+#EXTINF:-1,beIN SPORTS 3HD
+http://mjidiptv.com:1997/asem/1234567890/9665
+#EXTINF:-1,beIN SPORTS 3 SD
+http://mjidiptv.com:1997/asem/1234567890/9664
+#EXTINF:-1,beIN SPORTS 4 FHD
+http://mjidiptv.com:1997/asem/1234567890/9662
+#EXTINF:-1,beIN SPORTS 4HD
+http://mjidiptv.com:1997/asem/1234567890/9661
+#EXTINF:-1,beIN SPORTS 4 SD
+http://mjidiptv.com:1997/asem/1234567890/9660
+#EXTINF:-1,beIN SPORTS 5 FHD
+http://mjidiptv.com:1997/asem/1234567890/9658
+#EXTINF:-1,beIN SPORTS 5HD
+http://mjidiptv.com:1997/asem/1234567890/9657
+#EXTINF:-1,beIN SPORTS 5 SD
+http://mjidiptv.com:1997/asem/1234567890/9656
+#EXTINF:-1,beIN SPORTS 6 FHD
+http://mjidiptv.com:1997/asem/1234567890/9654
+#EXTINF:-1,beIN SPORTS 6HD
+http://mjidiptv.com:1997/asem/1234567890/9653
+#EXTINF:-1,beIN SPORTS 6 SD
+http://mjidiptv.com:1997/asem/1234567890/9652
+#EXTINF:-1,beIN SPORTS 7 FHD
+http://mjidiptv.com:1997/asem/1234567890/9650
+#EXTINF:-1,beIN SPORTS 7HD
+http://mjidiptv.com:1997/asem/1234567890/9649
+#EXTINF:-1,beIN SPORTS 7 SD
+http://mjidiptv.com:1997/asem/1234567890/9648
+#EXTINF:-1,beIN SPORTS PREMIUM 1 FHD
+http://mjidiptv.com:1997/asem/1234567890/9646
+#EXTINF:-1,beIN SPORTS PREMIUM 1 HD
+http://mjidiptv.com:1997/asem/1234567890/9645
+#EXTINF:-1,beIN SPORTS PREMIUM 1 SD
+http://mjidiptv.com:1997/asem/1234567890/9644
+#EXTINF:-1,beIN SPORTS PREMIUM 2 FHD
+http://mjidiptv.com:1997/asem/1234567890/9642
+#EXTINF:-1,beIN SPORTS PREMIUM 2 HD
+http://mjidiptv.com:1997/asem/1234567890/9641
+#EXTINF:-1,beIN SPORTS PREMIUM 2 SD
+http://mjidiptv.com:1997/asem/1234567890/9640
+#EXTINF:-1,beIN SPORTS PREMIUM 3 FHD
+http://mjidiptv.com:1997/asem/1234567890/9639
+#EXTINF:-1,beIN SPORTS PREMIUM 3 HD
+http://mjidiptv.com:1997/asem/1234567890/9638
+#EXTINF:-1,beIN SPORTS PREMIUM 3 SD
+http://mjidiptv.com:1997/asem/1234567890/9637
+#EXTINF:-1,beIN SPORTS XTRA 1 HD
+http://mjidiptv.com:1997/asem/1234567890/91306
+#EXTINF:-1,beIN SPORTS XTRA 1 SD
+http://mjidiptv.com:1997/asem/1234567890/91307
+#EXTINF:-1,beIN SPORTS XTRA 2 HD
+http://mjidiptv.com:1997/asem/1234567890/91304
+#EXTINF:-1,beIN SPORTS XTRA 2 SD
+http://mjidiptv.com:1997/asem/1234567890/91305
+#EXTINF:-1,beIN SPORTS AFC HD
+http://mjidiptv.com:1997/asem/1234567890/95938
+#EXTINF:-1,beIN SPORTS AFC FHD
+http://mjidiptv.com:1997/asem/1234567890/95937
+#EXTINF:-1,BEIN SPORTS AFC hevc
+http://mjidiptv.com:1997/asem/1234567890/95936
+#EXTINF:-1,beIN SPORTS AFC 1 HD
+http://mjidiptv.com:1997/asem/1234567890/95935
+#EXTINF:-1,beIN SPORTS AFC 1 FHD
+http://mjidiptv.com:1997/asem/1234567890/95934
+#EXTINF:-1,beIN SPORTS AFC 1 hevc
+http://mjidiptv.com:1997/asem/1234567890/95933
+#EXTINF:-1,beIN SPORTS AFC 2 HD
+http://mjidiptv.com:1997/asem/1234567890/95932
+#EXTINF:-1,beIN SPORTS AFC 2 FHD
+http://mjidiptv.com:1997/asem/1234567890/95931
+#EXTINF:-1,beIN SPORTS AFC 2 hevc
+http://mjidiptv.com:1997/asem/1234567890/95930
+#EXTINF:-1,beIN SPORTS AFC 3 FHD
+http://mjidiptv.com:1997/asem/1234567890/95929
+#EXTINF:-1,beIN SPORTS AFC 3 hevc
+http://mjidiptv.com:1997/asem/1234567890/95928
+#EXTINF:-1,beIN SPORTS ENGLISH 1 FHD
+http://mjidiptv.com:1997/asem/1234567890/69302
+#EXTINF:-1,beIN SPORTS ENGLISH 2 FHD
+http://mjidiptv.com:1997/asem/1234567890/9635
+#EXTINF:-1,beIN SPORTS ENGLISH 3 FHD
+http://mjidiptv.com:1997/asem/1234567890/9634
+#EXTINF:-1,beIN SPORTS FRANCAIS 1 FHD
+http://mjidiptv.com:1997/asem/1234567890/69301
+#EXTINF:-1,beIN SPORTS FRANCAIS 2 FHD
+http://mjidiptv.com:1997/asem/1234567890/9632
+#EXTINF:-1,beIN SPORTS FRANCAIS 3 FHD
+http://mjidiptv.com:1997/asem/1234567890/9631
+#EXTINF:-1,beIN SPORTS 1 (UHD)
+http://mjidiptv.com:1997/asem/1234567890/9671
+#EXTINF:-1,beIN SPORTS 2 (UHD)
+http://mjidiptv.com:1997/asem/1234567890/9667
+#EXTINF:-1,beIN SPORTS 3 (UHD)
+http://mjidiptv.com:1997/asem/1234567890/9663
+#EXTINF:-1,beIN SPORTS 4 (UHD)
+http://mjidiptv.com:1997/asem/1234567890/9659
+#EXTINF:-1,beIN SPORTS 5 (UHD)
+http://mjidiptv.com:1997/asem/1234567890/9655
+#EXTINF:-1,beIN SPORTS 6 (UHD)
+http://mjidiptv.com:1997/asem/1234567890/9651
+#EXTINF:-1,beIN SPORTS 7 (UHD)
+http://mjidiptv.com:1997/asem/1234567890/9647
+#EXTINF:-1,beIN SPORTS1 FR FHD
+http://mjidiptv.com:1997/asem/1234567890/19361
+#EXTINF:-1,beIN SPORTS1 FR HD
+http://mjidiptv.com:1997/asem/1234567890/5206
+#EXTINF:-1,beIN SPORTS1 FR SD
+http://mjidiptv.com:1997/asem/1234567890/18353
+#EXTINF:-1,beIN SPORTS2 FR FHD
+http://mjidiptv.com:1997/asem/1234567890/19360
+#EXTINF:-1,beIN SPORTS2 FR HD
+http://mjidiptv.com:1997/asem/1234567890/5205
+#EXTINF:-1,beIN SPORTS2 FR SD
+http://mjidiptv.com:1997/asem/1234567890/18354
+#EXTINF:-1,beIN SPORTS3 FR FHD
+http://mjidiptv.com:1997/asem/1234567890/19359
+#EXTINF:-1,beIN SPORTS3 FR HD
+http://mjidiptv.com:1997/asem/1234567890/5204
+#EXTINF:-1,beIN SPORTS3 FR SD
+http://mjidiptv.com:1997/asem/1234567890/18355
+#EXTINF:-1,beIN SPORTS NBA
+http://mjidiptv.com:1997/asem/1234567890/9628
+#EXTINF:-1,beIN SPORTS US
+http://mjidiptv.com:1997/asem/1234567890/9629
+#EXTINF:-1,BeinSports1
+http://mjidiptv.com:1997/asem/1234567890/18416
+#EXTINF:-1,BeinSports2
+http://mjidiptv.com:1997/asem/1234567890/18415
+#EXTINF:-1,BeinSports3
+http://mjidiptv.com:1997/asem/1234567890/18414
+#EXTINF:-1,BeinSports4
+http://mjidiptv.com:1997/asem/1234567890/18413
+#EXTINF:-1,BeinSports5
+http://mjidiptv.com:1997/asem/1234567890/18412
+#EXTINF:-1,BeinSports6
+http://mjidiptv.com:1997/asem/1234567890/18411
+#EXTINF:-1,BeinSports7
+http://mjidiptv.com:1997/asem/1234567890/18410
+#EXTINF:-1,BeinSports8
+http://mjidiptv.com:1997/asem/1234567890/18409
+#EXTINF:-1,BeinSports9
+http://mjidiptv.com:1997/asem/1234567890/18408
+#EXTINF:-1,BeinSports10
+http://mjidiptv.com:1997/asem/1234567890/18407
+#EXTINF:-1,***** BEIN ENTERTAINMENT *****
+http://mjidiptv.com:1997/asem/1234567890/3494
+#EXTINF:-1,beIN Movies HD1 (PREMIERE)
+http://mjidiptv.com:1997/asem/1234567890/9625
+#EXTINF:-1,beIN Movies HD2 (ACTION)
+http://mjidiptv.com:1997/asem/1234567890/9624
+#EXTINF:-1,beIN Movies HD3 (DRAMA)
+http://mjidiptv.com:1997/asem/1234567890/9623
+#EXTINF:-1,beIN Movies HD4 (FAMILY)
+http://mjidiptv.com:1997/asem/1234567890/9622
+#EXTINF:-1,beIN Series 1 HD
+http://mjidiptv.com:1997/asem/1234567890/9610
+#EXTINF:-1,beIN Series 2 HD
+http://mjidiptv.com:1997/asem/1234567890/9876
+#EXTINF:-1,beIN ANIMAL PLANET
+http://mjidiptv.com:1997/asem/1234567890/9619
+#EXTINF:-1,beIN Nat Geographic HD
+http://mjidiptv.com:1997/asem/1234567890/9944
+#EXTINF:-1,beIN Nat Geo Wild
+http://mjidiptv.com:1997/asem/1234567890/9621
+#EXTINF:-1,beIN Nat Geo People
+http://mjidiptv.com:1997/asem/1234567890/9620
+#EXTINF:-1,beIN Planet Earth
+http://mjidiptv.com:1997/asem/1234567890/17990
+#EXTINF:-1,beIN Discovery HD
+http://mjidiptv.com:1997/asem/1234567890/9618
+#EXTINF:-1,beIN Discovery SC
+http://mjidiptv.com:1997/asem/1234567890/9617
+#EXTINF:-1,beIN Discovery Family
+http://mjidiptv.com:1997/asem/1234567890/9946
+#EXTINF:-1,beIN Discovery ID HD
+http://mjidiptv.com:1997/asem/1234567890/9945
+#EXTINF:-1,beIN FXM
+http://mjidiptv.com:1997/asem/1234567890/9606
+#EXTINF:-1,beIN Docu Box HD
+http://mjidiptv.com:1997/asem/1234567890/18007
+#EXTINF:-1,beIN BBC Earth
+http://mjidiptv.com:1997/asem/1234567890/18326
+#EXTINF:-1,beIN Travel Channel
+http://mjidiptv.com:1997/asem/1234567890/17814
+#EXTINF:-1,beIN DRAMA HD1
+http://mjidiptv.com:1997/asem/1234567890/9611
+#EXTINF:-1,beIN FATAFEAT HD
+http://mjidiptv.com:1997/asem/1234567890/9609
+#EXTINF:-1,beIN GOURMET HD
+http://mjidiptv.com:1997/asem/1234567890/9608
+#EXTINF:-1,beIN Food Network
+http://mjidiptv.com:1997/asem/1234567890/17817
+#EXTINF:-1,beIN AD Nat Geo Kids
+http://mjidiptv.com:1997/asem/1234567890/17991
+#EXTINF:-1,beIN Boomerang
+http://mjidiptv.com:1997/asem/1234567890/17813
+#EXTINF:-1,beIN Cartoon Network
+http://mjidiptv.com:1997/asem/1234567890/17812
+#EXTINF:-1,beIN Jim jam
+http://mjidiptv.com:1997/asem/1234567890/17811
+#EXTINF:-1,beIN Baby TV HD
+http://mjidiptv.com:1997/asem/1234567890/9614
+#EXTINF:-1,beIN Jeem HD
+http://mjidiptv.com:1997/asem/1234567890/9615
+#EXTINF:-1,beIN Baraem HD
+http://mjidiptv.com:1997/asem/1234567890/9616
+#EXTINF:-1,beIN Junior
+http://mjidiptv.com:1997/asem/1234567890/9613
+#EXTINF:-1,beIN GULLI ARABIC
+http://mjidiptv.com:1997/asem/1234567890/9612
+#EXTINF:-1,beIN AMC
+http://mjidiptv.com:1997/asem/1234567890/9605
+#EXTINF:-1,beIN DMAX HD
+http://mjidiptv.com:1997/asem/1234567890/9596
+#EXTINF:-1,beIN DREAM WORKS
+http://mjidiptv.com:1997/asem/1234567890/9594
+#EXTINF:-1,beIN FILM Box
+http://mjidiptv.com:1997/asem/1234567890/9599
+#EXTINF:-1,beIN FILM BOX Arthouse
+http://mjidiptv.com:1997/asem/1234567890/17821
+#EXTINF:-1,beIN STAR MOVIES HD
+http://mjidiptv.com:1997/asem/1234567890/9598
+#EXTINF:-1,beIN FOX HD
+http://mjidiptv.com:1997/asem/1234567890/10144
+#EXTINF:-1,beIN Fox Movies
+http://mjidiptv.com:1997/asem/1234567890/17790
+#EXTINF:-1,beIN FOX Family HD
+http://mjidiptv.com:1997/asem/1234567890/9603
+#EXTINF:-1,beIN FOX Crime
+http://mjidiptv.com:1997/asem/1234567890/17820
+#EXTINF:-1,beIN FOX LIFE
+http://mjidiptv.com:1997/asem/1234567890/17819
+#EXTINF:-1,beIN Fox Rewayat
+http://mjidiptv.com:1997/asem/1234567890/17818
+#EXTINF:-1,beIN Mycinema
+http://mjidiptv.com:1997/asem/1234567890/9601
+#EXTINF:-1,beIN FX HD
+http://mjidiptv.com:1997/asem/1234567890/9600
+#EXTINF:-1,beIN Star World
+http://mjidiptv.com:1997/asem/1234567890/10112
+#EXTINF:-1,beIN Fine Living
+http://mjidiptv.com:1997/asem/1234567890/17809
+#EXTINF:-1,beIN Outdoor
+http://mjidiptv.com:1997/asem/1234567890/17816
+#EXTINF:-1,beIN FightBox
+http://mjidiptv.com:1997/asem/1234567890/18010
+#EXTINF:-1,beIN TCM
+http://mjidiptv.com:1997/asem/1234567890/17815
+#EXTINF:-1,beIN HGTV HD
+http://mjidiptv.com:1997/asem/1234567890/9595
+#EXTINF:-1,beIN iZ HD
+http://mjidiptv.com:1997/asem/1234567890/9593
+#EXTINF:-1,beIN MOVIES TURK
+http://mjidiptv.com:1997/asem/1234567890/9607
+#EXTINF:-1,beIN BOX OFFiCE 1 HD
+http://mjidiptv.com:1997/asem/1234567890/9592
+#EXTINF:-1,beIN BOX OFFiCE 2 HD
+http://mjidiptv.com:1997/asem/1234567890/9591
+#EXTINF:-1,beIN BOX OFFiCE 3 HD
+http://mjidiptv.com:1997/asem/1234567890/9590
+#EXTINF:-1,***** Morocco *****
+http://mjidiptv.com:1997/asem/1234567890/3487
+#EXTINF:-1,|MA| AL AOULA MAROC HD
+http://mjidiptv.com:1997/asem/1234567890/6655
+#EXTINF:-1,|MA| AL AOULA MAROC TNT
+http://mjidiptv.com:1997/asem/1234567890/18004
+#EXTINF:-1,|MA| 2M MAROC HD
+http://mjidiptv.com:1997/asem/1234567890/18005
+#EXTINF:-1,|MA| 2M LIVE TNT
+http://mjidiptv.com:1997/asem/1234567890/6654
+#EXTINF:-1,|MA| MEDI 1 TV HD
+http://mjidiptv.com:1997/asem/1234567890/18006
+#EXTINF:-1,|MA| MEDI 1 TV TNT
+http://mjidiptv.com:1997/asem/1234567890/4965
+#EXTINF:-1,|MA| Al MAGHRIBIA HD
+http://mjidiptv.com:1997/asem/1234567890/4966
+#EXTINF:-1,|MA| AL MAGHRIBIA TNT
+http://mjidiptv.com:1997/asem/1234567890/19362
+#EXTINF:-1,|MA| MBC 5 HD
+http://mjidiptv.com:1997/asem/1234567890/94370
+#EXTINF:-1,|MA| MBC 5
+http://mjidiptv.com:1997/asem/1234567890/10143
+#EXTINF:-1,|MA| ARRABIAA HD
+http://mjidiptv.com:1997/asem/1234567890/4964
+#EXTINF:-1,|MA| ARRABIAA TNT
+http://mjidiptv.com:1997/asem/1234567890/19363
+#EXTINF:-1,|MA| ASSADISSA HD
+http://mjidiptv.com:1997/asem/1234567890/4962
+#EXTINF:-1,|MA| ASSADISSA TNT
+http://mjidiptv.com:1997/asem/1234567890/19364
+#EXTINF:-1,|MA| ARRYADIA HD
+http://mjidiptv.com:1997/asem/1234567890/4963
+#EXTINF:-1,|MA| ARRYADIA TNT
+http://mjidiptv.com:1997/asem/1234567890/19365
+#EXTINF:-1,|MA| TAMAZIGHT MAROC HD
+http://mjidiptv.com:1997/asem/1234567890/4961
+#EXTINF:-1,|MA| TAMAZIGHT MAROC TNT
+http://mjidiptv.com:1997/asem/1234567890/19366
+#EXTINF:-1,|MA| AL AOULA LAYOUNE HD
+http://mjidiptv.com:1997/asem/1234567890/6651
+#EXTINF:-1,|MA| AL AOULA LAYOUNE TNT
+http://mjidiptv.com:1997/asem/1234567890/19367
+#EXTINF:-1,|MA| TELE MAROC HD
+http://mjidiptv.com:1997/asem/1234567890/5809
+#EXTINF:-1,|MA| TELE MAROC TNT
+http://mjidiptv.com:1997/asem/1234567890/19368
+#EXTINF:-1,|MA| M24 TV HD
+http://mjidiptv.com:1997/asem/1234567890/10101
+#EXTINF:-1,|MA| AFLAM TV 7 MAROC
+http://mjidiptv.com:1997/asem/1234567890/6653
+#EXTINF:-1,|MA| Al Ons TV
+http://mjidiptv.com:1997/asem/1234567890/6650
+#EXTINF:-1,|MA| CHADA TV
+http://mjidiptv.com:1997/asem/1234567890/9981
+#EXTINF:-1,|MA| ARRYADIA
+http://mjidiptv.com:1997/asem/1234567890/94368
+#EXTINF:-1,|MA| 2M MAROC
+http://mjidiptv.com:1997/asem/1234567890/94367
+#EXTINF:-1,|MA| AL MAGHRIBIA
+http://mjidiptv.com:1997/asem/1234567890/94366
+#EXTINF:-1,|MA| ASSADISSA
+http://mjidiptv.com:1997/asem/1234567890/94365
+#EXTINF:-1,|MA| TAMAZIGHT
+http://mjidiptv.com:1997/asem/1234567890/94364
+#EXTINF:-1,|MA| AL AOULA
+http://mjidiptv.com:1997/asem/1234567890/94363
+#EXTINF:-1,|MA| AL AOULA LAYOUNE
+http://mjidiptv.com:1997/asem/1234567890/94362
+#EXTINF:-1,|MA| ARRABIAA
+http://mjidiptv.com:1997/asem/1234567890/94361
+#EXTINF:-1,|MA| TELE MAROC
+http://mjidiptv.com:1997/asem/1234567890/94360
+#EXTINF:-1,|MA| M24 TV
+http://mjidiptv.com:1997/asem/1234567890/94359
+#EXTINF:-1,GM Hit Tv Maroc
+http://mjidiptv.com:1997/asem/1234567890/9982
+#EXTINF:-1,***** Algerie *****
+http://mjidiptv.com:1997/asem/1234567890/3489
+#EXTINF:-1,|DZ| CANAL ALGERIE
+http://mjidiptv.com:1997/asem/1234567890/4988
+#EXTINF:-1,|DZ| ALGERIA 3
+http://mjidiptv.com:1997/asem/1234567890/4987
+#EXTINF:-1,|DZ| ALGERIA 4
+http://mjidiptv.com:1997/asem/1234567890/6658
+#EXTINF:-1,|DZ| ALGERIA 5
+http://mjidiptv.com:1997/asem/1234567890/6657
+#EXTINF:-1,|DZ| ALGERIA 6
+http://mjidiptv.com:1997/asem/1234567890/99387
+#EXTINF:-1,|DZ| ALGERIA AL ANIS.
+http://mjidiptv.com:1997/asem/1234567890/6661
+#EXTINF:-1,|DZ| EL FADJR
+http://mjidiptv.com:1997/asem/1234567890/6659
+#EXTINF:-1,|DZ| NUMIDIA
+http://mjidiptv.com:1997/asem/1234567890/6660
+#EXTINF:-1,|DZ| DZAIER N1
+http://mjidiptv.com:1997/asem/1234567890/4986
+#EXTINF:-1,|DZ| EL 24NEWS
+http://mjidiptv.com:1997/asem/1234567890/4985
+#EXTINF:-1,|DZ| Nedjma TV
+http://mjidiptv.com:1997/asem/1234567890/17865
+#EXTINF:-1,|DZ| ALGERIE 8
+http://mjidiptv.com:1997/asem/1234567890/17864
+#EXTINF:-1,|DZ| ANNAHAR TV
+http://mjidiptv.com:1997/asem/1234567890/4981
+#EXTINF:-1,|DZ| M+ DZ
+http://mjidiptv.com:1997/asem/1234567890/4980
+#EXTINF:-1,|DZ| BAHIA TV
+http://mjidiptv.com:1997/asem/1234567890/4971
+#EXTINF:-1,|DZ| EL HAYAT TV
+http://mjidiptv.com:1997/asem/1234567890/4969
+#EXTINF:-1,|DZ| BERBERE TV
+http://mjidiptv.com:1997/asem/1234567890/4970
+#EXTINF:-1,|DZ| BEUR TV
+http://mjidiptv.com:1997/asem/1234567890/4975
+#EXTINF:-1,|DZ| Echorouk NEWS
+http://mjidiptv.com:1997/asem/1234567890/4978
+#EXTINF:-1,|DZ| Echorouk TV
+http://mjidiptv.com:1997/asem/1234567890/4979
+#EXTINF:-1,|DZ| CNA
+http://mjidiptv.com:1997/asem/1234567890/4973
+#EXTINF:-1,|DZ| EL BILAD  TV
+http://mjidiptv.com:1997/asem/1234567890/4984
+#EXTINF:-1,|DZ| ALGERIA 7
+http://mjidiptv.com:1997/asem/1234567890/4972
+#EXTINF:-1,|DZ| HEDDAF ALGERIE
+http://mjidiptv.com:1997/asem/1234567890/4983
+#EXTINF:-1,|DZ| Salam TV
+http://mjidiptv.com:1997/asem/1234567890/4982
+#EXTINF:-1,|DZ| SAMIRA TV
+http://mjidiptv.com:1997/asem/1234567890/4976
+#EXTINF:-1,|DZ| AL MAGHARIBIA
+http://mjidiptv.com:1997/asem/1234567890/49735
+#EXTINF:-1,|DZ| ELWATANIA TV
+http://mjidiptv.com:1997/asem/1234567890/50099
+#EXTINF:-1,***** Tunisie *****
+http://mjidiptv.com:1997/asem/1234567890/3488
+#EXTINF:-1,|TN| NATIONAL 1
+http://mjidiptv.com:1997/asem/1234567890/4998
+#EXTINF:-1,|TN| NATIONAL 2
+http://mjidiptv.com:1997/asem/1234567890/4997
+#EXTINF:-1,|TN| HANNIBAL TV
+http://mjidiptv.com:1997/asem/1234567890/4996
+#EXTINF:-1,|TN| NESSMA
+http://mjidiptv.com:1997/asem/1234567890/4994
+#EXTINF:-1,|TN| AL JANOUBIA
+http://mjidiptv.com:1997/asem/1234567890/4989
+#EXTINF:-1,|TN| ATTASIA TV
+http://mjidiptv.com:1997/asem/1234567890/4995
+#EXTINF:-1,|TN| TUNISNA
+http://mjidiptv.com:1997/asem/1234567890/4992
+#EXTINF:-1,|TN| ZAYTOUNA TV
+http://mjidiptv.com:1997/asem/1234567890/4991
+#EXTINF:-1,|TN| TELVAZA TV
+http://mjidiptv.com:1997/asem/1234567890/4993
+#EXTINF:-1,|TN| AL HIWAR ETTOUNSI
+http://mjidiptv.com:1997/asem/1234567890/4990
+#EXTINF:-1,|TN| AL INSEN
+http://mjidiptv.com:1997/asem/1234567890/17901
+#EXTINF:-1,***** Arabic Sport *****
+http://mjidiptv.com:1997/asem/1234567890/3492
+#EXTINF:-1,|AR| AD SPORT Premium 1 HD
+http://mjidiptv.com:1997/asem/1234567890/98923
+#EXTINF:-1,|AR| AD SPORT Premium 1 FHD
+http://mjidiptv.com:1997/asem/1234567890/98922
+#EXTINF:-1,|AR| AD SPORT Premium 2 HD
+http://mjidiptv.com:1997/asem/1234567890/98921
+#EXTINF:-1,|AR| AD SPORT Premium 2 FHD
+http://mjidiptv.com:1997/asem/1234567890/98920
+#EXTINF:-1,|AR| AD SPORT ASIA 1 HD
+http://mjidiptv.com:1997/asem/1234567890/98913
+#EXTINF:-1,|AR| AD SPORT ASIA 2 HD
+http://mjidiptv.com:1997/asem/1234567890/98912
+#EXTINF:-1,|AR| AD SPORT ASIA 1 FHD
+http://mjidiptv.com:1997/asem/1234567890/98911
+#EXTINF:-1,|AR| AD SPORT ASIA 2 FHD
+http://mjidiptv.com:1997/asem/1234567890/98910
+#EXTINF:-1,|AR| SSC EXTRA 2 HD
+http://mjidiptv.com:1997/asem/1234567890/93972
+#EXTINF:-1,|AR| SSC EXTRA 1 HD
+http://mjidiptv.com:1997/asem/1234567890/93971
+#EXTINF:-1,|AR| SSC5 HD
+http://mjidiptv.com:1997/asem/1234567890/93970
+#EXTINF:-1,|AR| SSC4 HD
+http://mjidiptv.com:1997/asem/1234567890/93969
+#EXTINF:-1,|AR| SSC3 HD
+http://mjidiptv.com:1997/asem/1234567890/93968
+#EXTINF:-1,|AR| SSC2 HD
+http://mjidiptv.com:1997/asem/1234567890/93967
+#EXTINF:-1,|AR| SSC1 HD
+http://mjidiptv.com:1997/asem/1234567890/93966
+#EXTINF:-1,|AR| SSC1
+http://mjidiptv.com:1997/asem/1234567890/92859
+#EXTINF:-1,|AR| SSC2
+http://mjidiptv.com:1997/asem/1234567890/92858
+#EXTINF:-1,|AR| SSC3
+http://mjidiptv.com:1997/asem/1234567890/92857
+#EXTINF:-1,|AR| SSC4
+http://mjidiptv.com:1997/asem/1234567890/92856
+#EXTINF:-1,|AR| SSC5
+http://mjidiptv.com:1997/asem/1234567890/92855
+#EXTINF:-1,|AR| SSC EXTRA 1
+http://mjidiptv.com:1997/asem/1234567890/92854
+#EXTINF:-1,|AR| SSC EXTRA 2
+http://mjidiptv.com:1997/asem/1234567890/92853
+#EXTINF:-1,|AR| AD Sport 1
+http://mjidiptv.com:1997/asem/1234567890/5053
+#EXTINF:-1,|AR| AD Sport 2
+http://mjidiptv.com:1997/asem/1234567890/5052
+#EXTINF:-1,|AR| AD Sport 3
+http://mjidiptv.com:1997/asem/1234567890/5051
+#EXTINF:-1,|AR| AD Sport 4
+http://mjidiptv.com:1997/asem/1234567890/11427
+#EXTINF:-1,|AR| AD Sport 5
+http://mjidiptv.com:1997/asem/1234567890/11428
+#EXTINF:-1,|AR| AD Sport 6
+http://mjidiptv.com:1997/asem/1234567890/11429
+#EXTINF:-1,|AR| AD Sports YAS
+http://mjidiptv.com:1997/asem/1234567890/6656
+#EXTINF:-1,|AR| Al Kass one
+http://mjidiptv.com:1997/asem/1234567890/5048
+#EXTINF:-1,|AR| Al Kass two
+http://mjidiptv.com:1997/asem/1234567890/5047
+#EXTINF:-1,|AR| Al_Kaas_4
+http://mjidiptv.com:1997/asem/1234567890/5046
+#EXTINF:-1,|AR| Al Kass Eight
+http://mjidiptv.com:1997/asem/1234567890/69266
+#EXTINF:-1,|AR| Al Kass Seven
+http://mjidiptv.com:1997/asem/1234567890/69267
+#EXTINF:-1,|AR| Al_Kaas_5
+http://mjidiptv.com:1997/asem/1234567890/5045
+#EXTINF:-1,|AR| Al Kass Six
+http://mjidiptv.com:1997/asem/1234567890/69293
+#EXTINF:-1,|AR| Dubai Sport
+http://mjidiptv.com:1997/asem/1234567890/5050
+#EXTINF:-1,|AR| Dubai Racing
+http://mjidiptv.com:1997/asem/1234567890/5049
+#EXTINF:-1,|AR| Egypt-Ahly Tv
+http://mjidiptv.com:1997/asem/1234567890/6474
+#EXTINF:-1,|AR| Egypt-On Sport
+http://mjidiptv.com:1997/asem/1234567890/6473
+#EXTINF:-1,|AR| Nile Sport
+http://mjidiptv.com:1997/asem/1234567890/5043
+#EXTINF:-1,|AR| Saudi Sport 24
+http://mjidiptv.com:1997/asem/1234567890/5042
+#EXTINF:-1,|AR| Kuwait_Sport
+http://mjidiptv.com:1997/asem/1234567890/5044
+#EXTINF:-1,|AR| Bahrain Sport
+http://mjidiptv.com:1997/asem/1234567890/5041
+#EXTINF:-1,|AR| Al Iraqya Sport
+http://mjidiptv.com:1997/asem/1234567890/5040
+#EXTINF:-1,|AR| Al Kass three
+http://mjidiptv.com:1997/asem/1234567890/62522
+#EXTINF:-1,|AR| Al Kass four
+http://mjidiptv.com:1997/asem/1234567890/62523
+#EXTINF:-1,|AR| Al Kass five
+http://mjidiptv.com:1997/asem/1234567890/62524
+#EXTINF:-1,***** Arabic Islamic *****
+http://mjidiptv.com:1997/asem/1234567890/3493
+#EXTINF:-1,|AR| Saudi Quran FHD
+http://mjidiptv.com:1997/asem/1234567890/95671
+#EXTINF:-1,|AR| Saudi Quran
+http://mjidiptv.com:1997/asem/1234567890/5002
+#EXTINF:-1,|AR| Saudia Sunnah Tv
+http://mjidiptv.com:1997/asem/1234567890/94369
+#EXTINF:-1,|AR| Saudi Sunnah
+http://mjidiptv.com:1997/asem/1234567890/5001
+#EXTINF:-1,|AR| Al_Nas
+http://mjidiptv.com:1997/asem/1234567890/5005
+#EXTINF:-1,|AR| AL Resalah
+http://mjidiptv.com:1997/asem/1234567890/5006
+#EXTINF:-1,|AR| Al Rahma
+http://mjidiptv.com:1997/asem/1234567890/5010
+#EXTINF:-1,|AR| Iqraa
+http://mjidiptv.com:1997/asem/1234567890/5009
+#EXTINF:-1,|AR| Mecca
+http://mjidiptv.com:1997/asem/1234567890/5008
+#EXTINF:-1,|AR| Almajd10 basma
+http://mjidiptv.com:1997/asem/1234567890/5000
+#EXTINF:-1,|AR| Almajd07 documentaire
+http://mjidiptv.com:1997/asem/1234567890/6670
+#EXTINF:-1,|AR| Bahrain Quran
+http://mjidiptv.com:1997/asem/1234567890/4999
+#EXTINF:-1,|AR| Quran_TV
+http://mjidiptv.com:1997/asem/1234567890/5007
+#EXTINF:-1,|AR| Al Sirat Quran
+http://mjidiptv.com:1997/asem/1234567890/18564
+#EXTINF:-1,|AR| Al Azhari
+http://mjidiptv.com:1997/asem/1234567890/36745
+#EXTINF:-1,|AR| Al Fajer
+http://mjidiptv.com:1997/asem/1234567890/36747
+#EXTINF:-1,|AR| AL KAWTHAR
+http://mjidiptv.com:1997/asem/1234567890/36746
+#EXTINF:-1,|AR| Al Safa
+http://mjidiptv.com:1997/asem/1234567890/36749
+#EXTINF:-1,|AR| ALFATH QURAN
+http://mjidiptv.com:1997/asem/1234567890/36753
+#EXTINF:-1,|AR| ALISTIQAMA Quran
+http://mjidiptv.com:1997/asem/1234567890/36744
+#EXTINF:-1,|AR| AQSA TV
+http://mjidiptv.com:1997/asem/1234567890/36752
+#EXTINF:-1,|AR| Assadissa MAROC
+http://mjidiptv.com:1997/asem/1234567890/36754
+#EXTINF:-1,|AR| AYAT QURAN
+http://mjidiptv.com:1997/asem/1234567890/36751
+#EXTINF:-1,|AR| KAIFA Quran
+http://mjidiptv.com:1997/asem/1234567890/36743
+#EXTINF:-1,|AR| Ahel Alquran
+http://mjidiptv.com:1997/asem/1234567890/36757
+#EXTINF:-1,|AR| AlAfasy Quran
+http://mjidiptv.com:1997/asem/1234567890/36756
+#EXTINF:-1,|AR| The-Savior Quran
+http://mjidiptv.com:1997/asem/1234567890/36742
+#EXTINF:-1,|AR| WESAL TV
+http://mjidiptv.com:1997/asem/1234567890/36750
+#EXTINF:-1,|AR| Almajd General
+http://mjidiptv.com:1997/asem/1234567890/74410
+#EXTINF:-1,|AR| Almajd Space TV
+http://mjidiptv.com:1997/asem/1234567890/74409
+#EXTINF:-1,|AR| Almajd Religious Science
+http://mjidiptv.com:1997/asem/1234567890/74408
+#EXTINF:-1,|AR| Almajd Taghareed
+http://mjidiptv.com:1997/asem/1234567890/74407
+#EXTINF:-1,|AR| Almajd Rawda
+http://mjidiptv.com:1997/asem/1234567890/74406
+#EXTINF:-1,|AR| Almajd Basmah
+http://mjidiptv.com:1997/asem/1234567890/74405
+#EXTINF:-1,|AR| Almajd  Info
+http://mjidiptv.com:1997/asem/1234567890/74404
+#EXTINF:-1,|AR| Almajd Al Tabeeaiyah
+http://mjidiptv.com:1997/asem/1234567890/74403
+#EXTINF:-1,|AR| Almajd Documentary
+http://mjidiptv.com:1997/asem/1234567890/74402
+#EXTINF:-1,|AR| Almajd Ekhbarie
+http://mjidiptv.com:1997/asem/1234567890/74401
+#EXTINF:-1,***** Arabic Kids *****
+http://mjidiptv.com:1997/asem/1234567890/3495
+#EXTINF:-1,|AR| Baraem
+http://mjidiptv.com:1997/asem/1234567890/5019
+#EXTINF:-1,|AR| Jeem kids
+http://mjidiptv.com:1997/asem/1234567890/5017
+#EXTINF:-1,|AR| Cartoon Network Arabic
+http://mjidiptv.com:1997/asem/1234567890/5018
+#EXTINF:-1,|AR| SpaceToon
+http://mjidiptv.com:1997/asem/1234567890/5013
+#EXTINF:-1,|AR| Ajyal_TV
+http://mjidiptv.com:1997/asem/1234567890/5014
+#EXTINF:-1,|AR| Mickey
+http://mjidiptv.com:1997/asem/1234567890/16785
+#EXTINF:-1,|AR| Majid Kids TV
+http://mjidiptv.com:1997/asem/1234567890/5016
+#EXTINF:-1,|AR| Mody_Kids
+http://mjidiptv.com:1997/asem/1234567890/5015
+#EXTINF:-1,|AR| Toyour Al Jannah
+http://mjidiptv.com:1997/asem/1234567890/5012
+#EXTINF:-1,|AR| Toyour Baby
+http://mjidiptv.com:1997/asem/1234567890/5011
+#EXTINF:-1,|AR| SHAUN THE SHEEP
+http://mjidiptv.com:1997/asem/1234567890/68643
+#EXTINF:-1,|AR| TOM and JERRY
+http://mjidiptv.com:1997/asem/1234567890/68642
+#EXTINF:-1,|AR| Karameesh
+http://mjidiptv.com:1997/asem/1234567890/17900
+#EXTINF:-1,***** Arabic News *****
+http://mjidiptv.com:1997/asem/1234567890/3491
+#EXTINF:-1,|AR| Al jazeera
+http://mjidiptv.com:1997/asem/1234567890/5039
+#EXTINF:-1,|AR| Al jazeera HD
+http://mjidiptv.com:1997/asem/1234567890/62185
+#EXTINF:-1,|AR| Al jazeera Mubasher
+http://mjidiptv.com:1997/asem/1234567890/5038
+#EXTINF:-1,|AR| AL JAZEERA DOCUMENTAIRE
+http://mjidiptv.com:1997/asem/1234567890/72882
+#EXTINF:-1,|AR| AL Arabiya
+http://mjidiptv.com:1997/asem/1234567890/5037
+#EXTINF:-1,|AR| Al Aan
+http://mjidiptv.com:1997/asem/1234567890/5031
+#EXTINF:-1,|AR| ANN
+http://mjidiptv.com:1997/asem/1234567890/5030
+#EXTINF:-1,|AR| France 24 AR
+http://mjidiptv.com:1997/asem/1234567890/5035
+#EXTINF:-1,|AR| France_24_EN
+http://mjidiptv.com:1997/asem/1234567890/5034
+#EXTINF:-1,|AR| France 24 FR
+http://mjidiptv.com:1997/asem/1234567890/5033
+#EXTINF:-1,|AR| TV5 Monde
+http://mjidiptv.com:1997/asem/1234567890/5032
+#EXTINF:-1,|AR| Al_Alam_TV
+http://mjidiptv.com:1997/asem/1234567890/5028
+#EXTINF:-1,|AR| Al Arabiya Hadath
+http://mjidiptv.com:1997/asem/1234567890/5036
+#EXTINF:-1,|AR| lebanon-Al Manar
+http://mjidiptv.com:1997/asem/1234567890/5026
+#EXTINF:-1,|AR| Iraq-Al_Sharquia_News
+http://mjidiptv.com:1997/asem/1234567890/5025
+#EXTINF:-1,|AR| BBC World Arabic
+http://mjidiptv.com:1997/asem/1234567890/5029
+#EXTINF:-1,|AR| DW-TV
+http://mjidiptv.com:1997/asem/1234567890/5024
+#EXTINF:-1,|AR| Nile news
+http://mjidiptv.com:1997/asem/1234567890/5023
+#EXTINF:-1,|AR| Russia Al Yaoum
+http://mjidiptv.com:1997/asem/1234567890/5022
+#EXTINF:-1,|AR| Saudi_Ekhbarya
+http://mjidiptv.com:1997/asem/1234567890/5021
+#EXTINF:-1,|AR| Sky News Arabia
+http://mjidiptv.com:1997/asem/1234567890/5020
+#EXTINF:-1,|AR| CGTN Arabic
+http://mjidiptv.com:1997/asem/1234567890/86439
+#EXTINF:-1,|AR| CNBC Arabic
+http://mjidiptv.com:1997/asem/1234567890/94395
+#EXTINF:-1,|AR| Syria News
+http://mjidiptv.com:1997/asem/1234567890/5027
+#EXTINF:-1,***** Arabic Premium *****
+http://mjidiptv.com:1997/asem/1234567890/3496
+#EXTINF:-1,|AR| MBC1
+http://mjidiptv.com:1997/asem/1234567890/5076
+#EXTINF:-1,|AR| MBC 1 HD
+http://mjidiptv.com:1997/asem/1234567890/18001
+#EXTINF:-1,|AR| MBC2
+http://mjidiptv.com:1997/asem/1234567890/5075
+#EXTINF:-1,|AR| MBC 2 HD
+http://mjidiptv.com:1997/asem/1234567890/18000
+#EXTINF:-1,|AR| MBC3
+http://mjidiptv.com:1997/asem/1234567890/5074
+#EXTINF:-1,|AR| MBC 3 HD
+http://mjidiptv.com:1997/asem/1234567890/17999
+#EXTINF:-1,|AR| MBC 4 HD
+http://mjidiptv.com:1997/asem/1234567890/5073
+#EXTINF:-1,|AR| MBC 5
+http://mjidiptv.com:1997/asem/1234567890/51765
+#EXTINF:-1,|AR| MBC 5 HD
+http://mjidiptv.com:1997/asem/1234567890/17998
+#EXTINF:-1,|AR| MBC Action
+http://mjidiptv.com:1997/asem/1234567890/5072
+#EXTINF:-1,|AR| MBC Action HD
+http://mjidiptv.com:1997/asem/1234567890/17997
+#EXTINF:-1,|AR| MBC Bollywood
+http://mjidiptv.com:1997/asem/1234567890/5070
+#EXTINF:-1,|AR| MBC Bollywood HD
+http://mjidiptv.com:1997/asem/1234567890/17996
+#EXTINF:-1,|AR| MBC Drama
+http://mjidiptv.com:1997/asem/1234567890/5068
+#EXTINF:-1,|AR| MBC Plus DRAMA HD
+http://mjidiptv.com:1997/asem/1234567890/17995
+#EXTINF:-1,|AR| MBC Max
+http://mjidiptv.com:1997/asem/1234567890/5071
+#EXTINF:-1,|AR| MBC Max HD
+http://mjidiptv.com:1997/asem/1234567890/17994
+#EXTINF:-1,|AR| MBC_Drama2
+http://mjidiptv.com:1997/asem/1234567890/5069
+#EXTINF:-1,|AR| MBC Masr 1
+http://mjidiptv.com:1997/asem/1234567890/5067
+#EXTINF:-1,|AR| MBC Masr 2
+http://mjidiptv.com:1997/asem/1234567890/5066
+#EXTINF:-1,|AR|  ART Aflam 1
+http://mjidiptv.com:1997/asem/1234567890/5084
+#EXTINF:-1,|AR| ART Aflam 2
+http://mjidiptv.com:1997/asem/1234567890/5083
+#EXTINF:-1,|AR|  ART Cinema
+http://mjidiptv.com:1997/asem/1234567890/5082
+#EXTINF:-1,|AR|  ART Hekayat 1
+http://mjidiptv.com:1997/asem/1234567890/5081
+#EXTINF:-1,|AR|  ART Hekayat 2
+http://mjidiptv.com:1997/asem/1234567890/5080
+#EXTINF:-1,|AR| Rotana Aflam
+http://mjidiptv.com:1997/asem/1234567890/5061
+#EXTINF:-1,|AR| Rotana Cinema
+http://mjidiptv.com:1997/asem/1234567890/5060
+#EXTINF:-1,|AR| Rotana Cinema HD
+http://mjidiptv.com:1997/asem/1234567890/18018
+#EXTINF:-1,|AR| Rotana Classic
+http://mjidiptv.com:1997/asem/1234567890/5059
+#EXTINF:-1,|AR| Rotana Classic HD
+http://mjidiptv.com:1997/asem/1234567890/18017
+#EXTINF:-1,|AR| Rotana Drama
+http://mjidiptv.com:1997/asem/1234567890/5058
+#EXTINF:-1,|AR| Rotana Drama HD
+http://mjidiptv.com:1997/asem/1234567890/18016
+#EXTINF:-1,|AR| Rotana Khalijia
+http://mjidiptv.com:1997/asem/1234567890/5056
+#EXTINF:-1,|AR| Rotana Khalijia HD
+http://mjidiptv.com:1997/asem/1234567890/18015
+#EXTINF:-1,|AR| Rotana Music
+http://mjidiptv.com:1997/asem/1234567890/5054
+#EXTINF:-1,|AR| Rotana Music HD
+http://mjidiptv.com:1997/asem/1234567890/18014
+#EXTINF:-1,|AR| Rotana Clip
+http://mjidiptv.com:1997/asem/1234567890/5055
+#EXTINF:-1,|AR| Movies HD1 (PREMIERE)
+http://mjidiptv.com:1997/asem/1234567890/9966
+#EXTINF:-1,|AR| Movies HD2 (ACTION)
+http://mjidiptv.com:1997/asem/1234567890/9965
+#EXTINF:-1,|AR| Movies HD3 (DRAMA)
+http://mjidiptv.com:1997/asem/1234567890/9964
+#EXTINF:-1,|AR| Movies HD4 (FAMILY)
+http://mjidiptv.com:1997/asem/1234567890/9963
+#EXTINF:-1,|AR| Series 1 HD
+http://mjidiptv.com:1997/asem/1234567890/9962
+#EXTINF:-1,|AR| Series 2 HD
+http://mjidiptv.com:1997/asem/1234567890/9961
+#EXTINF:-1,|AR| Animal Planet
+http://mjidiptv.com:1997/asem/1234567890/5079
+#EXTINF:-1,|AR| Discovery Science
+http://mjidiptv.com:1997/asem/1234567890/5078
+#EXTINF:-1,|AR| Lebanon LBC
+http://mjidiptv.com:1997/asem/1234567890/5077
+#EXTINF:-1,|AR| TDC
+http://mjidiptv.com:1997/asem/1234567890/58586
+#EXTINF:-1,|AR| NETFLIX KIDS
+http://mjidiptv.com:1997/asem/1234567890/62755
+#EXTINF:-1,|AR| NETFLIX HORROR
+http://mjidiptv.com:1997/asem/1234567890/62754
+#EXTINF:-1,|AR| NETFLIX DRAMA
+http://mjidiptv.com:1997/asem/1234567890/62753
+#EXTINF:-1,|AR| NETFLIX COMEDY
+http://mjidiptv.com:1997/asem/1234567890/62752
+#EXTINF:-1,----●★| EGYPT |★●----
+http://mjidiptv.com:1997/asem/1234567890/53872
+#EXTINF:-1,|EGY| MIX HOLLYWOOD
+http://mjidiptv.com:1997/asem/1234567890/69960
+#EXTINF:-1,|EGY| 7BESHA
+http://mjidiptv.com:1997/asem/1234567890/53873
+#EXTINF:-1,|EGY| Aghani TV
+http://mjidiptv.com:1997/asem/1234567890/53874
+#EXTINF:-1,|EGY| Al Ahly TV
+http://mjidiptv.com:1997/asem/1234567890/53875
+#EXTINF:-1,|EGY| AL BAIT BAITAK CINEMA
+http://mjidiptv.com:1997/asem/1234567890/53876
+#EXTINF:-1,|EGY| Al Basira
+http://mjidiptv.com:1997/asem/1234567890/53877
+#EXTINF:-1,|EGY| Al Kahera Wal Nas
+http://mjidiptv.com:1997/asem/1234567890/53879
+#EXTINF:-1,|EGY| Al Kahera Wal Nas  2
+http://mjidiptv.com:1997/asem/1234567890/53880
+#EXTINF:-1,|EGY| AL MASRAWIA AFLAM
+http://mjidiptv.com:1997/asem/1234567890/53881
+#EXTINF:-1,|EGY| AL masriya
+http://mjidiptv.com:1997/asem/1234567890/53882
+#EXTINF:-1,|EGY| AL SA3A MASRA7
+http://mjidiptv.com:1997/asem/1234567890/53884
+#EXTINF:-1,|EGY| AL SA3AA COMEDY
+http://mjidiptv.com:1997/asem/1234567890/53885
+#EXTINF:-1,|EGY| AL SHASHA CINEMA
+http://mjidiptv.com:1997/asem/1234567890/53886
+#EXTINF:-1,|EGY| Al-Nahar Drama
+http://mjidiptv.com:1997/asem/1234567890/53887
+#EXTINF:-1,|EGY| Al-Nahar One
+http://mjidiptv.com:1997/asem/1234567890/53888
+#EXTINF:-1,|EGY| ALASKANDRIA
+http://mjidiptv.com:1997/asem/1234567890/53889
+#EXTINF:-1,|EGY| AlHadath Alyoum
+http://mjidiptv.com:1997/asem/1234567890/53890
+#EXTINF:-1,|EGY| ALhayat
+http://mjidiptv.com:1997/asem/1234567890/53891
+#EXTINF:-1,|EGY| Alhayat 2
+http://mjidiptv.com:1997/asem/1234567890/53892
+#EXTINF:-1,|EGY| Alhayat Muslsalat
+http://mjidiptv.com:1997/asem/1234567890/53893
+#EXTINF:-1,|EGY| Alhayat We Alnas
+http://mjidiptv.com:1997/asem/1234567890/53894
+#EXTINF:-1,|EGY| ALKAHERA
+http://mjidiptv.com:1997/asem/1234567890/53895
+#EXTINF:-1,|EGY| ALMASSAR AL OULA
+http://mjidiptv.com:1997/asem/1234567890/53896
+#EXTINF:-1,|EGY| Alqanat 9
+http://mjidiptv.com:1997/asem/1234567890/53897
+#EXTINF:-1,|EGY| ALSeha Waljamal
+http://mjidiptv.com:1997/asem/1234567890/53898
+#EXTINF:-1,|EGY| Althanya
+http://mjidiptv.com:1997/asem/1234567890/53899
+#EXTINF:-1,|EGY| WATAN TV
+http://mjidiptv.com:1997/asem/1234567890/53900
+#EXTINF:-1,|EGY| Arabica TV
+http://mjidiptv.com:1997/asem/1234567890/53901
+#EXTINF:-1,|EGY| ART Aflam 1
+http://mjidiptv.com:1997/asem/1234567890/53902
+#EXTINF:-1,|EGY| ART Aflam 2
+http://mjidiptv.com:1997/asem/1234567890/53903
+#EXTINF:-1,|EGY| ART HEKAYAT 1
+http://mjidiptv.com:1997/asem/1234567890/53904
+#EXTINF:-1,|EGY| ART HEKAYAT 2
+http://mjidiptv.com:1997/asem/1234567890/53905
+#EXTINF:-1,|EGY| Azhari
+http://mjidiptv.com:1997/asem/1234567890/53906
+#EXTINF:-1,|EGY| BELODY AFLAM
+http://mjidiptv.com:1997/asem/1234567890/53908
+#EXTINF:-1,|EGY| Cairo cinema
+http://mjidiptv.com:1997/asem/1234567890/53909
+#EXTINF:-1,|EGY| Cima
+http://mjidiptv.com:1997/asem/1234567890/53911
+#EXTINF:-1,|EGY| CIMA ALIBABA
+http://mjidiptv.com:1997/asem/1234567890/53912
+#EXTINF:-1,|EGY| Cinema
+http://mjidiptv.com:1997/asem/1234567890/53913
+#EXTINF:-1,|EGY| CINEMA 2
+http://mjidiptv.com:1997/asem/1234567890/53914
+#EXTINF:-1,|EGY| CINEMA PRO
+http://mjidiptv.com:1997/asem/1234567890/53915
+#EXTINF:-1,|EGY| CINEMA 1
+http://mjidiptv.com:1997/asem/1234567890/53916
+#EXTINF:-1,|EGY| dmc
+http://mjidiptv.com:1997/asem/1234567890/53917
+#EXTINF:-1,|EGY| dmc drama
+http://mjidiptv.com:1997/asem/1234567890/53918
+#EXTINF:-1,|EGY| dmc Kids
+http://mjidiptv.com:1997/asem/1234567890/53919
+#EXTINF:-1,|EGY| dmc masraheyat
+http://mjidiptv.com:1997/asem/1234567890/53920
+#EXTINF:-1,|EGY| dmc News
+http://mjidiptv.com:1997/asem/1234567890/53921
+#EXTINF:-1,|EGY| dmc Sports
+http://mjidiptv.com:1997/asem/1234567890/53922
+#EXTINF:-1,|EGY| Dream
+http://mjidiptv.com:1997/asem/1234567890/53923
+#EXTINF:-1,|EGY| Extra News
+http://mjidiptv.com:1997/asem/1234567890/53924
+#EXTINF:-1,|EGY| FAMILY DRAMA
+http://mjidiptv.com:1997/asem/1234567890/53925
+#EXTINF:-1,|EGY| FUNoon
+http://mjidiptv.com:1997/asem/1234567890/53926
+#EXTINF:-1,|EGY| Hawacom
+http://mjidiptv.com:1997/asem/1234567890/53927
+#EXTINF:-1,|EGY| HAWAS TV
+http://mjidiptv.com:1997/asem/1234567890/53928
+#EXTINF:-1,|EGY| Imagine Movies
+http://mjidiptv.com:1997/asem/1234567890/53930
+#EXTINF:-1,|EGY| LCD MOVIES
+http://mjidiptv.com:1997/asem/1234567890/53931
+#EXTINF:-1,|EGY| Maspero Zaman
+http://mjidiptv.com:1997/asem/1234567890/53933
+#EXTINF:-1,|EGY| Masr alhayah
+http://mjidiptv.com:1997/asem/1234567890/53934
+#EXTINF:-1,|EGY| MAZAZIKH TV
+http://mjidiptv.com:1997/asem/1234567890/53935
+#EXTINF:-1,|EGY| Mazzika
+http://mjidiptv.com:1997/asem/1234567890/53936
+#EXTINF:-1,|EGY| ME SAT
+http://mjidiptv.com:1997/asem/1234567890/53937
+#EXTINF:-1,|EGY| Melody CINEMA
+http://mjidiptv.com:1997/asem/1234567890/53938
+#EXTINF:-1,|EGY| MELODY CLASSIC
+http://mjidiptv.com:1997/asem/1234567890/53939
+#EXTINF:-1,|EGY| Misr Al Zera3eya
+http://mjidiptv.com:1997/asem/1234567890/53940
+#EXTINF:-1,|EGY| Music Sha3by TV
+http://mjidiptv.com:1997/asem/1234567890/53941
+#EXTINF:-1,|EGY| Nile Cinema
+http://mjidiptv.com:1997/asem/1234567890/53942
+#EXTINF:-1,|EGY| Nile Comedy
+http://mjidiptv.com:1997/asem/1234567890/53943
+#EXTINF:-1,|EGY| Nile Culture
+http://mjidiptv.com:1997/asem/1234567890/53944
+#EXTINF:-1,|EGY| Nile Drama
+http://mjidiptv.com:1997/asem/1234567890/53945
+#EXTINF:-1,|EGY| Nile Family
+http://mjidiptv.com:1997/asem/1234567890/53946
+#EXTINF:-1,|EGY| Nile Life
+http://mjidiptv.com:1997/asem/1234567890/53947
+#EXTINF:-1,|EGY| Nile News
+http://mjidiptv.com:1997/asem/1234567890/53948
+#EXTINF:-1,|EGY| Nile Sport
+http://mjidiptv.com:1997/asem/1234567890/53949
+#EXTINF:-1,|EGY| Nile TV
+http://mjidiptv.com:1997/asem/1234567890/53950
+#EXTINF:-1,|EGY| Nogoum FM TV
+http://mjidiptv.com:1997/asem/1234567890/53951
+#EXTINF:-1,|EGY| NourSat
+http://mjidiptv.com:1997/asem/1234567890/53952
+#EXTINF:-1,|EGY| ON  E
+http://mjidiptv.com:1997/asem/1234567890/53953
+#EXTINF:-1,|EGY| ON  Live
+http://mjidiptv.com:1997/asem/1234567890/53954
+#EXTINF:-1,|EGY| ON  Sport
+http://mjidiptv.com:1997/asem/1234567890/53955
+#EXTINF:-1,|EGY| ON Drama
+http://mjidiptv.com:1997/asem/1234567890/53956
+#EXTINF:-1,|EGY| Oscar TV
+http://mjidiptv.com:1997/asem/1234567890/53957
+#EXTINF:-1,|EGY| Panorama Drama
+http://mjidiptv.com:1997/asem/1234567890/53958
+#EXTINF:-1,|EGY| Panorama Drama 2
+http://mjidiptv.com:1997/asem/1234567890/53959
+#EXTINF:-1,|EGY| Panorama Film
+http://mjidiptv.com:1997/asem/1234567890/53960
+#EXTINF:-1,|EGY| Panorama Food
+http://mjidiptv.com:1997/asem/1234567890/53961
+#EXTINF:-1,|EGY| Sada El Balad
+http://mjidiptv.com:1997/asem/1234567890/53962
+#EXTINF:-1,|EGY| Sada El Balad Drama
+http://mjidiptv.com:1997/asem/1234567890/53963
+#EXTINF:-1,|EGY| SAT 7 ARABIC
+http://mjidiptv.com:1997/asem/1234567890/53964
+#EXTINF:-1,|EGY| SCARE TV
+http://mjidiptv.com:1997/asem/1234567890/53965
+#EXTINF:-1,|EGY| STAR CINEMA 1
+http://mjidiptv.com:1997/asem/1234567890/53967
+#EXTINF:-1,|EGY| STAR CINEMA 2
+http://mjidiptv.com:1997/asem/1234567890/53968
+#EXTINF:-1,|EGY| TEBA
+http://mjidiptv.com:1997/asem/1234567890/53969
+#EXTINF:-1,|EGY| TeN TV
+http://mjidiptv.com:1997/asem/1234567890/53970
+#EXTINF:-1,|EGY| TOKTOK AFLAM
+http://mjidiptv.com:1997/asem/1234567890/53971
+#EXTINF:-1,|EGY| TOKTOK CIMA
+http://mjidiptv.com:1997/asem/1234567890/53972
+#EXTINF:-1,|EGY| Halaba TV
+http://mjidiptv.com:1997/asem/1234567890/18647
+#EXTINF:-1,|EGY| ELMOLED
+http://mjidiptv.com:1997/asem/1234567890/18513
+#EXTINF:-1,|EGY| Wanasah
+http://mjidiptv.com:1997/asem/1234567890/53974
+#EXTINF:-1,|EGY| ZAMALEK TV
+http://mjidiptv.com:1997/asem/1234567890/62272
+#EXTINF:-1,|EGY| ON TIME SPORTS
+http://mjidiptv.com:1997/asem/1234567890/62273
+#EXTINF:-1,|EGY| ON TIME SPORTS 2
+http://mjidiptv.com:1997/asem/1234567890/78770
+#EXTINF:-1,|EGY| ON TIME SPORTS 3
+http://mjidiptv.com:1997/asem/1234567890/78769
+#EXTINF:-1,|EGY| ZILZAL ALYOUM
+http://mjidiptv.com:1997/asem/1234567890/87726
+#EXTINF:-1,|EGY| ZILZAL MUSALSALAT
+http://mjidiptv.com:1997/asem/1234567890/87725
+#EXTINF:-1,|EGY| Apple Aflam
+http://mjidiptv.com:1997/asem/1234567890/87724
+#EXTINF:-1,|EGY| Apple Comedy
+http://mjidiptv.com:1997/asem/1234567890/87723
+#EXTINF:-1,|EGY| Apple Drama
+http://mjidiptv.com:1997/asem/1234567890/87722
+#EXTINF:-1,|EGY| Apple Hekayat
+http://mjidiptv.com:1997/asem/1234567890/87721
+#EXTINF:-1,|EGY| Apple Mosalsalat
+http://mjidiptv.com:1997/asem/1234567890/87720
+#EXTINF:-1,|EGY| Modern Drama
+http://mjidiptv.com:1997/asem/1234567890/87719
+#EXTINF:-1,|EGY| Modern Alyom
+http://mjidiptv.com:1997/asem/1234567890/87718
+#EXTINF:-1,|EGY| Modern Cinema
+http://mjidiptv.com:1997/asem/1234567890/87716
+#EXTINF:-1,|EGY| Show Drama
+http://mjidiptv.com:1997/asem/1234567890/87706
+#EXTINF:-1,|EGY| EGYPTIAN TV
+http://mjidiptv.com:1997/asem/1234567890/87392
+#EXTINF:-1,|EGY| Mekameleen TV
+http://mjidiptv.com:1997/asem/1234567890/87384
+#EXTINF:-1,|EGY| El Sharq
+http://mjidiptv.com:1997/asem/1234567890/87383
+#EXTINF:-1,|EGY| CTV EGY
+http://mjidiptv.com:1997/asem/1234567890/73148
+#EXTINF:-1,|EGY| AL FADY
+http://mjidiptv.com:1997/asem/1234567890/73147
+#EXTINF:-1,|EGY| AGHAPY
+http://mjidiptv.com:1997/asem/1234567890/73146
+#EXTINF:-1,|EGY| Mehwar
+http://mjidiptv.com:1997/asem/1234567890/73144
+#EXTINF:-1,|LBN| Al Mayadeen
+http://mjidiptv.com:1997/asem/1234567890/5147
+#EXTINF:-1,|LBN| AL JADEED
+http://mjidiptv.com:1997/asem/1234567890/54013
+#EXTINF:-1,|LBN| ALAAN TV
+http://mjidiptv.com:1997/asem/1234567890/54015
+#EXTINF:-1,|LBN| AL MANAR
+http://mjidiptv.com:1997/asem/1234567890/54016
+#EXTINF:-1,|LBN| Teleliban TV
+http://mjidiptv.com:1997/asem/1234567890/54017
+#EXTINF:-1,|LBN| ASIA TV
+http://mjidiptv.com:1997/asem/1234567890/54018
+#EXTINF:-1,|LBN| CBC
+http://mjidiptv.com:1997/asem/1234567890/54019
+#EXTINF:-1,|LBN| CBC Drama
+http://mjidiptv.com:1997/asem/1234567890/54020
+#EXTINF:-1,|LBN| CBC Sofra
+http://mjidiptv.com:1997/asem/1234567890/54021
+#EXTINF:-1,|LBN| ETIHAD TV
+http://mjidiptv.com:1997/asem/1234567890/54022
+#EXTINF:-1,|LBN| Future TV
+http://mjidiptv.com:1997/asem/1234567890/54023
+#EXTINF:-1,|LBN| LBC SAT
+http://mjidiptv.com:1997/asem/1234567890/54024
+#EXTINF:-1,|LBN| LDC
+http://mjidiptv.com:1997/asem/1234567890/54025
+#EXTINF:-1,|LBN| MTV Lebanon
+http://mjidiptv.com:1997/asem/1234567890/54026
+#EXTINF:-1,|LBN| OTV
+http://mjidiptv.com:1997/asem/1234567890/54027
+#EXTINF:-1,|LBN| ROYA
+http://mjidiptv.com:1997/asem/1234567890/54028
+#EXTINF:-1,|LBN| El Hakika
+http://mjidiptv.com:1997/asem/1234567890/54029
+#EXTINF:-1,|LBN| AL MINBAR TV
+http://mjidiptv.com:1997/asem/1234567890/54014
+#EXTINF:-1,|UAE| AD SPORT 1 HD
+http://mjidiptv.com:1997/asem/1234567890/54048
+#EXTINF:-1,|UAE| AD SPORT 2 HD
+http://mjidiptv.com:1997/asem/1234567890/54049
+#EXTINF:-1,|UAE| AD SPORT 3 HD
+http://mjidiptv.com:1997/asem/1234567890/54050
+#EXTINF:-1,|UAE| AD SPORT 4 HD
+http://mjidiptv.com:1997/asem/1234567890/54051
+#EXTINF:-1,|UAE| DUBAI SPORTS 1 HD
+http://mjidiptv.com:1997/asem/1234567890/54055
+#EXTINF:-1,|UAE| DUBAI SPORTS 2 HD
+http://mjidiptv.com:1997/asem/1234567890/54056
+#EXTINF:-1,|UAE| DUBAI SPORTS 3 HD
+http://mjidiptv.com:1997/asem/1234567890/54057
+#EXTINF:-1,|UAE| DUBAI RACING 2 HD
+http://mjidiptv.com:1997/asem/1234567890/54059
+#EXTINF:-1,|UAE| DUBAI RACING 3 HD
+http://mjidiptv.com:1997/asem/1234567890/54060
+#EXTINF:-1,|UAE| SHARJAH SPORT HD
+http://mjidiptv.com:1997/asem/1234567890/54061
+#EXTINF:-1,|UAE| AD NAT GEO HD
+http://mjidiptv.com:1997/asem/1234567890/54062
+#EXTINF:-1,|UAE| ABU DHABI TV HD
+http://mjidiptv.com:1997/asem/1234567890/54063
+#EXTINF:-1,|UAE| AD EMARAT HD
+http://mjidiptv.com:1997/asem/1234567890/54064
+#EXTINF:-1,|UAE| ABU DHABI DRAMA HD
+http://mjidiptv.com:1997/asem/1234567890/54065
+#EXTINF:-1,|UAE| AL-WAHA
+http://mjidiptv.com:1997/asem/1234567890/54066
+#EXTINF:-1,|UAE| AL AAN
+http://mjidiptv.com:1997/asem/1234567890/54067
+#EXTINF:-1,|UAE| DUBAI TV HD
+http://mjidiptv.com:1997/asem/1234567890/54068
+#EXTINF:-1,|UAE| DUBAI ONE HD
+http://mjidiptv.com:1997/asem/1234567890/54069
+#EXTINF:-1,|UAE| DUBAI ZAMAN
+http://mjidiptv.com:1997/asem/1234567890/54070
+#EXTINF:-1,|UAE| NOOR DUBAI HD
+http://mjidiptv.com:1997/asem/1234567890/54071
+#EXTINF:-1,|UAE| SAMA DUBAI HD
+http://mjidiptv.com:1997/asem/1234567890/54072
+#EXTINF:-1,|UAE| SHARJAH HD
+http://mjidiptv.com:1997/asem/1234567890/54073
+#EXTINF:-1,|UAE| ZEE AFLAM
+http://mjidiptv.com:1997/asem/1234567890/54074
+#EXTINF:-1,|UAE| ZEE ALWAN
+http://mjidiptv.com:1997/asem/1234567890/54075
+#EXTINF:-1,|UAE| B4U AFLAM
+http://mjidiptv.com:1997/asem/1234567890/54076
+#EXTINF:-1,|UAE| B4U PLUS
+http://mjidiptv.com:1997/asem/1234567890/54077
+#EXTINF:-1,|UAE| AJMAN TV HD
+http://mjidiptv.com:1997/asem/1234567890/54078
+#EXTINF:-1,|UAE| Beity
+http://mjidiptv.com:1997/asem/1234567890/54079
+#EXTINF:-1,|UAE| CITRUSS TV HD
+http://mjidiptv.com:1997/asem/1234567890/54080
+#EXTINF:-1,|UAE| HAWAS TV
+http://mjidiptv.com:1997/asem/1234567890/54081
+#EXTINF:-1,|UAE| WANASAH
+http://mjidiptv.com:1997/asem/1234567890/54082
+#EXTINF:-1,|UAE| Music Now
+http://mjidiptv.com:1997/asem/1234567890/54083
+#EXTINF:-1,|UAE| B4U AFLAM+
+http://mjidiptv.com:1997/asem/1234567890/62521
+#EXTINF:-1,|KSA| SAUDI CH FOR QURAN
+http://mjidiptv.com:1997/asem/1234567890/54031
+#EXTINF:-1,|KSA| SAUDI CH FOR SUNNAH
+http://mjidiptv.com:1997/asem/1234567890/54032
+#EXTINF:-1,|KSA| SAUDI CHANNEL 1 HD
+http://mjidiptv.com:1997/asem/1234567890/54034
+#EXTINF:-1,|KSA| SAUDI CHANNEL 2
+http://mjidiptv.com:1997/asem/1234567890/54035
+#EXTINF:-1,|KSA| AL EKHBARIA
+http://mjidiptv.com:1997/asem/1234567890/54036
+#EXTINF:-1,|KSA| SAUDI 24
+http://mjidiptv.com:1997/asem/1234567890/54038
+#EXTINF:-1,|KSA| SAUDI 24 SPORT
+http://mjidiptv.com:1997/asem/1234567890/91096
+#EXTINF:-1,|KSA| Saudia Asharq News HD
+http://mjidiptv.com:1997/asem/1234567890/91095
+#EXTINF:-1,|KSA| SAUDI SPORT 4 HD
+http://mjidiptv.com:1997/asem/1234567890/54039
+#EXTINF:-1,|KSA| SAUDI SBC
+http://mjidiptv.com:1997/asem/1234567890/54041
+#EXTINF:-1,|KSA| SAUDI SPORT 1 HD
+http://mjidiptv.com:1997/asem/1234567890/54044
+#EXTINF:-1,|KSA| SAUDI SPORTS 2 HD
+http://mjidiptv.com:1997/asem/1234567890/54045
+#EXTINF:-1,|KSA| SAUDI SPORT 3 HD
+http://mjidiptv.com:1997/asem/1234567890/79312
+#EXTINF:-1,----●★| KUWAIT |★●----
+http://mjidiptv.com:1997/asem/1234567890/54001
+#EXTINF:-1,|KUW| KUWAIT TV CH1 HD
+http://mjidiptv.com:1997/asem/1234567890/54002
+#EXTINF:-1,|KUW| KUWAIT TV CH2 HD
+http://mjidiptv.com:1997/asem/1234567890/54003
+#EXTINF:-1,|KUW| KUWAIT TV ARABE HD
+http://mjidiptv.com:1997/asem/1234567890/54004
+#EXTINF:-1,|KUW| KUWAIT AL RAI HD
+http://mjidiptv.com:1997/asem/1234567890/54005
+#EXTINF:-1,|KUW| FUNOON
+http://mjidiptv.com:1997/asem/1234567890/54006
+#EXTINF:-1,|KUW| KUWAIT AL MAJLIS HD
+http://mjidiptv.com:1997/asem/1234567890/54007
+#EXTINF:-1,|KUW| KUWAIT AL QURAIN HD
+http://mjidiptv.com:1997/asem/1234567890/54008
+#EXTINF:-1,|KUW| KUWAIT TV ETHRAA HD
+http://mjidiptv.com:1997/asem/1234567890/54009
+#EXTINF:-1,|KUW| KUWAIT TV SPORT HD
+http://mjidiptv.com:1997/asem/1234567890/54010
+#EXTINF:-1,|KUW| SCOPE TV
+http://mjidiptv.com:1997/asem/1234567890/66758
+#EXTINF:-1,|KUW| AL SHAHED
+http://mjidiptv.com:1997/asem/1234567890/66759
+#EXTINF:-1,|PSE| PALESTINE
+http://mjidiptv.com:1997/asem/1234567890/95894
+#EXTINF:-1,|PSE| PALESTINE LIVE
+http://mjidiptv.com:1997/asem/1234567890/95893
+#EXTINF:-1,|PSE| PALESTINE TODAY
+http://mjidiptv.com:1997/asem/1234567890/95892
+#EXTINF:-1,|PSE| PALESTINE NEWS
+http://mjidiptv.com:1997/asem/1234567890/95891
+#EXTINF:-1,|PSE| PALESTINE SPORT
+http://mjidiptv.com:1997/asem/1234567890/95890
+#EXTINF:-1,|PSE| PALESTINE FHD
+http://mjidiptv.com:1997/asem/1234567890/95889
+#EXTINF:-1,|PSE| PALESTINE LIVE FHD
+http://mjidiptv.com:1997/asem/1234567890/95888
+#EXTINF:-1,|LBY| Libya Sport Channel
+http://mjidiptv.com:1997/asem/1234567890/91093
+#EXTINF:-1,|LBY| Tanasuh TV
+http://mjidiptv.com:1997/asem/1234567890/91091
+#EXTINF:-1,|LBY| LIBYA CHANNEL
+http://mjidiptv.com:1997/asem/1234567890/91090
+#EXTINF:-1,|LBY| LIBYAN TV
+http://mjidiptv.com:1997/asem/1234567890/91089
+#EXTINF:-1,|LBY| Libyaelwatan
+http://mjidiptv.com:1997/asem/1234567890/91088
+#EXTINF:-1,|LBY| Libya WTV
+http://mjidiptv.com:1997/asem/1234567890/91087
+#EXTINF:-1,|LBY| Libya Sport 2 HD
+http://mjidiptv.com:1997/asem/1234567890/91084
+#EXTINF:-1,|LBY| Libya One TV
+http://mjidiptv.com:1997/asem/1234567890/91082
+#EXTINF:-1,|LBY| Libya Now
+https://stream-02.dc3.dailymotion.com/sec(86G48EQSWKUUFPhHXEV5xpDJLKsdTaUZ_LVdTUxsAkE)/dm/3/x74wje5/s/live-3.m3u8
+#EXTINF:-1,|LBY| Libya Education
+http://mjidiptv.com:1997/asem/1234567890/91079
+#EXTINF:-1,|LBY| LIBYA BUSINESS HD
+http://mjidiptv.com:1997/asem/1234567890/91078
+#EXTINF:-1,|LBY| Libya Alwataniya
+http://mjidiptv.com:1997/asem/1234567890/91077
+#EXTINF:-1,|LBY| Libya Alrasmia
+http://mjidiptv.com:1997/asem/1234567890/91076
+#EXTINF:-1,|LBY| Libya Al Ahrar HD
+http://mjidiptv.com:1997/asem/1234567890/91073
+#EXTINF:-1,|LBY| Libya Al Ahrar
+http://mjidiptv.com:1997/asem/1234567890/91072
+#EXTINF:-1,|LBY| Libya 218 News
+http://mjidiptv.com:1997/asem/1234567890/91070
+#EXTINF:-1,|LBY| LIBYA 218
+http://mjidiptv.com:1997/asem/1234567890/91069
+#EXTINF:-1,|LBY| AL JAMAHIRIA TV
+http://mjidiptv.com:1997/asem/1234567890/91068
+#EXTINF:-1,----●★| SYRIA |★●----
+http://mjidiptv.com:1997/asem/1234567890/54135
+#EXTINF:-1,|SYR| LANA TV HD
+http://mjidiptv.com:1997/asem/1234567890/54136
+#EXTINF:-1,|SYR| SAMA TV HD
+http://mjidiptv.com:1997/asem/1234567890/54137
+#EXTINF:-1,|SYR| SYRIA TV HD
+http://mjidiptv.com:1997/asem/1234567890/54138
+#EXTINF:-1,|SYR| SYRIANA TV HD
+http://mjidiptv.com:1997/asem/1234567890/54139
+#EXTINF:-1,|SYR| SYRIAN EDUCATION
+http://mjidiptv.com:1997/asem/1234567890/54140
+#EXTINF:-1,|SYR| SUROYO TV
+http://mjidiptv.com:1997/asem/1234567890/54141
+#EXTINF:-1,|SYR| SYRIA DRAMA
+http://mjidiptv.com:1997/asem/1234567890/54142
+#EXTINF:-1,|SYR| SYRIA NEWS TV
+http://mjidiptv.com:1997/asem/1234567890/54143
+#EXTINF:-1,|SYR| NOUR EL SHAM
+http://mjidiptv.com:1997/asem/1234567890/54144
+#EXTINF:-1,|SYR| SYRIA Souryana
+http://mjidiptv.com:1997/asem/1234567890/54145
+#EXTINF:-1,|SYR| AL SUMARIA TV
+http://mjidiptv.com:1997/asem/1234567890/54146
+#EXTINF:-1,|SYR| Al-Shaaer TV
+http://mjidiptv.com:1997/asem/1234567890/54147
+#EXTINF:-1,----●★| IRAQ |★●----
+http://mjidiptv.com:1997/asem/1234567890/53975
+#EXTINF:-1,|IRQ| AL ALAM
+http://mjidiptv.com:1997/asem/1234567890/53976
+#EXTINF:-1,|IRQ| AL Anwar
+http://mjidiptv.com:1997/asem/1234567890/53977
+#EXTINF:-1,|IRQ| Al Forat
+http://mjidiptv.com:1997/asem/1234567890/53979
+#EXTINF:-1,|IRQ| Al Ghad SD
+http://mjidiptv.com:1997/asem/1234567890/53980
+#EXTINF:-1,|IRQ| AL Hurra Iraq
+http://mjidiptv.com:1997/asem/1234567890/53981
+#EXTINF:-1,|IRQ| Al Mawsleya
+http://mjidiptv.com:1997/asem/1234567890/53982
+#EXTINF:-1,|IRQ| Al Naeem TV
+http://mjidiptv.com:1997/asem/1234567890/53983
+#EXTINF:-1,|IRQ| AL RASHEED TV
+http://mjidiptv.com:1997/asem/1234567890/53984
+#EXTINF:-1,|IRQ| AL SHARQIYA
+http://mjidiptv.com:1997/asem/1234567890/53985
+#EXTINF:-1,|IRQ| Al Sumaria TV
+http://mjidiptv.com:1997/asem/1234567890/53986
+#EXTINF:-1,|IRQ| ALBAEENAH IRAQ
+http://mjidiptv.com:1997/asem/1234567890/53987
+#EXTINF:-1,|IRQ| Altaghier
+http://mjidiptv.com:1997/asem/1234567890/53988
+#EXTINF:-1,|IRQ| AL RAFIDAYN
+http://mjidiptv.com:1997/asem/1234567890/53990
+#EXTINF:-1,|IRQ| BAGHDAD TV
+http://mjidiptv.com:1997/asem/1234567890/53991
+#EXTINF:-1,|IRQ| IFILM ARABIC
+http://mjidiptv.com:1997/asem/1234567890/53994
+#EXTINF:-1,|IRQ| Iraqia
+http://mjidiptv.com:1997/asem/1234567890/53996
+#EXTINF:-1,|IRQ| Iraqia Sport
+http://mjidiptv.com:1997/asem/1234567890/53998
+#EXTINF:-1,|IRQ| MBC IRAQ
+http://mjidiptv.com:1997/asem/1234567890/54000
+#EXTINF:-1,|IRQ| AL ITEJAH
+http://mjidiptv.com:1997/asem/1234567890/62244
+#EXTINF:-1,|IRQ| AL AAHD
+http://mjidiptv.com:1997/asem/1234567890/62245
+#EXTINF:-1,|IRQ| AL SHAAER TV
+http://mjidiptv.com:1997/asem/1234567890/62248
+#EXTINF:-1,|IRQ| IRAQIA SYRIAC
+http://mjidiptv.com:1997/asem/1234567890/62249
+#EXTINF:-1,|IRQ| NABAA TV
+http://mjidiptv.com:1997/asem/1234567890/62251
+#EXTINF:-1,|IRQ| AFAQ
+http://mjidiptv.com:1997/asem/1234567890/62253
+#EXTINF:-1,|IRQ| AL AYAM
+http://mjidiptv.com:1997/asem/1234567890/62254
+#EXTINF:-1,|IRQ| KARBALAE
+http://mjidiptv.com:1997/asem/1234567890/62255
+#EXTINF:-1,|IRQ| AL ESHRAQ TV
+http://mjidiptv.com:1997/asem/1234567890/62256
+#EXTINF:-1,|IRQ| AL KAWTHAR
+http://mjidiptv.com:1997/asem/1234567890/62257
+#EXTINF:-1,|IRQ| AL RASED
+http://mjidiptv.com:1997/asem/1234567890/62258
+#EXTINF:-1,|IRQ| AL SHARQIYA NEWS
+http://mjidiptv.com:1997/asem/1234567890/62259
+#EXTINF:-1,|IRQ| AL TALEAA TV
+http://mjidiptv.com:1997/asem/1234567890/62260
+#EXTINF:-1,|IRQ| TURKMENIA
+http://mjidiptv.com:1997/asem/1234567890/62261
+#EXTINF:-1,|IRQ|  SHARQIYA FROM KALBAE
+http://mjidiptv.com:1997/asem/1234567890/62262
+#EXTINF:-1,|IRQ| IMAM HUSSEIN TV 2 Arabic
+http://mjidiptv.com:1997/asem/1234567890/62264
+#EXTINF:-1,|IRQ| IMAM HUSSEIN TV 1 Farsi
+http://mjidiptv.com:1997/asem/1234567890/62263
+#EXTINF:-1,|IRQ| ASIA TV
+http://mjidiptv.com:1997/asem/1234567890/62269
+#EXTINF:-1,|JOR| JORDAN
+http://mjidiptv.com:1997/asem/1234567890/54090
+#EXTINF:-1,|JOR| JORDAN AMMAN
+http://mjidiptv.com:1997/asem/1234567890/54091
+#EXTINF:-1,|JOR| NOOR JORDAN
+http://mjidiptv.com:1997/asem/1234567890/54092
+#EXTINF:-1,|JOR| AL MALAKOT
+http://mjidiptv.com:1997/asem/1234567890/54093
+#EXTINF:-1,|JOR| SAT 7
+http://mjidiptv.com:1997/asem/1234567890/54101
+#EXTINF:-1,|JOR| SAT 7 KIDS
+http://mjidiptv.com:1997/asem/1234567890/54102
+#EXTINF:-1,|JOR| NOURSAT
+http://mjidiptv.com:1997/asem/1234567890/54103
+#EXTINF:-1,|JOR| NOURSAT ALSHABAB
+http://mjidiptv.com:1997/asem/1234567890/54104
+#EXTINF:-1,|YEM| YEMEN TV
+http://mjidiptv.com:1997/asem/1234567890/54150
+#EXTINF:-1,|YEM| YEMEN SAMAA
+http://mjidiptv.com:1997/asem/1234567890/54151
+#EXTINF:-1,|YEM| YEMEN SHABAB
+http://mjidiptv.com:1997/asem/1234567890/54152
+#EXTINF:-1,|YEM| AL GHAD AL MUSHREQ
+http://mjidiptv.com:1997/asem/1234567890/54153
+#EXTINF:-1,|YEM| AL SHAREYYAH CHANNEL
+http://mjidiptv.com:1997/asem/1234567890/54154
+#EXTINF:-1,|YEM| ADEN TV
+http://mjidiptv.com:1997/asem/1234567890/54155
+#EXTINF:-1,|BAH| BAHRAIN QURAN
+http://mjidiptv.com:1997/asem/1234567890/54085
+#EXTINF:-1,|BAH| BAHRAIN TV
+http://mjidiptv.com:1997/asem/1234567890/54086
+#EXTINF:-1,|BAH| BAHRAIN INTERNATIONAL
+http://mjidiptv.com:1997/asem/1234567890/54087
+#EXTINF:-1,|BAH| Bahrain Sport 1 FHD
+http://mjidiptv.com:1997/asem/1234567890/54088
+#EXTINF:-1,|MAU| ELMOURITANIA
+http://mjidiptv.com:1997/asem/1234567890/54108
+#EXTINF:-1,|MAU| ELMOURITANIA 2
+http://mjidiptv.com:1997/asem/1234567890/54109
+#EXTINF:-1,|MAU| EL MOURABITOUNE
+http://mjidiptv.com:1997/asem/1234567890/54110
+#EXTINF:-1,|MAU| ARRIADIA MORITANIA
+http://mjidiptv.com:1997/asem/1234567890/54111
+#EXTINF:-1,|MAU| EL MAHADRA
+http://mjidiptv.com:1997/asem/1234567890/54112
+#EXTINF:-1,|MAU| ATHAGAFIA MOURITANIA
+http://mjidiptv.com:1997/asem/1234567890/54113
+#EXTINF:-1,|SUD| SUDAN TV
+http://mjidiptv.com:1997/asem/1234567890/54120
+#EXTINF:-1,|SUD| SUDAN DRAMA
+http://mjidiptv.com:1997/asem/1234567890/54121
+#EXTINF:-1,|SUD| SUDAN KNOWLEDGE
+http://mjidiptv.com:1997/asem/1234567890/54122
+#EXTINF:-1,|SUD| SUDAN MUSIC
+http://mjidiptv.com:1997/asem/1234567890/54123
+#EXTINF:-1,|SUD| SUDAN SPORT HD
+http://mjidiptv.com:1997/asem/1234567890/54124
+#EXTINF:-1,|SUD| SUDANIA 24
+http://mjidiptv.com:1997/asem/1234567890/54125
+#EXTINF:-1,|SUD| TAYBA
+http://mjidiptv.com:1997/asem/1234567890/54126
+#EXTINF:-1,|SUD| BLUE NILE TV
+http://mjidiptv.com:1997/asem/1234567890/54127
+#EXTINF:-1,|SUD| SUDAN ASHOROOQ
+http://mjidiptv.com:1997/asem/1234567890/54128
+#EXTINF:-1,|SUD| GEZIRA
+http://mjidiptv.com:1997/asem/1234567890/54129
+#EXTINF:-1,|SUD| KASSALA
+http://mjidiptv.com:1997/asem/1234567890/54130
+#EXTINF:-1,|SUD| KHARTOUM
+http://mjidiptv.com:1997/asem/1234567890/54131
+#EXTINF:-1,|SUD| RED SEA
+http://mjidiptv.com:1997/asem/1234567890/54132
+#EXTINF:-1,|SUD| SUDAN Al ISTIJABATV
+http://mjidiptv.com:1997/asem/1234567890/54133
+#EXTINF:-1,|SUD| AL HILAL TV
+http://mjidiptv.com:1997/asem/1234567890/54134
+#EXTINF:-1,|OMA| OMAN TV GENERAL HD
+http://mjidiptv.com:1997/asem/1234567890/54115
+#EXTINF:-1,|OMA| OMAN TV LIVE HD
+http://mjidiptv.com:1997/asem/1234567890/54116
+#EXTINF:-1,|OMA| OMAN TV CULTURE HD
+http://mjidiptv.com:1997/asem/1234567890/54117
+#EXTINF:-1,|OMA| OMAN TV SPORT HD
+http://mjidiptv.com:1997/asem/1234567890/54118
+#EXTINF:-1,***** SHOWTIMES *****
+http://mjidiptv.com:1997/asem/1234567890/533
+#EXTINF:-1,|OSN| SEEVII PRIME
+http://mjidiptv.com:1997/asem/1234567890/16786
+#EXTINF:-1,|OSN| ANIMAL PLANET
+http://mjidiptv.com:1997/asem/1234567890/17925
+#EXTINF:-1,|OSN| NAT GEO PEOPLE
+http://mjidiptv.com:1997/asem/1234567890/17923
+#EXTINF:-1,|OSN| NAT GEOGRAPHIC HD
+http://mjidiptv.com:1997/asem/1234567890/9948
+#EXTINF:-1,|OSN| NAT GEO WILD
+http://mjidiptv.com:1997/asem/1234567890/17926
+#EXTINF:-1,|OSN| TRAVEL CHANNEL
+http://mjidiptv.com:1997/asem/1234567890/17910
+#EXTINF:-1,|OSN| DISNEY XD HD
+http://mjidiptv.com:1997/asem/1234567890/9949
+#EXTINF:-1,|OSN| SYFY HD
+http://mjidiptv.com:1997/asem/1234567890/9947
+#EXTINF:-1,|OSN| AL YAWM
+http://mjidiptv.com:1997/asem/1234567890/4543
+#EXTINF:-1,|OSN| Yahala Al Oula HD
+http://mjidiptv.com:1997/asem/1234567890/72927
+#EXTINF:-1,|OSN| Yahala HD
+http://mjidiptv.com:1997/asem/1234567890/17953
+#EXTINF:-1,|OSN| Yahala Cinema HD
+http://mjidiptv.com:1997/asem/1234567890/17952
+#EXTINF:-1,|OSN| NICKELODEON
+http://mjidiptv.com:1997/asem/1234567890/6664
+#EXTINF:-1,|OSN| MOVIES HD
+http://mjidiptv.com:1997/asem/1234567890/17947
+#EXTINF:-1,|OSN| OSN ENIGMA
+http://mjidiptv.com:1997/asem/1234567890/17944
+#EXTINF:-1,|OSN| MOVIES FIRST HD
+http://mjidiptv.com:1997/asem/1234567890/17943
+#EXTINF:-1,|OSN| MUSALSALAT HD
+http://mjidiptv.com:1997/asem/1234567890/17942
+#EXTINF:-1,|OSN| MOVIES PREMIERE 2
+http://mjidiptv.com:1997/asem/1234567890/4529
+#EXTINF:-1,|OSN| CINEMA
+http://mjidiptv.com:1997/asem/1234567890/17950
+#EXTINF:-1,|OSN| DISNEY CHANNEL
+http://mjidiptv.com:1997/asem/1234567890/17908
+#EXTINF:-1,|OSN| STAR MOVIES
+http://mjidiptv.com:1997/asem/1234567890/4545
+#EXTINF:-1,|OSN| STAR WORLD HD
+http://mjidiptv.com:1997/asem/1234567890/17951
+#EXTINF:-1,|OSN| FILM BOX
+http://mjidiptv.com:1997/asem/1234567890/17913
+#EXTINF:-1,|OSN| MY CINEMA
+http://mjidiptv.com:1997/asem/1234567890/17922
+#EXTINF:-1,|OSN| FIGHT HD
+http://mjidiptv.com:1997/asem/1234567890/17921
+#EXTINF:-1,|OSN| FOX HD
+http://mjidiptv.com:1997/asem/1234567890/17933
+#EXTINF:-1,|OSN| FOX LIFE
+http://mjidiptv.com:1997/asem/1234567890/17928
+#EXTINF:-1,|OSN| FOX CRIME
+http://mjidiptv.com:1997/asem/1234567890/17929
+#EXTINF:-1,|OSN| FOX REWAYAT
+http://mjidiptv.com:1997/asem/1234567890/17927
+#EXTINF:-1,|OSN| COMEDY
+http://mjidiptv.com:1997/asem/1234567890/4525
+#EXTINF:-1,|OSN| SERIES FIRST HD
+http://mjidiptv.com:1997/asem/1234567890/17940
+#EXTINF:-1,|OSN| AMC MOVIES
+http://mjidiptv.com:1997/asem/1234567890/17916
+#EXTINF:-1,|OSN| DREAM WORKS
+http://mjidiptv.com:1997/asem/1234567890/17914
+#EXTINF:-1,|OSN| FIGHT BOX 
+http://mjidiptv.com:1997/asem/1234567890/17909
+#EXTINF:-1,|OSN| FINE LIVING
+http://mjidiptv.com:1997/asem/1234567890/17919
+#EXTINF:-1,|OSN| WWE HD
+http://mjidiptv.com:1997/asem/1234567890/17934
+#EXTINF:-1,|OSN| KIDS HD
+http://mjidiptv.com:1997/asem/1234567890/17946
+#EXTINF:-1,|OSN| BOOMERANG
+http://mjidiptv.com:1997/asem/1234567890/17936
+#EXTINF:-1,|OSN| CARTOON NETWORK
+http://mjidiptv.com:1997/asem/1234567890/17935
+#EXTINF:-1,|OSN| DISNEY JUNIOR HD
+http://mjidiptv.com:1997/asem/1234567890/17937
+#EXTINF:-1,|OSN| DISCOVERY SCIENCE
+http://mjidiptv.com:1997/asem/1234567890/4549
+#EXTINF:-1,|OSN| KIDS ZONE TV
+http://mjidiptv.com:1997/asem/1234567890/58579
+#EXTINF:-1,|OSN| HISTORY CHANNEL
+http://mjidiptv.com:1997/asem/1234567890/58580
+#EXTINF:-1,|OSN| FATAFET
+http://mjidiptv.com:1997/asem/1234567890/58581
+#EXTINF:-1,|OSN| E! HD
+http://mjidiptv.com:1997/asem/1234567890/58582
+#EXTINF:-1,|OSN| PARAMOUNT
+http://mjidiptv.com:1997/asem/1234567890/58583
+#EXTINF:-1,|OSN| MOVIES PREMIERE
+http://mjidiptv.com:1997/asem/1234567890/58584
+#EXTINF:-1,|OSN| BINGE
+http://mjidiptv.com:1997/asem/1234567890/58585
+#EXTINF:-1,|OSN| MOVIES ACTION
+http://mjidiptv.com:1997/asem/1234567890/63822
+#EXTINF:-1,|OSN| BBC FIRST
+http://mjidiptv.com:1997/asem/1234567890/63823
+#EXTINF:-1,|OSN| DISNEY MOVIES
+http://mjidiptv.com:1997/asem/1234567890/63824
+#EXTINF:-1,|OSN| MOVIES FIRST +2
+http://mjidiptv.com:1997/asem/1234567890/63825
+#EXTINF:-1,|OSN| MOVIES FESTIVAL
+http://mjidiptv.com:1997/asem/1234567890/63826
+#EXTINF:-1,|OSN| MOVIES THRILLER
+http://mjidiptv.com:1997/asem/1234567890/63827
+#EXTINF:-1,|OSN| MOVIES THRILLER +2
+http://mjidiptv.com:1997/asem/1234567890/63828
+#EXTINF:-1,|OSN| MOVIES DRAMA
+http://mjidiptv.com:1997/asem/1234567890/63829
+#EXTINF:-1,|OSN| COMEDY CENTRAL
+http://mjidiptv.com:1997/asem/1234567890/63830
+#EXTINF:-1,|OSN| MOVIES COMEDY +2
+http://mjidiptv.com:1997/asem/1234567890/63831
+#EXTINF:-1,|OSN| MOVIES FAMILY
+http://mjidiptv.com:1997/asem/1234567890/63832
+#EXTINF:-1,|OSN| MOVIES +2
+http://mjidiptv.com:1997/asem/1234567890/63833
+#EXTINF:-1,|OSN| ON DEMAND 1
+http://mjidiptv.com:1997/asem/1234567890/64288
+#EXTINF:-1,|OSN| ON DEMAND 2
+http://mjidiptv.com:1997/asem/1234567890/64289
+#EXTINF:-1,|OSN| ON DEMAND 3
+http://mjidiptv.com:1997/asem/1234567890/64290
+#EXTINF:-1,|OSN| ON DEMAND EXTRA 1
+http://mjidiptv.com:1997/asem/1234567890/64291
+#EXTINF:-1,|OSN| ON DEMAND EXTRA 2
+http://mjidiptv.com:1997/asem/1234567890/64292
+#EXTINF:-1,|OSN| On Demand Extra 3
+http://mjidiptv.com:1997/asem/1234567890/64293
+#EXTINF:-1,|OSN| TLC HD
+http://mjidiptv.com:1997/asem/1234567890/66913
+#EXTINF:-1,|OSN| Pop Up
+http://mjidiptv.com:1997/asem/1234567890/66912
+#EXTINF:-1,|OSN| Mezze
+http://mjidiptv.com:1997/asem/1234567890/66911
+#EXTINF:-1,|AR| NETFLIX KIDS FHD
+http://mjidiptv.com:1997/asem/1234567890/91163
+#EXTINF:-1,|AR| NETFLIX KIDS HD
+http://mjidiptv.com:1997/asem/1234567890/91162
+#EXTINF:-1,***** My-HD *****
+http://mjidiptv.com:1997/asem/1234567890/9951
+#EXTINF:-1,|MYHD| MBC 1 HD
+http://mjidiptv.com:1997/asem/1234567890/5817
+#EXTINF:-1,|MYHD| MBC 2 HD
+http://mjidiptv.com:1997/asem/1234567890/5816
+#EXTINF:-1,|MYHD| MBC 3 HD
+http://mjidiptv.com:1997/asem/1234567890/5815
+#EXTINF:-1,|MYHD| MBC 4 HD
+http://mjidiptv.com:1997/asem/1234567890/5814
+#EXTINF:-1,|MYHD| MBC ACTION HD
+http://mjidiptv.com:1997/asem/1234567890/5813
+#EXTINF:-1,|MYHD| MBC BOLLYWOOD HD
+http://mjidiptv.com:1997/asem/1234567890/5812
+#EXTINF:-1,|MYHD| MBC PLUS DRAMA HD
+http://mjidiptv.com:1997/asem/1234567890/5819
+#EXTINF:-1,|MYHD| MBC VARIETY HD
+http://mjidiptv.com:1997/asem/1234567890/5818
+#EXTINF:-1,|MYHD| MBC MAX HD
+http://mjidiptv.com:1997/asem/1234567890/5810
+#EXTINF:-1,|MYHD| ROTANA CINEMA HD
+http://mjidiptv.com:1997/asem/1234567890/18023
+#EXTINF:-1,|MYHD| ROTANA CLASSIC HD
+http://mjidiptv.com:1997/asem/1234567890/18022
+#EXTINF:-1,|MYHD| ROTANA DRAMA HD
+http://mjidiptv.com:1997/asem/1234567890/18021
+#EXTINF:-1,|MYHD| ROTANA KHALIJIA HD
+http://mjidiptv.com:1997/asem/1234567890/18020
+#EXTINF:-1,|MYHD| ROTANA MUSIC HD
+http://mjidiptv.com:1997/asem/1234567890/18019
+#EXTINF:-1,|MYHD| Discovery Family
+http://mjidiptv.com:1997/asem/1234567890/9956
+#EXTINF:-1,|MYHD| DISCOVERY HD
+http://mjidiptv.com:1997/asem/1234567890/9958
+#EXTINF:-1,|MYHD| Discovery ID HD
+http://mjidiptv.com:1997/asem/1234567890/9955
+#EXTINF:-1,|MYHD| DISCOVERY SCIENCE
+http://mjidiptv.com:1997/asem/1234567890/9957
+#EXTINF:-1,|MYHD| NAT GEO PEOPLE
+http://mjidiptv.com:1997/asem/1234567890/9959
+#EXTINF:-1,|MYHD| NAT GEOGRAPHIC
+http://mjidiptv.com:1997/asem/1234567890/9960
+#EXTINF:-1,|MYHD| PLANET EARTH
+http://mjidiptv.com:1997/asem/1234567890/17992
+#EXTINF:-1,|MYHD| NAT GEO WILD
+http://mjidiptv.com:1997/asem/1234567890/4536
+#EXTINF:-1,|MYHD| TDC TV
+http://mjidiptv.com:1997/asem/1234567890/4537
+#EXTINF:-1,|MYHD| ZOOMO
+http://mjidiptv.com:1997/asem/1234567890/17835
+#EXTINF:-1,|MYHD| DOCU BOX HD
+http://mjidiptv.com:1997/asem/1234567890/18008
+#EXTINF:-1,|MYHD| TRAVEL CHANNEL
+http://mjidiptv.com:1997/asem/1234567890/17841
+#EXTINF:-1,|MYHD| Food Network
+http://mjidiptv.com:1997/asem/1234567890/17844
+#EXTINF:-1,|MYHD| GOURMET
+http://mjidiptv.com:1997/asem/1234567890/17824
+#EXTINF:-1,|MYHD| FOX
+http://mjidiptv.com:1997/asem/1234567890/17832
+#EXTINF:-1,|MYHD| FOX CRIME
+http://mjidiptv.com:1997/asem/1234567890/17847
+#EXTINF:-1,|MyHD| FOX LIFE
+http://mjidiptv.com:1997/asem/1234567890/17846
+#EXTINF:-1,|MYHD| FOX REWAYAT
+http://mjidiptv.com:1997/asem/1234567890/17845
+#EXTINF:-1,|MYHD| FOX MOVIES ACTION
+http://mjidiptv.com:1997/asem/1234567890/6666
+#EXTINF:-1,|MYHD| FOX MOVIES FAMILY
+http://mjidiptv.com:1997/asem/1234567890/6667
+#EXTINF:-1,|MYHD| STAR MOVIES HD
+http://mjidiptv.com:1997/asem/1234567890/9953
+#EXTINF:-1,|MYHD| MY CINEMA HD
+http://mjidiptv.com:1997/asem/1234567890/6669
+#EXTINF:-1,|MYHD| FX HD
+http://mjidiptv.com:1997/asem/1234567890/9952
+#EXTINF:-1,|MYHD| AMC
+http://mjidiptv.com:1997/asem/1234567890/17830
+#EXTINF:-1,|MYHD| DMAX
+http://mjidiptv.com:1997/asem/1234567890/17833
+#EXTINF:-1,|MYHD| DRAMA
+http://mjidiptv.com:1997/asem/1234567890/17827
+#EXTINF:-1,|MYHD| DREAM WORKS
+http://mjidiptv.com:1997/asem/1234567890/17831
+#EXTINF:-1,|MYHD| FILM BOX
+http://mjidiptv.com:1997/asem/1234567890/17828
+#EXTINF:-1,|MYHD| FILM BOX ARTHOUSE
+http://mjidiptv.com:1997/asem/1234567890/17848
+#EXTINF:-1,|MYHD| FINE LIVING
+http://mjidiptv.com:1997/asem/1234567890/17836
+#EXTINF:-1,|MYHD| FIGHT BOX HD
+http://mjidiptv.com:1997/asem/1234567890/18011
+#EXTINF:-1,|MYHD| Series HD 1
+http://mjidiptv.com:1997/asem/1234567890/17825
+#EXTINF:-1,|MYHD| SERIES HD 2
+http://mjidiptv.com:1997/asem/1234567890/17826
+#EXTINF:-1,|MYHD| STAR MOVIES
+http://mjidiptv.com:1997/asem/1234567890/17829
+#EXTINF:-1,|MYHD| STAR WORLD
+http://mjidiptv.com:1997/asem/1234567890/17834
+#EXTINF:-1,|MYHD| TMC
+http://mjidiptv.com:1997/asem/1234567890/17842
+#EXTINF:-1,|MYHD| Outdoor
+http://mjidiptv.com:1997/asem/1234567890/17843
+#EXTINF:-1,|MYHD| AD Nat Geo Kids
+http://mjidiptv.com:1997/asem/1234567890/17993
+#EXTINF:-1,|MYHD| JUNIOR
+http://mjidiptv.com:1997/asem/1234567890/17837
+#EXTINF:-1,|MYHD| BOOMERANG
+http://mjidiptv.com:1997/asem/1234567890/17840
+#EXTINF:-1,|MYHD| CARTOON NETWORK
+http://mjidiptv.com:1997/asem/1234567890/17839
+#EXTINF:-1,|MYHD| GULLI AR
+http://mjidiptv.com:1997/asem/1234567890/17823
+#EXTINF:-1,|MYHD| JIMJAM
+http://mjidiptv.com:1997/asem/1234567890/17838
+#EXTINF:-1,|MYHD| FASHION BOX
+http://mjidiptv.com:1997/asem/1234567890/64613
+#EXTINF:-1,|MYHD| DOCU BOX
+http://mjidiptv.com:1997/asem/1234567890/64614
+#EXTINF:-1,|MYHD| FAST & FUN BOX
+http://mjidiptv.com:1997/asem/1234567890/64615
+#EXTINF:-1,|AR| AD NATIONAL GEOGRAPHIC HEVC
+http://mjidiptv.com:1997/asem/1234567890/67864
+#EXTINF:-1,|AR| ROTANA KHALIJEYA HEVC
+http://mjidiptv.com:1997/asem/1234567890/67865
+#EXTINF:-1,|AR| AD SPORTS 1 HEVC
+http://mjidiptv.com:1997/asem/1234567890/67866
+#EXTINF:-1,|AR| AD SPORTS 2 HEVC
+http://mjidiptv.com:1997/asem/1234567890/67867
+#EXTINF:-1,|AR| AD SPORT 3 HEVC
+http://mjidiptv.com:1997/asem/1234567890/67868
+#EXTINF:-1,|AR| AD SPORT 4 HEVC
+http://mjidiptv.com:1997/asem/1234567890/67869
+#EXTINF:-1,|AR| ABU DHABY HEVC
+http://mjidiptv.com:1997/asem/1234567890/67870
+#EXTINF:-1,|AR| MAJD KIDS HEVC
+http://mjidiptv.com:1997/asem/1234567890/67871
+#EXTINF:-1,|AR| AL IMARAT TV HEVC
+http://mjidiptv.com:1997/asem/1234567890/67872
+#EXTINF:-1,|AR| YAS SPORT HEVC
+http://mjidiptv.com:1997/asem/1234567890/67873
+#EXTINF:-1,|AR| AL OULA HEVC EGY
+http://mjidiptv.com:1997/asem/1234567890/67874
+#EXTINF:-1,|AR| AL HAYAT HEVC
+http://mjidiptv.com:1997/asem/1234567890/67875
+#EXTINF:-1,|AR| AL ARABY HEVC
+http://mjidiptv.com:1997/asem/1234567890/67876
+#EXTINF:-1,|AR| ON LIVE HEVC
+http://mjidiptv.com:1997/asem/1234567890/67877
+#EXTINF:-1,|AR| ON SPORTS HEVC
+http://mjidiptv.com:1997/asem/1234567890/67878
+#EXTINF:-1,|AR| DMC SPORTS HEVC
+http://mjidiptv.com:1997/asem/1234567890/67879
+#EXTINF:-1,|AR| ALKASS ONE HEVC
+http://mjidiptv.com:1997/asem/1234567890/67880
+#EXTINF:-1,|AR| ALKASS 2 HEVC
+http://mjidiptv.com:1997/asem/1234567890/67881
+#EXTINF:-1,|AR| ALKASS FOUR HEVC
+http://mjidiptv.com:1997/asem/1234567890/67882
+#EXTINF:-1,|AR| AL AOULA INT HEVC
+http://mjidiptv.com:1997/asem/1234567890/67883
+#EXTINF:-1,|AR| WAAR HEVC
+http://mjidiptv.com:1997/asem/1234567890/67884
+#EXTINF:-1,|AR| AL SHARQUIA HEVC
+http://mjidiptv.com:1997/asem/1234567890/67885
+#EXTINF:-1,|AR| LIBYA AHRAR HEVC
+http://mjidiptv.com:1997/asem/1234567890/67886
+#EXTINF:-1,|AR| UAE DUBAI TV HEVC
+http://mjidiptv.com:1997/asem/1234567890/67887
+#EXTINF:-1,|AR| UAE SAMA DUBAI HEVC
+http://mjidiptv.com:1997/asem/1234567890/67888
+#EXTINF:-1,|AR| UAE FUJAIRA TV HEVC
+http://mjidiptv.com:1997/asem/1234567890/67889
+#EXTINF:-1,|AR| UAE DUBAI SPORTS 1 HEVC
+http://mjidiptv.com:1997/asem/1234567890/67890
+#EXTINF:-1,|AR| UAE DUBAI RACING HEVC
+http://mjidiptv.com:1997/asem/1234567890/67891
+#EXTINF:-1,|AR| UAE DHAFRA HEVC
+http://mjidiptv.com:1997/asem/1234567890/67892
+#EXTINF:-1,|AR| UAE DUBAI ONE HEVC
+http://mjidiptv.com:1997/asem/1234567890/67893
+#EXTINF:-1,|AR| UAE AD DRAMA HEVC
+http://mjidiptv.com:1997/asem/1234567890/67894
+#EXTINF:-1,|AR| ALMAGHRIBIYYA HEVC MAROC
+http://mjidiptv.com:1997/asem/1234567890/67895
+#EXTINF:-1,|AR| ARRABIA HEVC MAROC
+http://mjidiptv.com:1997/asem/1234567890/67896
+#EXTINF:-1,|AR| ARRIADIYYA HEVC MAROC
+http://mjidiptv.com:1997/asem/1234567890/67897
+#EXTINF:-1,|AR| ASSADISA HEVC MAROC
+http://mjidiptv.com:1997/asem/1234567890/67898
+#EXTINF:-1,|AR| LAAYOUN HEVC MAROC
+http://mjidiptv.com:1997/asem/1234567890/67899
+#EXTINF:-1,|AR| MEDI1 HEVC MAROC
+http://mjidiptv.com:1997/asem/1234567890/67900
+#EXTINF:-1,|AR| TAMAZIGHT HEVC MAROC
+http://mjidiptv.com:1997/asem/1234567890/67901
+#EXTINF:-1,|AR| CHARQUIA NEWS IRAQ
+http://mjidiptv.com:1997/asem/1234567890/67902
+#EXTINF:-1,|AR| ALHURRA HEVC IRAQ
+http://mjidiptv.com:1997/asem/1234567890/67903
+#EXTINF:-1,|AR| ALMUSTQBAL HEVC LIBYA
+http://mjidiptv.com:1997/asem/1234567890/67904
+#EXTINF:-1,|AR| INEWS HEVC IRAQ
+http://mjidiptv.com:1997/asem/1234567890/67905
+#EXTINF:-1,|AR| KARBALA TV HEVC IRAQ
+http://mjidiptv.com:1997/asem/1234567890/67906
+#EXTINF:-1,|AR| ZAGROS TV HEVC IRAQ
+http://mjidiptv.com:1997/asem/1234567890/67907
+#EXTINF:-1,|AR| W. TV HEVC IRAQ
+http://mjidiptv.com:1997/asem/1234567890/67908
+#EXTINF:-1,|AR| ALTAHIER TV HEVC IRAQ
+http://mjidiptv.com:1997/asem/1234567890/67909
+#EXTINF:-1,|AR| ALHADATH HEVC IRAQ
+http://mjidiptv.com:1997/asem/1234567890/67910
+#EXTINF:-1,|AR| ROTANA DRAMA HEVC
+http://mjidiptv.com:1997/asem/1234567890/67911
+#EXTINF:-1,|AR| TRT ARABI HEVC
+http://mjidiptv.com:1997/asem/1234567890/67912
+#EXTINF:-1,|AR| JORDAN HEVC
+http://mjidiptv.com:1997/asem/1234567890/67913
+#EXTINF:-1,|AR| JORDAN AMMAN HEVC
+http://mjidiptv.com:1997/asem/1234567890/67914
+#EXTINF:-1,|AR| JORDAN RO´YA HEVC
+http://mjidiptv.com:1997/asem/1234567890/67915
+#EXTINF:-1,|AR| JORDAN ALMAMLAKA HEVC
+http://mjidiptv.com:1997/asem/1234567890/67916
+#EXTINF:-1,|AR| PALESTINE LIVE HEVC
+http://mjidiptv.com:1997/asem/1234567890/67917
+#EXTINF:-1,|AR| PALESTINE HEVC
+http://mjidiptv.com:1997/asem/1234567890/67918
+#EXTINF:-1,|AR| PALESTINE MUSAWA HEVC
+http://mjidiptv.com:1997/asem/1234567890/67919
+#EXTINF:-1,|AR| BEIN SPORTS HEVC
+http://mjidiptv.com:1997/asem/1234567890/67920
+#EXTINF:-1,|AR| BEIN NEWS HEVC
+http://mjidiptv.com:1997/asem/1234567890/67921
+#EXTINF:-1,|AR| KURDISTAN 24 HEVC
+http://mjidiptv.com:1997/asem/1234567890/67922
+#EXTINF:-1,|AR| RUDAW KURDISTAN HEVC
+http://mjidiptv.com:1997/asem/1234567890/67923
+#EXTINF:-1,|AR| KURDISTAN TV HEVC
+http://mjidiptv.com:1997/asem/1234567890/67924
+#EXTINF:-1,|AR| PAYAM TV HEVC KURDISTAN
+http://mjidiptv.com:1997/asem/1234567890/67925
+#EXTINF:-1,|AR| ECHOROUK HEVC DZ
+http://mjidiptv.com:1997/asem/1234567890/67926
+#EXTINF:-1,|AR| AVA HEVC KURDISTAN
+http://mjidiptv.com:1997/asem/1234567890/67927
+#EXTINF:-1,|AR| OMAN TV CULTURE HEVC
+http://mjidiptv.com:1997/asem/1234567890/67928
+#EXTINF:-1,|AR| OMAN TV LIVE HEVC
+http://mjidiptv.com:1997/asem/1234567890/67929
+#EXTINF:-1,|AR| OMAN TV GENERAL HEVC
+http://mjidiptv.com:1997/asem/1234567890/67930
+#EXTINF:-1,|AR| OMAN TV SPORTS HEVC
+http://mjidiptv.com:1997/asem/1234567890/67931
+#EXTINF:-1,|AR| JORDAN SPORTS HEVC
+http://mjidiptv.com:1997/asem/1234567890/67932
+#EXTINF:-1,|AR| SAUDI CHANNEL QURAN HEVC
+http://mjidiptv.com:1997/asem/1234567890/67933
+#EXTINF:-1,|AR| EL KHABARYA HEVC
+http://mjidiptv.com:1997/asem/1234567890/67934
+#EXTINF:-1,|AR| KSA SPORTS 1 HEVC
+http://mjidiptv.com:1997/asem/1234567890/67935
+#EXTINF:-1,|AR| KSA SPORTS 2 HEVC
+http://mjidiptv.com:1997/asem/1234567890/67936
+#EXTINF:-1,|AR| KSA SPORTS +1 HEVC
+http://mjidiptv.com:1997/asem/1234567890/67937
+#EXTINF:-1,|AR| SAUDI TV HEVC
+http://mjidiptv.com:1997/asem/1234567890/67938
+#EXTINF:-1,|AR| SAUDI 2 HEVC
+http://mjidiptv.com:1997/asem/1234567890/67939
+#EXTINF:-1,|AR| SAUDI CH FOR SUNNAH HEVC
+http://mjidiptv.com:1997/asem/1234567890/67940
+#EXTINF:-1,|AR| SBC HEVC
+http://mjidiptv.com:1997/asem/1234567890/67941
+#EXTINF:-1,|AR| ALJAZEERA MUBASHER HEVC
+http://mjidiptv.com:1997/asem/1234567890/67942
+#EXTINF:-1,|AR| ALJAZEERA MUBASHER 2 HEVC
+http://mjidiptv.com:1997/asem/1234567890/67943
+#EXTINF:-1,|AR| ALJAZEERA DOCUMENTARY HEVC
+http://mjidiptv.com:1997/asem/1234567890/67944
+#EXTINF:-1,|AR| AL ARABYA HEVC
+http://mjidiptv.com:1997/asem/1234567890/67945
+#EXTINF:-1,|AR| NBN HEVC LEBANON
+http://mjidiptv.com:1997/asem/1234567890/67946
+#EXTINF:-1,|AR| AL RAYYAN HEVC
+http://mjidiptv.com:1997/asem/1234567890/67947
+#EXTINF:-1,|AR| AL RAYYAN QADEEM HEVC
+http://mjidiptv.com:1997/asem/1234567890/67948
+#EXTINF:-1,|AR| RUSSIA TODAY HEVC
+http://mjidiptv.com:1997/asem/1234567890/67949
+#EXTINF:-1,|AR| ALAIN UAE HEVC
+http://mjidiptv.com:1997/asem/1234567890/67950
+#EXTINF:-1,|AR| LBC EUROPE HEVC
+http://mjidiptv.com:1997/asem/1234567890/67951
+#EXTINF:-1,|AR| AGHANI LEBANON HEVC
+http://mjidiptv.com:1997/asem/1234567890/67952
+#EXTINF:-1,|AR| ARABICA TV LEBANON HEVC
+http://mjidiptv.com:1997/asem/1234567890/67953
+#EXTINF:-1,|AR| AL JADEED LEBANON HEVC
+http://mjidiptv.com:1997/asem/1234567890/67954
+#EXTINF:-1,|AR| HAWAKOM LEBANON HEVC
+http://mjidiptv.com:1997/asem/1234567890/67955
+#EXTINF:-1,|AR| OTV LEBANON HEVC
+http://mjidiptv.com:1997/asem/1234567890/67956
+#EXTINF:-1,|AR| SKY ARABIC HEVC
+http://mjidiptv.com:1997/asem/1234567890/67957
+#EXTINF:-1,|AR| IRAQIA NEWS HEVC
+http://mjidiptv.com:1997/asem/1234567890/67958
+#EXTINF:-1,|AR| UAE AJMAN HEVC
+http://mjidiptv.com:1997/asem/1234567890/67959
+#EXTINF:-1,|AR| CHADA TV MAROC HEVC
+http://mjidiptv.com:1997/asem/1234567890/67960
+#EXTINF:-1,|AR| TUNISIA NATIONAL 1 HEVC
+http://mjidiptv.com:1997/asem/1234567890/67961
+#EXTINF:-1,|AR| ROTANA KIDS HEVC
+http://mjidiptv.com:1997/asem/1234567890/67962
+#EXTINF:-1,|AR| REMAS MUSIC HEVC
+http://mjidiptv.com:1997/asem/1234567890/67963
+#EXTINF:-1,|AR| ON Time Sports HEVC
+http://mjidiptv.com:1997/asem/1234567890/66561
+#EXTINF:-1,|AR| ON Time Sports 2 HEVC
+http://mjidiptv.com:1997/asem/1234567890/66560
+#EXTINF:-1,|AR| ONE E HEVC
+http://mjidiptv.com:1997/asem/1234567890/66559
+#EXTINF:-1,|AR| DMC HEVC
+http://mjidiptv.com:1997/asem/1234567890/66558
+#EXTINF:-1,|AR| AL Oula HEVC
+http://mjidiptv.com:1997/asem/1234567890/66557
+#EXTINF:-1,|AR| Tunisia 1 HEVC
+http://mjidiptv.com:1997/asem/1234567890/66556
+#EXTINF:-1,|AR| A3 HEVC
+http://mjidiptv.com:1997/asem/1234567890/66555
+#EXTINF:-1,|AR| Sky News Arabia HEVC
+http://mjidiptv.com:1997/asem/1234567890/66554
+#EXTINF:-1,|AR| AlJazeera HEVC
+http://mjidiptv.com:1997/asem/1234567890/66553
+#EXTINF:-1,|AR| Medi TV HEVC
+http://mjidiptv.com:1997/asem/1234567890/66552
+#EXTINF:-1,|AR| Tamazight HEVC
+http://mjidiptv.com:1997/asem/1234567890/66551
+#EXTINF:-1,|AR| Al Maghribia HEVC
+http://mjidiptv.com:1997/asem/1234567890/66550
+#EXTINF:-1,|AR| TV5 Monde Style HEVC
+http://mjidiptv.com:1997/asem/1234567890/66549
+#EXTINF:-1,|AR| Assadissa Moroc HEVC
+http://mjidiptv.com:1997/asem/1234567890/66548
+#EXTINF:-1,|AR| Al Aoula Inter HEVC
+http://mjidiptv.com:1997/asem/1234567890/66547
+#EXTINF:-1,|AR| Arrabiaa HEVC
+http://mjidiptv.com:1997/asem/1234567890/66546
+#EXTINF:-1,|AR| Arryadia Live HEVC
+http://mjidiptv.com:1997/asem/1234567890/66545
+#EXTINF:-1,|AR| MBC Iraq HEVC
+http://mjidiptv.com:1997/asem/1234567890/66544
+#EXTINF:-1,|AR| Syria TV HEVC
+http://mjidiptv.com:1997/asem/1234567890/66543
+#EXTINF:-1,|AR| LANA TV HEVC
+http://mjidiptv.com:1997/asem/1234567890/66542
+#EXTINF:-1,|AR| Dubai TV HEVC
+http://mjidiptv.com:1997/asem/1234567890/66541
+#EXTINF:-1,|AR| ABU Dhabi TV HEVC
+http://mjidiptv.com:1997/asem/1234567890/66540
+#EXTINF:-1,|AR| Al Emarat HEVC
+http://mjidiptv.com:1997/asem/1234567890/66539
+#EXTINF:-1,|AR| Dubai one HEVC
+http://mjidiptv.com:1997/asem/1234567890/66538
+#EXTINF:-1,|AR| Baynounah HEVC
+http://mjidiptv.com:1997/asem/1234567890/66537
+#EXTINF:-1,|AR| Fuajirah HEVC
+http://mjidiptv.com:1997/asem/1234567890/66536
+#EXTINF:-1,|AR| ONE SD HEVC
+http://mjidiptv.com:1997/asem/1234567890/66535
+#EXTINF:-1,|AR| MTV Lebanon HEVC
+http://mjidiptv.com:1997/asem/1234567890/66534
+#EXTINF:-1,|AR| AL Jadeed HEVC
+http://mjidiptv.com:1997/asem/1234567890/66533
+#EXTINF:-1,|AR| LBCI International HEVC
+http://mjidiptv.com:1997/asem/1234567890/66532
+#EXTINF:-1,|AR| LBC HEVC
+http://mjidiptv.com:1997/asem/1234567890/66531
+#EXTINF:-1,|AR| OTV HEVC
+http://mjidiptv.com:1997/asem/1234567890/66530
+#EXTINF:-1,|AR| NBN HEVC
+http://mjidiptv.com:1997/asem/1234567890/66529
+#EXTINF:-1,|AR| Arabica HEVC
+http://mjidiptv.com:1997/asem/1234567890/66528
+#EXTINF:-1,|AR| Aghani HEVC
+http://mjidiptv.com:1997/asem/1234567890/66526
+#EXTINF:-1,|AR| Tele Lebanon HEVC
+http://mjidiptv.com:1997/asem/1234567890/66525
+#EXTINF:-1,|AR| Rotana Cinema HEVC
+http://mjidiptv.com:1997/asem/1234567890/66524
+#EXTINF:-1,|AR| Rotana Aflam HEVC
+http://mjidiptv.com:1997/asem/1234567890/66523
+#EXTINF:-1,|AR| Rotana Classic HEVC
+http://mjidiptv.com:1997/asem/1234567890/66522
+#EXTINF:-1,|AR| Rotana Khalijeah HEVC
+http://mjidiptv.com:1997/asem/1234567890/66521
+#EXTINF:-1,|AR| Rotana Masriya HEVC
+http://mjidiptv.com:1997/asem/1234567890/66520
+#EXTINF:-1,|AR| Rotana Music HEVC
+http://mjidiptv.com:1997/asem/1234567890/66519
+#EXTINF:-1,|AR| Ressala HEVC
+http://mjidiptv.com:1997/asem/1234567890/66518
+#EXTINF:-1,|AR| KSA THEKRAYET HEVC
+http://mjidiptv.com:1997/asem/1234567890/67964
+#EXTINF:-1,|AR| AL ARABIYA HADATH HEVC
+http://mjidiptv.com:1997/asem/1234567890/67965
+#EXTINF:-1,|AR| CHADA TV +6H
+http://mjidiptv.com:1997/asem/1234567890/74229
+#EXTINF:-1,|AR| MBC 1 HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74228
+#EXTINF:-1,|AR| MBC 2 HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74227
+#EXTINF:-1,|AR| MBC 3 HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74226
+#EXTINF:-1,|AR| MBC 4 HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74225
+#EXTINF:-1,|AR| MBC 5 HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74224
+#EXTINF:-1,|AR| MBC DRAMA HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74223
+#EXTINF:-1,|AR| MBC IRAQ HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74222
+#EXTINF:-1,|AR| MBC MASR HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74221
+#EXTINF:-1,|AR| MBC MASR 2 HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74220
+#EXTINF:-1,|AR| MBC MAX HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74219
+#EXTINF:-1,|AR| MBC ACTION HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74218
+#EXTINF:-1,|AR| MBC BOLLYWOOD HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74217
+#EXTINF:-1,|AR| MBC DRAMA PLUS FHD +6H
+http://mjidiptv.com:1997/asem/1234567890/74216
+#EXTINF:-1,|AR| MBC PANORAMA FM FHD +6H
+http://mjidiptv.com:1997/asem/1234567890/74215
+#EXTINF:-1,|AR| MBC PERSIA FHD +6H
+http://mjidiptv.com:1997/asem/1234567890/74214
+#EXTINF:-1,|AR| MBC FM FHD +6H
+http://mjidiptv.com:1997/asem/1234567890/74213
+#EXTINF:-1,|AR| ALJADEED FHD +6H
+http://mjidiptv.com:1997/asem/1234567890/74212
+#EXTINF:-1,|AR| MTV LEBANON FHD +6H
+http://mjidiptv.com:1997/asem/1234567890/74211
+#EXTINF:-1,|AR| AL MANAR +6H
+http://mjidiptv.com:1997/asem/1234567890/74210
+#EXTINF:-1,|AR| LDC LEBANON HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74209
+#EXTINF:-1,|AR| LBC FHD +6H
+http://mjidiptv.com:1997/asem/1234567890/74208
+#EXTINF:-1,|AR| LBC International FHD +6H
+http://mjidiptv.com:1997/asem/1234567890/74207
+#EXTINF:-1,|AR| ANB +6H
+http://mjidiptv.com:1997/asem/1234567890/74206
+#EXTINF:-1,|AR| ONE TV LEBANON +6H
+http://mjidiptv.com:1997/asem/1234567890/74205
+#EXTINF:-1,|AR| OTV LEBANON FHD +6H
+http://mjidiptv.com:1997/asem/1234567890/74204
+#EXTINF:-1,|AR| NBN FHD +6H
+http://mjidiptv.com:1997/asem/1234567890/74203
+#EXTINF:-1,|AR| TELE LEBANON FHD +6H
+http://mjidiptv.com:1997/asem/1234567890/74202
+#EXTINF:-1,|AR| FUTURE TV +6H
+http://mjidiptv.com:1997/asem/1234567890/74201
+#EXTINF:-1,|AR| SYRIA DRAMA +6H
+http://mjidiptv.com:1997/asem/1234567890/74200
+#EXTINF:-1,|AR| SAMA TV +6H
+http://mjidiptv.com:1997/asem/1234567890/74199
+#EXTINF:-1,|AR| SYRIA SATELLITE TV +6H
+http://mjidiptv.com:1997/asem/1234567890/74198
+#EXTINF:-1,|AR| SYRIAN TV HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74197
+#EXTINF:-1,|AR| SHAM TV +6H
+http://mjidiptv.com:1997/asem/1234567890/74196
+#EXTINF:-1,|AR| SYRIA NEWS +6H
+http://mjidiptv.com:1997/asem/1234567890/74195
+#EXTINF:-1,|AR| SYRIA EDUCATION +6H
+http://mjidiptv.com:1997/asem/1234567890/74194
+#EXTINF:-1,|AR| LANA TV FHD +6H
+http://mjidiptv.com:1997/asem/1234567890/74193
+#EXTINF:-1,|AR| LANA PLUS +6H
+http://mjidiptv.com:1997/asem/1234567890/74192
+#EXTINF:-1,|AR| SYRIA FM +6H
+http://mjidiptv.com:1997/asem/1234567890/74191
+#EXTINF:-1,|AR| AL MAYADEEN +6H
+http://mjidiptv.com:1997/asem/1234567890/74190
+#EXTINF:-1,|AR| NOOR AL SHAM +6H
+http://mjidiptv.com:1997/asem/1234567890/74189
+#EXTINF:-1,|AR| AL AOULA HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74188
+#EXTINF:-1,|AR| 2M MAROC +6H
+http://mjidiptv.com:1997/asem/1234567890/74187
+#EXTINF:-1,|AR| ARRYIADIA HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74186
+#EXTINF:-1,|AR| ARRABIAA HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74185
+#EXTINF:-1,|AR| MEDI 1 TV HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74184
+#EXTINF:-1,|AR| AL MAGHRABIA HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74183
+#EXTINF:-1,|AR| ASSADISSA HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74182
+#EXTINF:-1,|AR| LAAYOUNE HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74181
+#EXTINF:-1,|AR| AFLAM TV +6H
+http://mjidiptv.com:1997/asem/1234567890/74180
+#EXTINF:-1,|AR| TAMAZIGHT HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74179
+#EXTINF:-1,|AR| M24 MAROC +6H
+http://mjidiptv.com:1997/asem/1234567890/74178
+#EXTINF:-1,|AR| TELE MAROC +6H
+http://mjidiptv.com:1997/asem/1234567890/74177
+#EXTINF:-1,|AR| AL ETHJAH TV HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74176
+#EXTINF:-1,|AR| KARBALA TV HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74175
+#EXTINF:-1,|AR| IRAQ FUTURE TV +6H
+http://mjidiptv.com:1997/asem/1234567890/74174
+#EXTINF:-1,|AR| AL MASSAR AL UOLA IRAQ +6H
+http://mjidiptv.com:1997/asem/1234567890/74173
+#EXTINF:-1,|AR| AL AHD +6H
+http://mjidiptv.com:1997/asem/1234567890/74172
+#EXTINF:-1,|AR| AL GHAD AL ARABY FHD +6H
+http://mjidiptv.com:1997/asem/1234567890/74171
+#EXTINF:-1,|AR| AL HIWAR HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74170
+#EXTINF:-1,|AR| RAFIDEN TV +6H
+http://mjidiptv.com:1997/asem/1234567890/74169
+#EXTINF:-1,|AR| AL SUMARIA +6H
+http://mjidiptv.com:1997/asem/1234567890/74168
+#EXTINF:-1,|AR| AL RASHED +6H
+http://mjidiptv.com:1997/asem/1234567890/74167
+#EXTINF:-1,|AR| DIJLA TARAB +6H
+http://mjidiptv.com:1997/asem/1234567890/74166
+#EXTINF:-1,|AR| UTV IRAQ +6H
+http://mjidiptv.com:1997/asem/1234567890/74165
+#EXTINF:-1,|AR| ALYAUM TV HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74164
+#EXTINF:-1,|AR| IRAQIA SYRIAC +6H
+http://mjidiptv.com:1997/asem/1234567890/74163
+#EXTINF:-1,|AR| AL HURRA HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74162
+#EXTINF:-1,|AR| AL SHARQIYA NEWS FHD +6H
+http://mjidiptv.com:1997/asem/1234567890/74161
+#EXTINF:-1,|AR| AL IRAQIA 2 HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74160
+#EXTINF:-1,|AR| IRAQ TV NEWS FHD +6H
+http://mjidiptv.com:1997/asem/1234567890/74159
+#EXTINF:-1,|AR| AL SHARQIYA TV FHD +6H
+http://mjidiptv.com:1997/asem/1234567890/74158
+#EXTINF:-1,|AR| IRAQ 24 HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74157
+#EXTINF:-1,|AR| AL HURRA IRAQ HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74156
+#EXTINF:-1,|AR| INEWS TV HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74155
+#EXTINF:-1,|AR| DIJLA TV +6H
+http://mjidiptv.com:1997/asem/1234567890/74154
+#EXTINF:-1,|AR| TAGHIER HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74153
+#EXTINF:-1,|AR| HONA BAGHDAD +6H
+http://mjidiptv.com:1997/asem/1234567890/74152
+#EXTINF:-1,|AR| BABYLON TV FHD +6H
+http://mjidiptv.com:1997/asem/1234567890/74151
+#EXTINF:-1,|AR| AL GHADEER TV +6H
+http://mjidiptv.com:1997/asem/1234567890/74150
+#EXTINF:-1,|AR| AL AYAM TV +6H
+http://mjidiptv.com:1997/asem/1234567890/74149
+#EXTINF:-1,|AR| SAMRRA TV +6H
+http://mjidiptv.com:1997/asem/1234567890/74148
+#EXTINF:-1,|AR| AL KAWTHER +6H
+http://mjidiptv.com:1997/asem/1234567890/74147
+#EXTINF:-1,|AR| AL EBAA TV +6H
+http://mjidiptv.com:1997/asem/1234567890/74146
+#EXTINF:-1,|AR| IRAQ EDUCATION +6H
+http://mjidiptv.com:1997/asem/1234567890/74145
+#EXTINF:-1,|AR| AFAK TV +6H
+http://mjidiptv.com:1997/asem/1234567890/74144
+#EXTINF:-1,|AR| AL FORAT +6H
+http://mjidiptv.com:1997/asem/1234567890/74143
+#EXTINF:-1,|AR| AL FALLOJA TV HD +6H
+http://mjidiptv.com:1997/asem/1234567890/74142
+#EXTINF:-1,|AR| AL ITHAD +6H
+http://mjidiptv.com:1997/asem/1234567890/74141
+#EXTINF:-1,|AR| ART HEKAYAT 1 +6H
+http://mjidiptv.com:1997/asem/1234567890/74140
+#EXTINF:-1,|AR| ART HEKAYAT 2 +6H
+http://mjidiptv.com:1997/asem/1234567890/74139
+#EXTINF:-1,|AR| ART AFLAM 1 +6H
+http://mjidiptv.com:1997/asem/1234567890/74138
+#EXTINF:-1,|AR| ART AFLAM 2 +6H
+http://mjidiptv.com:1997/asem/1234567890/74137
+#EXTINF:-1,|AR| ART CINEMA +6H
+http://mjidiptv.com:1997/asem/1234567890/74136
