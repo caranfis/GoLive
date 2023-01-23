@@ -1,327 +1,134 @@
-#EXTM3U
-
-########################################################## SPORTS ###################################################################
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",################################# WORLD CUP ###############################################
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 1 PREMIUM FHD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778050.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 1 PREMIUM VIP
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/4751.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 1 PREMIUM LOCAL
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795854.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 1 FR FHD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/51445.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 2 PREMIUM FHD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778051.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 2 PREMIUM VIP
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/4752.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 2 PREMIUM LOCAL
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795858.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 3 PREMIUM FHD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778052.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 3 PREMIUM VIP
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/4753.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 3 PREMIUM LOCAL
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795859.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",ABU DHABI SPORTS PREMIUM 1
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/101230.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",ABU DHABI SPORTS PREMIUM 2
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/101231.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 1 FHD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778053.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 1 VIP
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/14636.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 1 LOCAL
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795860.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 2 FHD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778054.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 2 VIP
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/47520.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 2 LOCAL
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795861.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 3 FHD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778055.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 3 VIP
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/47530.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 3 LOCAL
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795862.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 4 FHD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778056.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 4 VIP
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/47540.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 4 LOCAL
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795863.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 5 FHD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778057.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 5 VIP
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/14837.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 5 LOCAL
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795864.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 6 FHD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778058.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 6 VIP
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/14838.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 6 LOCAL
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795865.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 7 FHD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/778059.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 7 VIP
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/14839.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 7 LOCAL
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795866.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS NBA
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799052.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS AFC
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795855.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS AFC 1
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795850.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS AFC 2
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795851.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS AFC 3
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/795852.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS NEWS
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/1001.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS GLOBAL
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/475351.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS XTRA 1 VIP
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/777547.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS XTRA 2 VIP
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/777546.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS MAX 1 VIP
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/777507.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS MAX 2 VIP
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/777508.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS MAX 3 VIP
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/777515.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",LIVE SPORTS
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/777549.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS PREMIER LEAGUE
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799031.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS LA LIGA
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799032.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS FOOTBALL
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799033.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS MOTOR SPORTS
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798065.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS GRAND STAND
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798051.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS CRICKET
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798062.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS BLITZ
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798050.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS RUGBY
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798061.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS GOLF
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798063.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS PSL 1
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798052.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS VARIETY 1
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798056.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS VARIETY 2
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798057.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS VARIETY 3
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798058.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS VARIETY 4
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798059.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS MAXIMO 1
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798068.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS ACTION
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798060.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS OTT 1 HD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798072.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS OTT 2 HD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798073.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS OTT 3 HD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798074.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS OTT 4
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798075.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS OTT 5
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798076.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS OTT 6 HD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798077.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS OTT 7 HD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798078.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS OTT 8 HD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798079.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SUPER SPORTS PLAY
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/798069.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",MUTV
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799018.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",PREMIER SPORTS UK 1
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799053.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",PREMIER SPORTS UK 2
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799054.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",################################# SPORTS SD ###############################################
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 1 PREMIUM SD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799021.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 2 PREMIUM SD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799022.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 3 PREMIUM SD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799023.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 1 SD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799024.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 2 SD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799025.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 3 SD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799026.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 4 SD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799027.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 5 SD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799028.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 6 SD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799029.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 7 SD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799030.ts
-
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",################################# SPORTS FRANCE ###############################################
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 1 FR FHD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799055.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 2 FR
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/51446.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN SPORTS 3 FR
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/9113.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN MAX 4 FR
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/792545.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN MAX 5 FR
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/792546.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN MAX 6 FR
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/792547.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BeIN MAX 7 FR
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/792548.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",RMC SPORTS 1
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/100.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",RMC SPORTS 2
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/101.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",RMC SPORTS 3
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/102.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",C+ SPORTS
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/1294.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",################################# UK VIP SPORTS ###############################################
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SKY SPORTS MAIN EVENTS HD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799035.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SKY SPORTS PREMIER LEAGUE
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799036.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SKY SPORTS MIX HD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799037.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SKY SPORTS ARENA HD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799038.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",SKY SPORTS FOOTBALL HD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799039.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",LA LIGA TV HD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799040.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BT SPORT 1 HD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799041.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BT SPORT 2 HD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799042.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BT SPORT 3 HD
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799043.ts
-
-#EXTINF:-1  tvg-logo="" group-title="SPORTS",BT SPORT ESPN
-http://alchacha.com/?protocol=http:&play_ts=http://alchacha.com:8080/live/2211318816/2211318816/799044.ts
+#EXTINF:-1,BeIN SPORTS 1 Premium 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1126.ts
+#EXTINF:-1,BeIN SPORTS 2 Premium  4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1127.ts
+#EXTINF:-1,BeIN SPORTS 3 Premium  4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1128.ts
+#EXTINF:-1,BeIN SPORTS 1 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1129.ts
+#EXTINF:-1,BeIN SPORTS 2 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1130.ts
+#EXTINF:-1,BeIN SPORTS 3 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1131.ts
+#EXTINF:-1,BeIN SPORTS 4 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1132.ts
+#EXTINF:-1,BeIN SPORTS 5 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1133.ts
+#EXTINF:-1,BeIN SPORTS 6 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1134.ts
+#EXTINF:-1,BeIN SPORTS 7 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1135.ts
+#EXTINF:-1,BeIN SPORTS 1 EN 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1136.ts
+#EXTINF:-1,BeIN SPORTS 2 EN 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1137.ts
+#EXTINF:-1,BeIN SPORTS 3 EN 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1138.ts
+#EXTINF:-1,BeIN Sports News 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1125.ts
+#EXTINF:-1,beIN Sport EXTRA 1 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1142.ts
+#EXTINF:-1,beIN Sport EXTRA 2 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/1143.ts
+#EXTINF:-1,AL KASS EXTRA 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/13382.ts
+#EXTINF:-1,AL KASS EXTRA 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/13383.ts
+#EXTINF:-1,AD Sport 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/839.ts
+#EXTINF:-1,AD Sport 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/840.ts
+#EXTINF:-1,AR: Al Jazeera Documentary FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/844.ts
+#EXTINF:-1,BH- Bahrain Sports 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/845.ts
+#EXTINF:-1,BH- Bahrain Sports 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/846.ts
+#EXTINF:-1,SP- WWE HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/847.ts
+#EXTINF:-1,SPORT- Abu Dhabi Sports  2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/848.ts
+#EXTINF:-1,SPORT- Abu Dhabi Sports 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/849.ts
+#EXTINF:-1,SPORT- Dubai Sport 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/854.ts
+#EXTINF:-1,SPORT- Dubai Sport 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/855.ts
+#EXTINF:-1,SPORT- Dubai Sport 3 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/856.ts
+#EXTINF:-1,SPORT- Jordan Sport TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/857.ts
+#EXTINF:-1,SPORT- KSA Sport 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/858.ts
+#EXTINF:-1,SPORT- KSA Sport 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/859.ts
+#EXTINF:-1,SPORT- KSA Sport 3 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/860.ts
+#EXTINF:-1,SPORT- KSA Sport 4 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/861.ts
+#EXTINF:-1,SPORT- Libya Sport TV
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/862.ts
+#EXTINF:-1,SPORT- On Sport 2
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/863.ts
+#EXTINF:-1,SPORT- ON Sport HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/864.ts
+#EXTINF:-1,Sport: Sharjah Sport HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/867.ts
+#EXTINF:-1,Sport:ALL Sports
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/868.ts
+#EXTINF:-1,SSC 2 FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/870.ts
+#EXTINF:-1,SSC1 FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/871.ts
+#EXTINF:-1,SSC3 FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/872.ts
+#EXTINF:-1,SSC4 FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/873.ts
+#EXTINF:-1,SSC5 FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/874.ts
+#EXTINF:-1,STARZPLAY SPORT 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/764.ts
+#EXTINF:-1,STARZPLAY SPORT 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/765.ts
+#EXTINF:-1,AD SPORT ASIA 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/766.ts
+#EXTINF:-1,AD SPORT ASIA 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/767.ts
+#EXTINF:-1,AD SPORT PREMUIM 1  4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/768.ts
+#EXTINF:-1,AD SPORT PREMUIM 2 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/769.ts
+#EXTINF:-1,STARZPLAY SPORTS
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/770.ts
+#EXTINF:-1,STARZPLAY CricLife 2 FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/771.ts
+#EXTINF:-1,STARZPLAY YAS SPORT FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/772.ts
+#EXTINF:-1,STARZPLAY GOLF TV FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/773.ts
+#EXTINF:-1,STARZPLAY CRICLIFE 1 FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/774.ts
+#EXTINF:-1,STARZPLAY PREMIER SPORT FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/775.ts
+#EXTINF:-1,STARZPLAY STAR ASIANET 4K
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/776.ts
+#EXTINF:-1,STARZPLAY ASIANET MOVIES
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/777.ts
+#EXTINF:-1,STARZPLAY STAR GOLD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/778.ts
+#EXTINF:-1,STARZPLAY STAR VIJAY
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/779.ts
+#EXTINF:-1,STARZPLAY STAR PLUS
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/780.ts
+#EXTINF:-1,Tr- Bein Sport 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/701.ts
+#EXTINF:-1,TR- beIN Sports 1 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/702.ts
+#EXTINF:-1,TR- beIN Sports 3 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/704.ts
+#EXTINF:-1,TR- beIN Sports 4 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/705.ts
+#EXTINF:-1,TR- beIN Sports Max 2 HD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/707.ts
+#EXTINF:-1,TR: S Sport 2 FHD
+http://ourtv.live:8080/live/MediastarTV/MediastarTV/760.ts
