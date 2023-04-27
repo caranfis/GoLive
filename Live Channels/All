@@ -75,6 +75,24 @@ https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398
 #EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/FpZ7xVT.png" group-title="قنوات عربية",Rotana Music
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/95c78e52a02cff6529ec6a8b9032d558.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://weyyak.com/static/media/weyyak-logo.232aaae4.png" group-title="قنوات عربية",Weyyak Nawaem
+https://weyyak-live.akamaized.net/weyyak_nawaem/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://weyyak.com/static/media/weyyak-logo.232aaae4.png" group-title="قنوات عربية",Weyyak Mix
+https://weyyak-live.akamaized.net/weyyak_mix/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://weyyak.com/static/media/weyyak-logo.232aaae4.png" group-title="قنوات عربية",Weyyak Drama
+https://weyyak-live.akamaized.net/weyyak_drama/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://weyyak.com/static/media/weyyak-logo.232aaae4.png" group-title="قنوات عربية",Weyyak Action
+https://weyyak-live.akamaized.net/weyyak_action/mono.m3u8
+
+#EXTINF:-1 tvg-id="ThikrayatTV.sa" tvg-logo="https://i.imgur.com/AKa1X9d.png" group-title="قنوات عربية",Thikrayat TV
+https://edge.taghtia.com/sa/3.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Watar
+http://htvint.mada.ps:8889/orient/mono.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="قنوات عربية",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
