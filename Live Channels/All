@@ -39,23 +39,11 @@ https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/index_1.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/eKBXOKd.png" group-title="قنوات عربية",MBC 1 USA
 https://shls-mbc1-usa-prod.shahid.net/out/v1/1b559e832c3f40f996c1984245b3b24b/index_1.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/03/MBC_2_HD_logo.png" group-title="قنوات عربية",MBC 2
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/651.ts
-
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 4 HD
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 4 HD
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/2187.ts
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="قنوات عربية",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="قنوات عربية",MBC Drama KSA
-https://shls-mbcdramaksa-prod-dub.shahid.net/out/v1/ce0f0762d89e4394a856c5fd13e43645/index_1.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="قنوات عربية",MBC Drama USA
-https://shls-mbc-drama-usa-prod.shahid.net/out/v1/efb67fc5c04a40778cd5c21e2e7ea884/index_1.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png" group-title="قنوات عربية",MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
@@ -63,20 +51,11 @@ https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/in
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr.png" group-title="قنوات عربية",MBC Masr 1
 https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr.png" group-title="قنوات عربية",MBC Masr 1 USA
-https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index_1.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr_2.png" group-title="قنوات عربية",MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="قنوات عربية",MBC Plus Drama
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
-
-#EXTINF:-1  tvg-logo="https://res.9appsinstall.com/group3/M00/35/2D/4pMEAFrabp2AZa1CAAAwkaW4VvY622.png?x-oss-process=style/mq200" group-title="قنوات عربية",MBC Action HD
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/2191.ts
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/32/MBC_Max_logo.png" group-title="قنوات عربية",MBC MAX
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/2192.ts
 
 #EXTINF:-1  tvg-logo="https://rotana.net/assets/themes/TriTheme-new/images/channels/cinema-egypt.png" group-title="قنوات عربية",Rotana Cinema HD
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
@@ -102,128 +81,8 @@ https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398
 #EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/FpZ7xVT.png" group-title="قنوات عربية",Rotana Music
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/95c78e52a02cff6529ec6a8b9032d558.m3u8
 
-#EXTINF:-1 tvg-id="ThikrayatTV.sa" tvg-logo="https://i.imgur.com/fAkScnI.png" group-title="قنوات عربية",Thikrayat TV
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.aloula.sa/live/thikrayat-tv/zikrayat_source_chunks.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="قنوات عربية",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/384.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC Drama
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/382.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC Sofra
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/383.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DMC
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/392.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DMC Drama
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/391.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CIMA
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/390.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Maspero Zaman
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/433.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile Cinema
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/441.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile Comedy
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/442.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile Family
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/445.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile Life
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/446.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile TV
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/448.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ON-DRAMA
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/449.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ON E
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/450.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",QUEEN AFLAM
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/456.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",QUEEN  DRAMA
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/458.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Panorama Drama
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/463.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Panorama Drama 2
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/462.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Panorama Film
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/464.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Panorama Food
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/465.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Sada El Balad Drama
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/478.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Sada El Balad 2
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/479.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Sada El Balad
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/480.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",TEN TV
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/482.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Mix Bel Araby
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/7043.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Oscar TV
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/8716.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AL Shams
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/17822.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",etc
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/17823.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",FUTURE
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/611.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Al JADEED
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10288.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",LBC
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10289.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",LBC INT
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10290.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MTV
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10294.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",NBN
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/622.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ONE
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/623.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",OTV
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/10295.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",TELE LIBAN
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/625.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",LBC 2
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/12004.ts
-
-#EXTINF:-1  tvg-logo="http://service.mobile.rotanaradio.jo/sites/default/files/studio.png" group-title="قنوات عربية",Rotana Radio Jordan
-http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="قنوات عربية",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
@@ -231,22 +90,19 @@ https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6
 #EXTINF:-1  tvg-logo="https://arabicagroup.tv/images/app1.png" group-title="قنوات عربية",Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="http://service.mobile.rotanaradio.jo/sites/default/files/studio.png" group-title="قنوات عربية",Rotana Radio Jordan
+http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png" group-title="قنوات عربية",Jawhara FM
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/PeIYCXs.jpg" group-title="قنوات عربية",Marah FM
-http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png" group-title="قنوات عربية",MBC FM
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://storage.googleapis.com/nogoumfm-eu-web/1/2019/12/logo-nogoum-1.png" group-title="قنوات عربية",Nogoum FM TV
-https://stream-speed.extremesolution.mobi/nogoumfm/nogoumfmlive/playlist.m3u8
-
 #EXTINF:-1  group-title="قنوات عربية",Panorama FM
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" group-title="قنوات عربية",Dijlah Tarab
+#EXTINF:-1  tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" group-title="قنوات عربية",Dijlah Zaman
 https://ghaasiflu.online/tarab/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://alrasheedmedia.com/wp-content/themes/alrasheedv4/alr-logo.png" group-title="قنوات عربية",Al Rasheed
@@ -258,12 +114,6 @@ http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.zagrosnews.net/sites/default/files/zagros-logo-01_1.png" group-title="قنوات عربية",Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.3eeshalaan.net/wp-content/themes/alaan-child-3eesh/assets/img/logo.png" group-title="قنوات عربية",3eesh Al Aan TV
-https://streaming.3eeshalaan.net/AAAFinalFeed/AlAanFeed_live.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/7Bx66K7.jpg" group-title="قنوات عربية",Abu Dhabi Drama
-https://admdn5.cdn.mangomolo.com/drama/smil:drama.stream.smil/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="قنوات عربية",Abu Dhabi TV
 https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
@@ -273,14 +123,8 @@ https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_
 #EXTINF:-1  tvg-logo="https://i.imgur.com/dWueFIE.png" group-title="قنوات عربية",Dubai TV
 https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b6000000.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/F5U9qpf.png" group-title="قنوات عربية",Dubai Zaman
-https://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="قنوات عربية",Al Emarat TV
 https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/rVYdkth.jpg" group-title="قنوات عربية",Hawas TV
-https://jmc-live.ercdn.net/hawastvhd/hawastvhd.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="قنوات عربية",Sama Dubai
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
@@ -288,37 +132,25 @@ https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playl
 #EXTINF:-1  tvg-logo="https://i.imgur.com/FP2yHkl.png" group-title="قنوات عربية",Noor Dubai
 https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.alhayat.tv/images/logo/main.34f5c635.png" group-title="قنوات عربية",Alhayat TV
-https://wowzaprod140-i.akamaihd.net/hls/live/750788/cdb837ca/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/vkqYIO4.jpg" group-title="قنوات عربية",Amman TV
-https://ammantv.c.s73cdn.net/23153d43-375a-472a-bc5f-9827582b5d22/elemental/live/master.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/7aD1yan.jpg" group-title="قنوات عربية",Beity
-http://82.212.74.2:8000/live/7312.m3u8
-
 #EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="قنوات عربية",Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/siAiiws.jpg" group-title="قنوات عربية",Al Jadeed
-https://www.dailymotion.com/video/x7ztkw7
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/5sZr5rw.png" group-title="قنوات عربية",OTV
 http://62.182.82.104/OTV/index.m3u8?token=test
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="قنوات عربية",Syria TV
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/932.ts
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/rKTE8Qw.png" group-title="قنوات عربية",Syria Drama
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/934.ts
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",SAMA TV
-http://darkteam.vip:25461/live/arabiclocal/3092e9120dn/939.ts
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="قنوات عربية",Ro'ya TV
 https://weyyak-live.akamaized.net/weyyak_roya/tracks-v1a1/mono.m3u8
 
+########################################################## قنوات مسيحية ###################################################################
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/9HocMyE.jpg" group-title="قنوات مسيحية",Al Hayat TV
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/9HocMyE.jpg" group-title="قنوات مسيحية",Al Fadi
+http://media.smc-host.com:1935/alfadytv.tv/alfadytv.smil/chunklist_w520464216_b1896000_slar_t64SEQ=.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QrwZu4W.png" group-title="قنوات مسيحية",NourSAT
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/5VvPLEl.jpg" group-title="قنوات مسيحية",Nour Al Koddas
 https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
@@ -329,17 +161,8 @@ https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" group-title="قنوات مسيحية",Nour Mariam
 https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/QrwZu4W.png" group-title="قنوات مسيحية",NourSAT
-https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="http://www.riseuptv.tv/wp-content/uploads/2020/08/cropped-Al-Kiama-TV-Logo-2_RedWhite-small.png" group-title="قنوات مسيحية",Al-Qiama-TV
 https://5d12bc59c4748.streamlock.net/redirect/riseuptv.tv/riseup?type=m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/9HocMyE.jpg" group-title="قنوات مسيحية",Al Hayat TV
-http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/9HocMyE.jpg" group-title="قنوات مسيحية",Al Fadi
-http://media.smc-host.com:1935/alfadytv.tv/alfadytv.smil/chunklist_w520464216_b1896000_slar_t64SEQ=.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/VCfZB73.png" group-title="قنوات مسيحية",Al Horreya TV
 http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
@@ -394,74 +217,6 @@ https://5d658d7e9f562.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w184268064
 
 #EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Christ TV
 https://cdn3.wowza.com/1/ejBLZGxwQmwzTDk4/aFBrWEk4/hls/ttl5bbs8/2728/chunklist.m3u8
-
-################################################################## ابو فليس########################################################################
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",1
-https://archive.org/download/abu-flais/Abu%20Flais%201.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",2
-https://archive.org/download/abu-flais/Abu%20Flais%202.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",3
-https://archive.org/download/abu-flais/Abu%20Flais%203.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",4
-https://archive.org/download/abu-flais/Abu%20Flais%204.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",5
-https://archive.org/download/abu-flais/Abu%20Flais%205.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",6
-https://archive.org/download/abu-flais/Abu%20Flais%206.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",7
-https://archive.org/download/abu-flais/Abu%20Flais%2077.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",8
-https://archive.org/download/abu-flais/Abu%20Flais%2088.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",9
-https://archive.org/download/abu-flais/Abu%20Flais%209.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",10
-https://archive.org/download/abu-flais/Abu%20Flais%2010.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",11
-https://archive.org/download/abu-flais/Abu%20Flais%2011.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",12
-https://archive.org/download/abu-flais/Abu%20Flais%2012.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",13
-https://archive.org/download/abu-flais/Abu%20Flais%2013.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",14
-https://archive.org/download/abu-flais/Abu%20Flais%2014.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",15
-https://archive.org/download/abu-flais/Abu%20Flais%2015.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",16
-https://archive.org/download/abu-flais/Abu%20Flais%2016.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",17
-https://archive.org/download/abu-flais/Abu%20Flais%2017.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",18
-https://archive.org/download/abu-flais/Abu%20Flais%2018.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",19
-https://archive.org/download/abu-flais/Abu%20Flais%2019.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",20
-https://archive.org/download/abu-flais/Abu%20Flais%2020.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",21
-https://archive.org/download/abu-flais/Abu%20Flais%2021.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",22
-https://archive.org/download/abu-flais/Abu%20Flais%2022.mp4
 
 ##########################################################الكبير أوي الجزء الاول###################################################################
 
@@ -2574,4 +2329,73 @@ https://archive.org/download/aiza-atgawiz/Aiza%20Atgawiz_Ep29.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="عايزة اتجوز",الحلقة(30) - هشام 2 - هاني عادل
 https://archive.org/download/aiza-atgawiz/Aiza%20Atgawiz_Ep30.mp4
+
+################################################################## ابو فليس########################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",1
+https://archive.org/download/abu-flais/Abu%20Flais%201.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",2
+https://archive.org/download/abu-flais/Abu%20Flais%202.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",3
+https://archive.org/download/abu-flais/Abu%20Flais%203.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",4
+https://archive.org/download/abu-flais/Abu%20Flais%204.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",5
+https://archive.org/download/abu-flais/Abu%20Flais%205.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",6
+https://archive.org/download/abu-flais/Abu%20Flais%206.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",7
+https://archive.org/download/abu-flais/Abu%20Flais%2077.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",8
+https://archive.org/download/abu-flais/Abu%20Flais%2088.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",9
+https://archive.org/download/abu-flais/Abu%20Flais%209.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",10
+https://archive.org/download/abu-flais/Abu%20Flais%2010.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",11
+https://archive.org/download/abu-flais/Abu%20Flais%2011.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",12
+https://archive.org/download/abu-flais/Abu%20Flais%2012.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",13
+https://archive.org/download/abu-flais/Abu%20Flais%2013.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",14
+https://archive.org/download/abu-flais/Abu%20Flais%2014.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",15
+https://archive.org/download/abu-flais/Abu%20Flais%2015.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",16
+https://archive.org/download/abu-flais/Abu%20Flais%2016.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",17
+https://archive.org/download/abu-flais/Abu%20Flais%2017.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",18
+https://archive.org/download/abu-flais/Abu%20Flais%2018.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",19
+https://archive.org/download/abu-flais/Abu%20Flais%2019.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",20
+https://archive.org/download/abu-flais/Abu%20Flais%2020.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",21
+https://archive.org/download/abu-flais/Abu%20Flais%2021.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",22
+https://archive.org/download/abu-flais/Abu%20Flais%2022.mp4
+
 
