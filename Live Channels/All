@@ -18,12 +18,6 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000
 #EXTINF:-1  tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="قنوات عربية",Dijlah
 https://ghaasiflu.online/Dijlah/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://alrafidain.org/style/assets/imgs/logo.png" group-title="قنوات عربية",Al Rafidain
-https://cdg8.edge.technocdn.com/arrafidaintv/abr_live/arrafidaintv/live_1024p/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/61MSiq9.png" group-title="قنوات عربية",France 24 Arabic
-https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/qNi4rwG.jpg" group-title="قنوات عربية",Al Sharqiya News
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 
