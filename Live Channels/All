@@ -191,9 +191,6 @@ http://rtmp1.abnsat.com/hls/arabic.m3u8
 #EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",ABNsat2
 http://rtmp.abnsat.com/hls/abnsat2.m3u8
 
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Bible Movies
-http://rtmp.abnsat.com/hls/abnbiblemovies.m3u8
-
 #EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV USA
 https://5d658d7e9f562.streamlock.net/alkarmatv.com/alkarmaNA1.smil/chunklist_w250487669_b1628000_slar.m3u8
 
@@ -206,29 +203,11 @@ https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaME1.smil/chunklist_w16
 #EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV Australia
 https://5d658d7e9f562.streamlock.net/alkarmatv.com/alkarmaAU.smil/chunklist_w1326771803_b1628000_slar.m3u8
 
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV Family
-https://597f64b67707a.streamlock.net/alkarmatv.com/alkarmaNA2.smil/chunklist_w966209661_b1628000_slar.m3u8
-
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV New Generation
-https://597f64b67707a.streamlock.net/alkarmatv.com/alkarmaUS.smil/chunklist_w1551072347_b1628000_slar.m3u8
-
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV Discipleship
-https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaME2.smil/chunklist_w155282803_b1628000_slar.m3u8
-
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV Praise
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaPA.smil/chunklist_w476339523_b1628000_slar.m3u8
-
 #EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",SAT-7
 https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/sat7arabicpublish/sat7arabic_720p/chunks_dvr.m3u8
 
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",The Way
-http://videos.atvsat.com:1935/atvsatlive/smil:atvsatlive.smil/chunklist_w1111967499_b18141889_slen.m3u8
-
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",CTV
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/CopticTelevision.jpg/revision/latest?cb=20210723194712" group-title="قنوات مسيحية",CTV
 https://5d658d7e9f562.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w1842680643_b1728000_slar_t64SEQ=.m3u8
-
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Christ TV
-https://cdn3.wowza.com/1/ejBLZGxwQmwzTDk4/aFBrWEk4/hls/ttl5bbs8/2728/chunklist.m3u8
 
 ##########################################################الكبير أوي الجزء الاول###################################################################
 
