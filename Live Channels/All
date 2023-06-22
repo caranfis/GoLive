@@ -30,23 +30,23 @@ https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/K0MQiNB.png" group-title="قنوات عربية",Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/index_1.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 1 HD
+#EXTINF:-1  tvg-logo="https://free.one24tv.com:443/images/jM9HVxPh83F5uqWDRPSn1qfeVN3FIv7EYbvGJCLEaBaplHx2WtM0JjwGKAtEeFiX.png" group-title="قنوات عربية",MBC 1 HD
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 2 HD
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-2.png" group-title="قنوات عربية",MBC 2 HD
 https://free.one24tv.com:443/48731687463594/48731687463594/95
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 4 HD
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="قنوات عربية",MBC 4 HD
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-action.png" group-title="قنوات عربية",MBC ACTION
+https://free.one24tv.com:443/48731687463594/48731687463594/9606
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" group-title="قنوات عربية",MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc-iraq-ae-iq.png" group-title="قنوات عربية",MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr.png" group-title="قنوات عربية",MBC Masr 1
-https://shls-masr-prod-dub.shahid.net/out/v1/b7093401da27496797a8949de23f4578/index_1.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/mm/mbc_ae_masr_2.png" group-title="قنوات عربية",MBC Masr 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
