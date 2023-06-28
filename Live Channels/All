@@ -34,10 +34,10 @@ https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/index_1.m3u8
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
 
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-2.png" group-title="قنوات عربية",MBC 2 HD
-http://xtream4.xyz:25461/vipcabelstream/voWknCmq3k/2508
+https://free.one24tv.com:443/48731687463594/48731687463594/95
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC MAX
-http://xtream4.xyz:25461/vipcabelstream/voWknCmq3k/2495
+https://free.one24tv.com:443/48731687463594/48731687463594/100
 
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="قنوات عربية",MBC 4 HD
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
