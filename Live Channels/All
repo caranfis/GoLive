@@ -60,20 +60,23 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-dramap.png" group-title="قنوات عربية",MBC Plus Drama
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="قنوات عربية",Rotana Cinema HD
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaTyhmc1XfEQwpvUH0tNN-NJ1AAsQEuEgpo1FtThttYShOgnJkDK8PEQxapoyXPLbKVkU&usqp=CAU" group-title="قنوات عربية",Bee Movies
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1691120131/ei/ox3MZILaGdnEkgbWzKmQAw/ip/181.214.70.21/id/lTTzbsSpiLo.3/source/yt_live_broadcast/requiressl/yes/tx/24360281/txs/24360280%2C24360281%2C24360282/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f11DdOzZC0pM6ddEGRV0Fg7GQkl6UwwyhXDPRA/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246%2C24363391/beids/24350018/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgBtr9EAi2MCJ1MVt95sgn_6ru3aPxKnyevaMm8molDF8CIQDPBnMN8FtijbbZczU3S301Qqe2AHA_PWpY7UX7uwvW7w%3D%3D/file/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="قنوات عربية",Rotana Cinema EGY
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Rotana_Cinema_KSA.png" group-title="قنوات عربية",Rotana Cinema HD KSA
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Rotana_Cinema_KSA.png" group-title="قنوات عربية",Rotana Cinema KSA
 https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
-
-#EXTINF:-1  tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqjTUffd2DiMimI1zecRNwAcVlvjsWBOfT-eVyLmy3HDTUrKfNvoyW4MDhqWKBQSdOnxaZd7T0Y0FAzr1Zbm-QuL_3SgVN3iNasiWrVnwBMs_Jjh1Cxt0aijYnZ64VCaPnkqk0zKpt3CGtsXsRDVF5j0oriOwcx780huwbPS7bq7F14h_wlleEcmW7/s416/rotana%20plus%20live.png" group-title="قنوات عربية",Rotana+
-https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
 
 #EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/ufkCKCs.png" group-title="قنوات عربية",Rotana Classic (1080p)
 https://rotanastudios-rotanaclassic-1-eu.xiaomi.wurl.tv/2bfe169aecc05cc321b715e0e70643f1.m3u8
 
 #EXTINF:-1 tvg-id="RotanaComedy.sa" tvg-logo="https://i.imgur.com/ZeHLXlw.png" group-title="قنوات عربية",Rotana Comedy (1080p)
 https://rotanastudios-rotanacomedy-1-eu.xiaomi.wurl.tv/8b19722f7772362323148961d5a4c446.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana+
+https://shls-rotanaplus-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
 
 #EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-logo="https://i.imgur.com/IhUe8Ka.png" group-title="قنوات عربية",Rotana Drama
 https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/807905e439854b6ace3651e884e1fac6.m3u8
