@@ -1422,6 +1422,9 @@ https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2020-03-16/vidx9MnSECH5q.smil
 #EXTINF:-1 tvg-id="200" tvg-logo"https://i.etsystatic.com/23647903/r/il/fee886/2447996988/il_570xN.2447996988_ifrn.jpg" group-title="افلام اجنبية",(Psycho-1960)
 https://archive.org/download/foreign-movies/Psycho-1960.mp4
 
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="افلام اجنبية",(Mr Bean's Holiday)
+https://archive.org/download/foreign-movies/Mr-Bean%27s-Holiday.avi
+
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="افلام اجنبية",(Mr. Bean_Last exam before the holidays)
 https://archive.org/download/last-exam-before-the-holidays-mr-bean-funny-clips-mr-bean-official/Last%20Exam%20Before%20The%20HOLIDAYS.mp4
 
@@ -1490,9 +1493,6 @@ https://cdn.alarab.com/numeric/150691.mp4/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="افلام اجنبية",(Aladdin)
 https://cdn.alarab.com/numeric/131252.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="افلام اجنبية",(Mr Bean's Holiday)
-https://archive.org/download/foreign-movies/Mr-Bean%27s-Holiday.avi
 
 ######################################################################### مسرحيات ####################################################################
 
