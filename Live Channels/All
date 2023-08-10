@@ -1585,6 +1585,15 @@ https://archive.org/download/masrahyat_202205/Weghet%20Nazar.mp4
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسرحيات",الاستاذ مزيكا
 https://archive.org/download/masrahyat_202205/Al%20Ostaz-Mazzika.mp4
 
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسرحيات",الاباندا
+http://62.210.209.138:41000/movie/v52/v43/3.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسرحيات",عفروتو
+http://62.210.209.138:41000/movie/v52/v43/1.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسرحيات",دو ري مي فاصوليا
+http://62.210.209.138:41000/movie/v52/v43/5.mp4
+
 ##########################################################هومي هون###################################################################
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="هومي هون",الحلقة(1)
