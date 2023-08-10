@@ -165,62 +165,6 @@ http://62.182.82.104/OTV/index.m3u8?token=test
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="قنوات عربية",Ro'ya TV
 https://weyyak-live.akamaized.net/weyyak_roya/tracks-v1a1/mono.m3u8
 
-########################################################## قنوات مسيحية ###################################################################
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/9HocMyE.jpg" group-title="قنوات مسيحية",Al Hayat TV
-http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/9HocMyE.jpg" group-title="قنوات مسيحية",Al Fadi
-http://media.smc-host.com:1935/alfadytv.tv/alfadytv.smil/chunklist_w520464216_b1896000_slar_t64SEQ=.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/QrwZu4W.png" group-title="قنوات مسيحية",NourSAT
-https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/5VvPLEl.jpg" group-title="قنوات مسيحية",Nour Al Koddas
-https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/hiAwky4.jpg" group-title="قنوات مسيحية",Nour Al Sharq
-https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" group-title="قنوات مسيحية",Nour Mariam
-https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="http://www.riseuptv.tv/wp-content/uploads/2020/08/cropped-Al-Kiama-TV-Logo-2_RedWhite-small.png" group-title="قنوات مسيحية",Al-Qiama-TV
-https://5d12bc59c4748.streamlock.net/redirect/riseuptv.tv/riseup?type=m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/VCfZB73.png" group-title="قنوات مسيحية",Al Horreya TV
-http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TheKingdomSat.eg" tvg-logo="https://i.imgur.com/6xa14aQ.png" group-title="قنوات مسيحية",The Kingdom Sat
-https://svs.itworkscdn.net/kingdomsatlive/kingdomsat.smil/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="LogosTV.us" tvg-logo="https://logoschannel.com/images/logo.png" group-title="قنوات مسيحية",Logos TV Mubasher
-https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",ABNsat
-http://rtmp1.abnsat.com/hls/arabic.m3u8
-
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",ABNsat2
-http://rtmp.abnsat.com/hls/abnsat2.m3u8
-
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV USA
-https://5d658d7e9f562.streamlock.net/alkarmatv.com/alkarmaNA1.smil/chunklist_w250487669_b1628000_slar.m3u8
-
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV Plus
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/chunklist_w398989404_b2328000_slar.m3u8
-
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV MidEast
-https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaME1.smil/chunklist_w1657191450_b1628000_slar.m3u8
-
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV Australia
-https://5d658d7e9f562.streamlock.net/alkarmatv.com/alkarmaAU.smil/chunklist_w1326771803_b1628000_slar.m3u8
-
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",SAT-7
-https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/sat7arabicpublish/sat7arabic_720p/chunks_dvr.m3u8
-
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/CopticTelevision.jpg/revision/latest?cb=20210723194712" group-title="قنوات مسيحية",CTV
-https://5d658d7e9f562.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w1842680643_b1728000_slar_t64SEQ=.m3u8
-
 ##########################################################الكبير أوي الجزء الاول###################################################################
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="الكبير أوي",#################### الجزءالاول ####################
@@ -1603,15 +1547,6 @@ http://62.210.209.138:41000/movie/v52/v43/1.mp4
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسرحيات",دو ري مي فاصوليا
 http://62.210.209.138:41000/movie/v52/v43/5.mp4
 
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسرحيات",الاباندا
-http://62.210.209.138:41000/movie/v52/v43/3.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسرحيات",عفروتو
-http://62.210.209.138:41000/movie/v52/v43/1.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسرحيات",دو ري مي فاصوليا
-http://62.210.209.138:41000/movie/v52/v43/5.mp4
-
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسرحيات",علشان خاطر عيونك
 http://62.210.209.138:41000/movie/v52/v43/7.mp4
 
@@ -2393,5 +2328,61 @@ https://archive.org/download/abu-flais/Abu%20Flais%2021.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="ابو فليس",22
 https://archive.org/download/abu-flais/Abu%20Flais%2022.mp4
+
+########################################################## قنوات مسيحية ###################################################################
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/9HocMyE.jpg" group-title="قنوات مسيحية",Al Hayat TV
+http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/9HocMyE.jpg" group-title="قنوات مسيحية",Al Fadi
+http://media.smc-host.com:1935/alfadytv.tv/alfadytv.smil/chunklist_w520464216_b1896000_slar_t64SEQ=.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QrwZu4W.png" group-title="قنوات مسيحية",NourSAT
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/5VvPLEl.jpg" group-title="قنوات مسيحية",Nour Al Koddas
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/hiAwky4.jpg" group-title="قنوات مسيحية",Nour Al Sharq
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" group-title="قنوات مسيحية",Nour Mariam
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.riseuptv.tv/wp-content/uploads/2020/08/cropped-Al-Kiama-TV-Logo-2_RedWhite-small.png" group-title="قنوات مسيحية",Al-Qiama-TV
+https://5d12bc59c4748.streamlock.net/redirect/riseuptv.tv/riseup?type=m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/VCfZB73.png" group-title="قنوات مسيحية",Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheKingdomSat.eg" tvg-logo="https://i.imgur.com/6xa14aQ.png" group-title="قنوات مسيحية",The Kingdom Sat
+https://svs.itworkscdn.net/kingdomsatlive/kingdomsat.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="LogosTV.us" tvg-logo="https://logoschannel.com/images/logo.png" group-title="قنوات مسيحية",Logos TV Mubasher
+https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",ABNsat
+http://rtmp1.abnsat.com/hls/arabic.m3u8
+
+#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",ABNsat2
+http://rtmp.abnsat.com/hls/abnsat2.m3u8
+
+#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV USA
+https://5d658d7e9f562.streamlock.net/alkarmatv.com/alkarmaNA1.smil/chunklist_w250487669_b1628000_slar.m3u8
+
+#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV Plus
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/chunklist_w398989404_b2328000_slar.m3u8
+
+#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV MidEast
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaME1.smil/chunklist_w1657191450_b1628000_slar.m3u8
+
+#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV Australia
+https://5d658d7e9f562.streamlock.net/alkarmatv.com/alkarmaAU.smil/chunklist_w1326771803_b1628000_slar.m3u8
+
+#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",SAT-7
+https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/sat7arabicpublish/sat7arabic_720p/chunks_dvr.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/CopticTelevision.jpg/revision/latest?cb=20210723194712" group-title="قنوات مسيحية",CTV
+https://5d658d7e9f562.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w1842680643_b1728000_slar_t64SEQ=.m3u8
 
 
