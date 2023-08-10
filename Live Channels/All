@@ -1547,6 +1547,9 @@ https://cdn.alarab.com/numeric/150691.mp4/index-v1-a1.m3u8
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="افلام اجنبية",(Aladdin)
 https://cdn.alarab.com/numeric/131252.mp4/index-v1-a1.m3u8
 
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="افلام اجنبية",(Mr Bean's Holiday)
+https://archive.org/download/foreign-movies/Mr-Bean%27s-Holiday.avi
+
 ######################################################################### مسرحيات ####################################################################
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="مسرحيات",مدرسة المشاغبين
