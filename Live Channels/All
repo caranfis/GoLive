@@ -165,6 +165,59 @@ http://62.182.82.104/OTV/index.m3u8?token=test
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="قنوات عربية",Ro'ya TV
 https://weyyak-live.akamaized.net/weyyak_roya/tracks-v1a1/mono.m3u8
 
+##########################################################اغاني###################################################################
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",سيرة الحب
+https://archive.org/download/omkolthoum/Studio-Seert%20Elhob.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",بعيد عنك
+https://archive.org/download/omkolthoum/Studio-Baeed%20Annak.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",الف ليلة وليلة
+https://archive.org/download/omkolthoum/Studio-Alf%20Layla.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",انت عمري
+https://archive.org/download/omkolthoum/Studio-Enta%20Omry.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",لسه فاكر
+https://archive.org/download/lessa-faker1966-tessgilette-zemene/%D9%84%D8%B3%D9%87%20%D9%81%D8%A7%D9%83%D8%B1%206%20%D8%AC%D8%A7%D9%86%D9%81%D9%8A%201966.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",دارت الايام
+https://archive.org/download/omkolthoum/Studio-Daret%20El%20Ayam.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",الحب كله
+https://archive.org/download/omkolthoum/Studio-Elhob%20Koloh.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",انت الحب
+https://archive.org/download/omkolthoum/Studio-Enta%20El%20Hobb.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",اسأل روحك
+https://archive.org/download/omkolthoum/Studio-Esaal%20Ro7ak.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",فكروني
+https://archive.org/download/omkolthoum/Studio-Fakarouni.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",فات المعاد
+https://archive.org/download/omkolthoum/Studio-Fat%20El%20Maad.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",هذه ليلتي
+https://archive.org/download/omkolthoum/Studio-Hathehi%20Laylati.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",حيرت قلبي
+https://archive.org/download/omkolthoum/Studio-Hayrat%20Qalbi.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",امل حياتي
+https://archive.org/download/omkolthoum/Studio-Amal%20Hayati.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",انساك
+https://archive.org/download/omkolthoum/Studio-Ansak.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",للصبر حدود
+https://archive.org/download/omkolthoum/Studio-Lelsabr%20Hodood.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",الاطلال
+https://archive.org/download/omkolthoum/Studio-Al-Atlal.mp3
+
 ##########################################################الكبير أوي الجزء الاول###################################################################
 
 #EXTINF:-1 tvg-id="200" tvg-logo"" group-title="الكبير أوي",#################### الجزءالاول ####################
