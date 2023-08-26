@@ -167,56 +167,95 @@ https://weyyak-live.akamaized.net/weyyak_roya/tracks-v1a1/mono.m3u8
 
 ##########################################################اغاني###################################################################
 
-#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",سيرة الحب
-https://archive.org/download/omkolthoum/Studio-Seert%20Elhob.mp3
-
-#EXTINF:-1 tvg-id="100" tvg-logo"https://archive.org/download/images_20230807/IMG_0130.jpeg" group-title="ام كلثوم",بعيد عنك
-https://archive.org/download/omkolthoum/Studio-Baeed%20Annak.mp3
-
 #EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",الف ليلة وليلة
-https://archive.org/download/omkolthoum/Studio-Alf%20Layla.mp3
+https://archive.org/download/umm-kulthum/Alf-Leila-We-Leila-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",سيرة الحب
+https://archive.org/download/umm-kulthum/Seret-El-Hob-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",بعيد عنك
+https://archive.org/download/umm-kulthum/Ba%27eed-Anak-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",يا مسهرني
+https://archive.org/download/umm-kulthum/Ya-Msaharny-Umm-Kulthum.mp4
 
 #EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",انت عمري
-https://archive.org/download/omkolthoum/Studio-Enta%20Omry.mp3
-
-#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",لسه فاكر
-https://archive.org/download/lessa-faker1966-tessgilette-zemene/%D9%84%D8%B3%D9%87%20%D9%81%D8%A7%D9%83%D8%B1%206%20%D8%AC%D8%A7%D9%86%D9%81%D9%8A%201966.mp3
-
-#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",دارت الايام
-https://archive.org/download/omkolthoum/Studio-Daret%20El%20Ayam.mp3
-
-#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",الحب كله
-https://archive.org/download/omkolthoum/Studio-Elhob%20Koloh.mp3
-
-#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",انت الحب
-https://archive.org/download/omkolthoum/Studio-Enta%20El%20Hobb.mp3
-
-#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",اسأل روحك
-https://archive.org/download/omkolthoum/Studio-Esaal%20Ro7ak.mp3
-
-#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",فكروني
-https://archive.org/download/omkolthoum/Studio-Fakarouni.mp3
-
-#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",فات المعاد
-https://archive.org/download/omkolthoum/Studio-Fat%20El%20Maad.mp3
-
-#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",هذه ليلتي
-https://archive.org/download/omkolthoum/Studio-Hathehi%20Laylati.mp3
-
-#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",حيرت قلبي
-https://archive.org/download/omkolthoum/Studio-Hayrat%20Qalbi.mp3
+https://archive.org/download/umm-kulthum/Enta-Omry-Umm-Kulthum.mp4
 
 #EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",امل حياتي
-https://archive.org/download/omkolthoum/Studio-Amal%20Hayati.mp3
+https://archive.org/download/umm-kulthum/Amal-Hayaty-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",الحب كله
+https://archive.org/download/umm-kulthum/El-Hob-Koloh-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",حب ايه
+https://archive.org/download/umm-kulthum/Hob-Eh-Umm-Kulthum.mp4
 
 #EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",انساك
-https://archive.org/download/omkolthoum/Studio-Ansak.mp3
+https://archive.org/download/umm-kulthum/Ansak-Umm-Kulthum.mp4
 
-#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",للصبر حدود
-https://archive.org/download/omkolthoum/Studio-Lelsabr%20Hodood.mp3
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",لسه فاكر
+https://archive.org/download/umm-kulthum/Lesa-Faker-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",دارت الايام
+https://archive.org/download/umm-kulthum/Daret-El-Ayam-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",اروح لمين
+https://archive.org/download/umm-kulthum/Arouh-Lmein-Umm-Kulthum.mp4
 
 #EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",الاطلال
-https://archive.org/download/omkolthoum/Studio-Al-Atlal.mp3
+https://archive.org/download/umm-kulthum/El-Atlal-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",فكروني
+https://archive.org/download/umm-kulthum/Fakarouny-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",هذه ليلتي
+https://archive.org/download/umm-kulthum/Hathehi-Lailaty-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",فات المعاد
+https://archive.org/download/umm-kulthum/Fat-El-Ma%27ad-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",عودت عيني
+https://archive.org/download/umm-kulthum/Awedt-Ainy-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",دليلي احتار
+https://archive.org/download/umm-kulthum/Daleely-Ehtar-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",انت الحب
+https://archive.org/download/umm-kulthum/Enta-El-Hob-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",اسأل روحك
+https://archive.org/download/umm-kulthum/Es%27al-Rohak-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",جددت حبك ليه
+https://archive.org/download/umm-kulthum/Gadedt-Hobak-Leh-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",حيرت قلبي معاك
+https://archive.org/download/umm-kulthum/Hayart-Qalby-Maak-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",الهوى غلاب
+https://archive.org/download/umm-kulthum/Howa-Saheeh-El-Hawa-Ghallab-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",ليلة حب
+https://archive.org/download/umm-kulthum/Leilet-Hob-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",للصبر حدود
+https://archive.org/download/umm-kulthum/Lel-Sabr-Hodoud-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",من اجل عينيك
+https://archive.org/download/umm-kulthum/Men-Agl-Ainak-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",ظلمنا الحب
+https://archive.org/download/umm-kulthum/Zalamna-El-Hob-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",ذكريات
+https://archive.org/download/umm-kulthum/Zekrayat-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",اقبل الليل
+https://archive.org/download/umm-kulthum/Aqbal-Al-Laylo-Umm-Kulthum.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo"" group-title="ام كلثوم",اغدا القاك
+https://archive.org/download/umm-kulthum/Aghadan-Alqak-Umm-Kulthum.mp4
 
 ##########################################################الكبير أوي الجزء الاول###################################################################
 
