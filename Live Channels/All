@@ -4,7 +4,7 @@
 #EXTINF:-1, Folder 1
 https://raw.githubusercontent.com/caranfis/GoLive/main/Folder1
 #EXTINF:-1, Folder 2
-folder2.m3u8
+https://raw.githubusercontent.com/caranfis/GoLive/main/Folder2
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="قنوات عربية",Al Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya_1080p/playlist.m3u8
