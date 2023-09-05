@@ -1465,6 +1465,12 @@ https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2020-03-16/vidx9MnSECH5q.smil
 
 ######################################################################### افلام اجنبية ####################################################################
 
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="Movies|Bean",Test1
+https://archive.org/download/foreign-movies/Mr-Bean%27s-Holiday.avi
+
+#EXTINF:-1 tvg-id="200" tvg-logo"" group-title="Movies|Bean",Test2
+https://archive.org/download/foreign-movies/12.Angry.Men.1957.1080p.mp4
+
 #EXTINF:-1 tvg-id="200" tvg-logo"https://i.etsystatic.com/23647903/r/il/fee886/2447996988/il_570xN.2447996988_ifrn.jpg" group-title="افلام اجنبية",(Psycho-1960)
 https://archive.org/download/foreign-movies/Psycho-1960.mp4
 
