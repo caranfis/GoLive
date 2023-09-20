@@ -165,6 +165,38 @@ http://62.182.82.104/OTV/index.m3u8?token=test
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Sa2nBTP.png" group-title="قنوات عربية",Ro'ya TV
 https://weyyak-live.akamaized.net/weyyak_roya/tracks-v1a1/mono.m3u8
 
+########################################################## اهلا بالسكان ###################################################################
+
+#EXTINF:-1  tvg-logo="" group-title="(1)اهلا بالسكان", الحلقة
+https://archive.org/download/ahlan-bel-soukan/Ahlan-Bel-Soukan-01.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="(2)اهلا بالسكان", الحلقة
+https://archive.org/download/ahlan-bel-soukan/Ahlan-Bel-Soukan-02.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="(3)اهلا بالسكان", الحلقة
+https://archive.org/download/ahlan-bel-soukan/Ahlan-Bel-Soukan-03.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="(4)اهلا بالسكان", الحلقة
+https://archive.org/download/ahlan-bel-soukan/Ahlan-Bel-Soukan-04.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="(5)اهلا بالسكان", الحلقة
+https://archive.org/download/ahlan-bel-soukan/Ahlan-Bel-Soukan-05.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="(6)اهلا بالسكان", الحلقة
+https://archive.org/download/ahlan-bel-soukan/Ahlan-Bel-Soukan-06.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="(7)اهلا بالسكان", الحلقة
+https://archive.org/download/ahlan-bel-soukan/Ahlan-Bel-Soukan-07.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="(8)اهلا بالسكان", الحلقة
+https://archive.org/download/ahlan-bel-soukan/Ahlan-Bel-Soukan-08.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="(9)اهلا بالسكان", الحلقة
+https://archive.org/download/ahlan-bel-soukan/Ahlan-Bel-Soukan-09.mp4
+
+#EXTINF:-1  tvg-logo="" group-title="(10)اهلا بالسكان", الحلقة
+https://archive.org/download/ahlan-bel-soukan/Ahlan-Bel-Soukan-10.mp4
+
 ########################################################## اغاني ###################################################################
 ########################################################## ام كلثوم ###################################################################
 
