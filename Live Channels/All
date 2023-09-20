@@ -167,34 +167,34 @@ https://weyyak-live.akamaized.net/weyyak_roya/tracks-v1a1/mono.m3u8
 
 ########################################################## اهلا بالسكان ###################################################################
 
-#EXTINF:-1  tvg-logo="" group-title="(1)اهلا بالسكان", الحلقة
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="اهلا بالسكان",(1)
 https://archive.org/download/ahlan-bel-soukan/Ahlan-Bel-Soukan-01.mp4
 
-#EXTINF:-1  tvg-logo="" group-title="(2)اهلا بالسكان", الحلقة
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="اهلا بالسكان",(2)
 https://archive.org/download/ahlan-bel-soukan/Ahlan-Bel-Soukan-02.mp4
 
-#EXTINF:-1  tvg-logo="" group-title="(3)اهلا بالسكان", الحلقة
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="اهلا بالسكان",(3)
 https://archive.org/download/ahlan-bel-soukan/Ahlan-Bel-Soukan-03.mp4
 
-#EXTINF:-1  tvg-logo="" group-title="(4)اهلا بالسكان", الحلقة
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="اهلا بالسكان",(4)
 https://archive.org/download/ahlan-bel-soukan/Ahlan-Bel-Soukan-04.mp4
 
-#EXTINF:-1  tvg-logo="" group-title="(5)اهلا بالسكان", الحلقة
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="اهلا بالسكان",(5)
 https://archive.org/download/ahlan-bel-soukan/Ahlan-Bel-Soukan-05.mp4
 
-#EXTINF:-1  tvg-logo="" group-title="(6)اهلا بالسكان", الحلقة
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="اهلا بالسكان",(6)
 https://archive.org/download/ahlan-bel-soukan/Ahlan-Bel-Soukan-06.mp4
 
-#EXTINF:-1  tvg-logo="" group-title="(7)اهلا بالسكان", الحلقة
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="اهلا بالسكان",(7)
 https://archive.org/download/ahlan-bel-soukan/Ahlan-Bel-Soukan-07.mp4
 
-#EXTINF:-1  tvg-logo="" group-title="(8)اهلا بالسكان", الحلقة
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="اهلا بالسكان",(8)
 https://archive.org/download/ahlan-bel-soukan/Ahlan-Bel-Soukan-08.mp4
 
-#EXTINF:-1  tvg-logo="" group-title="(9)اهلا بالسكان", الحلقة
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="اهلا بالسكان",(9)
 https://archive.org/download/ahlan-bel-soukan/Ahlan-Bel-Soukan-09.mp4
 
-#EXTINF:-1  tvg-logo="" group-title="(10)اهلا بالسكان", الحلقة
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="اهلا بالسكان",(10)
 https://archive.org/download/ahlan-bel-soukan/Ahlan-Bel-Soukan-10.mp4
 
 ########################################################## اغاني ###################################################################
