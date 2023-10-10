@@ -1,3 +1,5 @@
+#EXTM3U
+
 ######################################################################### عادل امام ####################################################################
 
 #EXTINF:-1 tvg-id="106" tvg-logo"https://archive.org/download/images_20230807/RamadanFawqAlBorkan1985.jpg" group-title="عادل امام",رمضان فوق البركان
@@ -156,9 +158,6 @@ https://ia600204.us.archive.org/20/items/AdelEmamMovies/HelloAmrica2000.mp4
 #EXTINF:-1 tvg-id="73" tvg-logo"https://media.elcinema.com/uploads/_315x420_507193c8ef9837ab3a09d96783ac2d7642e4bc7f01435902de82d49d425ffac4.jpg" group-title="عادل امام",غاوي مشاكل
 https://ia800204.us.archive.org/20/items/AdelEmamMovies/GhawiMashakel1980.mp4
 
-#EXTINF:-1 tvg-id="87" tvg-logo"https://i.ytimg.com/vi/WnHrP7mCppE/0.jpg" group-title="عادل امام",كرامة زوجتي
-https://ia800204.us.archive.org/20/items/AdelEmamMovies/KarametZawjati1967.mp4
-
 #EXTINF:-1 tvg-id="90" tvg-logo"https://media.elcinema.com/uploads/_315x420_c4ae7fd3e19e23490d27e4e43eaf6dedc29c4b5e6eb36a503e066cc31d91ecd3.jpg" group-title="عادل امام",خمسة باب
 https://ia800204.us.archive.org/20/items/AdelEmamMovies/KhamsaBab1983.mp4
 
@@ -185,6 +184,12 @@ https://ia800204.us.archive.org/20/items/AdelEmamMovies/AlMahfazaMaaia1978.mp4
 
 #EXTINF:-1 tvg-id="91" tvg-logo"https://m.halacima.net/uploads/images/l/dcQPc2nHpL.jpg" group-title="عادل امام",ليلة شتاء دافئة
 https://ia800204.us.archive.org/20/items/AdelEmamMovies/LaylatSheta2Dafe2a1981.mp4
+
+
+################################################################ OLD MOVIES #############################################################################
+
+#EXTINF:-1 tvg-id="87" tvg-logo"https://i.ytimg.com/vi/WnHrP7mCppE/0.jpg" group-title="عادل امام",كرامة زوجتي
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/KarametZawjati1967.mp4
 
 #EXTINF:-1 tvg-id="92" tvg-logo"https://m.halacima.net/uploads/images/l/NDNz8JFeVS.jpg" group-title="عادل امام",لصوص لكن ظرفاء
 https://ia800204.us.archive.org/20/items/AdelEmamMovies/LosousLakenZorafaa1969.mp4
