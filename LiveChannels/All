@@ -649,17 +649,11 @@ https://archive.org/download/adel_imam_full_list_alhalfot/Ramadan-Foq-Alborkan-1
 #EXTINF:-1 tvg-id="32" tvg-logo"https://archive.org/download/images_20230807/AlMotasawwel1983.jpg" group-title="عادل امام",المتسول
 https://archive.org/download/adel_imam_full_list_alhalfot/El-Motasawel-1983.mp4
 
-#EXTINF:-1 tvg-id="63" tvg-logo"https://archive.org/download/images_20230807/Ehtares-Men-AlKhot-1984.jpg" group-title="عادل امام",احترس من الخط
-https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Ehtares.Min.Al5ot.HDTV.1080p.mp4
+#EXTINF:-1 tvg-id="124" tvg-logo"https://media.elcinema.com/uploads/_315x420_041f4a548b3de0d54644b7691cf2697349a52a1f98e12bb040e14270f100bb83.jpg" group-title="عادل امام",زوج تحت الطلب
+https://archive.org/download/adel_imam_full_list_alhalfot/ZowjTahtAlTalab1985.mp4
 
 #EXTINF:-1 tvg-id="12" tvg-logo"https://i.pinimg.com/236x/2c/0f/04/2c0f047e81d6aafa956dc9567c668f48.jpg" group-title="عادل امام",الافوكاتو
 https://archive.org/download/adel_imam_full_list_alhalfot/Al-Avocato-1983.mp4
-
-#EXTINF:-1 tvg-id="18" tvg-logo"https://m.marefa.org/images/c/ca/Al-irhab_wal_kabab.jpg" group-title="عادل امام",الارهاب والكباب
-https://archive.org/download/aboalistar_20200706/%D8%A7%D9%84%D8%A7%D8%B1%D9%87%D8%A7%D8%A8%20%D9%88%D8%A7%D9%84%D9%83%D8%A8%D8%A7%D8%A8.mp4
-
-#EXTINF:-1 tvg-id="34" tvg-logo"https://upload.wikimedia.org/wikipedia/ar/c/c7/Al-Nemr_Wal-Ontha_Poster.jpg" group-title="عادل امام",النمر والانثى
-https://archive.org/download/aboalistar_20200706/%D8%A7%D9%84%D9%86%D9%85%D8%B1%20%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AB%D9%8A.mp4
 
 #EXTINF:-1 tvg-id="50" tvg-logo"https://archive.org/download/images_20230807/Antar-Shayl-Sefo-1983.jpg" group-title="عادل امام",عنتر شايل سيفه
 https://archive.org/download/adel_imam_full_list_alhalfot/Antar-Shayl-Sefo-1983.mp4
@@ -670,14 +664,26 @@ https://archive.org/download/adel_imam_full_list_alhalfot/Al-Laeb-Ma-Al-Kebar-19
 #EXTINF:-1 tvg-id="21" tvg-logo"https://ia902702.us.archive.org/0/items/images_20230807/Alhalfot.jpg" group-title="عادل امام",الهلفوت
 https://archive.org/download/adel_imam_full_list_alhalfot/Alhalfot.mp4
 
-#EXTINF:-1 tvg-id="3" tvg-logo"https://www.almo7eb.com/ar/thumbs/2018/12/1568764956_hamada_w_toto_film_arabic.jpg" group-title="عادل امام",عصابة حمادة و توتو
-https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/3esabet.Hamadah.o.Toto.HDTV.1080p.mp4
-
 #EXTINF:-1 tvg-id="83" tvg-logo="" group-title="عادل امام",جزيرة الشيطان
 https://archive.org/download/adel_imam_full_list_alhalfot/Jazeerat-Alshaytan.mp4
 
 #EXTINF:-1 tvg-id="120" tvg-logo"https://archive.org/download/images_20230807/WahdaBWahda1984.jpg" group-title="عادل امام",واحدة بواحدة
 https://archive.org/download/adel_imam_full_list_alhalfot/Wahdah-Be-Wahdah_Adel-Imam.mp4
+
+#EXTINF:-1 tvg-id="113" tvg-logo"https://media.elcinema.com/uploads/_640x_d5dac8f681a3b8ec746f6913e253dd56d69902d5ed00f005a7f0a20df2b33512.jpg" group-title="عادل امام",شعبان تحت الصفر
+https://archive.org/download/adel_imam_full_list_alhalfot/Sha3abanTahtAlSefr1980.mp4
+
+#EXTINF:-1 tvg-id="63" tvg-logo"https://archive.org/download/images_20230807/Ehtares-Men-AlKhot-1984.jpg" group-title="عادل امام",احترس من الخط
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Ehtares.Min.Al5ot.HDTV.1080p.mp4
+
+#EXTINF:-1 tvg-id="18" tvg-logo"https://m.marefa.org/images/c/ca/Al-irhab_wal_kabab.jpg" group-title="عادل امام",الارهاب والكباب
+https://archive.org/download/aboalistar_20200706/%D8%A7%D9%84%D8%A7%D8%B1%D9%87%D8%A7%D8%A8%20%D9%88%D8%A7%D9%84%D9%83%D8%A8%D8%A7%D8%A8.mp4
+
+#EXTINF:-1 tvg-id="34" tvg-logo"https://upload.wikimedia.org/wikipedia/ar/c/c7/Al-Nemr_Wal-Ontha_Poster.jpg" group-title="عادل امام",النمر والانثى
+https://archive.org/download/aboalistar_20200706/%D8%A7%D9%84%D9%86%D9%85%D8%B1%20%D9%88%D8%A7%D9%84%D8%A7%D9%86%D8%AB%D9%8A.mp4
+
+#EXTINF:-1 tvg-id="3" tvg-logo"https://www.almo7eb.com/ar/thumbs/2018/12/1568764956_hamada_w_toto_film_arabic.jpg" group-title="عادل امام",عصابة حمادة و توتو
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/3esabet.Hamadah.o.Toto.HDTV.1080p.mp4
 
 #EXTINF:-1 tvg-id="81" tvg-logo"https://i.egycdn.com/pic/WmFwZndlY21ZRW1UbW1ibWJtRUVjY052eG1FbW12Tkls.jpg" group-title="عادل امام",حب في الزنزانة
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Hob.Felzenzanah.HDTV.1080p.mp4
@@ -697,17 +703,12 @@ https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Salam.Ya.Sahbi.HDTV.10
 #EXTINF:-1 tvg-id="23" tvg-logo"https://media.dhliz.com/a/film/al_ga7eem/%D8%A7%D9%84%D8%AC%D8%AD%D9%8A%D9%85_1.jpg" group-title="عادل امام",الجحيم
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Aljaheem.HDTV.1080p.mp4
 
-#EXTINF:-1 tvg-id="113" tvg-logo"https://media.elcinema.com/uploads/_640x_d5dac8f681a3b8ec746f6913e253dd56d69902d5ed00f005a7f0a20df2b33512.jpg" group-title="عادل امام",شعبان تحت الصفر
-https://archive.org/download/adel_imam_full_list_alhalfot/Sha3abanTahtAlSefr1980.mp4
-
 #EXTINF:-1 tvg-id="88" tvg-logo"https://media.elcinema.com/uploads/_320x_71038c7f01b6d496f7e94ba98bc109769552f8b4605aa7ed90cf2682008a2262.jpg" group-title="عادل امام",خلي بالك من جيرانك 
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/1979%20%D8%AE%D9%84%D9%8A%20%D8%A8%D8%A7%D9%84%D9%83%20%D9%85%D9%86%20%D8%AC%D9%8A%D8%B1%D8%A7%D9%86%D9%83.mp4
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 #EXTINF:-1 tvg-id="104" tvg-logo"https://cute1.cc/wp-content/uploads/2016/08/20160819-2423.jpg" group-title="عادل امام",رجب فوق صفيح ساخن
 https://ia800204.us.archive.org/20/items/AdelEmamMovies/RajabFokSafehSakhen1979.mp4
-
-#EXTINF:-1 tvg-id="124" tvg-logo"https://media.elcinema.com/uploads/_315x420_041f4a548b3de0d54644b7691cf2697349a52a1f98e12bb040e14270f100bb83.jpg" group-title="عادل امام",زوج تحت الطلب
-https://ia600204.us.archive.org/20/items/AdelEmamMovies/ZowjTahtAlTalab1985.mp4
 
 #EXTINF:-1 tvg-id="95" tvg-logo"https://media.elcinema.com/uploads/_315x420_59b3cfce7b546004b31a287da89e5da18202f4b45838933eba53f8eaa555c46d.jpg" group-title="عادل امام",مين فينا الحرامي
 https://ia800204.us.archive.org/20/items/AdelEmamMovies/MeenFinaAlHarami1984.mp4
@@ -828,6 +829,10 @@ https://ia800204.us.archive.org/20/items/AdelEmamMovies/AlMahfazaMaaia1978.mp4
 
 #EXTINF:-1 tvg-id="91" tvg-logo"https://m.halacima.net/uploads/images/l/dcQPc2nHpL.jpg" group-title="عادل امام",ليلة شتاء دافئة
 https://ia800204.us.archive.org/20/items/AdelEmamMovies/LaylatSheta2Dafe2a1981.mp4
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 #EXTINF:-1 tvg-id="92" tvg-logo"https://m.halacima.net/uploads/images/l/NDNz8JFeVS.jpg" group-title="عادل امام",لصوص لكن ظرفاء
 https://ia800204.us.archive.org/20/items/AdelEmamMovies/LosousLakenZorafaa1969.mp4
