@@ -697,6 +697,9 @@ https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Salam.Ya.Sahbi.HDTV.10
 #EXTINF:-1 tvg-id="23" tvg-logo"https://media.dhliz.com/a/film/al_ga7eem/%D8%A7%D9%84%D8%AC%D8%AD%D9%8A%D9%85_1.jpg" group-title="عادل امام",الجحيم
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Aljaheem.HDTV.1080p.mp4
 
+#EXTINF:-1 tvg-id="113" tvg-logo"https://media.elcinema.com/uploads/_640x_d5dac8f681a3b8ec746f6913e253dd56d69902d5ed00f005a7f0a20df2b33512.jpg" group-title="عادل امام",شعبان تحت الصفر
+https://archive.org/download/adel_imam_full_list_alhalfot/Sha3abanTahtAlSefr1980.mp4
+
 #EXTINF:-1 tvg-id="88" tvg-logo"https://media.elcinema.com/uploads/_320x_71038c7f01b6d496f7e94ba98bc109769552f8b4605aa7ed90cf2682008a2262.jpg" group-title="عادل امام",خلي بالك من جيرانك 
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/1979%20%D8%AE%D9%84%D9%8A%20%D8%A8%D8%A7%D9%84%D9%83%20%D9%85%D9%86%20%D8%AC%D9%8A%D8%B1%D8%A7%D9%86%D9%83.mp4
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -705,9 +708,6 @@ https://ia800204.us.archive.org/20/items/AdelEmamMovies/RajabFokSafehSakhen1979.
 
 #EXTINF:-1 tvg-id="124" tvg-logo"https://media.elcinema.com/uploads/_315x420_041f4a548b3de0d54644b7691cf2697349a52a1f98e12bb040e14270f100bb83.jpg" group-title="عادل امام",زوج تحت الطلب
 https://ia600204.us.archive.org/20/items/AdelEmamMovies/ZowjTahtAlTalab1985.mp4
-
-#EXTINF:-1 tvg-id="113" tvg-logo"https://media.elcinema.com/uploads/_640x_d5dac8f681a3b8ec746f6913e253dd56d69902d5ed00f005a7f0a20df2b33512.jpg" group-title="عادل امام",شعبان تحت الصفر
-https://ia800204.us.archive.org/20/items/AdelEmamMovies/Sha3abanTahtAlSefr1980.mp4
 
 #EXTINF:-1 tvg-id="95" tvg-logo"https://media.elcinema.com/uploads/_315x420_59b3cfce7b546004b31a287da89e5da18202f4b45838933eba53f8eaa555c46d.jpg" group-title="عادل امام",مين فينا الحرامي
 https://ia800204.us.archive.org/20/items/AdelEmamMovies/MeenFinaAlHarami1984.mp4
