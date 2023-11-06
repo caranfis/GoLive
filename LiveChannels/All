@@ -30,10 +30,10 @@ https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/K0MQiNB.png" group-title="قنوات عربية",Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/index_1.m3u8
 
-#EXTINF:-1  tvg-logo="https://free.one24tv.com:443/images/jM9HVxPh83F5uqWDRPSn1qfeVN3FIv7EYbvGJCLEaBaplHx2WtM0JjwGKAtEeFiX.png" group-title="قنوات عربية",MBC 1 HD
+#EXTINF:-1  tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_1_0bf58055e9.svg" group-title="قنوات عربية",MBC 1 HD
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
 
-#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-2.png" group-title="قنوات عربية",MBC 2 HD
+#EXTINF:-1  tvg-logo="https://mbc-lite-strapi-s3.s3.me-south-1.amazonaws.com/svg_mbc_2_5ae3f15729.svg" group-title="قنوات عربية",MBC 2 HD
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/28.m3u8
 
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-max.png" group-title="قنوات عربية",MBC MAX
