@@ -60,8 +60,50 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-dramap.png" group-title="قنوات عربية",MBC Plus Drama
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DMC Drama
+#EXTINF:-1  tvg-logo="https://media0029.elcinema.com/tvguide/1292_1.png" group-title="قنوات عربية",DMC Drama
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/18.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FCBC_Drama&psig=AOvVaw0kA-RjkoBOBInFXavtlioA&ust=1699317017424000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOiN4qyProIDFQAAAAAdAAAAABAD" group-title="قنوات عربية",CBC Drama
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/23.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/03/NileComedy2008.png/revision/latest?cb=20210723133841" group-title="قنوات عربية",Nile Comedy
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/52.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/1200px-ON_logo.png" group-title="قنوات عربية",ON TV
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/77.m3u8
+
+#EXTINF:-1  tvg-logo="https://media0029.elcinema.com/tvguide/1336_1.png" group-title="قنوات عربية",Maspero Zaman
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/44.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/AL_NAHAR_TV_NEW_LOGO.png" group-title="قنوات عربية",Al Nahar
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/7.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/AL_NAHAR_DRAMA_NEW_LOGO.png" group-title="قنوات عربية",Al Nahar Drama Family
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/64.m3u8
+
+#EXTINF:-1  tvg-logo="https://media0029.elcinema.com/tvguide/1138_1.png" group-title="قنوات عربية",Al Hayat Drama
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/74.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/EL_MEHWAR_TV.png" group-title="قنوات عربية",El Mehwar TV
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/71.m3u8
+
+#EXTINF:-1  tvg-logo="https://static-media.streema.com/media/cache/13/e2/13e22dede8c10929c1ce1494b56580c8.jpg" group-title="قنوات عربية",Al Qahira Wal Nas
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/73.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/7/75/Sama_TV_Logo.png" group-title="قنوات عربية",SAMA TV
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/58.m3u8
+
+#EXTINF:-1  tvg-logo="https://media0029.elcinema.com/tvguide/1300_1.png" group-title="قنوات عربية",Syria Drama
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/6.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/17/Al_Jadeed.PNG" group-title="قنوات عربية",Al Jadeed
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/88.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Cbc_sofra_logo.png/800px-Cbc_sofra_logo.png" group-title="قنوات عربية",CBC SOFRA
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/46.m3u8
+
+#EXTINF:-1  tvg-logo="https://media0029.elcinema.com/tvguide/1371_1.png" group-title="قنوات عربية",MIX
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/99.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="قنوات عربية",Rotana Cinema EGY
 https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
@@ -89,6 +131,9 @@ http://xtream4.xyz:25461/vipcabelstream/voWknCmq3k/2485
 
 #EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/FpZ7xVT.png" group-title="قنوات عربية",Rotana Music
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/95c78e52a02cff6529ec6a8b9032d558.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://pbs.twimg.com/profile_images/1470833560152162306/Y6TRlbDS_400x400.jpg" group-title="قنوات عربية",One MTV Lebanon
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/35.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://weyyak.com/static/media/weyyak-logo.232aaae4.png" group-title="قنوات عربية",Weyyak Nawaem
 https://weyyak-live.akamaized.net/weyyak_nawaem/mono.m3u8
