@@ -647,7 +647,16 @@ https://archive.org/download/al.-kabeer.-awi.-s-6.-e-1.1080-p/Al.Kabeer.Awi.S6.E
 https://archive.org/download/Adel-Imam-Movies/Ramadan-Foq-Alborkan-1985-1080p.mp4
 
 #EXTINF:-1 tvg-id="32" tvg-logo"https://archive.org/download/images_20230807/AlMotasawwel1983.jpg" group-title="عادل امام",المتسول
-https://archive.org/download/adel_imam_full_list_alhalfot/El-Motasawel-1983.mp4
+https://archive.org/download/Adel-Imam-Movies/El-Motasawel-1983.mp4
+
+#EXTINF:-1 tvg-id="25" tvg-logo"https://archive.org/download/images_20230807/Al-Laeb-Ma-Al-Kebar-1991.jpg" group-title="عادل امام",اللعب مع الكبار
+https://archive.org/download/Adel-Imam-Movies/Al-Laeb-Ma-Al-Kebar-1991-1080p.mp4
+
+#EXTINF:-1 tvg-id="99" tvg-logo"https://i.ytimg.com/vi/R2PlfFiMzDs/maxresdefault.jpg" group-title="عادل امام",مسجل خطر
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/MosagalKhatar1991.mp4
+
+#EXTINF:-1 tvg-id="83" tvg-logo="https://dvdyati.net//media/prod_20150512114242.jpeg" group-title="عادل امام",جزيرة الشيطان
+
 
 #EXTINF:-1 tvg-id="124" tvg-logo"https://media.elcinema.com/uploads/_315x420_041f4a548b3de0d54644b7691cf2697349a52a1f98e12bb040e14270f100bb83.jpg" group-title="عادل امام",زوج تحت الطلب
 https://archive.org/download/adel_imam_full_list_alhalfot/ZowjTahtAlTalab1985.mp4
@@ -658,14 +667,8 @@ https://archive.org/download/adel_imam_full_list_alhalfot/Al-Avocato-1983.mp4
 #EXTINF:-1 tvg-id="50" tvg-logo"https://archive.org/download/images_20230807/Antar-Shayl-Sefo-1983.jpg" group-title="عادل امام",عنتر شايل سيفه
 https://archive.org/download/adel_imam_full_list_alhalfot/Antar-Shayl-Sefo-1983.mp4
 
-#EXTINF:-1 tvg-id="25" tvg-logo"https://archive.org/download/images_20230807/Al-Laeb-Ma-Al-Kebar-1991.jpg" group-title="عادل امام",اللعب مع الكبار
-https://archive.org/download/Adel-Imam-Movies/Al-Laeb-Ma-Al-Kebar-1991-1080p.mp4
-
 #EXTINF:-1 tvg-id="21" tvg-logo"https://ia902702.us.archive.org/0/items/images_20230807/Alhalfot.jpg" group-title="عادل امام",الهلفوت
 https://archive.org/download/adel_imam_full_list_alhalfot/Alhalfot.mp4
-
-#EXTINF:-1 tvg-id="83" tvg-logo="" group-title="عادل امام",جزيرة الشيطان
-https://archive.org/download/adel_imam_full_list_alhalfot/Jazeerat-Alshaytan.mp4
 
 #EXTINF:-1 tvg-id="120" tvg-logo"https://archive.org/download/images_20230807/WahdaBWahda1984.jpg" group-title="عادل امام",واحدة بواحدة
 https://archive.org/download/adel_imam_full_list_alhalfot/Wahdah-Be-Wahdah_Adel-Imam.mp4
@@ -808,9 +811,6 @@ https://ia800204.us.archive.org/20/items/AdelEmamMovies/KhamsaBab1983.mp4
 
 #EXTINF:-1 tvg-id="98" tvg-logo"https://aflam06.net/wp-content/uploads/2018/04/Morgan-Ahmed-Morgan-2007.jpg" group-title="عادل امام",مرجان احمد مرجان
 https://ia800204.us.archive.org/20/items/AdelEmamMovies/MorganAhmedMorgn2007.mp4
-
-#EXTINF:-1 tvg-id="99" tvg-logo"https://cima4u.onl/wp-content/uploads/2020/08/%D9%81%D9%8A%D9%84%D9%85-%D9%85%D8%B3%D8%AC%D9%84-%D8%AE%D8%B7%D8%B1-363x500.jpg" group-title="عادل امام",مسجل خطر
-https://ia800204.us.archive.org/20/items/AdelEmamMovies/MosagalKhatar1991.mp4
 
 #EXTINF:-1 tvg-id="119" tvg-logo"https://vod.rotana.net/triAssets/uploads/2019/09/poster-film-redesign.png" group-title="عادل امام",طيور الظلام
 https://ia600204.us.archive.org/20/items/AdelEmamMovies/ToyorElZalam1995.mp4
