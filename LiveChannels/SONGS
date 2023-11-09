@@ -3,101 +3,87 @@
 ########################################################## اغاني ###################################################################
 ########################################################## ام كلثوم ###################################################################
 
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",اغدا القاك - محمد عبد الوهاب
-https://archive.org/download/umm-kulthum-aghadan-alqak_202305/Umm%20Kulthum%20-%20Aghadan%20Alqak%20%D8%A3%D8%BA%D8%AF%D8%A7%20%D8%A7%D9%84%D9%82%D8%A7%D9%83.mp3
-
 #EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",الف ليلة وليلة - بليغ حمدي
-https://archive.org/download/umm-kulthum/Alf-Leila-We-Leila-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",سيرة الحب - بليغ حمدي
-https://archive.org/download/umm-kulthum/Seret-El-Hob-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",بعيدعنك - بليغ حمدي
-https://archive.org/download/umm-kulthum/Ba%27eed-Anak-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-log="" group-title="ام كلثوم",الحب كله - بليغ حمدي
-https://archive.org/download/umm-kulthum/El-Hob-Koloh-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",حب ايه - بليغ حمدي
-https://archive.org/download/umm-kulthum/Hob-Eh-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",انساك - بليغ حمدي
-https://archive.org/download/umm-kulthum/Ansak-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",فات المعاد - بليغ حمدي
-https://archive.org/download/umm-kulthum/Fat-El-Ma%27ad-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",ظلمنا الحب - بليغ حمدي
-https://archive.org/download/umm-kulthum/Zalamna-El-Hob-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",حكم علينا الهوى - بليغ حمدي
-https://archive.org/download/umm-kulthum/Hakam-Alaya-El-Hawa-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",كل ليلة وكل يوم (بتفكر في مين) - بليغ حمدي
-https://archive.org/download/umm-kulthum/Betfakar-Fe-Meen-Umm-Kulthum.mp4
+https://archive.org/download/umm_kulthum_202311/Alf_Leila_We_Leila.mp3
 
 #EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",انت عمري - محمد عبد الوهاب
-https://archive.org/download/umm-kulthum/Enta-Omry-Umm-Kulthum.mp4
+https://archive.org/download/umm_kulthum_202311/Enta_Omry.mp3
 
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",انت الحب - محمد عبد الوهاب
-https://archive.org/download/umm-kulthum/Enta-El-Hob-Umm-Kulthum.mp4
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",بعيدعنك - بليغ حمدي
+https://archive.org/download/umm_kulthum_202311/Baeed_Annak.mp3
 
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",امل حياتي - محمد عبد الوهاب
-https://archive.org/download/umm-kulthum/Amal-Hayaty-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",فكروني - محمد عبد الوهاب
-https://archive.org/download/umm-kulthum/Fakarouny-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",هذه ليلتي - محمد عبد الوهاب
-https://archive.org/download/umm-kulthum/Hathehi-Lailaty-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",دارت الايام - محمد عبد الوهاب
-https://archive.org/download/umm-kulthum/Daret-El-Ayam-Umm-Kulthum.mp4
+#EXTINF:-1 tvg-id="100" tvg-log="" group-title="ام كلثوم",الحب كله - بليغ حمدي
+https://archive.org/download/umm_kulthum_202311/El_Hob_Koloh.mp3
 
 #EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",ليلة حب - محمد عبد الوهاب
-https://archive.org/download/umm-kulthum/Leilet-Hob-Umm-Kulthum.mp4
+https://archive.org/download/umm_kulthum_202311/Leilet_Hob.mp3
 
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",لسه فاكر - رياض السنباطي
-https://archive.org/download/umm-kulthum/Lesa-Faker-Umm-Kulthum.mp4
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",اغدا القاك - محمد عبد الوهاب
+https://archive.org/download/umm_kulthum_202311/Aghadan_Alqak.mp3
 
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",اروح لمين - رياض السنباطي
-https://archive.org/download/umm-kulthum/Arouh-Lmein-Umm-Kulthum.mp4
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",فكروني - محمد عبد الوهاب
+https://archive.org/download/umm_kulthum_202311/Fakarouny.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",امل حياتي - محمد عبد الوهاب
+https://archive.org/download/umm_kulthum_202311/Amal_Hayati.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",سيرة الحب - بليغ حمدي
+https://archive.org/download/umm_kulthum_202311/Sert_Elhob.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",حب ايه - بليغ حمدي
 
 #EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",الاطلال - رياض السنباطي
-https://archive.org/download/umm-kulthum/El-Atlal-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",عودت عيني - رياض السنباطي
-https://archive.org/download/umm-kulthum/Awedt-Ainy-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",دليلي احتار - رياض السنباطي
-https://archive.org/download/umm-kulthum/Daleely-Ehtar-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",جددت حبك ليه - رياض السنباطي
-https://archive.org/download/umm-kulthum/Gadedt-Hobak-Leh-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",حيرت قلبي معاك - رياض السنباطي
-https://archive.org/download/umm-kulthum/Hayart-Qalby-Maak-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",من اجل عينيك - رياض السنباطي
-https://archive.org/download/umm-kulthum/Men-Agl-Ainak-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",ذكريات - رياض السنباطي
-https://archive.org/download/umm-kulthum/Zekrayat-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",اقبل الليل - رياض السنباطي
-https://archive.org/download/umm-kulthum/Aqbal-Al-Laylo-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",اسأل روحك - محمد الموجي
-https://archive.org/download/umm-kulthum/Es%27al-Rohak-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",للصبر حدود - محمد الموجي
-https://archive.org/download/umm-kulthum/Lel-Sabr-Hodoud-Umm-Kulthum.mp4
+https://archive.org/download/umm-kulthum-al-atlal/Umm%20Kulthum%20-%20Al%20Atlal.mp3
 
 #EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",يا مسهرني - سيد مكاوي
-https://archive.org/download/umm-kulthum/Ya-Msaharny-Umm-Kulthum.mp4
+https://archive.org/download/umm-kulthum-ya-msaharny/Umm%20Kulthum%20-%20Ya%20Msaharny%20%D9%8A%D8%A7%20%D9%85%D8%B3%D9%87%D8%B1%D9%86%D9%89.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",فات المعاد - بليغ حمدي
+https://archive.org/download/umm-kulthum-fat-el-mead_202305/Umm%20Kulthum%20-%20Fat%20El%20Mead%20%D9%81%D9%81%D8%A7%D8%AA%20%D8%A7%D9%84%D9%85%D9%8A%D8%B9%D8%A7%D8%AF.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",حيرت قلبي معاك - رياض السنباطي
+https://archive.org/download/umm-kulthum-hayart-qalby-maak/Umm%20Kulthum%20-%20Hayart%20Qalby%20Maak%20%D8%AD%D9%8A%D8%B1%D8%AA%20%D9%82%D9%84%D8%A8%D9%89%20%D9%85%D8%B9%D8%A7%D9%83.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",دارت الايام - محمد عبد الوهاب
+https://archive.org/download/umm-kulthum-we-daret-el-ayam_202305/Umm%20Kulthum%20-%20We%20Daret%20El%20Ayam%20%D8%AF%D8%A7%D8%B1%D8%AA%20%D8%A7%D9%84%D8%A7%D9%8A%D8%A7%D9%85.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-log="" group-title="ام كلثوم",مادام تحب بتنكر ليه - محمد القصبجي
+https://archive.org/download/umm-kulthum-madam-teheb-betenker-leih_202305/Umm%20Kulthum%20-%20Madam%20Teheb%20Betenker%20Leih%20%20%D9%85%D8%A7%D8%AF%D8%A7%D9%85%20%D8%AA%D8%AD%D8%A8%20%D8%A8%D8%AA%D9%86%D9%83%D8%B1%20%D9%84%D9%8A%D9%87.mp3
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",هذه ليلتي - محمد عبد الوهاب
+https://archive.org/download/hathehi-lailaty-umm-kulthum/Hathehi%20Lailaty%20-%20Umm%20Kulthum%20%D9%87%D8%B0%D9%87%20%D9%84%D9%8A%D9%84%D8%AA%D9%89%20-%20%D8%A7%D9%85%20%D9%83%D9%84%D8%AB%D9%88%D9%85.mp4
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",انساك - بليغ حمدي
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",ظلمنا الحب - بليغ حمدي
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",حكم علينا الهوى - بليغ حمدي
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",كل ليلة وكل يوم (بتفكر في مين) - بليغ حمدي
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",انت الحب - محمد عبد الوهاب
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",لسه فاكر - رياض السنباطي
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",اروح لمين - رياض السنباطي
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",عودت عيني - رياض السنباطي
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",دليلي احتار - رياض السنباطي
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",جددت حبك ليه - رياض السنباطي
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",من اجل عينيك - رياض السنباطي
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",ذكريات - رياض السنباطي
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",اقبل الليل - رياض السنباطي
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",اسأل روحك - محمد الموجي
+
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",للصبر حدود - محمد الموجي
 
 #EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",الهوى غلاب - زكريا احمد
-https://archive.org/download/umm-kulthum/Howa-Saheeh-El-Hawa-Ghallab-Umm-Kulthum.mp4
 
 ########################################################## فريد الاطرش ###################################################################
 
