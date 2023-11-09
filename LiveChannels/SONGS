@@ -3,6 +3,9 @@
 ########################################################## اغاني ###################################################################
 ########################################################## ام كلثوم ###################################################################
 
+#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",اغدا القاك - محمد عبد الوهاب
+https://archive.org/download/umm-kulthum-aghadan-alqak_202305/Umm%20Kulthum%20-%20Aghadan%20Alqak%20%D8%A3%D8%BA%D8%AF%D8%A7%20%D8%A7%D9%84%D9%82%D8%A7%D9%83.mp3
+
 #EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",الف ليلة وليلة - بليغ حمدي
 https://archive.org/download/umm-kulthum/Alf-Leila-We-Leila-Umm-Kulthum.mp4
 
@@ -50,9 +53,6 @@ https://archive.org/download/umm-kulthum/Hathehi-Lailaty-Umm-Kulthum.mp4
 
 #EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",دارت الايام - محمد عبد الوهاب
 https://archive.org/download/umm-kulthum/Daret-El-Ayam-Umm-Kulthum.mp4
-
-#EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",اغدا القاك - محمد عبد الوهاب
-https://archive.org/download/umm-kulthum-aghadan-alqak_202305/umm-kulthum-aghadan-alqak_202305_vbr.m3u
 
 #EXTINF:-1 tvg-id="100" tvg-logo="" group-title="ام كلثوم",ليلة حب - محمد عبد الوهاب
 https://archive.org/download/umm-kulthum/Leilet-Hob-Umm-Kulthum.mp4
