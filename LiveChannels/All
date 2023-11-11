@@ -51,8 +51,50 @@ https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/i
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-dramap.png" group-title="قنوات عربية",MBC Plus Drama
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DMC
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/20.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC DRAMA
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/23.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MTV
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/32.m3u8
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/ON_logo.png/1200px-ON_logo.png" group-title="قنوات عربية",ON TV
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/77.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",SYRIA DRAMA
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/6.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AL NAHAR
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/7.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MASPERO ZAMAN
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/44.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",SOFRA
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/46.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",NILE DRAMA
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/65.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MIX
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/99.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",SAMA TV
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/58.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",EL MEHWAR
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/71.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AL QAHIRA WAL NAS
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/73.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AL HAYAT DRAMA
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/74.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AL RAFIDAIN
+https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/90.m3u8
 
 #EXTINF:-1  tvg-logo="https://media0029.elcinema.com/tvguide/1371_1.png" group-title="قنوات عربية",MIX
 https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/99.m3u8
