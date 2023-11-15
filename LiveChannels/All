@@ -21,7 +21,7 @@ https://rotanastudios-rotanadrama-1-eu.xiaomi.wurl.tv/807905e439854b6ace3651e884
 #EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="https://i.imgur.com/xsbjQXZ.png" group-title="قنوات عربية",Rotana Khalijia
 https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_1.m3u8
 
-#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/FpZ7xVT.png" group-title="قنوات عربية",Rotana Music
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/FpZ7xVT.png" group-title="قنوات اغاني",Rotana Music
 https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/95c78e52a02cff6529ec6a8b9032d558.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات عربية",MBC 1 HD
@@ -129,43 +129,31 @@ https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/K0MQiNB.png" group-title="قنوات اخبار",Mekameleen TV
 https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/index_1.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://weyyak.com/static/media/weyyak-logo.232aaae4.png" group-title="قنوات عربية",Weyyak Nawaem
-https://weyyak-live.akamaized.net/weyyak_nawaem/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://weyyak.com/static/media/weyyak-logo.232aaae4.png" group-title="قنوات عربية",Weyyak Mix
-https://weyyak-live.akamaized.net/weyyak_mix/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://weyyak.com/static/media/weyyak-logo.232aaae4.png" group-title="قنوات عربية",Weyyak Drama
-https://weyyak-live.akamaized.net/weyyak_drama/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://weyyak.com/static/media/weyyak-logo.232aaae4.png" group-title="قنوات عربية",Weyyak Action
-https://weyyak-live.akamaized.net/weyyak_action/mono.m3u8
-
 #EXTINF:-1 tvg-id="ThikrayatTV.sa" tvg-logo="https://i.imgur.com/AKa1X9d.png" group-title="قنوات عربية",Thikrayat TV
 https://edge.taghtia.com/sa/3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Watar
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات اغاني",Watar
 http://htvint.mada.ps:8889/orient/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="قنوات عربية",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="قنوات عربية",Wanasah
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="قنوات اغاني",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://arabicagroup.tv/images/app1.png" group-title="قنوات عربية",Arabica TV
+#EXTINF:-1  tvg-logo="https://arabicagroup.tv/images/app1.png" group-title="قنوات اغاني",Arabica TV
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="http://service.mobile.rotanaradio.jo/sites/default/files/studio.png" group-title="قنوات عربية",Rotana Radio Jordan
+#EXTINF:-1  tvg-logo="http://service.mobile.rotanaradio.jo/sites/default/files/studio.png" group-title="قنوات اغاني",Rotana Radio Jordan
 http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png" group-title="قنوات عربية",Jawhara FM
+#EXTINF:-1  tvg-logo="https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png" group-title="قنوات اغاني",Jawhara FM
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png" group-title="قنوات عربية",MBC FM
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png" group-title="قنوات اغاني",MBC FM
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
 
-#EXTINF:-1  group-title="قنوات عربية",Panorama FM
+#EXTINF:-1  group-title="قنوات اغاني",Panorama FM
 https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" group-title="قنوات عربية",Dijlah Zaman
