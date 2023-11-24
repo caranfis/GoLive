@@ -28,10 +28,10 @@ https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/95c78e52a02cff6529ec6a8b90
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/50/MBC2_Logo.png" group-title="قنوات عربية",MBC 2 HD
-https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/28.m3u8
+http://exm3u.123tv.to:8080/TomasArana_nw/HFNHGFhfd7r4hnrf43/2434
 
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-action.png" group-title="قنوات عربية",MBC ACTION
-https://freechannelsonly.xyz:2083/live/u7JewhWwuWkS/BRBRyWDNUEr6/27.m3u8
+http://exm3u.123tv.to:8080/TomasArana_nw/HFNHGFhfd7r4hnrf43/2428
 
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="قنوات عربية",MBC 4 HD
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
