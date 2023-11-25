@@ -1,3 +1,24 @@
 
+#EXTINF:-1  group-title="قنوات اغاني",Panorama FM
+https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://service.mobile.rotanaradio.jo/sites/default/files/studio.png" group-title="قنوات اغاني",Rotana Radio Jordan
+http://188.247.86.66/RotanaRadio/OnAirStudio1/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png" group-title="قنوات اغاني",Jawhara FM
+http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png" group-title="قنوات اغاني",MBC FM
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات اغاني",Watar
 http://htvint.mada.ps:8889/orient/mono.m3u8
+
+#EXTINF:-1  tvg-logo="https://arabicagroup.tv/images/app1.png" group-title="قنوات اغاني",Arabica TV
+http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="قنوات اغاني",Wanasah
+https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
+
+#EXTINF:-1 tvg-id="RotanaMusic.sa" tvg-logo="https://i.imgur.com/FpZ7xVT.png" group-title="قنوات اغاني",Rotana Music
+https://rotanastudios-rotanamusic-1-eu.xiaomi.wurl.tv/95c78e52a02cff6529ec6a8b9032d558.m3u8
