@@ -867,4 +867,10 @@ https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/sat7arabicpublish/sat7
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/CopticTelevision.jpg/revision/latest?cb=20210723194712" group-title="قنوات مسيحية",CTV
 https://5d658d7e9f562.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w1842680643_b1728000_slar_t64SEQ=.m3u8
 
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="قنوات مسيحية",فلم يسوع بالكلداني
+https://archive.org/download/jesus-film-chaldean-language/JESUS%20Film%20Chaldean%20Language.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="قنوات مسيحية",فلم يسوع بالعربي
+https://archive.org/download/jesus-film-arabic-modern-standard/JESUS%20Film%20Arabic%20Modern%20Standard.mp4
+
 
