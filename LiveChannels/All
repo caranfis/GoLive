@@ -440,7 +440,7 @@ https://archive.org/download/Al.Kabir.S04.HD1080p/Al.Kabir.S04.EP30.HD1080.CdHaT
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",#################### الجزءالخامس ####################
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(01)
-https://archive.org/download/Al-Kabeer-Awi/Al%20Kabeer%20S05E01.mkv
+
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(02)
 https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E02.HD.1080p.AT.mp4
@@ -467,19 +467,19 @@ https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E08.HD.1080p.
 https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E09.HD.1080p.AT.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(10)
-https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E10.HD.1080p.AT.mp4
+
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(11)
 https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E11.HD.1080p.AT.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(12)
-https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E12.HD.1080p.AT.mp4
+
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(13)
 https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E13.HD.1080p.AT.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(14)
-https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E14.HD.1080p.AT.mp4
+
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(15)
 https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E15.HD.1080p.AT.mp4
@@ -515,19 +515,19 @@ https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E24.HD.1080p.
 https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E25.HD.1080p.AT.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(26)
-https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E26.HD.1080p.AT.mp4
+
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(27)
-https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E27.HD.1080p.AT.mp4
+
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(28)
-https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E28.HD.1080p.AT.mp4
+
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(29)
 https://archive.org/download/al-kabeer-awi_202311/Al.Kabeer.S05.E29.HD.1080p.AT.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="الكبير أوي",الجزء(5)-الحلقة(30)
-https://archive.org/download/el-kabeer-awy.s05.1080p/Al.Kabeer.S05.E30.HD.1080p.AT.mkv
+
 
 ######################################################################### عادل امام ####################################################################
 
@@ -707,12 +707,6 @@ https://archive.org/15/items/Mahmoud.Abdel.Aziz.Movies/ElKeef.ia.mp4
 https://archive.org/15/items/Mahmoud.Abdel.Aziz.Movies/Al-Athra.Wi.Al-Sha.ar.Al-Abyad%201983%201080%20%28%20E7na.OnlinE%20%29.mp4
 
 ######################################################################### افلام عربية ####################################################################
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",فلم يسوع بالكلداني
-https://archive.org/download/jesus-film-chaldean-language/JESUS%20Film%20Chaldean%20Language.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",فلم يسوع بالعربي
-https://archive.org/download/jesus-film-arabic-modern-standard/JESUS%20Film%20Arabic%20Modern%20Standard.mp4
 
 #EXTINF:0 tvg-id="avi" tvg-logo="https://ar.harpersbazaararabia.com/public/images/2018/08/16/-%D8%A2%D8%AF%D9%85.png" group-title="افلام عربية",فيلم بني ادم
 https://cdn.alarab.com/h264/151729_480p.mp4/index-v1-a1.m3u8
