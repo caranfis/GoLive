@@ -531,29 +531,38 @@ https://archive.org/download/al-kabeer-awi_202311/Al.Kabeer.S05.E30.HD.1080p.AT.
 
 ######################################################################### عادل امام ####################################################################
 
-#EXTINF:-1 tvg-id="106" tvg-logo="https://archive.org/download/images_20230807/RamadanFawqAlBorkan1985.jpg" group-title="عادل امام",رمضان فوق البركان
+#EXTINF:-1 tvg-id="106" tvg-logo="https://dvdyatii.com//media/prod_20190917035446.jpeg" group-title="عادل امام",رمضان فوق البركان
 https://archive.org/download/Adel-Imam-Movies/Ramadan-Foq-Alborkan-1985.mp4
 
-#EXTINF:-1 tvg-id="32" tvg-logo="https://archive.org/download/images_20230807/AlMotasawwel1983.jpg" group-title="عادل امام",المتسول
+#EXTINF:-1 tvg-id="32" tvg-logo="https://dvdyatii.com//media/Al%20Mutasawel.jpg" group-title="عادل امام",المتسول
 https://archive.org/download/Adel-Imam-Movies/El-Motasawel-1983.mp4
 
-#EXTINF:-1 tvg-id="32" tvg-logo="" group-title="عادل امام",احترس من الخط
+#EXTINF:-1 tvg-id="32" tvg-logo="https://archive.org/download/images_20230809/EhtarissMinAlKhot.jpeg" group-title="عادل امام",احترس من الخط
 https://archive.org/download/www.arabp-2p.net_20230821_1636/Maktabat%20Aflam%20Adel%20Imam%20%20Part%2019/Ehtariss%20Min%20Al%20Khot.TS
 
-#EXTINF:-1 tvg-id="99" tvg-logo="" group-title="عادل امام",عصابة حمادة و توتو
+#EXTINF:-1 tvg-id="99" tvg-logo="https://archive.org/download/images_20230809/EsabatHamadaWaToto.jpeg" group-title="عادل امام",عصابة حمادة و توتو
 https://archive.org/download/www.arabp-2p.net_20230821_1636/Maktabat%20Aflam%20Adel%20Imam%20%20Part%2019/Esabat%20Hamada%20Wa%20Toto.mp4
 
-#EXTINF:-1 tvg-id="25" tvg-logo="https://archive.org/download/images_20230807/Al-Laeb-Ma-Al-Kebar-1991.jpg" group-title="عادل امام",اللعب مع الكبار
+#EXTINF:-1 tvg-id="25" tvg-logo="https://archive.org/download/images_20230809/Ellaebmaalkubar.jpeg" group-title="عادل امام",اللعب مع الكبار
 https://archive.org/download/Adel-Imam-Movies/Al-Laeb-Ma-Al-Kebar-1991-1080p.mp4
 
-#EXTINF:-1 tvg-id="99" tvg-logo="" group-title="عادل امام",عنتر شايل سيفه
+#EXTINF:-1 tvg-id="99" tvg-logo="https://archive.org/download/images_20230809/antar.jpeg" group-title="عادل امام",عنتر شايل سيفه
 https://archive.org/download/www.arabp-2p.net_20230821_1636/Maktabat%20Aflam%20Adel%20Imam%20%20Part%2019/Antar%20Shayel%20Seefo.mp4
 
-#EXTINF:-1 tvg-id="99" tvg-logo="" group-title="عادل امام",مسجل خطر
+#EXTINF:-1 tvg-id="99" tvg-logo="https://archive.org/download/images_20230809/Musajal.jpeg" group-title="عادل امام",مسجل خطر
 https://ia800204.us.archive.org/20/items/AdelEmamMovies/MosagalKhatar1991.mp4
 
-#EXTINF:-1 tvg-id="99" tvg-logo="" group-title="عادل امام",الهلفوت
+#EXTINF:-1 tvg-id="99" tvg-logo="https://archive.org/download/images_20230809/Elhalfoot.jpeg" group-title="عادل امام",الهلفوت
 https://archive.org/download/www.arabp-2p.net_20230821_1636/Maktabat%20Aflam%20Adel%20Imam%20%20Part%2019/Al%20Halfot.mp4
+
+#EXTINF:-1 tvg-id="104" tvg-logo="https://ia902707.us.archive.org/4/items/images_20230809/RajabFokSafehSakhen1979.jpeg" group-title="عادل امام",رجب فوق صفيح ساخن
+https://ia800204.us.archive.org/20/items/AdelEmamMovies/RajabFokSafehSakhen1979.mp4
+
+#EXTINF:-1 tvg-id="83" tvg-logo="https://dvdyati.net//media/prod_20150512114242.jpeg" group-title="عادل امام",جزيرة الشيطان
+https://archive.org/download/www.arabp-2p.net_20230821_1636/Maktabat%20Aflam%20Adel%20Imam%20%20Part%2019/Jazeerat%20Al%20Sheitan.mp4
+
+#EXTINF:-1 tvg-id="13" tvg-logo="https://archive.org/download/images_20230809/alba3d.jpeg" group-title="عادل امام",البعض يذهب للمأذون مرتين
+https://ia600204.us.archive.org/20/items/AdelEmamMovies/AlBaadYazhabLelMazounMarratain1978.mp4
 
 #EXTINF:-1 tvg-id="99" tvg-logo="" group-title="عادل امام",الافوكاتو
 https://archive.org/download/www.arabp-2p.net_20230821_1636/Maktabat%20Aflam%20Adel%20Imam%20%20Part%2019/Al%20Avokato.mp4
@@ -564,28 +573,19 @@ https://archive.org/download/www.arabp-2p.net_20230821_1636/Maktabat%20Aflam%20A
 #EXTINF:-1 tvg-id="99" tvg-logo="" group-title="عادل امام",المشبوه
 https://archive.org/download/www.arabp-2p.net_20230821_1636/Maktabat%20Aflam%20Adel%20Imam%20%20Part%2019/Al%20Mashbooh.mp4
 
-#EXTINF:-1 tvg-id="83" tvg-logo="https://dvdyati.net//media/prod_20150512114242.jpeg" group-title="عادل امام",جزيرة الشيطان
-https://archive.org/download/www.arabp-2p.net_20230821_1636/Maktabat%20Aflam%20Adel%20Imam%20%20Part%2019/Jazeerat%20Al%20Sheitan.mp4
-
-#EXTINF:-1 tvg-id="104" tvg-logo="https://ia902707.us.archive.org/4/items/images_20230809/RajabFokSafehSakhen1979.jpeg" group-title="عادل امام",رجب فوق صفيح ساخن
-https://ia800204.us.archive.org/20/items/AdelEmamMovies/RajabFokSafehSakhen1979.mp4
-
-#EXTINF:-1 tvg-id="95" tvg-logo="https://media.elcinema.com/uploads/_315x420_59b3cfce7b546004b31a287da89e5da18202f4b45838933eba53f8eaa555c46d.jpg" group-title="عادل امام",مين فينا الحرامي
+#EXTINF:-1 tvg-id="95" tvg-logo="" group-title="عادل امام",مين فينا الحرامي
 https://ia800204.us.archive.org/20/items/AdelEmamMovies/MeenFinaAlHarami1984.mp4
 
 #EXTINF:-1 tvg-id="99" tvg-logo="" group-title="عادل امام",حب في الزنزانة
 https://archive.org/download/www.arabp-2p.net_20230821_1636/Maktabat%20Aflam%20Adel%20Imam%20%20Part%2019/Hob%20Fi%20Al%20Zinzana.mp4
 
-#EXTINF:-1 tvg-id="13" tvg-logo="https://images.moviefit.me/t/b/217391-some-visit-the-maazoun-twice.webp" group-title="عادل امام",البعض يذهب للمأذون مرتين
-https://ia600204.us.archive.org/20/items/AdelEmamMovies/AlBaadYazhabLelMazounMarratain1978.mp4
-
 #EXTINF:-1 tvg-id="6" tvg-logo="https://iv1.lisimg.com/image/3923560/250full-aris-min-geha-amneya-poster.jpg" group-title="عادل امام",عريس من جهة امنية
 https://ia800204.us.archive.org/20/items/AdelEmamMovies/3risMenGehaAmnya2004.mp4
 
-#EXTINF:-1 tvg-id="39" tvg-logo="https://media.elcinema.com/uploads/_640x_ee3120e631cdbc81bb82ee25f134c1dc64b601596c97688eba4121b31115766a.jpg" group-title="عادل امام",الواد محروس بتاع الوزير
+#EXTINF:-1 tvg-id="39" tvg-logo="" group-title="عادل امام",الواد محروس بتاع الوزير
 https://ia800204.us.archive.org/20/items/AdelEmamMovies/AlWadMahrousBtaaAlWazir1999.mp4
 
-#EXTINF:-1 tvg-id="105" tvg-logo="https://media.elcinema.com/uploads/_320x_692772835ed37a9863d37eedecbb369ccbf6f1c23639ca4db0099347e2902596.jpg" group-title="عادل امام",رجل فقد عقله
+#EXTINF:-1 tvg-id="105" tvg-logo="" group-title="عادل امام",رجل فقد عقله
 https://ia800204.us.archive.org/20/items/AdelEmamMovies/RajolFaqadAqlo1980.mp4
 
 #EXTINF:-1 tvg-id="74" tvg-logo="https://i.pinimg.com/564x/b0/3a/48/b03a4808a1ae5711328ff034cfc858de.jpg" group-title="عادل امام",حنفي الابهه
@@ -594,7 +594,7 @@ https://ia800204.us.archive.org/20/items/AdelEmamMovies/HanafiAlObbaha1990.mp4
 #EXTINF:-1 tvg-id="86" tvg-logo="https://cdn.al-ain.com/images/2018/3/27/78-161025-school-bus-wigan-america-travel-7.jpeg" group-title="عادل امام",كراكون في الشارع
 https://ia800204.us.archive.org/20/items/AdelEmamMovies/KarakounFelSharea31986.mp4
 
-#EXTINF:-1 tvg-id="94" tvg-logo="https://img2.bokracdn.com/newbokra//05-06-2011/800x440/038303.jpg" group-title="عادل امام",ممنوع في ليلة الدخلة
+#EXTINF:-1 tvg-id="94" tvg-logo="https://archive.org/download/images_20230809/MamnoafeDokhla.jpeg" group-title="عادل امام",ممنوع في ليلة الدخلة
 https://ia800204.us.archive.org/20/items/AdelEmamMovies/Mamnou3FiLeiltEddokhla1976.mp4
 
 #EXTINF:-1 tvg-id="28" tvg-logo="https://m.shasha1.com/wp-content/uploads/2017/03/Al-Mansi-1993.jpg" group-title="عادل امام",المنسي
