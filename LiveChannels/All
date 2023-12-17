@@ -826,26 +826,29 @@ https://archive.org/15/items/Mahmoud.Abdel.Aziz.Movies/Al-Athra.Wi.Al-Sha.ar.Al-
 
 ######################################################################### افلام عربية ####################################################################
 
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",ارض النفاق
-https://archive.org/download/aboalistar_arabic-movies/%D8%A3%D8%B1%D8%B6%20%D8%A7%D9%84%D9%86%D9%81%D8%A7%D9%82.ts
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",سعد اليتيم
+https://archive.org/download/ahmed_zaki_202312/Saad-Alyateem-1985.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",ابن حميدو 
-https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D8%A8%D9%86%20%D8%AD%D9%85%D9%8A%D8%AF%D9%88.ts
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الناظر صلاح الدين
+https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/El%20NazerHD720.mkv
 
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",اجازة بالعافية 
-https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D8%AC%D8%A7%D8%B2%D9%87%20%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%81%D9%8A%D9%87.ts
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",جعلتني مجرما
+https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/Ja3alatni.Mojriman.HDTV.720.mkv
 
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الستات ميعرفوش يكذبوا 
-https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%84%D8%B3%D8%AA%D8%A7%D8%AA%20%D9%85%D8%A7%D9%8A%D8%B9%D8%B1%D9%81%D9%88%D8%B4%20%D9%8A%D9%83%D8%B0%D8%A8%D9%88%D8%A7.ts
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",ميدو مشاكل
+https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/MODO.Mashkal.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",اكس لارج
+https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/X.Large.HD.TV.720.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",صايع بحر
+https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/Saya.Bahr.HD.720.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",زكي شان
+https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/Zaki.Chan.HD.720.mkv
 
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",الطريق الى ايلات
 https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82%20%D8%A5%D9%84%D9%89%20%D8%A5%D9%8A%D9%84%D8%A7%D8%AA.ts
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",ام العروسة 
-https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%85%20%D8%A7%D9%84%D8%B9%D8%B1%D9%88%D8%B3%D9%87.ts
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",اه من حواء 
-https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%87%20%D9%85%D9%86%20%D8%AD%D9%88%D8%A7%D8%A1.ts
 
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",حب البنات 
 https://archive.org/download/aboalistar_arabic-movies/%D8%AD%D8%A8%20%D8%A7%D9%84%D8%A8%D9%86%D8%A7%D8%AA.ts
@@ -868,9 +871,6 @@ https://archive.org/download/FilmsArabicPack1/Belyah%20o%20Demagoh%20El3alyah.HD
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",تراب الماس 
 https://archive.org/download/FilmsArabicPack1/Diamond.Dust.720p.EL..K%21nG.mkv
 
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",السفيرة عزيزة 
-https://archive.org/download/FilmsArabicPack1/El%20Safira%20Aziza.HDTV.720p.KIMO.mkv
-
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",طباخ الريس 
 https://archive.org/download/FilmsArabicPack3/Tabakh%20elrayes.HD.TV.720.KIMO.mkv
 
@@ -883,18 +883,6 @@ https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D8%B6%D8%AD%D9%83%2
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",حريم كريم
 https://archive.org/download/aboalistar_arabic-movies/%D8%AD%D8%B1%D9%8A%D9%85%20%D9%83%D8%B1%D9%8A%D9%85.ts
 
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",حماتي قنبلة ذرية
-https://archive.org/download/aboalistar_arabic-movies/%D8%AD%D9%85%D8%A7%D8%AA%D9%89%20%D9%82%D9%86%D8%A8%D9%84%D8%A9%20%D8%B0%D8%B1%D9%8A%D8%A9.ts
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",سلامة في خير
-https://archive.org/details/aboalistar_arabic-movies/%D8%B2%D9%88%D8%AC+%D8%A8%D8%A7%D9%84%D8%A5%D9%8A%D8%AC%D8%A7%D8%B1.ts#
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",عائلة زيزي
-https://archive.org/download/aboalistar_arabic-movies/%D8%B9%D8%A7%D8%A6%D9%84%D8%A9%20%D8%B2%D9%8A%D8%B2%D9%8A.ts
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",المجانين في نعيم
-https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D9%86%20%D9%81%D9%8A%20%D9%86%D8%B9%D9%8A%D9%85.ts
-
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",شبه منحرف 
 https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2020-03-16/vid8Jbi5caEAG.smil/chunklist_b1040375.m3u8
 
@@ -904,38 +892,58 @@ https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2020-03-16/vidx9MnSECH5q.smil
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",حليم
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Haleem.HDTV.1080p.mp4
 
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",خلي بالك من زوزو
-https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Kalli.Balak.Min.Zozo.HDTV.1080p.mp4
-
-#EXTINF:0 tvg-id="200" group-title="افلام عربية",الشموع السوداء
-https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Alshomoo3.Alsawda.HDTV.1080p.mp4
-
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",ريجاتا
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Regata.2015.1080P.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",زوجة رجل مهم
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Zojat%20Rajol%20Mohem.mp4
 
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",اخر كذبة
+######################################################################### افلام قديمة ####################################################################
+
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",الحب الكبير
+https://archive.org/download/Faten_Hamama/Elhob-Elkebeer.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",سلامة في خير
+https://archive.org/details/aboalistar_arabic-movies/%D8%B2%D9%88%D8%AC+%D8%A8%D8%A7%D9%84%D8%A5%D9%8A%D8%AC%D8%A7%D8%B1.ts#
+
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",ابن حميدو 
+https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D8%A8%D9%86%20%D8%AD%D9%85%D9%8A%D8%AF%D9%88.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",اه من حواء 
+https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%87%20%D9%85%D9%86%20%D8%AD%D9%88%D8%A7%D8%A1.ts
+
+#EXTINF:0 tvg-id="200" group-title="افلام قديمة",الشموع السوداء
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Alshomoo3.Alsawda.HDTV.1080p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",ام العروسة 
+https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%85%20%D8%A7%D9%84%D8%B9%D8%B1%D9%88%D8%B3%D9%87.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",ارض النفاق
+https://archive.org/download/aboalistar_arabic-movies/%D8%A3%D8%B1%D8%B6%20%D8%A7%D9%84%D9%86%D9%81%D8%A7%D9%82.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",اجازة بالعافية 
+https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D8%AC%D8%A7%D8%B2%D9%87%20%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%81%D9%8A%D9%87.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",الستات ميعرفوش يكذبوا 
+https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%84%D8%B3%D8%AA%D8%A7%D8%AA%20%D9%85%D8%A7%D9%8A%D8%B9%D8%B1%D9%81%D9%88%D8%B4%20%D9%8A%D9%83%D8%B0%D8%A8%D9%88%D8%A7.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",السفيرة عزيزة 
+https://archive.org/download/FilmsArabicPack1/El%20Safira%20Aziza.HDTV.720p.KIMO.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",حماتي قنبلة ذرية
+https://archive.org/download/aboalistar_arabic-movies/%D8%AD%D9%85%D8%A7%D8%AA%D9%89%20%D9%82%D9%86%D8%A8%D9%84%D8%A9%20%D8%B0%D8%B1%D9%8A%D8%A9.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",عائلة زيزي
+https://archive.org/download/aboalistar_arabic-movies/%D8%B9%D8%A7%D8%A6%D9%84%D8%A9%20%D8%B2%D9%8A%D8%B2%D9%8A.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",المجانين في نعيم
+https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D9%86%20%D9%81%D9%8A%20%D9%86%D8%B9%D9%8A%D9%85.ts
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام قديمة",خلي بالك من زوزو
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Kalli.Balak.Min.Zozo.HDTV.1080p.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام قديمة",اخر كذبة
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/%D8%A7%D8%AE%D8%B1%20%D9%83%D8%AF%D8%A8%D8%A9.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الناظر صلاح الدين
-https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/El%20NazerHD720.mkv
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",جعلتني مجرما
-https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/Ja3alatni.Mojriman.HDTV.720.mkv
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",ميدو مشاكل
-https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/MODO.Mashkal.mkv
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",اكس لارج
-https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/X.Large.HD.TV.720.mkv
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",صايع بحر
-https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/Saya.Bahr.HD.720.mkv
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",زكي شان
-https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/Zaki.Chan.HD.720.mkv
 
 ######################################################################### افلام اجنبية ####################################################################
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(12 Angry Men - 1957)
