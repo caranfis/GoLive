@@ -816,6 +816,12 @@ https://archive.org/29/items/nour-el-sherif-movies/AlAar.mp4
 #EXTINF:-1 tvg-id="200" tvg-logo="https://i.ytimg.com/vi/EqnU1ps1mUw/maxresdefault.jpg" group-title="نور الشريف",اخر الرجال المحترمين
 https://archive.org/download/nour-el-sherif-movies/Akhar.Al.Regal.Al.Muhtarameen.mp4
 
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="نور الشريف",الوحل
+https://archive.org/download/nour-el-sherif-movies/alw7l.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="نور الشريف",ليلة ساخنة
+https://archive.org/download/nour-el-sherif-movies/Leila-Sakhina-1995.mp4
+
 ######################################################################### محمود عبد العزيز ####################################################################
 
 #EXTINF:-1 tvg-id="200" tvg-logo="https://media.dhliz.com/a/film/abo_kartouna/%D8%A3%D8%A8%D9%88_%D9%83%D8%B1%D8%AA%D9%88%D9%86%D8%A9_1.jpg" group-title="محمود عبد العزيز",ابو كرتونة
@@ -840,6 +846,8 @@ https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/3askar.Felmo3askar.HDT
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",امير البحار
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Ameer%20Albehaar.1080p.ia.mp4
+
+
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",سعد اليتيم
 https://archive.org/download/ahmed_zaki_202312/Saad-Alyateem-1985.mp4
@@ -904,6 +912,9 @@ https://archive.org/download/ALMAMAR.2019.1080P/ALMAMAR.2019.1080P.ts
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",على جنب يا اسطى
 https://archive.org/download/AflamArab/%E2%9C%85Ala.Ganb.Ya.Osta.2008.720p.mp4
 
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",اوعى وشك
+https://archive.org/download/AflamArab/%E2%9C%85Ew3a.Weshak.2003.720p.HD.mp4
+
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الجيل الرابع
 https://archive.org/download/AflamArab/%E2%9C%85Algeel.Alrabea.mp4
 
@@ -942,6 +953,9 @@ https://archive.org/download/AflamArab/%E2%9C%85Film.Hindi.2003.HDTV.720p.mkv
 
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",حمادة يلعب
 https://archive.org/download/AflamArab/%E2%9C%85Hamada.Yalab.2005.1080p.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",سهر الليالي
+https://archive.org/download/AflamArab/Sahar.Ellayaly.2013.720p.HD.MyCima.ME.mp4
 
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",رغدة متوحشة
 https://archive.org/download/AflamArab/%E2%9C%85Raghda.Motwahasha.1080p.mkv
