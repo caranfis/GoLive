@@ -833,7 +833,25 @@ https://archive.org/download/ahmed_zaki_202312/Saad-Alyateem-1985.mp4
 https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/El%20NazerHD720.mkv
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",جعلتني مجرما
-https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/Ja3alatni.Mojriman.HDTV.720.mkv
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/G3alatny.Mogreman.VIU.WEB-DL.1080p.ts
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",مطب صناعي
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/Matab.Sna3y.VIU.WEB-DL.1080p.ts
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",ظرف طارق
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/Zarf.Tarek.VIU.WEB-DL.1080p.ts
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",اسف على الازعاج
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/Asef.3al.Ez3ag.VIU.WEB-DL.1080p.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",عسل اسود
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/3sal.Eswed.VIU.WEB-DL.1080p.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",على جثتي
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/Ala.Gosety.VIU.WEB-DL.1080p.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الف مبروك
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/1000.Mabrook.VIU.WEB-DL.1080p.ts
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",ميدو مشاكل
 https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/MODO.Mashkal.mkv
@@ -847,11 +865,20 @@ https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/Saya.Bahr.HD.720.mkv
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",زكي شان
 https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/Zaki.Chan.HD.720.mkv
 
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",كده رضا
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/Keda.Reda.VIU.WEB-DL.1080p.ts
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",صنع في مصر
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/Sone3a.Fe.Masr.VIU.WEB-DL.1080p.ts
+
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",على جنب يا اسطى
 https://archive.org/download/AflamArab/%E2%9C%85Ala.Ganb.Ya.Osta.2008.720p.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الجيل الرابع
 https://archive.org/download/AflamArab/%E2%9C%85Algeel.Alrabea.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الثلاثة يشتغلونها
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/El.Thalatha.Yashtaghlonha.VIU.WEB-DL.1080p.ts
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",كابتن مصر
 https://archive.org/download/AflamArab/%E2%9C%85Captain.Masr.2015.mp4
@@ -873,9 +900,6 @@ https://archive.org/download/AflamArab/%E2%9C%85Hob.Elbnat.2004.1080p.mp4
 
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",لاتراجع ولا استسلام
 https://archive.org/download/AflamArab/%E2%9C%85La.Taragoa.Wala.Esteslam.2010.1080p.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",على جثتي
-https://archive.org/download/FilmsArabicPack1/Ala.Gosety.HDTV.720p.KIMO.mkv
 
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",صباحو كذب
 https://archive.org/download/AflamArab/%E2%9C%85Sabahoo%20Kedb%201080p.mp4
