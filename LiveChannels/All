@@ -898,6 +898,9 @@ https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/Keda.Reda
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",صنع في مصر
 https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/Sone3a.Fe.Masr.VIU.WEB-DL.1080p.ts
 
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الممر
+https://archive.org/download/ALMAMAR.2019.1080P/ALMAMAR.2019.1080P.ts
+
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",على جنب يا اسطى
 https://archive.org/download/AflamArab/%E2%9C%85Ala.Ganb.Ya.Osta.2008.720p.mp4
 
@@ -1155,6 +1158,9 @@ http://62.210.209.138:41000/movie/v52/v43/14.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",طرائيعو
 http://62.210.209.138:41000/movie/v52/v43/17.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",منطقة ممنوعة
+https://archive.org/download/Mantiqa_Mamnoaa.1975.1080/Mantiqa_Mamnoaa.1975.1080.ts
 
 ########################################################## قنوات مسيحية ###################################################################
 
