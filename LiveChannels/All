@@ -847,14 +847,56 @@ https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/Saya.Bahr.HD.720.mkv
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",زكي شان
 https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/Zaki.Chan.HD.720.mkv
 
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",على جنب يا اسطى
+https://archive.org/download/AflamArab/%E2%9C%85Ala.Ganb.Ya.Osta.2008.720p.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الجيل الرابع
+https://archive.org/download/AflamArab/%E2%9C%85Algeel.Alrabea.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",كابتن مصر
+https://archive.org/download/AflamArab/%E2%9C%85Captain.Masr.2015.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",جحيم في الهند
+https://archive.org/download/AflamArab/%E2%9C%85Gahim.Fe.El.Hend.2016.1080p.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",عيال حبيبة
+https://archive.org/download/AflamArab/%E2%9C%85Eyal.Habiba.2005.720p.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",فاصل و نعود
+https://archive.org/download/AflamArab/%E2%9C%85Fasel.We.Naaod.2011.1080p.mp4
+
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",الطريق الى ايلات
 https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82%20%D8%A5%D9%84%D9%89%20%D8%A5%D9%8A%D9%84%D8%A7%D8%AA.ts
 
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",حب البنات 
-https://archive.org/download/aboalistar_arabic-movies/%D8%AD%D8%A8%20%D8%A7%D9%84%D8%A8%D9%86%D8%A7%D8%AA.ts
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",حب البنات
+https://archive.org/download/AflamArab/%E2%9C%85Hob.Elbnat.2004.1080p.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",على جثتي 
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",لاتراجع ولا استسلام
+https://archive.org/download/AflamArab/%E2%9C%85La.Taragoa.Wala.Esteslam.2010.1080p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",على جثتي
 https://archive.org/download/FilmsArabicPack1/Ala.Gosety.HDTV.720p.KIMO.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",صباحو كذب
+https://archive.org/download/AflamArab/%E2%9C%85Sabahoo%20Kedb%201080p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",فلم هندي
+https://archive.org/download/AflamArab/%E2%9C%85Film.Hindi.2003.HDTV.720p.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",حمادة يلعب
+https://archive.org/download/AflamArab/%E2%9C%85Hamada.Yalab.2005.1080p.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",رغدة متوحشة
+https://archive.org/download/AflamArab/%E2%9C%85Raghda.Motwahasha.1080p.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",ياتهدي ياتعدي
+https://archive.org/download/AflamArab/%E2%9C%85Yathadi.Yataadi.HD1080p.akoam.net.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",سمير وشهير وبهير
+https://archive.org/download/AflamArab/%E2%9C%85Samir.We.Shahir.We.Bahir.1080p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",بشتري راجل
+https://archive.org/download/AflamArab/%E2%9C%85Bashtry.Ragel.720p.mkv
 
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",عايز حقي 
 https://archive.org/download/FilmsArabicPack1/Ayez%20Haki.HD720p.KIMO.mkv
@@ -903,14 +945,38 @@ https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Zojat%20Rajol%20Mohem.
 #EXTINF:0 tvg-id="avi" group-title="افلام قديمة",الحب الكبير
 https://archive.org/download/Faten_Hamama/Elhob-Elkebeer.mp4
 
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",اجمل ايام حياتي
+https://archive.org/download/AflamArab/Ajmal-Ayam-Hayati.mp4
+
 #EXTINF:0 tvg-id="avi" group-title="افلام قديمة",سلامة في خير
 https://archive.org/details/aboalistar_arabic-movies/%D8%B2%D9%88%D8%AC+%D8%A8%D8%A7%D9%84%D8%A5%D9%8A%D8%AC%D8%A7%D8%B1.ts#
 
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",ابن حميدو 
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",ابن حميدو
 https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D8%A8%D9%86%20%D8%AD%D9%85%D9%8A%D8%AF%D9%88.ts
 
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",اه من حواء 
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",اه من حواء
 https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%87%20%D9%85%D9%86%20%D8%AD%D9%88%D8%A7%D8%A1.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",الايادي الناعمة
+https://archive.org/download/AflamArab/Alayady.Alnaema.1080P.WEB-DL.AKWAM.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",دعاء الكروان
+https://archive.org/download/AflamArab/Doaa-AlKarawan-1959.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",السفيرة عزيزة
+https://archive.org/download/AflamArab/Elsafira.Aziza.1961.720P.WEB-DL.AKWAM.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",اشاعة حب
+https://archive.org/download/AflamArab/Eshaet-Hob-1960.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",الزوجة 13
+https://archive.org/download/AflamArab/Zoga.13.1080P.WEB-DL.AKWAM.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",صغيرة على الحب
+https://archive.org/download/AflamArab/Soghayara.Alal.Hob.1966.720P.WEB-DL.AKWAM.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",الساحرة الصغيرة
+https://archive.org/download/AflamArab/Al.Sahira.Al.Saghera.1963.720P.WEB-DL.AKWAM.mp4
 
 #EXTINF:0 tvg-id="200" group-title="افلام قديمة",الشموع السوداء
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Alshomoo3.Alsawda.HDTV.1080p.mp4
@@ -926,9 +992,6 @@ https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D8%AC%D8%A7%D8%B2%D
 
 #EXTINF:0 tvg-id="avi" group-title="افلام قديمة",الستات ميعرفوش يكذبوا 
 https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%84%D8%B3%D8%AA%D8%A7%D8%AA%20%D9%85%D8%A7%D9%8A%D8%B9%D8%B1%D9%81%D9%88%D8%B4%20%D9%8A%D9%83%D8%B0%D8%A8%D9%88%D8%A7.ts
-
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",السفيرة عزيزة 
-https://archive.org/download/FilmsArabicPack1/El%20Safira%20Aziza.HDTV.720p.KIMO.mkv
 
 #EXTINF:0 tvg-id="avi" group-title="افلام قديمة",حماتي قنبلة ذرية
 https://archive.org/download/aboalistar_arabic-movies/%D8%AD%D9%85%D8%A7%D8%AA%D9%89%20%D9%82%D9%86%D8%A8%D9%84%D8%A9%20%D8%B0%D8%B1%D9%8A%D8%A9.ts
@@ -949,20 +1012,11 @@ https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/%D8%A7%D8%AE%D8%B1%20%
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(12 Angry Men - 1957)
 https://archive.org/download/the-pianist-2002_201911/12.Angry.Men.1957.BluRay.720p.x264.Almstba.Tv.mp4
 
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(Churchill - 2017)
-https://archive.org/download/the-pianist-2002_201911/Churchill-2017.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(Churchill Secret - 2016)
-https://archive.org/download/the-pianist-2002_201911/Churchill%E2%80%99s%20Secret%202016.mp4
-
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(Downfall - 2004)
 https://archive.org/download/the-pianist-2002_201911/Downfall.2004.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(Gandhi - 1982)
 https://archive.org/download/the-pianist-2002_201911/Gandhi.1982.BluRay.720p.x264.Almstba.Tv.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(The Rise of Evil - 2003)
-https://archive.org/download/the-pianist-2002_201911/The-Rise-of-Evil-2003-1080p.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(The Great Escape - 1963)
 https://archive.org/download/the-pianist-2002_201911/The.Great.Escape.1963.mp4
@@ -970,9 +1024,6 @@ https://archive.org/download/the-pianist-2002_201911/The.Great.Escape.1963.mp4
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(The Last Emperor - 1987)
 https://archive.org/download/the-pianist-2002_201911/The.Last.Emperor.1987.mp4
 
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(The pianist - 2002)
-https://archive.org/download/the-pianist-2002_201911/the-pianist-2002.mp4
-
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",()
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",()
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",()
@@ -980,27 +1031,6 @@ https://archive.org/download/the-pianist-2002_201911/the-pianist-2002.mp4
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",()
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",()
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",()
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(Little Women)
-https://cdn.alarab.com/h264/153322_480p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(Hard Night Falling)
-https://cdn.alarab.com/h264/151665_480p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(Judy)
-https://cdn.alarab.com/h264/151741_480p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(Ready or Not)
-https://cdn.alarab.com/h264/151754_480p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(official secrets)
-https://cdn.alarab.com/h264/151797_480p.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(Angel Has Fallen)
-https://cdn.alarab.com/numeric/150691.mp4/index-v1-a1.m3u8
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(Aladdin)
-https://cdn.alarab.com/numeric/131252.mp4/index-v1-a1.m3u8
 
 ######################################################################### مسرحيات ####################################################################
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",شاهد ماشافش حاجة
