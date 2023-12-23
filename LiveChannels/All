@@ -1364,37 +1364,39 @@ https://ia800204.us.archive.org/20/items/AdelEmamMovies/AlMahfazaMaaia1978.mp4
 #EXTINF:-1 tvg-id="91" tvg-logo="https://m.halacima.net/uploads/images/l/dcQPc2nHpL.jpg" group-title="عادل امام",ليلة شتاء دافئة
 https://ia800204.us.archive.org/20/items/AdelEmamMovies/LaylatSheta2Dafe2a1981.mp4
 
-######################################################################### نور الشريف ####################################################################
 
-#EXTINF:-1 tvg-id="200" tvg-logo="https://media.filgoal.com/news/medium/168344905.jpg" group-title="نور الشريف",غريب في بيتي
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### نور الشريف ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://media.filgoal.com/news/medium/168344905.jpg" group-title="افلام عربية",غريب في بيتي - نور الشريف
 https://archive.org/8/items/nour-el-sherif-movies/Ghareeb.Fi.Baity.mp4
 
-#EXTINF:-1 tvg-id="200" tvg-logo="https://i.ytimg.com/vi/lhBSOeEPcMU/mqdefault.jpg" group-title="نور الشريف",كتيبة الاعدام
+#EXTINF:-1 tvg-id="200" tvg-logo="https://i.ytimg.com/vi/lhBSOeEPcMU/mqdefault.jpg" group-title="افلام عربية",كتيبة الاعدام - نور الشريف
 https://archive.org/29/items/nour-el-sherif-movies/Kateba.alaadm.mp4
 
-#EXTINF:-1 tvg-id="200" tvg-logo="https://i.ytimg.com/vi/si-DlTQBeKM/hqdefault.jpg" group-title="نور الشريف",بئر الخيانة
+#EXTINF:-1 tvg-id="200" tvg-logo="https://i.ytimg.com/vi/si-DlTQBeKM/hqdefault.jpg" group-title="افلام عربية",بئر الخيانة - نور الشريف
 https://archive.org/29/items/nour-el-sherif-movies/Be2r%20Al%20Kheyana.mp4
 
-#EXTINF:-1 tvg-id="200" tvg-logo="https://ia802707.us.archive.org/4/items/images_20230809/Oyoun-Alsaqar.jpg" group-title="نور الشريف",عيون الصقر
+#EXTINF:-1 tvg-id="200" tvg-logo="https://ia802707.us.archive.org/4/items/images_20230809/Oyoun-Alsaqar.jpg" group-title="افلام عربية",عيون الصقر - نور الشريف
 https://archive.org/download/nour-el-sherif-movies/Oyoun-Alsaqr-1992.mp4
 
-#EXTINF:-1 tvg-id="200" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/3/3d/Gary_El_Wohosh_Poster.jpg" group-title="نور الشريف",جري الوحوش
+#EXTINF:-1 tvg-id="200" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/3/3d/Gary_El_Wohosh_Poster.jpg" group-title="افلام عربية",جري الوحوش - نور الشريف
 https://archive.org/download/nour-el-sherif-movies/Gary.Al-W7oosh.mp4
 
-#EXTINF:-1 tvg-id="200" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/73/%D9%85%D9%84%D8%B5%D9%82_%D9%81%D9%8A%D9%84%D9%85_%D8%A7%D9%84%D8%B9%D8%A7%D8%B1.jpg" group-title="نور الشريف",العار
+#EXTINF:-1 tvg-id="200" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/7/73/%D9%85%D9%84%D8%B5%D9%82_%D9%81%D9%8A%D9%84%D9%85_%D8%A7%D9%84%D8%B9%D8%A7%D8%B1.jpg" group-title="افلام عربية",العار - نور الشريف
 https://archive.org/29/items/nour-el-sherif-movies/AlAar.mp4
 
-#EXTINF:-1 tvg-id="200" tvg-logo="https://i.ytimg.com/vi/EqnU1ps1mUw/maxresdefault.jpg" group-title="نور الشريف",اخر الرجال المحترمين
+#EXTINF:-1 tvg-id="200" tvg-logo="https://i.ytimg.com/vi/EqnU1ps1mUw/maxresdefault.jpg" group-title="افلام عربية",اخر الرجال المحترمين - نور الشريف
 https://archive.org/download/nour-el-sherif-movies/Akhar.Al.Regal.Al.Muhtarameen.mp4
 
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="نور الشريف",الوحل
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الوحل - نور الشريف
 https://archive.org/download/nour-el-sherif-movies/alw7l.mp4
 
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="نور الشريف",ليلة ساخنة
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",ليلة ساخنة - نور الشريف
 https://archive.org/download/nour-el-sherif-movies/Leila-Sakhina-1995.mp4
 
-######################################################################### افلام عربية ####################################################################
 
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### محمود عبد العزيز ####################
 
 #EXTINF:-1 tvg-id="200" tvg-logo="https://media.dhliz.com/a/film/abo_kartouna/%D8%A3%D8%A8%D9%88_%D9%83%D8%B1%D8%AA%D9%88%D9%86%D8%A9_1.jpg" group-title="افلام عربية",ابو كرتونة - محمود عبد العزيز
 https://archive.org/34/items/Mahmoud.Abdel.Aziz.Movies/Abu%20Kartona%201080p%20%28%20E7na.OnlinE%20%29.mp4
@@ -1410,29 +1412,21 @@ https://archive.org/15/items/Mahmoud.Abdel.Aziz.Movies/ElKeef.ia.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo="https://media.elcinema.com/uploads/_315x420_6d56c93d2859849bfd4b327c3554f384098acdd021b1b5af92ce2a9952af33ce.jpg" group-title="افلام عربية",العذراء والشعر الابيض - محمود عبد العزيز
 https://archive.org/15/items/Mahmoud.Abdel.Aziz.Movies/Al-Athra.Wi.Al-Sha.ar.Al-Abyad%201983%201080%20%28%20E7na.OnlinE%20%29.mp4
+
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### محمد هنيدي ####################
+
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",عسكر في المعسكر - محمد هنيدي
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/3askar.Felmo3askar.HDTV.1080p.ia.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",امير البحار - محمد هنيدي
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Ameer%20Albehaar.1080p.ia.mp4
 
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",سعد اليتيم- احمد زكي
-https://archive.org/download/ahmed_zaki_202312/Saad-Alyateem-1985.mp4
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",بليه ودماغه العالية - محمد هنيدي 
+https://archive.org/download/FilmsArabicPack1/Belyah%20o%20Demagoh%20El3alyah.HD720p.mkv
 
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الكنز
-https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Alkenz.HDTV.1080p.mkv
 
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الكنز-2
-https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Alkenz.2.HDTV.1080p.mkv
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",في محطة مصر - كريم عبد العزيز
-https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Fi.Mahattet.Masr.2006.1080p.mkv
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",هروب اضطراري
-https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Horob.Eterari.HDTV.1080p.mkv
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الناظر صلاح الدين - علاء ولي الدين
-https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/El%20NazerHD720.mkv
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### احمد حلمي ####################
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",جعلتني مجرما - احمد حلمي
 https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/G3alatny.Mogreman.VIU.WEB-DL.1080p.ts
@@ -1473,122 +1467,32 @@ https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/Keda.Reda
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",صنع في مصر - احمد حلمي
 https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/Sone3a.Fe.Masr.VIU.WEB-DL.1080p.ts
 
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الممر
-https://archive.org/download/ALMAMAR.2019.1080P/ALMAMAR.2019.1080P.ts
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",على جنب يا اسطى - اشرف عبد الباقي
-https://archive.org/download/AflamArab/%E2%9C%85Ala.Ganb.Ya.Osta.2008.720p.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",اوعى وشك - احمد رزق
-https://archive.org/download/AflamArab/%E2%9C%85Ew3a.Weshak.2003.720p.HD.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الجيل الرابع
-https://archive.org/download/AflamArab/%E2%9C%85Algeel.Alrabea.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الثلاثة يشتغلونها - ياسمين عبد العزيز
-https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/El.Thalatha.Yashtaghlonha.VIU.WEB-DL.1080p.ts
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",كابتن مصر - محمد امام
-https://archive.org/download/AflamArab/%E2%9C%85Captain.Masr.2015.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",جحيم في الهند - محمد امام
-https://archive.org/download/AflamArab/%E2%9C%85Gahim.Fe.El.Hend.2016.1080p.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",عيال حبيبة
-https://archive.org/download/AflamArab/%E2%9C%85Eyal.Habiba.2005.720p.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",فاصل و نعود - كريم عبد العزيز
-https://archive.org/download/AflamArab/%E2%9C%85Fasel.We.Naaod.2011.1080p.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الطريق الى ايلات
-https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82%20%D8%A5%D9%84%D9%89%20%D8%A5%D9%8A%D9%84%D8%A7%D8%AA.ts
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",العملاق - عادل ادهم
-https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Al3emlaq.HDTV.1080p.ia.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",حب البنات - ليلى علوي و حنان ترك
-https://archive.org/download/AflamArab/%E2%9C%85Hob.Elbnat.2004.1080p.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",لاتراجع ولا استسلام - احمد مكي
-https://archive.org/download/AflamArab/%E2%9C%85La.Taragoa.Wala.Esteslam.2010.1080p.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",صباحو كذب - احمد ادم
-https://archive.org/download/AflamArab/%E2%9C%85Sabahoo%20Kedb%201080p.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",فلم هندي - احمد ادم
-https://archive.org/download/AflamArab/%E2%9C%85Film.Hindi.2003.HDTV.720p.mkv
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",حمادة يلعب - احمد رزق
-https://archive.org/download/AflamArab/%E2%9C%85Hamada.Yalab.2005.1080p.mkv
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",سهر الليالي
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",سهر الليالي - احمد حلمي
 https://archive.org/download/AflamArab/Sahar.Ellayaly.2013.720p.HD.MyCima.ME.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",رغدة متوحشة - رامز جلال
-https://archive.org/download/AflamArab/%E2%9C%85Raghda.Motwahasha.1080p.mkv
 
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",ياتهدي ياتعدي
-https://archive.org/download/AflamArab/%E2%9C%85Yathadi.Yataadi.HD1080p.akoam.net.mkv
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",سمير وشهير وبهير
-https://archive.org/download/AflamArab/%E2%9C%85Samir.We.Shahir.We.Bahir.1080p.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",بشتري راجل - نيلي كريم
-https://archive.org/download/AflamArab/%E2%9C%85Bashtry.Ragel.720p.mkv
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### هاني رمزي ####################
 
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",عايز حقي - هاني رمزي 
 https://archive.org/download/FilmsArabicPack1/Ayez%20Haki.HD720p.KIMO.mkv
 
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",حرب اطاليا - احمد السقا 
-https://archive.org/download/FilmsArabicPack2/harb%20atalya.HD720p.KIMO.mkv
 
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",سمير ابو النيل - احمد مكي 
-https://archive.org/download/FilmsArabicPack2/Samir.Abu.El-Niel.HD1080.KIMO.mkv
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### احمد زكي ####################
 
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",بليه ودماغه العالية - محمد هنيدي 
-https://archive.org/download/FilmsArabicPack1/Belyah%20o%20Demagoh%20El3alyah.HD720p.mkv
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",تراب الماس - اسر ياسين و منه شلبي 
-https://archive.org/download/FilmsArabicPack1/Diamond.Dust.720p.EL..K%21nG.mkv
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",قرمط بيتمرمط - احمد ادم 
-https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Armat.Beyetmarmat.HDTV.1080p.ia.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",سيما علي بابا - احمد مكي 
-https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Cima%20Ali%20Baba.1080p.ia.mp4
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",سعد اليتيم- احمد زكي
+https://archive.org/download/ahmed_zaki_202312/Saad-Alyateem-1985.mp4
 
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",ايام السادات - احمد زكي 
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Days.Of.Sadat.HDTV.1080p.ia.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",طباخ الريس - طلعت زكريا 
-https://archive.org/download/FilmsArabicPack3/Tabakh%20elrayes.HD.TV.720.KIMO.mkv
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",واحد من الناس - كريم عبد العزيز 
-https://archive.org/download/FilmsArabicPack3/Wahed%20Men%20El%20Nas.HD720p.KIMO.mkv
-
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",اضحك الصورة تطلع حلوة - احمد زكي 
 https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D8%B6%D8%AD%D9%83%20%D8%A7%D9%84%D8%B5%D9%88%D8%B1%D8%A9%20%D8%AA%D8%B7%D9%84%D8%B9%20%D8%AD%D9%84%D9%88%D8%A9.ts
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",حريم كريم - مصطفى قمر
-https://archive.org/download/aboalistar_arabic-movies/%D8%AD%D8%B1%D9%8A%D9%85%20%D9%83%D8%B1%D9%8A%D9%85.ts
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",شبه منحرف - رامز جلال 
-https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2020-03-16/vid8Jbi5caEAG.smil/chunklist_b1040375.m3u8
-
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",لخمة راس - احمد رزق 
-https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2020-03-16/vidx9MnSECH5q.smil/chunklist_b1053212.m3u8
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",حليم - احمد زكي
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Haleem.HDTV.1080p.mp4
 
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",ريجاتا - عمرو سعد
-https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Regata.2015.1080P.mp4
-
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",زوجة رجل مهم - احمد زكي
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Zojat%20Rajol%20Mohem.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الجلسة سرية - محمود ياسين و يسرا
-https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Aljalsah.Serreyah.HDTV.1080p.ia.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الراقصة والطبال - احمد زكي و نبيلة عبيد
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Alraqesah.Waltabal.HDTV.1080p.ia.mp4
@@ -1596,78 +1500,214 @@ https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Alraqesah.Waltabal.HDT
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",ارض الخوف -احمد زكي
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Ard.El5oof.HDTV.1080p.ia.mp4
 
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### كريم عبد العزيز ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",في محطة مصر - كريم عبد العزيز
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Fi.Mahattet.Masr.2006.1080p.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",فاصل و نعود - كريم عبد العزيز
+https://archive.org/download/AflamArab/%E2%9C%85Fasel.We.Naaod.2011.1080p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",واحد من الناس - كريم عبد العزيز 
+https://archive.org/download/FilmsArabicPack3/Wahed%20Men%20El%20Nas.HD720p.KIMO.mkv
+
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### احمد مكي ####################
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",سمير ابو النيل - احمد مكي 
+https://archive.org/download/FilmsArabicPack2/Samir.Abu.El-Niel.HD1080.KIMO.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",سيما علي بابا - احمد مكي 
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Cima%20Ali%20Baba.1080p.ia.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",لاتراجع ولا استسلام - احمد مكي
+https://archive.org/download/AflamArab/%E2%9C%85La.Taragoa.Wala.Esteslam.2010.1080p.mp4
+
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### احمد السقا ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",هروب اضطراري - احمد السقا
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Horob.Eterari.HDTV.1080p.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",حرب اطاليا - احمد السقا 
+https://archive.org/download/FilmsArabicPack2/harb%20atalya.HD720p.KIMO.mkv
+
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### احمد رزق ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",اوعى وشك - احمد رزق
+https://archive.org/download/AflamArab/%E2%9C%85Ew3a.Weshak.2003.720p.HD.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",لخمة راس - احمد رزق 
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2020-03-16/vidx9MnSECH5q.smil/chunklist_b1053212.m3u8
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",حمادة يلعب - احمد رزق
+https://archive.org/download/AflamArab/%E2%9C%85Hamada.Yalab.2005.1080p.mkv
+
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### محمد امام ####################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",كابتن مصر - محمد امام
+https://archive.org/download/AflamArab/%E2%9C%85Captain.Masr.2015.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",جحيم في الهند - محمد امام
+https://archive.org/download/AflamArab/%E2%9C%85Gahim.Fe.El.Hend.2016.1080p.mp4
+
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### احمد ادم ####################
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",صباحو كذب - احمد ادم
+https://archive.org/download/AflamArab/%E2%9C%85Sabahoo%20Kedb%201080p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",فلم هندي - احمد ادم
+https://archive.org/download/AflamArab/%E2%9C%85Film.Hindi.2003.HDTV.720p.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",قرمط بيتمرمط - احمد ادم 
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Armat.Beyetmarmat.HDTV.1080p.ia.mp4
+
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### رامز جلال ####################
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",رغدة متوحشة - رامز جلال
+https://archive.org/download/AflamArab/%E2%9C%85Raghda.Motwahasha.1080p.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",شبه منحرف - رامز جلال 
+https://dmifr.cdn.mangomolo.com/vod/_definst_/smil:2020-03-16/vid8Jbi5caEAG.smil/chunklist_b1040375.m3u8
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",عيال حبيبة - رامز جلال
+https://archive.org/download/AflamArab/%E2%9C%85Eyal.Habiba.2005.720p.mp4
+
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### افلام منوعة ####################
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",سمير وشهير وبهير
+https://archive.org/download/AflamArab/%E2%9C%85Samir.We.Shahir.We.Bahir.1080p.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الناظر صلاح الدين - علاء ولي الدين
+https://archive.org/download/ARABICM/Ahmed.Helmy.Full.Pack/El%20NazerHD720.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الثلاثة يشتغلونها - ياسمين عبد العزيز
+https://archive.org/download/Arabic.Movies.Collection.VIU.WEB-DL.1080p/El.Thalatha.Yashtaghlonha.VIU.WEB-DL.1080p.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",حب البنات - ليلى علوي و حنان ترك
+https://archive.org/download/AflamArab/%E2%9C%85Hob.Elbnat.2004.1080p.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",ياتهدي ياتعدي
+https://archive.org/download/AflamArab/%E2%9C%85Yathadi.Yataadi.HD1080p.akoam.net.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",بشتري راجل - نيلي كريم
+https://archive.org/download/AflamArab/%E2%9C%85Bashtry.Ragel.720p.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",طباخ الريس - طلعت زكريا 
+https://archive.org/download/FilmsArabicPack3/Tabakh%20elrayes.HD.TV.720.KIMO.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",حريم كريم - مصطفى قمر
+https://archive.org/download/aboalistar_arabic-movies/%D8%AD%D8%B1%D9%8A%D9%85%20%D9%83%D8%B1%D9%8A%D9%85.ts
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",على جنب يا اسطى - اشرف عبد الباقي
+https://archive.org/download/AflamArab/%E2%9C%85Ala.Ganb.Ya.Osta.2008.720p.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الكنز
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Alkenz.HDTV.1080p.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الكنز-2
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Alkenz.2.HDTV.1080p.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الممر
+https://archive.org/download/ALMAMAR.2019.1080P/ALMAMAR.2019.1080P.ts
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الجيل الرابع
+https://archive.org/download/AflamArab/%E2%9C%85Algeel.Alrabea.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",تراب الماس - اسر ياسين و منه شلبي 
+https://archive.org/download/FilmsArabicPack1/Diamond.Dust.720p.EL..K%21nG.mkv
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",ريجاتا - عمرو سعد
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Regata.2015.1080P.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",الجلسة سرية - محمود ياسين و يسرا
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Aljalsah.Serreyah.HDTV.1080p.ia.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",العملاق - عادل ادهم
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Al3emlaq.HDTV.1080p.ia.mp4
+
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",ديك البرابر - نبيلة عبيد و فاروق الفيشاوي
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/%D8%AF%D9%8A%D9%83%20%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D8%A8%D8%B1.ia.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الطريق الى ايلات
+https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%84%D8%B7%D8%B1%D9%8A%D9%82%20%D8%A5%D9%84%D9%89%20%D8%A5%D9%8A%D9%84%D8%A7%D8%AA.ts
+
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### افلام عربية قديمة ####################
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الحب الكبير - فريد الاطرش و فاتن حمامة
+https://archive.org/download/Faten_Hamama/Elhob-Elkebeer.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",اجمل ايام حياتي - حسين فهمي و نجلاء فتحي
+https://archive.org/download/AflamArab/Ajmal-Ayam-Hayati.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",سلامة في خير - نجيب الريحاني
+https://archive.org/details/aboalistar_arabic-movies/%D8%B2%D9%88%D8%AC+%D8%A8%D8%A7%D9%84%D8%A5%D9%8A%D8%AC%D8%A7%D8%B1.ts#
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",ابن حميدو - هند رستم و احمد رمزي و اسماعيل ياسين
+https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D8%A8%D9%86%20%D8%AD%D9%85%D9%8A%D8%AF%D9%88.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",اه من حواء - رشدي اباظة و لبنى عبد العزيز
+https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%87%20%D9%85%D9%86%20%D8%AD%D9%88%D8%A7%D8%A1.ts
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الايادي الناعمة - احمد مظهر و صباح
+https://archive.org/download/AflamArab/Alayady.Alnaema.1080P.WEB-DL.AKWAM.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",دعاء الكروان - فاتن حمامة و احمد مظهر
+https://archive.org/download/AflamArab/Doaa-AlKarawan-1959.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",السفيرة عزيزة - سعاد حسني و شكري سرحان
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D8%B1%D8%A9%20%D8%B9%D8%B2%D9%8A%D8%B2%D8%A9.ia.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",اشاعة حب - عمر الشريف و سعاد حسني
+https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/%D8%A7%D8%B4%D8%A7%D8%B9%D8%A9%20%D8%AD%D8%A8.ia.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الزوجة 13 - رشدي اباظة و شادية
+https://archive.org/download/AflamArab/Zoga.13.1080P.WEB-DL.AKWAM.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",صغيرة على الحب - سعاد حسني
+https://archive.org/download/AflamArab/Soghayara.Alal.Hob.1966.720P.WEB-DL.AKWAM.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",اين عقلي - سعاد حسني و محمود ياسين
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/%D8%A7%D9%8A%D9%86%20%D8%B9%D9%82%D9%84%D9%89.ia.mp4
 
-######################################################################### افلام قديمة ####################################################################
-
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",الحب الكبير - فريد الاطرش و فاتن حمامة
-https://archive.org/download/Faten_Hamama/Elhob-Elkebeer.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",اجمل ايام حياتي - حسين فهمي و نجلاء فتحي
-https://archive.org/download/AflamArab/Ajmal-Ayam-Hayati.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",سلامة في خير - نجيب الريحاني
-https://archive.org/details/aboalistar_arabic-movies/%D8%B2%D9%88%D8%AC+%D8%A8%D8%A7%D9%84%D8%A5%D9%8A%D8%AC%D8%A7%D8%B1.ts#
-
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",ابن حميدو - هند رستم و احمد رمزي و اسماعيل ياسين
-https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D8%A8%D9%86%20%D8%AD%D9%85%D9%8A%D8%AF%D9%88.ts
-
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",اه من حواء - رشدي اباظة و لبنى عبد العزيز
-https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%87%20%D9%85%D9%86%20%D8%AD%D9%88%D8%A7%D8%A1.ts
-
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",الايادي الناعمة - احمد مظهر و صباح
-https://archive.org/download/AflamArab/Alayady.Alnaema.1080P.WEB-DL.AKWAM.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",دعاء الكروان - فاتن حمامة و احمد مظهر
-https://archive.org/download/AflamArab/Doaa-AlKarawan-1959.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",السفيرة عزيزة - سعاد حسني و شكري سرحان
-https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/%D8%A7%D9%84%D8%B3%D9%81%D9%8A%D8%B1%D8%A9%20%D8%B9%D8%B2%D9%8A%D8%B2%D8%A9.ia.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",اشاعة حب - عمر الشريف و سعاد حسني
-https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/%D8%A7%D8%B4%D8%A7%D8%B9%D8%A9%20%D8%AD%D8%A8.ia.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",الزوجة 13 - رشدي اباظة و شادية
-https://archive.org/download/AflamArab/Zoga.13.1080P.WEB-DL.AKWAM.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",صغيرة على الحب - سعاد حسني
-https://archive.org/download/AflamArab/Soghayara.Alal.Hob.1966.720P.WEB-DL.AKWAM.mp4
-
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",الساحرة الصغيرة - سعاد حسني
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الساحرة الصغيرة - سعاد حسني
 https://archive.org/download/AflamArab/Al.Sahira.Al.Saghera.1963.720P.WEB-DL.AKWAM.mp4
 
-#EXTINF:0 tvg-id="200" group-title="افلام قديمة",الشموع السوداء - نجاة الصغير و صالح سليم
+#EXTINF:0 tvg-id="200" group-title="افلام عربية",الشموع السوداء - نجاة الصغير و صالح سليم
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Alshomoo3.Alsawda.HDTV.1080p.mp4
 
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",ام العروسة - عماد حمدي و تحية كاريوكا 
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",ام العروسة - عماد حمدي و تحية كاريوكا 
 https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%85%20%D8%A7%D9%84%D8%B9%D8%B1%D9%88%D8%B3%D9%87.ts
 
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",ارض النفاق - فؤاد المهندس
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",ارض النفاق - فؤاد المهندس
 https://archive.org/download/aboalistar_arabic-movies/%D8%A3%D8%B1%D8%B6%20%D8%A7%D9%84%D9%86%D9%81%D8%A7%D9%82.ts
 
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",اجازة بالعافية - فؤاد المهندس و شويكار 
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",اجازة بالعافية - فؤاد المهندس و شويكار 
 https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D8%AC%D8%A7%D8%B2%D9%87%20%D8%A8%D8%A7%D9%84%D8%B9%D8%A7%D9%81%D9%8A%D9%87.ts
 
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",الستات ميعرفوش يكذبوا 
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",الستات ميعرفوش يكذبوا 
 https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%84%D8%B3%D8%AA%D8%A7%D8%AA%20%D9%85%D8%A7%D9%8A%D8%B9%D8%B1%D9%81%D9%88%D8%B4%20%D9%8A%D9%83%D8%B0%D8%A8%D9%88%D8%A7.ts
 
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",حماتي قنبلة ذرية - ماري منيب
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",حماتي قنبلة ذرية - ماري منيب
 https://archive.org/download/aboalistar_arabic-movies/%D8%AD%D9%85%D8%A7%D8%AA%D9%89%20%D9%82%D9%86%D8%A8%D9%84%D8%A9%20%D8%B0%D8%B1%D9%8A%D8%A9.ts
 
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",عائلة زيزي
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",عائلة زيزي
 https://archive.org/download/aboalistar_arabic-movies/%D8%B9%D8%A7%D8%A6%D9%84%D8%A9%20%D8%B2%D9%8A%D8%B2%D9%8A.ts
 
-#EXTINF:0 tvg-id="avi" group-title="افلام قديمة",المجانين في نعيم
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",المجانين في نعيم
 https://archive.org/download/aboalistar_arabic-movies/%D8%A7%D9%84%D9%85%D8%AC%D8%A7%D9%86%D9%8A%D9%86%20%D9%81%D9%8A%20%D9%86%D8%B9%D9%8A%D9%85.ts
 
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام قديمة",خلي بالك من زوزو - سعاد حسني و حسين فهمي
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",خلي بالك من زوزو - سعاد حسني و حسين فهمي
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/Kalli.Balak.Min.Zozo.HDTV.1080p.mp4
 
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام قديمة",اخر كذبة - فريد الاطرش
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",اخر كذبة - فريد الاطرش
 https://archive.org/download/Al-Zoga.Al-Thanya.R13.cdhaty/%D8%A7%D8%AE%D8%B1%20%D9%83%D8%AF%D8%A8%D8%A9.mp4
 
 ######################################################################### افلام اجنبية ####################################################################
@@ -1685,14 +1725,6 @@ https://archive.org/download/the-pianist-2002_201911/The.Great.Escape.1963.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(The Last Emperor - 1987)
 https://archive.org/download/the-pianist-2002_201911/The.Last.Emperor.1987.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",()
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",()
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",()
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",()
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",()
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",()
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",()
 
 ######################################################################### مسرحيات ####################################################################
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",شاهد ماشافش حاجة
@@ -1740,7 +1772,7 @@ http://62.210.209.138:41000/movie/v52/v43/14.mp4
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",طرائيعو
 http://62.210.209.138:41000/movie/v52/v43/17.mkv
 
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",منطقة ممنوعة
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",منطقة ممنوعة - سمير غانم و جورج سيدهم
 https://archive.org/download/Mantiqa_Mamnoaa.1975.1080/Mantiqa_Mamnoaa.1975.1080.mp4
 
 ########################################################## قنوات مسيحية ###################################################################
