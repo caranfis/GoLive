@@ -78,11 +78,24 @@ https://ythls.armelin.one/channel/UCUHq39HXLyAjjMPIjsNRLpw.m3u8
 #EXTINF:-1 tvg-id="ThikrayatTV.sa" tvg-logo="https://i.imgur.com/AKa1X9d.png" group-title="قنوات عربية",Thikrayat TV
 https://edge.taghtia.com/sa/3.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات اغاني",Watar
-http://htvint.mada.ps:8889/orient/mono.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/baXbWro.jpg" group-title="قنوات عربية",National Geographic Abu Dhabi
 https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="قنوات اغاني",اغاني منوعة
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1206
+
+#EXTINF:-1 tvg-id="" group-title="قنوات اغاني",كاظم الساهر
+http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1223
+
+#EXTINF:-1 tvg-id="" group-title="قنوات اغاني",اغاني منوعة
+#EXTINF:-1 tvg-id="" group-title="قنوات اغاني",اغاني منوعة
+#EXTINF:-1 tvg-id="" group-title="قنوات اغاني",اغاني منوعة
+#EXTINF:-1 tvg-id="" group-title="قنوات اغاني",اغاني منوعة
+#EXTINF:-1 tvg-id="" group-title="قنوات اغاني",اغاني منوعة
+#EXTINF:-1 tvg-id="" group-title="قنوات اغاني",اغاني منوعة
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات اغاني",Watar
+http://htvint.mada.ps:8889/orient/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="قنوات اغاني",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index.m3u8
