@@ -1473,9 +1473,20 @@ https://archive.org/download/AflamArab/Sahar.Ellayaly.2013.720p.HD.MyCima.ME.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### هاني رمزي ####################
 
-#EXTINF:0 tvg-id="avi" group-title="افلام عربية",عايز حقي - هاني رمزي 
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",عايز حقي - هاني رمزي
 https://archive.org/download/FilmsArabicPack1/Ayez%20Haki.HD720p.KIMO.mkv
 
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",غبي منه فيه - هاني رمزي
+https://archive.org/download/AflamArab/%E2%9C%94Ghabi%20Minoh%20Fih.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",محامي خلع - هاني رمزي
+https://archive.org/download/AflamArab/%E2%9C%94Mohami%20Kholaa.mkv
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",السيد ابو العربي وصل - هاني رمزي
+https://archive.org/download/AflamArab/%E2%9C%94El%20Sayed%20Abu%20Elaraby%20Wasal.mp4
+
+#EXTINF:0 tvg-id="avi" group-title="افلام عربية",جواز بقرار جمهوري - هاني رمزي
+https://archive.org/download/AflamArab/%E2%9C%94Jawaz%20Beqarar%20Jumhory.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",#################### احمد زكي ####################
 
@@ -1604,6 +1615,9 @@ https://archive.org/download/FilmsArabicPack3/Tabakh%20elrayes.HD.TV.720.KIMO.mk
 
 #EXTINF:0 tvg-id="avi" group-title="افلام عربية",حريم كريم - مصطفى قمر
 https://archive.org/download/aboalistar_arabic-movies/%D8%AD%D8%B1%D9%8A%D9%85%20%D9%83%D8%B1%D9%8A%D9%85.ts
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",مقلب حرامية
+https://archive.org/download/AflamArab/%E2%9C%85Maklab.Haramiya.2009.720p.HD.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام عربية",على جنب يا اسطى - اشرف عبد الباقي
 https://archive.org/download/AflamArab/%E2%9C%85Ala.Ganb.Ya.Osta.2008.720p.mp4
