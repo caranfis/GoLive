@@ -597,6 +597,9 @@ http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1212
 #EXTINF:-1 tvg-id="" group-title="قنوات اغاني",Aghani Aghani TV
 http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1213
 
+#EXTINF:-1 tvg-id="" group-title="قنوات اغاني",Music Alremas
+http://x.v-iptv.com:25443/live/V58iZAbuYVr3/zHxF2BKZPA/151438.ts
+
 #EXTINF:-1  tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="قنوات اغاني",Wanasah
 https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
 
