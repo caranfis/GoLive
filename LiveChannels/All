@@ -1847,7 +1847,7 @@ https://archive.org/download/aflamagnabiya/9.mp4
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(Psycho - 1960)
 https://archive.org/download/aflamagnabiya/2.mp4
 
-EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(Barabbas - 1961)
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(Barabbas - 1961)
 https://archive.org/download/aflamagnabiya/10.mp4
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(Les Charlots - Les Fous Du Stade 1972)
