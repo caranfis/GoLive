@@ -1,28 +1,31 @@
 #EXTM3U
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="قنوات عربية",Rotana Cinema EGY
-https://shls-rotanacinema-egy-prod-dub.shahid.net/out/v1/c39c0ecbcbdb46e890e91106776397a8/index_1.m3u8
+http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/15396
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Rotana_Cinema_KSA.png" group-title="قنوات عربية",Rotana Cinema KSA
-https://shls-rotanacinema-ksa-prod-dub.shahid.net/out/v1/6cee1c57ea7841e697eb15cefc98e0a6/index_1.m3u8
+http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/194839
 
 #EXTINF:-1 tvg-logo="" group-title="قنوات عربية",Rotana Aflam+ HD
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/285
+http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/400406150
 
 #EXTINF:-1 tvg-logo="" group-title="قنوات عربية",Rotana Comedy HD
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/292
+http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/195752
 
-#EXTINF:-1 tvg-id="RotanaClassic.sa" tvg-logo="https://i.imgur.com/ufkCKCs.png" group-title="قنوات عربية",Rotana Classic
-https://shls-rotanaclassic-prod-dub.shahid.net/out/v1/4eebed211c8441228321b4f67a46c5a5/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ufkCKCs.png" group-title="قنوات عربية",Rotana Classic
+http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/15395
 
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/tv/rr/rotana-plus-sa.png" group-title="قنوات عربية",Rotana+
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/1fc6103458be480b96e6a574b00fe1c0/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rotana-plus-sa.png" group-title="قنوات عربية",Rotana+
+http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/360750
 
-#EXTINF:-1 tvg-id="RotanaDrama.sa" tvg-logo="https://i.imgur.com/IhUe8Ka.png" group-title="قنوات عربية",Rotana Drama
-https://rotanadrama-prod-dub-ak.akamaized.net/out/v1/20c617b40dc743589ecc9d08d9d3345d/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IhUe8Ka.png" group-title="قنوات عربية",Rotana Drama
+http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/15385
 
-#EXTINF:-1 tvg-id="RotanaKhalijia.sa" tvg-logo="https://i.imgur.com/xsbjQXZ.png" group-title="قنوات عربية",Rotana Khalijia
-https://shls-rotanakhalijia-prod-dub.shahid.net/out/v1/a639fd49db684f1b8c063d398101a888/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://fast.packarabia.tv/wp-content/uploads/sites/44/2023/01/M.png" group-title="قنوات عربية",Rotana M+
+http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/14004
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xsbjQXZ.png" group-title="قنوات عربية",Rotana Khalijia
+http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/15386
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات عربية",MBC 1 HD
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
@@ -586,16 +589,16 @@ https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="قنوات اغاني",Rotana Music
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/304
+http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/195754
 
-#EXTINF:-1 tvg-logo="" group-title="قنوات اغاني",Rotana Clip
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/303
+#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",Rotana Clip
+http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/15390
 
 #EXTINF:-1 tvg-id="" group-title="قنوات اغاني",Mazzika
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1212
+http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/355397
 
 #EXTINF:-1 tvg-id="" group-title="قنوات اغاني",Aghani Aghani TV
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1213
+
 
 #EXTINF:-1 tvg-id="" group-title="قنوات اغاني",Music Alremas
 http://x.v-iptv.com:25443/live/V58iZAbuYVr3/zHxF2BKZPA/151438.ts
