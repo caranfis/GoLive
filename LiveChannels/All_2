@@ -3,7 +3,7 @@
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="قنوات عربية",Rotana Cinema EGY
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_0/chunklist.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Drama
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IhUe8Ka.png" group-title="قنوات عربية",Rotana Drama
 http://sonyiptv.net:8080/opplex/H4nPepmtmy/254300
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات عربية",MBC 1 HD
