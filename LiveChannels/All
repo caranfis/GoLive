@@ -1,46 +1,37 @@
 #EXTM3U
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="قنوات عربية",Rotana Cinema EGY
-http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/15396
+
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/Rotana_Cinema_KSA.png" group-title="قنوات عربية",Rotana Cinema KSA
-http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/194839
+
 
 #EXTINF:-1 tvg-logo="" group-title="قنوات عربية",Rotana Aflam+ HD
-http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/400406150
+
 
 #EXTINF:-1 tvg-logo="" group-title="قنوات عربية",Rotana Comedy HD
-http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/195752
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ufkCKCs.png" group-title="قنوات عربية",Rotana Classic
-http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/15395
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/rr/rotana-plus-sa.png" group-title="قنوات عربية",Rotana+
-http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/360750
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IhUe8Ka.png" group-title="قنوات عربية",Rotana Drama
-http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/15385
 
 #EXTINF:-1 tvg-logo="https://fast.packarabia.tv/wp-content/uploads/sites/44/2023/01/M.png" group-title="قنوات عربية",Rotana M+
-http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/14004
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xsbjQXZ.png" group-title="قنوات عربية",Rotana Khalijia
-http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/15386
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات عربية",MBC 1 HD
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index_7.m3u8
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
 
 #EXTINF:-1  tvg-logo="https://sawatechnologies.com/wp-content/uploads/2022/09/MBC-2.png" group-title="قنوات عربية",MBC 2 HD
-http://ymtuyac.mexamo.xyz:80/5693650697/0520569590/15414
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="قنوات عربية",Dubai One
 https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
 #EXTINF:-1  tvg-logo="https://telfaz.ucoz.com/_ld/0/29.png" group-title="قنوات عربية",MBC ACTION HD
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1290
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/46/MBC_Max_Old.png/revision/latest?cb=20191204182241" group-title="قنوات عربية",MBC MAX HD
-http://212.102.58.251:8080/Nroa0AohHn/z3d8ZHNBWt/1296
 
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="قنوات عربية",MBC 4 HD
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
