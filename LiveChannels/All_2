@@ -1,18 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,------|USA|------
-#EXTINF:-1,US102:Fox Sports San Diego
-http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/30088
-#EXTINF:-1,US453:FOX 5 (KSWB) SAN DIEGO
-http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/29737
-#EXTINF:-1,US236:CBS 8 (KFMB) San Diego
-http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/29954
-#EXTINF:-1,US513:NBC SAN DIEGO
-http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/29677
-#EXTINF:-1,US575:NBC 39 (KNSD) SAN DIEGO
-http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/29615
-
-
 #EXTINF:-1,------|Arabic-BeIN|------
 http://kmkus.wanicelife.com:8880/roncolvin/4BJ7AwFy9t/2142
 #EXTINF:-1,BN001:BeIN Sport News
