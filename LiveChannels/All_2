@@ -1,5 +1,28 @@
 #EXTM3U
 
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات عربية",MBC 1 HD
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="قنوات عربية",Dubai One
+https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="قنوات عربية",MBC 4 HD
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc5.png" group-title="قنوات عربية",MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-iraq.png" group-title="قنوات عربية",MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr1.png" group-title="قنوات عربية",MBC Masr 1
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr2.png" group-title="قنوات عربية",MBC Masr 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-dramap.png" group-title="قنوات عربية",MBC Plus Drama
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
 ##########################################################الكبير أوي الجزء الاول###################################################################
 
