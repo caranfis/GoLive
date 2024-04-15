@@ -2,6 +2,9 @@
 
 ########################################################## قنوات عربية ###################################################################
 
+#EXTINF:-1 group-title="قنوات عربية",AR: Rotana Cinema KSA
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46347
+
 #EXTINF:-1 group-title="قنوات عربية",AR: Rotana cinema EGY
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/2247
 
@@ -22,9 +25,6 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/328
 
 #EXTINF:-1 group-title="قنوات عربية",AR: Rotana music
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/329
-
-#EXTINF:-1 group-title="قنوات عربية",AR: Rotana Cinema KSA
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46347
 
 #EXTINF:-1 group-title="قنوات عربية",AR: Nile Cinema
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/336
@@ -56,9 +56,6 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/313
 #EXTINF:-1 group-title="قنوات عربية",AR: MBC 2
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/315
 
-#EXTINF:-1 group-title="قنوات عربية",AR: MBC 3
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/317
-
 #EXTINF:-1 group-title="قنوات عربية",AR: MBC 4
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/318
 
@@ -71,9 +68,6 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/324
 #EXTINF:-1 group-title="قنوات عربية",AR: MBC MSR 2
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/325
 
-#EXTINF:-1 group-title="قنوات عربية",AR: MBC BOLLYWOOD
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/322
-
 #EXTINF:-1 group-title="قنوات عربية",AR: MBC Max
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46371
 
@@ -85,81 +79,6 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/3738
 
 #EXTINF:-1 group-title="قنوات عربية",AR: CBC Sofra
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/342
-
-#EXTINF:-1 group-title="قنوات عربية",BeIN_Movies_premiere
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/17
-
-#EXTINF:-1 group-title="قنوات عربية",BeIN_Movies_Action
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/18
-
-#EXTINF:-1 group-title="قنوات عربية",BeIN_Movies_Drama
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/19
-
-#EXTINF:-1 group-title="قنوات عربية",BeIN_Movies_family
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1791
-
-#EXTINF:-1 group-title="قنوات عربية",BEIN_FOX_Family_Movies_HD
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/51393
-
-#EXTINF:-1 group-title="قنوات عربية",BeIN_Drama_Arabic
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49495
-
-#EXTINF:-1 group-title="قنوات عربية",BeIN_Series_1
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/4114
-
-#EXTINF:-1 group-title="قنوات عربية",Bein_Series_2
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/50439
-
-#EXTINF:-1 group-title="قنوات عربية",Bein_Fatafeat
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/50063
-
-#EXTINF:-1 group-title="قنوات عربية",BeIN_AMC
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/48776
-
-#EXTINF:-1 group-title="قنوات عربية",BeIN_DREAMWORKS
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/4577
-
-#EXTINF:-1 group-title="قنوات عربية",Bein_DMAX
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/48892
-
-#EXTINF:-1 group-title="قنوات عربية",BEIN_Outdoor
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49491
-
-#EXTINF:-1 group-title="قنوات عربية",Bein_DTX
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49496
-
-#EXTINF:-1 group-title="قنوات عربية",BeiN_HGTV
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52009
-
-#EXTINF:-1 group-title="قنوات عربية",Bein_Fox_Life_HD
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52773
-
-#EXTINF:-1 group-title="قنوات عربية",Bein_Discovery_Kids_HD
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52774
-
-#EXTINF:-1 group-title="قنوات عربية",Bein_Cartoon_Network_HD
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52775
-
-#EXTINF:-1 group-title="قنوات عربية",Bein_BBC_Earth_HD
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52786
-
-#EXTINF:-1 group-title="قنوات عربية",BeiN_Baby_HD
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52811
-
-#EXTINF:-1 group-title="قنوات عربية",Bein_Fox_Action_Movies_HD
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/53024
-
-#EXTINF:-1 group-title="قنوات عربية",Bein_Box_Office_1
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/53060
-
-#EXTINF:-1 group-title="قنوات عربية",Bein_Box_Office_2
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/53061
-
-#EXTINF:-1 group-title="قنوات عربية",BEIN_Discovery_Life
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/53944
-
-#EXTINF:-1 group-title="قنوات عربية",Bein_Animal_Planet_HD
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/54362
 
 #EXTINF:-1 group-title="قنوات عربية",AR: Panorama Drama
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/2259
@@ -302,14 +221,11 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46185
 #EXTINF:-1 group-title="قنوات عربية",AR: MESat
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46198
 
-#EXTINF:-1 group-title="قنوات عربية",AR: ON  Drama
+#EXTINF:-1 group-title="قنوات عربية",AR: ON Drama
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46279
 
-#EXTINF:-1 group-title="قنوات عربية",AR: ON  E HD
+#EXTINF:-1 group-title="قنوات عربية",AR: ON E HD
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46277
-
-#EXTINF:-1 group-title="قنوات عربية",AR: ON  Sport HD
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46273
 
 #EXTINF:-1 group-title="قنوات عربية",SYR: ORIENT
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46211
@@ -430,6 +346,81 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/54619
 
 #EXTINF:-1 group-title="قنوات عربية",AR: ON Drama
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/54620
+
+#EXTINF:-1 group-title="قنوات عربية",BeIN_Movies_premiere
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/17
+
+#EXTINF:-1 group-title="قنوات عربية",BeIN_Movies_Action
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/18
+
+#EXTINF:-1 group-title="قنوات عربية",BeIN_Movies_Drama
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/19
+
+#EXTINF:-1 group-title="قنوات عربية",BeIN_Movies_family
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1791
+
+#EXTINF:-1 group-title="قنوات عربية",BEIN_FOX_Family_Movies_HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/51393
+
+#EXTINF:-1 group-title="قنوات عربية",BeIN_Drama_Arabic
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49495
+
+#EXTINF:-1 group-title="قنوات عربية",BeIN_Series_1
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/4114
+
+#EXTINF:-1 group-title="قنوات عربية",Bein_Series_2
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/50439
+
+#EXTINF:-1 group-title="قنوات عربية",Bein_Fatafeat
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/50063
+
+#EXTINF:-1 group-title="قنوات عربية",BeIN_AMC
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/48776
+
+#EXTINF:-1 group-title="قنوات عربية",BeIN_DREAMWORKS
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/4577
+
+#EXTINF:-1 group-title="قنوات عربية",Bein_DMAX
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/48892
+
+#EXTINF:-1 group-title="قنوات عربية",BEIN_Outdoor
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49491
+
+#EXTINF:-1 group-title="قنوات عربية",Bein_DTX
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49496
+
+#EXTINF:-1 group-title="قنوات عربية",BeiN_HGTV
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52009
+
+#EXTINF:-1 group-title="قنوات عربية",Bein_Fox_Life_HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52773
+
+#EXTINF:-1 group-title="قنوات عربية",Bein_Discovery_Kids_HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52774
+
+#EXTINF:-1 group-title="قنوات عربية",Bein_Cartoon_Network_HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52775
+
+#EXTINF:-1 group-title="قنوات عربية",Bein_BBC_Earth_HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52786
+
+#EXTINF:-1 group-title="قنوات عربية",BeiN_Baby_HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52811
+
+#EXTINF:-1 group-title="قنوات عربية",Bein_Fox_Action_Movies_HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/53024
+
+#EXTINF:-1 group-title="قنوات عربية",Bein_Box_Office_1
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/53060
+
+#EXTINF:-1 group-title="قنوات عربية",Bein_Box_Office_2
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/53061
+
+#EXTINF:-1 group-title="قنوات عربية",BEIN_Discovery_Life
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/53944
+
+#EXTINF:-1 group-title="قنوات عربية",Bein_Animal_Planet_HD
+http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/54362
 
 ########################################################## كاظم الساهر ###################################################################
 
