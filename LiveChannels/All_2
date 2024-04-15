@@ -92,16 +92,16 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/2261
 #EXTINF:-1 group-title="قنوات عربية",AR: Panorama Food
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/2262
 
-#EXTINF:-1 group-title="قنوات عربية",AR: Sky News Arabia
+#EXTINF:-1 group-title="اخبار",AR: Sky News Arabia
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/2232
 
-#EXTINF:-1 group-title="قنوات عربية",AR: Al Arabiya HD
+#EXTINF:-1 group-title="اخبار",AR: Al Arabiya HD
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/2229
 
-#EXTINF:-1 group-title="قنوات عربية",AR: AL Hadath
+#EXTINF:-1 group-title="اخبار",AR: AL Hadath
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/2230
 
-#EXTINF:-1 group-title="قنوات عربية",AR: AL ARABY TV HD
+#EXTINF:-1 group-title="اخبار",AR: AL ARABY TV HD
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/3206
 
 #EXTINF:-1 group-title="قنوات عربية",AR: dmc drama
@@ -155,13 +155,13 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/719
 #EXTINF:-1 group-title="قنوات عربية",AR: Al-Nahar One
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/717
 
-#EXTINF:-1 group-title="قنوات عربية",AR: Al Jazeera Mobasher
+#EXTINF:-1 group-title="اخبار",AR: Al Jazeera Mobasher
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/699
 
 #EXTINF:-1 group-title="قنوات عربية",AR: Iraqia
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/3061
 
-#EXTINF:-1 group-title="قنوات عربية",AR: IRAQ NEWS
+#EXTINF:-1 group-title="اخبار",AR: IRAQ NEWS
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46326
 
 #EXTINF:-1 group-title="قنوات عربية",AR: Iraqi New
@@ -182,7 +182,7 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46217
 #EXTINF:-1 group-title="قنوات عربية",ALG: Al Hayat
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46218
 
-#EXTINF:-1 group-title="قنوات عربية",AR: Al Jazeera HD
+#EXTINF:-1 group-title="اخبار",AR: Al Jazeera HD
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46336
 
 #EXTINF:-1 group-title="قنوات عربية",AR: Al Kahera Wal Nas 2
@@ -191,7 +191,7 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46129
 #EXTINF:-1 group-title="قنوات عربية",AR: AL RASHEED TV
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46127
 
-#EXTINF:-1 group-title="قنوات عربية",AR: AL SHARQIYA NEWS
+#EXTINF:-1 group-title="اخبار",AR: AL SHARQIYA NEWS
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46126
 
 #EXTINF:-1 group-title="قنوات عربية",AR: Al Sumaria TV
@@ -239,7 +239,7 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/48894
 #EXTINF:-1 group-title="قنوات عربية",AR: Sada El Balad 1
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46094
 
-#EXTINF:-1 group-title="قنوات عربية",AR: RT Arab
+#EXTINF:-1 group-title="اخبار",AR: RT Arab
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46338
 
 #EXTINF:-1 group-title="قنوات عربية",AR: SAMARRA TV
@@ -257,13 +257,13 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46137
 #EXTINF:-1 group-title="قنوات عربية",SYR: TV HD
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/46140
 
-#EXTINF:-1 group-title="قنوات عربية",AR: Al Jazeera Documentary
+#EXTINF:-1 group-title="اخبار",AR: Al Jazeera Documentary
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/48868
 
-#EXTINF:-1 group-title="قنوات عربية",AR: Al Rafidain
+#EXTINF:-1 group-title="اخبار",AR: Al Rafidain
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49148
 
-#EXTINF:-1 group-title="قنوات عربية",AR: BBC Arabic
+#EXTINF:-1 group-title="اخبار",AR: BBC Arabic
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/48871
 
 #EXTINF:-1 group-title="قنوات عربية",AR: CBC Extra News
@@ -272,32 +272,20 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/48872
 #EXTINF:-1 group-title="قنوات عربية",AR: CGTN Arabic
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52225
 
-#EXTINF:-1 group-title="قنوات عربية",AR: CNBC Arabic
+#EXTINF:-1 group-title="اخبار",AR: CNBC Arabic
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49144
 
 #EXTINF:-1 group-title="قنوات عربية",AR: Dejlah
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49141
 
-#EXTINF:-1 group-title="قنوات عربية",AR: DW Arabic
+#EXTINF:-1 group-title="اخبار",AR: DW Arabic
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/2231
 
 #EXTINF:-1 group-title="قنوات عربية",UAE: Aghani TV
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49633
 
-#EXTINF:-1 group-title="قنوات عربية",AR: Ajman TV
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49634
-
 #EXTINF:-1 group-title="قنوات عربية",AR: Cima Ali Baba
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49642
-
-#EXTINF:-1 group-title="قنوات عربية",AR: Mekameleen TV
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/51408
-
-#EXTINF:-1 group-title="قنوات عربية",AR: Roya
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/49629
-
-#EXTINF:-1 group-title="قنوات عربية",AR: Sama Dubai
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/1120
 
 #EXTINF:-1 group-title="قنوات عربية",AR: DRAMA 1
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52147
@@ -305,17 +293,14 @@ http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52147
 #EXTINF:-1 group-title="قنوات عربية",AR: Cima
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52151
 
-#EXTINF:-1 group-title="قنوات عربية",AR: FRANCE 24
+#EXTINF:-1 group-title="اخبار",AR: FRANCE 24
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52317
 
 #EXTINF:-1 group-title="قنوات عربية",AR: AL Sharq
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52319
 
-#EXTINF:-1 group-title="قنوات عربية",AR: Al Hurra TV
+#EXTINF:-1 group-title="اخبار",AR: Al Hurra TV
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52321
-
-#EXTINF:-1 group-title="قنوات عربية",LIB: SALAM TV
-http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52357
 
 #EXTINF:-1 group-title="قنوات عربية",UAE:  LBCI International
 http://server.sibfungold.info:8080/iptvchannels/xwKBXsCYfMMC7fK5wCmzy6AL/52376
