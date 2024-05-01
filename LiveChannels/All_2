@@ -3,7 +3,9 @@
 ########################################################## قنوات عربية ###################################################################
 
 #EXTINF:-1 group-title="قنوات عربية",AR: Abu Dhabi
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio1",NAME="ENG",DEFAULT=YES,AUTOSELECT=YES,LANGUAGE="ENG",URI="https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/stream_05/index.m3u8"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=6965262,RESOLUTION=1920x1080,FRAME-RATE=25.000,AUDIO="audio1"
+https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/stream_04/index.m3u8
 
 #EXTINF:-1 group-title="قنوات عربية",AR: Rotana Cinema KSA
 http://tmxmnfc.mexamo.xyz:80/9547451342/3326350014/194839
