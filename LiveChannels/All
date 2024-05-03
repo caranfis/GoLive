@@ -45,9 +45,6 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000
 #EXTINF:-1  tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="قنوات اخبار",Dijlah
 https://ghaasiflu.online/Dijlah/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/qNi4rwG.jpg" group-title="قنوات اخبار",Al Sharqiya News
-http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="قنوات اخبار",Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 
@@ -72,17 +69,11 @@ http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.zagrosnews.net/sites/default/files/zagros-logo-01_1.png" group-title="قنوات عربية",Zagros
 https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/oExmYqk.jpg" group-title="قنوات عربية",Abu Dhabi TV
-https://admdn2.cdn.mangomolo.com/adtv/smil:adtv.stream.smil/chunklist_b4000000_t64MTA4MHA=.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/5S2ci8p.png" group-title="قنوات عربية",Al Emarat TV
-https://admdn3.cdn.mangomolo.com/emarat/smil:emarat.stream.smil/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="قنوات عربية",Sama Dubai
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/FP2yHkl.png" group-title="قنوات عربية",Noor Dubai
-https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
+https://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b2400000.m3u8
 
 #EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="قنوات عربية",Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
