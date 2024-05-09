@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:10
-
+#EXT-X-DISCONTINUITY
 
 #EXTINF:-1 tvg-id="" tvg-name="AR| ROTANA CINEMA EGY" tvg-logo="http://infinity-logo.ddns.net/images/picons/arabicons/RotanaCinemaeg.png" group-title="قنوات عربية",AR| ROTANA CINEMA EGY
 http://infinity-ott.com:8080/n25Hutdt1SQJPRkF/q7uGxt78G4xmqYHs/237171
