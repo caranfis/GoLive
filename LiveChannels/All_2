@@ -41,6 +41,24 @@ http://infinity-ott.com:8080/n25Hutdt1SQJPRkF/q7uGxt78G4xmqYHs/237170
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات عربية",AR| MBC 1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
 
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="قنوات عربية",AR| MBC 4
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc5.png" group-title="قنوات عربية",AR| MBC 5 HD
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-iraq.png" group-title="قنوات عربية",AR| MBC Iraq
+https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr1.png" group-title="قنوات عربية",AR| MBC MASR 1
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr2.png" group-title="قنوات عربية",AR| MBC MASR 2
+https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-dramap.png" group-title="قنوات عربية",AR| MBC DRAMA+
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
+
 #EXTINF:-1 tvg-id="MBC1.ae" tvg-name="AR| MBC 1" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc1.png" group-title="قنوات عربية",AR| MBC 1
 http://infinity-ott.com:8080/n25Hutdt1SQJPRkF/q7uGxt78G4xmqYHs/19073
 
@@ -50,17 +68,11 @@ http://infinity-ott.com:8080/n25Hutdt1SQJPRkF/q7uGxt78G4xmqYHs/19072
 #EXTINF:-1 tvg-id="MBC2.ae" tvg-name="AR| MBC 2" tvg-logo="http://infinity-logo.ddns.net/images/logo/MYHD/MBC2.png" group-title="قنوات عربية",AR| MBC 2
 http://infinity-ott.com:8080/n25Hutdt1SQJPRkF/q7uGxt78G4xmqYHs/19075
 
-#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="قنوات عربية",AR| MBC 4
-https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
-
 #EXTINF:-1 tvg-id="MBC4.sa" tvg-name="AR| MBC 4" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc4.png" group-title="قنوات عربية",AR| MBC 4
 http://infinity-ott.com:8080/n25Hutdt1SQJPRkF/q7uGxt78G4xmqYHs/19079
 
 #EXTINF:-1 tvg-id="MBC4.sa" tvg-name="MYHD| MBC 4 HD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbc4.png" group-title="قنوات عربية",AR| MBC 4
 http://infinity-ott.com:8080/n25Hutdt1SQJPRkF/q7uGxt78G4xmqYHs/19078
-
-#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc5.png" group-title="قنوات عربية",AR| MBC 5 HD
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="AR| MBC 5 HD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fulli/MBC5.png" group-title="قنوات عربية",AR| MBC 5 HD
 http://infinity-ott.com:8080/n25Hutdt1SQJPRkF/q7uGxt78G4xmqYHs/19080
@@ -74,17 +86,8 @@ http://infinity-ott.com:8080/n25Hutdt1SQJPRkF/q7uGxt78G4xmqYHs/19087
 #EXTINF:-1 tvg-id="MAX.ca" tvg-name="MYHD| MBC MAX FHD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbcmax.png" group-title="قنوات عربية",AR| MBC MAX FHD
 http://infinity-ott.com:8080/n25Hutdt1SQJPRkF/q7uGxt78G4xmqYHs/19086
 
-#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-iraq.png" group-title="قنوات عربية",AR| MBC Iraq
-https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
-
-#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr1.png" group-title="قنوات عربية",AR| MBC MASR 1
-https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
-
 #EXTINF:-1 tvg-id="MbcMasr.eg" tvg-name="MYHD| MBC MASR 1  HD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbcmasr.png" group-title="قنوات عربية",AR| MBC MASR 1
 http://infinity-ott.com:8080/n25Hutdt1SQJPRkF/q7uGxt78G4xmqYHs/19088
-
-#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr2.png" group-title="قنوات عربية",AR| MBC MASR 2
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 
 #EXTINF:-1 tvg-id="snpier.tn" tvg-name="AR| MBC MASR 2" tvg-logo="http://logo.cdn-ott.net/COBRALOGO/AR/EGYPT/MBCMASR2.png" group-title="قنوات عربية",AR| MBC MASR 2
 http://infinity-ott.com:8080/n25Hutdt1SQJPRkF/q7uGxt78G4xmqYHs/218794
@@ -94,9 +97,6 @@ http://infinity-ott.com:8080/n25Hutdt1SQJPRkF/q7uGxt78G4xmqYHs/19089
 
 #EXTINF:-1 tvg-id="MBCDramaEn.ae" tvg-name="AR| MBC DRAMA HD" tvg-logo="http://infinity-logo.ddns.net/images/picons/fullpicons/mbcdrama.png" group-title="قنوات عربية",AR| MBC DRAMA
 http://infinity-ott.com:8080/n25Hutdt1SQJPRkF/q7uGxt78G4xmqYHs/19083
-
-#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-dramap.png" group-title="قنوات عربية",AR| MBC DRAMA+
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
 #EXTINF:-1 tvg-id="MBCDramaEn.ae" tvg-name="MYHD| MBC DRAMA+ HD" tvg-logo="http://www.tunisvista.com/medias/mbc-drama-plus-tv-live-online-streaming.png" group-title="قنوات عربية",AR| MBC DRAMA+
 http://infinity-ott.com:8080/n25Hutdt1SQJPRkF/q7uGxt78G4xmqYHs/19085
