@@ -733,6 +733,7 @@ https://archive.org/download/Ayza_Atgawiz/Ep29.mkv
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="عايزة اتجوز",الحلقة(30) - هشام 2 - هاني عادل
 https://archive.org/download/Ayza_Atgawiz/Ep30.mkv
 
+
 ########################################################## يوميات ونيس الجزء الاول ###################################################################
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="ونيس",#################### الجزء الاول ####################
@@ -1018,7 +1019,7 @@ https://archive.org/download/yawmeyat-wanis-s03-egyptian-series-1996-720p/Ep30.T
 
 ########################################################## يوميات ونيس الجزء الرابع ###################################################################
 
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="يوميات ونيس",#################### الجزء الرابع ####################
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="ونيس",#################### الجزء الرابع ####################
 
 #EXTINF:-1  tvg-logo="" group-title="ونيس",S04 E01
 https://archive.org/download/Yawmeyaat.Wanis.S04.by.cdhaty/Yawmeyaat.Wanis.S04.Ep01.mp4
@@ -1306,6 +1307,7 @@ https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.
 #EXTINF:-1  tvg-logo="" group-title="ونيس",S06 E30
 https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.Ep30.Last.mp4
 
+
 ########################################################## قنوات مسيحية ###################################################################
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/9HocMyE.jpg" group-title="قنوات مسيحية",Al Hayat TV
@@ -1328,6 +1330,39 @@ https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="http://www.riseuptv.tv/wp-content/uploads/2020/08/cropped-Al-Kiama-TV-Logo-2_RedWhite-small.png" group-title="قنوات مسيحية",Al-Qiama-TV
 https://5d12bc59c4748.streamlock.net/redirect/riseuptv.tv/riseup?type=m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/VCfZB73.png" group-title="قنوات مسيحية",Al Horreya TV
+http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TheKingdomSat.eg" tvg-logo="https://i.imgur.com/6xa14aQ.png" group-title="قنوات مسيحية",The Kingdom Sat
+https://svs.itworkscdn.net/kingdomsatlive/kingdomsat.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="LogosTV.us" tvg-logo="https://logoschannel.com/images/logo.png" group-title="قنوات مسيحية",Logos TV Mubasher
+https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",ABNsat
+http://rtmp1.abnsat.com/hls/arabic.m3u8
+
+#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",ABNsat2
+http://rtmp.abnsat.com/hls/abnsat2.m3u8
+
+#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV USA
+https://5d658d7e9f562.streamlock.net/alkarmatv.com/alkarmaNA1.smil/chunklist_w250487669_b1628000_slar.m3u8
+
+#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV Plus
+https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/chunklist_w398989404_b2328000_slar.m3u8
+
+#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV MidEast
+https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaME1.smil/chunklist_w1657191450_b1628000_slar.m3u8
+
+#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV Australia
+https://5d658d7e9f562.streamlock.net/alkarmatv.com/alkarmaAU.smil/chunklist_w1326771803_b1628000_slar.m3u8
+
+#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",SAT-7
+https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/sat7arabicpublish/sat7arabic_720p/chunks_dvr.m3u8
+
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/CopticTelevision.jpg/revision/latest?cb=20210723194712" group-title="قنوات مسيحية",CTV
+https://5d658d7e9f562.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w1842680643_b1728000_slar_t64SEQ=.m3u8
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="قنوات مسيحية",فلم يسوع بالكلداني
 https://archive.org/download/jesus-film-chaldean-language/JESUS%20Film%20Chaldean%20Language.mp4
