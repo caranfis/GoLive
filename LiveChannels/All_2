@@ -9,6 +9,12 @@ https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/
 #EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/370/86/png-clipart-mbc2-logo-film-cuevana-others-television-text.png" group-title="قنوات عربية",AR| MBC 2
 http://154.54.220.67:34780/play/a01p
 
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPA4tbMGbwFO6j5xWYsWyi8DfACN-1_xmuA&s" group-title="قنوات عربية",AR| MBC ACTION
+http://154.54.220.67:34780/play/a01o
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/705029909643661313/sH8E6qhX_400x400.jpg" group-title="قنوات عربية",AR| MBC MAX
+http://154.54.220.67:34780/play/a01q
+
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="قنوات عربية",AR| MBC 4
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
 
