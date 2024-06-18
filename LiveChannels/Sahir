@@ -108,6 +108,18 @@ https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch32.m3u8
 
 ########################################################## رياضة ###################################################################
 
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="رياضة",LIVE 1
+http://mo3ad.xyz/mo3ad8Hs33a/mo3ad8Hs33a/554
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="رياضة",LIVE 2
+#EXTINF:0,LIVE 3 http://mo3ad.xyz/mo3ad8Hs33a/mo3ad8Hs33a/556
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="رياضة",LIVE 3
+#EXTINF:0,LIVE 4 http://mo3ad.xyz/mo3ad8Hs33a/mo3ad8Hs33a/557
+
+#EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="رياضة",LIVE 4
+#EXTINF:0,LIVE 2 http://mo3ad.xyz/mo3ad8Hs33a/mo3ad8Hs33a/555
+
 #EXTINF:-1 tvg-ID="" tvg-name="Bein Sports 4K" tvg-logo="" group-title="رياضة",BEIN_SPORTS_MAX 1 HD
 http://mo3ad.xyz/mo3ad8Hs33a/mo3ad8Hs33a/578
 
