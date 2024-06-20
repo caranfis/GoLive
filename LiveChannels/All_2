@@ -3,22 +3,43 @@
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="قنوات عربية",AR| Rotana Cinema
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_1/chunklist.m3u8
 
+#EXTINF:-1  tvg-logo="https://logo.iptveditor.com/rotanadrama.png" group-title="قنوات عربية",AR| Rotana DRAMA
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1183
+
+#EXTINF:-1  tvg-name="ROTANA CLIP" tvg-logo="https://logo.iptveditor.com/rotanaclip.png" group-title="قنوات عربية",AR| ROTANA CLIP
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1185
+
+#EXTINF:-1  tvg-name="ROTANA CLASSIC" tvg-logo="https://logo.iptveditor.com/rotanaclassic.png" group-title="قنوات عربية",AR| ROTANA CLASSIC
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1186
+
+#EXTINF:-1  tvg-name="ROTANA CINEMA" tvg-logo="https://logo.iptveditor.com/rotanacinema.png" group-title="قنوات عربية",AR| ROTANA CINEMA
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1187
+
+#EXTINF:-1  tvg-name="ROTANA COMEDY" tvg-logo="https://logo.iptveditor.com/rotanaclip.png" group-title="قنوات عربية",AR| ROTANA COMEDY
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1188
+
+#EXTINF:-1  tvg-name="ROTANA MUSIC" tvg-logo="https://logo.iptveditor.com/rotanamusic.png" group-title="قنوات عربية",AR| ROTANA MUSIC
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1189
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات عربية",AR| MBC 1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
 
 #EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/370/86/png-clipart-mbc2-logo-film-cuevana-others-television-text.png" group-title="قنوات عربية",AR| MBC 2
-http://154.54.220.67:34780/play/a01p
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1180
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrPA4tbMGbwFO6j5xWYsWyi8DfACN-1_xmuA&s" group-title="قنوات عربية",AR| MBC ACTION
-http://154.54.220.67:34780/play/a01o
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1170
 
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/705029909643661313/sH8E6qhX_400x400.jpg" group-title="قنوات عربية",AR| MBC MAX
-http://154.54.220.67:34780/play/a01q
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1177
+
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/705029909643661313/sH8E6qhX_400x400.jpg" group-title="قنوات عربية",AR| VARIETY
+http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1178
 
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="قنوات عربية",AR| MBC 4
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
 
-#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc5.png" group-title="قنوات عربية",AR| MBC 5 HD
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc5.png" group-title="قنوات عربية",AR| MBC 5
 https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
 
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-iraq.png" group-title="قنوات عربية",AR| MBC Iraq
@@ -74,9 +95,6 @@ https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
 
 #EXTINF:-1  tvg-logo="http://alsharqiyatv.info/tv.jpg" group-title="قنوات عربية",IQ| Al Sharqiya
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/IshtarTVlogo.png/150px-IshtarTVlogo.png" group-title="قنوات عربية",IQ| Ishtar TV
-http://176.9.102.245:1935/iShtarTV/liveStream/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="قنوات عربية",UA| Sama Dubai
 https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8
