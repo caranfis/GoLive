@@ -1,5 +1,53 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="رياضة",LIVE 24 SPORT 1
+https://m3u-editor.com/live/xvssrctw/r0mvwq4u/1180977360.m3u8
+
+#EXTINF:-1 group-title="رياضة",LIVE 24 SPORT 2
+https://m3u-editor.com/live/xvssrctw/r0mvwq4u/1180977361.m3u8
+
+#EXTINF:-1 group-title="رياضة",LIVE 24 SPORT 5
+https://m3u-editor.com/live/xvssrctw/r0mvwq4u/1180977364.m3u8
+
+#EXTINF:-1 group-title="رياضة",beIN SPORTS 5
+https://m3u-editor.com/live/xvssrctw/r0mvwq4u/1180977375.m3u8
+
+#EXTINF:-1 group-title="رياضة",beIN SPORTS 7
+https://m3u-editor.com/live/xvssrctw/r0mvwq4u/1180977377.m3u8
+
+#EXTINF:-1 group-title="رياضة",beIN SPORTS 8
+https://m3u-editor.com/live/xvssrctw/r0mvwq4u/1180977378.m3u8
+
+#EXTINF:-1 group-title="رياضة",BEIN SPORT 2 HD
+https://m3u-editor.com/live/xvssrctw/r0mvwq4u/1180977386.m3u8
+
+#EXTINF:-1 group-title="رياضة",BEIN SPORT 3 HD
+https://m3u-editor.com/live/xvssrctw/r0mvwq4u/1180977387.m3u8
+
+#EXTINF:-1 group-title="رياضة",BEIN SPORT 4 HD
+https://m3u-editor.com/live/xvssrctw/r0mvwq4u/1180977388.m3u8
+
+#EXTINF:-1 group-title="رياضة",BEIN SPORT 7 LOW
+https://m3u-editor.com/live/xvssrctw/r0mvwq4u/1180977409.m3u8
+
+#EXTINF:-1 group-title="رياضة",BEIN SPORT SD1
+https://m3u-editor.com/live/xvssrctw/r0mvwq4u/1180977410.m3u8
+
+#EXTINF:-1 group-title="رياضة",BEIN SPORT 2
+https://m3u-editor.com/live/xvssrctw/r0mvwq4u/1180977411.m3u8
+
+#EXTINF:-1 group-title="رياضة",BEIN SPORT SD3
+https://m3u-editor.com/live/xvssrctw/r0mvwq4u/1180977414.m3u8
+
+#EXTINF:-1 group-title="رياضة",BEIN SPORT SD4
+https://m3u-editor.com/live/xvssrctw/r0mvwq4u/1180977416.m3u8
+
+#EXTINF:-1 group-title="رياضة",BEIN SPORT SD5
+https://m3u-editor.com/live/xvssrctw/r0mvwq4u/1180977418.m3u8
+
+#EXTINF:-1 group-title="رياضة",BEIN SPORT XTRA SD1
+https://m3u-editor.com/live/xvssrctw/r0mvwq4u/1180977421.m3u8
+
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="" group-title="رياضة",beIN Sports MAX 1 HEVC
 http://173.212.193.243:8080/mo3ad151Sf4/mo3ad151Sf4/1458
 
