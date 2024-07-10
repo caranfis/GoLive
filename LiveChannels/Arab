@@ -1,0 +1,23 @@
+#EXTM3U
+
+# Main Folder: قنوات عربية (Arabic Channels)
+
+# Group: قنوات عربية (General Arabic Channels)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="قنوات عربية",AR| Rotana Cinema
+https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_1/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات عربية",AR| MBC 1
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
+#EXTINF:-1 tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="قنوات عربية",AR| MBC 4
+https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+#EXTINF:-1 tvg-logo="https://besttvps.com/app/panel-logos/mbc5.png" group-title="قنوات عربية",AR| MBC 5
+https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+
+# Main Folder: رياضة (Sports)
+
+# Group: رياضة (Sports Channels)
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS_MAX 1 4K" tvg-logo="http://sf.bleutv.net:8080/images/54a9da8308a7a05298b9ad1eee91bfe1.jpg" group-title="رياضة",BEIN_SPORTS_MAX 1 4K
+http://s1.czxbexchange.xyz:8080/172017314045388/172017133415329/147210
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS_MAX 1 FHD" tvg-logo="http://sf.bleutv.net:8080/images/54a9da8308a7a05298b9ad1eee91bfe1.jpg" group-title="رياضة",BEIN_SPORTS_MAX 1 FHD
+http://s1.czxbexchange.xyz:8080/172017314045388/172017133415329/147209
+#EXTINF:-1 tvg-id="" tvg-name="BEIN_SPORTS_MAX1HD VIP" tvg-logo="http://sf.bleutv.net:8080/images/54a9da8308a7a05298b9ad1eee91bfe1.jpg" group-title="رياضة",BEIN_SPORTS_MAX1HD VIP
+http://s1.czxbexchange.xyz:8080/172017314045388/172017133415329/147205
