@@ -30,9 +30,6 @@ https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af
 #EXTINF:-1  tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="قنوات اخبار",SA| AL ARABIYA
 https://live.alarabiya.net/alarabiapublish/alarabiya_1080p/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/rLR5q2x.png" group-title="قنوات اخبار",SA| AL ARABIYA HADATH
-https://live.alarabiya.net/alarabiapublish/alhadath_1080p/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="قنوات اخبار",QA| AL JAZEERA MUBASHER
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
@@ -48,23 +45,8 @@ https://ghaasiflu.online/Dijlah/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="قنوات اخبار",AR| Sky News Arabia
 https://stream.skynewsarabia.com/hls/sna_720.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/HTzkq9P/iJIHMq9.png" group-title="قنوات اخبار",TR| TRT Arabi
-https://tv-trtarabi.live.trt.com.tr/master_1080.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/WjJ8MHC.png" group-title="قنوات عربية",Dubai One
-https://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" group-title="قنوات عربية",IQ| Dijlah Zaman
 https://ghaasiflu.online/tarab/index.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",UA| Dubai Zaman
-https://dmiffthvll.cdn.mgmlcdn.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1700000.m3u8
-
-#EXTINF:-1  tvg-logo="https://alrasheedmedia.com/wp-content/themes/alrasheedv4/alr-logo.png" group-title="قنوات عربية",IQ| Al Rasheed
-https://media1.livaat.com/AL-RASHEED-HD/index.m3u8
-
-#EXTINF:-1  tvg-logo="http://alsharqiyatv.info/tv.jpg" group-title="قنوات عربية",IQ| Al Sharqiya
-http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/75/IshtarTVlogo.png/150px-IshtarTVlogo.png" group-title="قنوات عربية",IQ| Ishtar TV
 https://list.iptvcat.com/my_list/s/431a1521677586abcb96860ccd68206a.m3u8
