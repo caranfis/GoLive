@@ -42,11 +42,11 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000
 #EXTINF:-1  tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="قنوات اخبار",IR| Dijlah
 https://ghaasiflu.online/Dijlah/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="قنوات اخبار",AR| Sky News Arabia
-https://stream.skynewsarabia.com/hls/sna_720.m3u8
-
 #EXTINF:-1  tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" group-title="قنوات عربية",IQ| Dijlah Zaman
 https://ghaasiflu.online/tarab/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="قنوات اخبار",AR| Sky News Arabia
+https://stream.skynewsarabia.com/hls/sna_720.m3u8
 
 #EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="قنوات عربية",JO| Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
