@@ -46,7 +46,7 @@ https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038899/MBN_Iraq_Worldsafe_H
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="قنوات اخبار",IR| Dijlah
-https://ghaasiflu.online/Dijlah/index.m3u8
+https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" group-title="قنوات عربية",IQ| Dijlah Zaman
 https://ghaasiflu.online/tarab/index.m3u8
