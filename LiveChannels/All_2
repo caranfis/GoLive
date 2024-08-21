@@ -3,11 +3,44 @@
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="قنوات عربية",AR| Rotana Cinema
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_1/chunklist.m3u8
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| Rotana Classic
+http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1186
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| Rotana Comedy
+http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1188
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| Rotana Clip
+http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1185
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| Rotana Music
+http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1189
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| Mazzika
+http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1213
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| Nile Comedy
+http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1214
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| Nile Cinema
+http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1216
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| PNC Drama 1
+http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1218
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| PNC Drama 2
+http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1217
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| CBC SOFRA
+http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1219
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات عربية",AR| MBC 1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| MBC 2
 http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1168
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| MBC MAX
+http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1176
 
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="قنوات عربية",AR| MBC 4
 https://shls-masr-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
