@@ -75,42 +75,8 @@ http://htvint.mada.ps:8889/orient/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",AR| Alqahira Wal Nas
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch32.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| Rotana Classic
-http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1186
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| Rotana Comedy
-http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1188
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| Rotana Clip
-http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1185
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| Rotana Music
-http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1189
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| Mazzika
-http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1213
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| Nile Comedy
-http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1214
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| Nile Cinema
-http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1216
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| PNC Drama 1
-http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1218
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| PNC Drama 2
-http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1217
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| CBC SOFRA
-http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1219
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| MBC 2
-http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1168
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",AR| MBC MAX
-http://173.212.193.243:8080/mo3adb356Ds/mo3adb356Ds/1176
-
+#EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",AR| Al Sharqiya News
+https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w502851715.m3u8
 
 ########################################################## رياضة ###################################################################
 
