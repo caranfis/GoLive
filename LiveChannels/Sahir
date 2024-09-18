@@ -76,6 +76,192 @@ http://htvint.mada.ps:8889/orient/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",AR| Alqahira Wal Nas
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch32.m3u8
 
+
+########################################################## Temp ###################################################################
+
+#EXTINF:-1 group-title="Temp",beIN MAX1 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9FLcQ9zH4Faltut5xzUf0ro/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN MAX2 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9FD1xwAqddU_zjY6QZ9hGwo/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN SP 1 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9N_6hsqaj50o8VwDpC9zgtw/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN SP 2 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9FPsEMDRZv2AARaffeFgJZg/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN SP 3 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Ho5TQ3QMvLFqIgG0QsQGig/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN SP 4 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9DodD6SuSyG2RCS9smVZfKI/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN SP 5 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9OhwHKHhS0DJomeXPAabgX0/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN SP 6 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9J7ycUCAZoZuMA659eIv9CU/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN SP 7 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9ESgeksHaamF-7X6F-NwCms/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN SP 8 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9GVdaSeBTz0QLUm-9DhVlO4/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN SP 9 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9DsN0p8-dieuohauNrL788M/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN SP 1 XTRA FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Jr2MFyK0knGOA3Eqc0FZMg/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN SP 2 XTRA FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Fim7hOS0YJE3WKeSEr580s/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN SP 3 XTRA FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MG23YH-KBJ8DIoMymg_RVo/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN SP 1 ENGLISH FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Crld-ujpkPWuZLqUfphBZI/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN SP 2 ENGLISH FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9M4lALbGg8GMdcjUNuJ264I/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN SP 1 FRANCE FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9ANoC5NyiXdg71Lp3eEDbtY/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN SP 2 FRANCE FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9OsRywfAZkWTK29PCOLJURQ/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN SP 3 FRANCE FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MVuqnkmA2sIGVmSFZcGaSw/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN SP NBA FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9P1TyfuUtiyNROsRufeYZDc/m3u8
+
+#EXTINF:-1 group-title="Temp",TyC Sports
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9ME-VFuwxXRehTLQIpGqqGA/m3u8
+
+#EXTINF:-1 group-title="Temp",SPORT .TV 2
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9JnBxM-TYSE1_dzWaf-ats8/m3u8
+
+#EXTINF:-1 group-title="Temp",Sport italia Plus
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9FIL3hSxLv2UGA-2-4TU_78/m3u8
+
+#EXTINF:-1 group-title="Temp",AD Sports Premium 1 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9OIQcbvFUKtbzwRqXTKxtKc/m3u8
+
+#EXTINF:-1 group-title="Temp",AD Sports Premium 2 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Mvo06rJx1_91fgy09uBTM0/m3u8
+
+#EXTINF:-1 group-title="Temp",SP: SSC News FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9OcATwqNFDR0jNab-1bpa4A/m3u8
+
+#EXTINF:-1 group-title="Temp",SP: SSC 1 EXTRA FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9D3hzfUOQ1-hgqUn6ivQl3c/m3u8
+
+#EXTINF:-1 group-title="Temp",SP: SSC 2 EXTRA FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9OrUKS-l7Z1Et0F_HIKPE5Y/m3u8
+
+#EXTINF:-1 group-title="Temp",SP: SSC 3 EXTRA FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9B6U00_Eqtmfnt7siaK6k6s/m3u8
+
+#EXTINF:-1 group-title="Temp",SP: SSC 1 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9CRHhI-LfMI96Lejcum73FM/m3u8
+
+#EXTINF:-1 group-title="Temp",SP: SSC 2 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9LqfUDjFE-rLkBA582FdBBY/m3u8
+
+#EXTINF:-1 group-title="Temp",SP: SSC 3 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9FShhe_l51LXQVbq-F3lwZQ/m3u8
+
+#EXTINF:-1 group-title="Temp",SP: SSC 4 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9FO-r7uK2GFDRS_YDoImFas/m3u8
+
+#EXTINF:-1 group-title="Temp",SP: SSC 5 FHD
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9PIMy08Q59lQ00uvYYC6DjU/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN Movies Premiere 1
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MFvDjjrM_XN_Brzhd_gg9M/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN Movies Action 2
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9COXyzr6r6ht-BHhhDsdXhg/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN Movies Drama 3
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9PRWKMfmOxnlI4ga9MXJ2_Y/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN Movies Family 4
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9LAtKhZcgezKukwmpRjBfXY/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN Series 1
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9NQPqnVsvhVsy65XZp927vc/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN Series 2
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Id148p-MdZOB8TbGb9E9PU/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN Drama 1
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9LxIfgvp8KKdC_VxanxVGYo/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN Box Office 1
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Bq5ChjjS6Ifkw_NKfWksYo/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN Box Office 2
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9M9jSqybEXXLi1YhuPV0V0I/m3u8
+
+#EXTINF:-1 group-title="Temp",BeIN Fox Rewayat
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9PfCRRw2ouBkUnlSgwoXFjM/m3u8
+
+#EXTINF:-1 group-title="Temp",BeIN Fox Action Movies
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9GEzdoqCqPrI2NrHDjilSlY/m3u8
+
+#EXTINF:-1 group-title="Temp",BeIN Fox Crime
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9EA3w-wmEOU2y--Pxlx_OZc/m3u8
+
+#EXTINF:-1 group-title="Temp",BeIN Fox Life
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9L0V6IYZtrSR0uv22gK4Zso/m3u8
+
+#EXTINF:-1 group-title="Temp",BeIN Investigation Discovery
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9ICXrCEM-9_3qKNBrQ0f0uc/m3u8
+
+#EXTINF:-1 group-title="Temp",BeIN Star Movies
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9OV9UqUcqw86Te9IakG5Ok8/m3u8
+
+#EXTINF:-1 group-title="Temp",BeIN Star World
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9PD9yTu1nGYWk0RNRKuMB4U/m3u8
+
+#EXTINF:-1 group-title="Temp",Shahid Movies Action VIP
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9H2JyQj2fxw021nnsft4PVU/m3u8
+
+#EXTINF:-1 group-title="Temp",shahid Movies Thriller VIP
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9NeT1yE7sMvuvoTDeHITlGM/m3u8
+
+#EXTINF:-1 group-title="Temp",shahid Aflam VIP
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9ObY5fSuvOpS92HcaDHar3A/m3u8
+
+#EXTINF:-1 group-title="Temp",shahid Movies VIP
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9PPtDQt3Tff0MlRk7zJu22E/m3u8
+
+#EXTINF:-1 group-title="Temp",shahid Just For Laughs
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MJ8tNhUOvOhcsKb6VlevhY/m3u8
+
+#EXTINF:-1 group-title="Temp",shahid topshif
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9AYqf_rBEbp67-X_ZqDrDSw/m3u8
+
+#EXTINF:-1 group-title="Temp",Shahid Classic
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9FEKMZCLvjXKFNXddqgWz5s/m3u8
+
+#EXTINF:-1 group-title="Temp",Shahid action
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9JxusUnegsyBbVBDxROEiyw/m3u8
+
+#EXTINF:-1 group-title="Temp",Shahid Masraheyat
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Lm7e054bzpsCx0kCD7gnYs/m3u8
+
+#EXTINF:-1 group-title="Temp",Shahid Drama
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MCrOnQK7q7xrI9nIYkR9QM/m3u8
+
+#EXTINF:-1 group-title="Temp",Shahid Cinema
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9DYf94LLYdrxnzA0p5dglS4/m3u8
+
 ########################################################## رياضة ###################################################################
 
 #EXTINF:-1 tvg-ID="beinsportsnews.qa" tvg-name="beIN Sports News HD" tvg-logo="http://138.199.27.237:8080/0tv_logo/110.png" group-title="رياضة",beIN Sports News HD
