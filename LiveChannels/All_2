@@ -58,6 +58,9 @@ https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" group-title="قنوات عربية",Dijlah Zaman
 https://ghaasiflu.online/tarab/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Thikrayat
+https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index_1.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Dubai Zaman
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1700000.m3u8
 
@@ -88,8 +91,12 @@ http://htvint.mada.ps:8889/orient/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Alqahira Wal Nas
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch32.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Al Sharqiya
+
+
 #EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",Al Sharqiya News
-https://5d94523502c2d.streamlock.net/alsharqiyalive/mystream/chunklist_w502851715.m3u8
+http://95.216.180.111:1935/live/4/chunklist_w990531954.m3u8
+
 
 ########################################################## رياضة ###################################################################
 
