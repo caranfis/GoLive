@@ -1,4 +1,1434 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="Temp",beIN Sports 3 English
+#EXTINF:-1 tvg-id="beinsports8.us" tvg-name="beIN SPORTS 8 FHD" tvg-logo="https://logo.iptveditor.com/beinsports8.png" group-title="Sports",beIN SPORTS 8 FHD
+http://hdhd.tk:80/jazzus001/dcn99ztv/31117
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="beIN SPORTS La Liga" tvg-logo="https://logo.iptveditor.com/beinsports.png" group-title="Sports",beIN SPORTS La Liga
+http://hdhd.tk:80/jazzus001/dcn99ztv/31119
+#EXTINF:-1 tvg-id="beinsportsxtra.us" tvg-name="beIN_Xtra" tvg-logo="https://logo.iptveditor.com/beinsportsxtra.png" group-title="Sports",beIN_Xtra
+http://hdhd.tk:80/jazzus001/dcn99ztv/31120
+#EXTINF:-1 tvg-id="" tvg-name="Arabic beIN Sports 3 English (P)" tvg-logo="https://logo.iptveditor.com/beinsports3.png" group-title="Sports",Arabic beIN Sports 3 English (P)
 http://hdhd.tk:80/jazzus001/dcn99ztv/31636
+#EXTINF:-1 tvg-id="" tvg-name="AR- BeIN SPORTS 6 FHD" tvg-logo="https://logo.iptveditor.com/beinsports6.png" group-title="Sports",AR- BeIN SPORTS 6 FHD
+http://hdhd.tk:80/jazzus001/dcn99ztv/31641
+#EXTINF:-1 tvg-id="" tvg-name="AU (Bein) Bein Sports 1" tvg-logo="" group-title="Sports",AU (Bein) Bein Sports 1
+http://hdhd.tk:80/jazzus001/dcn99ztv/50199
+#EXTINF:-1 tvg-id="" tvg-name="AU (Bein) Bein Sports 2" tvg-logo="" group-title="Sports",AU (Bein) Bein Sports 2
+http://hdhd.tk:80/jazzus001/dcn99ztv/50200
+#EXTINF:-1 tvg-id="" tvg-name="AU (Bein) Manchester United TV" tvg-logo="" group-title="Sports",AU (Bein) Manchester United TV
+http://hdhd.tk:80/jazzus001/dcn99ztv/50229
+#EXTINF:-1 tvg-id="" tvg-name="AU (Bein) Bein Sports 3" tvg-logo="" group-title="Sports",AU (Bein) Bein Sports 3
+http://hdhd.tk:80/jazzus001/dcn99ztv/50230
+
+
+
+#EXTINF:-1 tvg-id="mlbnetwork.us" tvg-name="US MLB Network" tvg-logo="https://logo.iptveditor.com/mlb.png" group-title="Sports",US MLB Network
+http://hdhd.tk:80/jazzus001/dcn99ztv/3
+#EXTINF:-1 tvg-id="nhlnetwork.us" tvg-name="US NHL Network" tvg-logo="https://logo.iptveditor.com/nhlnetwork.png" group-title="Sports",US NHL Network
+http://hdhd.tk:80/jazzus001/dcn99ztv/6
+#EXTINF:-1 tvg-id="" tvg-name="US UFC Channel" tvg-logo="https://logo.iptveditor.com/ufctv.png" group-title="Sports",US UFC Channel
+http://hdhd.tk:80/jazzus001/dcn99ztv/7
+#EXTINF:-1 tvg-id="fightnetwork.us" tvg-name="US Fight Network" tvg-logo="https://logo.iptveditor.com/fightnetwork.png" group-title="Sports",US Fight Network
+http://hdhd.tk:80/jazzus001/dcn99ztv/8
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US WWE Network" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/wwe-network.png" group-title="Sports",US WWE Network
+http://hdhd.tk:80/jazzus001/dcn99ztv/9
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US ATT SportsNet Southwest" tvg-logo="https://logo.iptveditor.com/attsportsnetsouthwest.png" group-title="Sports",US ATT SportsNet Southwest
+http://hdhd.tk:80/jazzus001/dcn99ztv/10
+#EXTINF:-1 tvg-id="sportsnetnewyork.us" tvg-name="US SportsNet New York (SNY)" tvg-logo="https://static.epg.best/us/SportsNetNewYork.us.png" group-title="Sports",US SportsNet New York (SNY)
+http://hdhd.tk:80/jazzus001/dcn99ztv/12
+#EXTINF:-1 tvg-id="tennischannel.us" tvg-name="US Tennis Channel" tvg-logo="https://logo.iptveditor.com/tennis.png" group-title="Sports",US Tennis Channel
+http://hdhd.tk:80/jazzus001/dcn99ztv/14
+#EXTINF:-1 tvg-id="madisonsquaregarden.us" tvg-name="US MSG" tvg-logo="https://static.epg.best/us/MadisonSquareGarden.us.png" group-title="Sports",US MSG
+http://hdhd.tk:80/jazzus001/dcn99ztv/19
+#EXTINF:-1 tvg-id="madisonsquaregardenplus.us" tvg-name="US MSG Plus" tvg-logo="https://logo.iptveditor.com/msg+.png" group-title="Sports",US MSG Plus
+http://hdhd.tk:80/jazzus001/dcn99ztv/20
+#EXTINF:-1 tvg-id="bigtennetwork.us" tvg-name="US Big Ten Network" tvg-logo="https://logo.iptveditor.com/bigtennetwork.png" group-title="Sports",US Big Ten Network
+http://hdhd.tk:80/jazzus001/dcn99ztv/23
+#EXTINF:-1 tvg-id="" tvg-name="US NESN" tvg-logo="https://logo.iptveditor.com/nesn.png" group-title="Sports",US NESN
+http://hdhd.tk:80/jazzus001/dcn99ztv/29
+#EXTINF:-1 tvg-id="newenglandsportsnetworkplus.us" tvg-name="US NESN PLUS" tvg-logo="https://logo.iptveditor.com/nesnplus.png" group-title="Sports",US NESN PLUS
+http://hdhd.tk:80/jazzus001/dcn99ztv/30
+#EXTINF:-1 tvg-id="sportsmanchannel.us" tvg-name="US Sportsman Channel" tvg-logo="https://logo.koditvepg.com/US/sportsman.us.png" group-title="Sports",US Sportsman Channel
+http://hdhd.tk:80/jazzus001/dcn99ztv/31
+#EXTINF:-1 tvg-id="cbssportsnetworkusa.us" tvg-name="US CBS Sports Network" tvg-logo="https://logo.iptveditor.com/cbssportsnetwork.png" group-title="Sports",US CBS Sports Network
+http://hdhd.tk:80/jazzus001/dcn99ztv/32
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US Eleven Sports" tvg-logo="https://logo.iptveditor.com/elevensports.png" group-title="Sports",US Eleven Sports
+http://hdhd.tk:80/jazzus001/dcn99ztv/33
+#EXTINF:-1 tvg-id="golfchannel.us" tvg-name="US Golf Channel" tvg-logo="https://logo.iptveditor.com/golf.png" group-title="Sports",US Golf Channel
+http://hdhd.tk:80/jazzus001/dcn99ztv/34
+#EXTINF:-1 tvg-id="tvg.us" tvg-name="US TVG Network" tvg-logo="https://logo.iptveditor.com/tvgnetwork.png" group-title="Sports",US TVG Network
+http://hdhd.tk:80/jazzus001/dcn99ztv/37
+#EXTINF:-1 tvg-id="nbcsportsphiladelphia.us" tvg-name="US NBC Sports Philly" tvg-logo="https://logo.iptveditor.com/nbcsportsphilly.png" group-title="Sports",US NBC Sports Philly
+http://hdhd.tk:80/jazzus001/dcn99ztv/48
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US NBC Sports Washington" tvg-logo="https://logo.iptveditor.com/nbcsportswashington.png" group-title="Sports",US NBC Sports Washington
+http://hdhd.tk:80/jazzus001/dcn99ztv/49
+#EXTINF:-1 tvg-id="nbcsportscalifornia.us" tvg-name="US NBC Sports California" tvg-logo="https://logo.iptveditor.com/nbcsportscalifornia.png" group-title="Sports",US NBC Sports California
+http://hdhd.tk:80/jazzus001/dcn99ztv/50
+#EXTINF:-1 tvg-id="nbcsportschicago.us" tvg-name="US NBC Sports Chicago" tvg-logo="https://logo.iptveditor.com/nbcsportschicago.png" group-title="Sports",US NBC Sports Chicago
+http://hdhd.tk:80/jazzus001/dcn99ztv/51
+#EXTINF:-1 tvg-id="nbcsportsbayarea.us" tvg-name="US NBC Sports Bay Area" tvg-logo="https://logo.iptveditor.com/nbcsportsbayarea.png" group-title="Sports",US NBC Sports Bay Area
+http://hdhd.tk:80/jazzus001/dcn99ztv/52
+#EXTINF:-1 tvg-id="" tvg-name="US NBC Sports Northwest" tvg-logo="https://static.epg.best/us/NBCSportsNorthwest.us.png" group-title="Sports",US NBC Sports Northwest
+http://hdhd.tk:80/jazzus001/dcn99ztv/53
+#EXTINF:-1 tvg-id="nbcsportsnetwork.us" tvg-name="US NBC Sports Network" tvg-logo="https://logo.iptveditor.com/nbcsportsnetwork.png" group-title="Sports",US NBC Sports Network
+http://hdhd.tk:80/jazzus001/dcn99ztv/54
+#EXTINF:-1 tvg-id="espn.us" tvg-name="US ESPN" tvg-logo="https://logo.koditvepg.com/US/espn.alternate.us.png" group-title="Sports",US ESPN
+http://hdhd.tk:80/jazzus001/dcn99ztv/867
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="US ESPN 2" tvg-logo="https://logo.koditvepg.com/US/espn2.us.png" group-title="Sports",US ESPN 2
+http://hdhd.tk:80/jazzus001/dcn99ztv/869
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="US ESPN News" tvg-logo="https://logo.koditvepg.com/US/espn.news.us.png" group-title="Sports",US ESPN News
+http://hdhd.tk:80/jazzus001/dcn99ztv/870
+#EXTINF:-1 tvg-id="espnu.us" tvg-name="US ESPN U" tvg-logo="https://logo.koditvepg.com/US/espn.u.us.png" group-title="Sports",US ESPN U
+http://hdhd.tk:80/jazzus001/dcn99ztv/871
+#EXTINF:-1 tvg-id="beinsport.ca" tvg-name="CA Bein Sports (F)" tvg-logo="https://static.epg.best/ca/beINSportsGlobal.ca.png" group-title="Sports",CA Bein Sports (F)
+http://hdhd.tk:80/jazzus001/dcn99ztv/18722
+#EXTINF:-1 tvg-id="" tvg-name="USA Latin BEIN_Sports_Latin" tvg-logo="" group-title="Sports",USA Latin BEIN_Sports_Latin
+http://hdhd.tk:80/jazzus001/dcn99ztv/28871
+#EXTINF:-1 tvg-id="ginxesportstvcanada.ca" tvg-name="CA GINX Esports TV Canada HD (R)" tvg-logo="https://static.epg.best/ca/GINXeSportsTVCanada.ca.png" group-title="Sports",CA GINX Esports TV Canada HD (R
+#EXTINF:-1 tvg-id="spectrumsportsnetla.us" tvg-name="US Spectrum SportsNet LA Dodgers" tvg-logo="https://logo.iptveditor.com/spectrumsportsnet.png" group-title="Sports",US Spectrum SportsNet LA Dodgers
+http://hdhd.tk:80/jazzus001/dcn99ztv/11642
+#EXTINF:-1 tvg-id="foxsports1.us" tvg-name="US: FOX SPORTS 1 | HD" tvg-logo="https://static.epg.best/us/FoxSports1.us.png" group-title="Sports",US: FOX SPORTS 1 | HD
+http://hdhd.tk:80/jazzus001/dcn99ztv/16974
+#EXTINF:-1 tvg-id="fox.sports.2.us" tvg-name="US: FOX SPORTS 2 | HD" tvg-logo="https://static.epg.best/us/FoxSports2.us.png" group-title="Sports",US: FOX SPORTS 2 | HD
+http://hdhd.tk:80/jazzus001/dcn99ztv/16975
+#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA TSN 1 " tvg-logo="https://static.epg.best/ca/TSN1.ca.png" group-title="Sports",CA TSN 1 
+http://hdhd.tk:80/jazzus001/dcn99ztv/18708
+#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA TSN 2 HD (B)" tvg-logo="https://static.epg.best/ca/TSN2.ca.png" group-title="Sports",CA TSN 2 HD (B)
+http://hdhd.tk:80/jazzus001/dcn99ztv/18709
+#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA TSN 3 HD (B)" tvg-logo="https://static.epg.best/ca/TSN3.ca.png" group-title="Sports",CA TSN 3 HD (B)
+http://hdhd.tk:80/jazzus001/dcn99ztv/18710
+#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA TSN 4 HD (B)" tvg-logo="https://static.epg.best/ca/TSN4.ca.png" group-title="Sports",CA TSN 4 HD (B)
+http://hdhd.tk:80/jazzus001/dcn99ztv/18711
+#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA TSN 5 HD (B)" tvg-logo="https://static.epg.best/ca/TSN5.ca.png" group-title="Sports",CA TSN 5 HD (B)
+http://hdhd.tk:80/jazzus001/dcn99ztv/18712
+#EXTINF:-1 tvg-id="foxsportsracing.ca" tvg-name="CA Fox Sports Racing HD (B)" tvg-logo="https://static.epg.best/ca/FoxSportsRacing.ca.png" group-title="Sports",CA Fox Sports Racing HD (B)
+http://hdhd.tk:80/jazzus001/dcn99ztv/18713
+#EXTINF:-1 tvg-id="sportsnetwest.ca" tvg-name="CA SPORTSNET_WEST (R)" tvg-logo="https://static.epg.best/ca/SportsnetWest.ca.png" group-title="Sports",CA SPORTSNET_WEST (R)
+http://hdhd.tk:80/jazzus001/dcn99ztv/18715
+#EXTINF:-1 tvg-id="sportsnetpacific.ca" tvg-name="CA SPORTSNET PACIFIC (R)" tvg-logo="https://static.epg.best/ca/SportsnetPacific.ca.png" group-title="Sports",CA SPORTSNET PACIFIC (R)
+http://hdhd.tk:80/jazzus001/dcn99ztv/18716
+#EXTINF:-1 tvg-id="sportsnetontario.ca" tvg-name="CA SPORTSNET ONTARIO (R)" tvg-logo="https://static.epg.best/ca/SportsnetOntario.ca.png" group-title="Sports",CA SPORTSNET ONTARIO (R)
+http://hdhd.tk:80/jazzus001/dcn99ztv/18717
+#EXTINF:-1 tvg-id="sportsnetone.ca" tvg-name="CA SPORTSNET ONE (R)" tvg-logo="https://static.epg.best/ca/SportsnetOne.ca.png" group-title="Sports",CA SPORTSNET ONE (R)
+http://hdhd.tk:80/jazzus001/dcn99ztv/18718
+#EXTINF:-1 tvg-id="sportsneteast.ca" tvg-name="CA SPORTSNET EAST (R)" tvg-logo="https://static.epg.best/ca/SportsnetEast.ca.png" group-title="Sports",CA SPORTSNET EAST (R)
+http://hdhd.tk:80/jazzus001/dcn99ztv/18719
+#EXTINF:-1 tvg-id="sportsnet360.ca" tvg-name="CA Sportsnet 360" tvg-logo="https://static.epg.best/ca/Sportsnet360.ca.png" group-title="Sports",CA Sportsnet 360
+http://hdhd.tk:80/jazzus001/dcn99ztv/18720
+#EXTINF:-1 tvg-id="sportsnetworld.ca" tvg-name="CA Sportsnet World HD (R)" tvg-logo="https://static.epg.best/ca/SportsnetWorld.ca.png" group-title="Sports",CA Sportsnet World HD (R)
+http://hdhd.tk:80/jazzus001/dcn99ztv/18721
+#EXTINF:-1 tvg-id="fightnetwork.ca" tvg-name="CA The Fight Network HD (R)" tvg-logo="https://static.epg.best/ca/FightNetwork.ca.png" group-title="Sports",CA The Fight Network HD (R)
+http://hdhd.tk:80/jazzus001/dcn99ztv/18723
+#EXTINF:-1 tvg-id="nbatv.ca" tvg-name="CA NBA TV HD (R)" tvg-logo="https://static.epg.best/ca/NBATV.ca.png" group-title="Sports",CA NBA TV HD (R)
+http://hdhd.tk:80/jazzus001/dcn99ztv/18724
+#EXTINF:-1 tvg-id="wwe.network.ca" tvg-name="CA WWE Network (R)" tvg-logo="https://logo.koditvepg.com/CA/wwe.network.ca.png" group-title="Sports",CA WWE Network (R)
+http://hdhd.tk:80/jazzus001/dcn99ztv/18725
+#EXTINF:-1 tvg-id="mlb.network.ca" tvg-name="CA MLB Network (R)" tvg-logo="https://logo.koditvepg.com/CA/mlb.network.ca.png" group-title="Sports",CA MLB Network (R)
+http://hdhd.tk:80/jazzus001/dcn99ztv/18726
+#EXTINF:-1 tvg-id="" tvg-name="CA Willow Cricket HD (B)" tvg-logo="" group-title="Sports",CA Willow Cricket HD (B)
+http://hdhd.tk:80/jazzus001/dcn99ztv/18728
+#EXTINF:-1 tvg-id="hpitv.ca" tvg-name="CA HPItv HD (B)" tvg-logo="https://static.epg.best/ca/HPItv.ca.png" group-title="Sports",CA HPItv HD (B)
+http://hdhd.tk:80/jazzus001/dcn99ztv/18731
+#EXTINF:-1 tvg-id="nflnetworkcanada.ca" tvg-name="CA NFL Network HD (R)" tvg-logo="https://logo.koditvepg.com/CA/nfl.network.ca.png" group-title="Sports",CA NFL Network HD (R)
+http://hdhd.tk:80/jazzus001/dcn99ztv/18732
+#EXTINF:-1 tvg-id="accnetwork.us" tvg-name="US ACC Network" tvg-logo="https://logo.iptveditor.com/accnetwork.png" group-title="Sports",US ACC Network
+http://hdhd.tk:80/jazzus001/dcn99ztv/19436
+#EXTINF:-1 tvg-id="" tvg-name="Carib TVJ_Sports_Network" tvg-logo="" group-title="Sports",Carib TVJ_Sports_Network
+http://hdhd.tk:80/jazzus001/dcn99ztv/19840
+#EXTINF:-1 tvg-id="" tvg-name="Carib Flow_Sports" tvg-logo="" group-title="Sports",Carib Flow_Sports
+http://hdhd.tk:80/jazzus001/dcn99ztv/19953
+#EXTINF:-1 tvg-id="" tvg-name="Carib FLOW Sports (P)" tvg-logo="" group-title="Sports",Carib FLOW Sports (P)
+http://hdhd.tk:80/jazzus001/dcn99ztv/19998
+#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA TVA Sports (FL)" tvg-logo="https://static.epg.best/ca/TVASports.ca.png" group-title="Sports",CA TVA Sports (FL)
+http://hdhd.tk:80/jazzus001/dcn99ztv/20620
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US AT&T SportsNet Pittsburgh" tvg-logo="https://logo.iptveditor.com/attsportsnetpittsburgh.png" group-title="Sports",US AT&T SportsNet Pittsburgh
+http://hdhd.tk:80/jazzus001/dcn99ztv/20653
+#EXTINF:-1 tvg-id="" tvg-name="BR BAND SPORTS  (P)" tvg-logo="" group-title="Sports",BR BAND SPORTS  (P)
+http://hdhd.tk:80/jazzus001/dcn99ztv/23038
+#EXTINF:-1 tvg-id="" tvg-name="BR FOX SPORTS" tvg-logo="" group-title="Sports",BR FOX SPORTS
+http://hdhd.tk:80/jazzus001/dcn99ztv/23082
+#EXTINF:-1 tvg-id="" tvg-name="US ESPN SEC Network" tvg-logo="https://static.epg.best/us/ESPN.us.png" group-title="Sports",US ESPN SEC Network
+http://hdhd.tk:80/jazzus001/dcn99ztv/23871
+#EXTINF:-1 tvg-id="" tvg-name="US Spectrum SportsNet Lakers" tvg-logo="https://logo.iptveditor.com/spectrumsportsnet.png" group-title="Sports",US Spectrum SportsNet Lakers
+http://hdhd.tk:80/jazzus001/dcn99ztv/26223
+#EXTINF:-1 tvg-id="yesnetwork.us" tvg-name="USA: YES Network" tvg-logo="https://logo.iptveditor.com/yesnetwork.png" group-title="Sports",USA: YES Network
+http://hdhd.tk:80/jazzus001/dcn99ztv/27820
+#EXTINF:-1 tvg-id="ballysportsnorth.us" tvg-name="US Bally Sports North" tvg-logo="https://logo.iptveditor.com/ballysportsnorth.png" group-title="Sports",US Bally Sports North
+http://hdhd.tk:80/jazzus001/dcn99ztv/28359
+#EXTINF:-1 tvg-id="ballysportsdetroit.us" tvg-name="US Bally Sports Detroit" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Detroit
+http://hdhd.tk:80/jazzus001/dcn99ztv/28361
+#EXTINF:-1 tvg-id="ballysportssocal.us" tvg-name="US Bally Sports Socal" tvg-logo="https://logo.iptveditor.com/ballysportssocal.png" group-title="Sports",US Bally Sports Socal
+http://hdhd.tk:80/jazzus001/dcn99ztv/28362
+#EXTINF:-1 tvg-id="ballysportswest.us" tvg-name="US Bally Sports West" tvg-logo="https://logo.iptveditor.com/ballysportswest.png" group-title="Sports",US Bally Sports West
+http://hdhd.tk:80/jazzus001/dcn99ztv/28363
+#EXTINF:-1 tvg-id="ballysportswisconsin.us" tvg-name="US Bally Sports Wisconsin" tvg-logo="https://logo.iptveditor.com/ballysportswisconsin.png" group-title="Sports",US Bally Sports Wisconsin
+http://hdhd.tk:80/jazzus001/dcn99ztv/28364
+#EXTINF:-1 tvg-id="ballysportsohio.us" tvg-name="US Bally Sports Ohio" tvg-logo="https://logo.iptveditor.com/ballysportsohio.png" group-title="Sports",US Bally Sports Ohio
+http://hdhd.tk:80/jazzus001/dcn99ztv/28366
+#EXTINF:-1 tvg-id="ballysportsmidwest.us" tvg-name="US Bally Sports Midwest" tvg-logo="https://logo.iptveditor.com/ballysportsmidwest.png" group-title="Sports",US Bally Sports Midwest
+http://hdhd.tk:80/jazzus001/dcn99ztv/28367
+#EXTINF:-1 tvg-id="ballysportssouthwest.us" tvg-name="US Bally Sports Southwest" tvg-logo="https://logo.iptveditor.com/ballysportssouthwest.png" group-title="Sports",US Bally Sports Southwest
+http://hdhd.tk:80/jazzus001/dcn99ztv/28368
+#EXTINF:-1 tvg-id="ballysportssouth.us" tvg-name="US Bally Sports South" tvg-logo="https://logo.iptveditor.com/ballysportssouth.png" group-title="Sports",US Bally Sports South
+http://hdhd.tk:80/jazzus001/dcn99ztv/28370
+#EXTINF:-1 tvg-id="ballysportsflorida.us" tvg-name="US Bally Sports Florida" tvg-logo="https://logo.iptveditor.com/ballysportsflorida.png" group-title="Sports",US Bally Sports Florida
+http://hdhd.tk:80/jazzus001/dcn99ztv/28371
+#EXTINF:-1 tvg-id="ballysportssun.us" tvg-name="US Bally Sports Sun" tvg-logo="https://logo.iptveditor.com/ballysportssun.png" group-title="Sports",US Bally Sports Sun
+http://hdhd.tk:80/jazzus001/dcn99ztv/28372
+#EXTINF:-1 tvg-id="ballysportssandiego.us" tvg-name="US Bally Sports San Diego" tvg-logo="https://logo.iptveditor.com/ballysportssandiego.png" group-title="Sports",US Bally Sports San Diego
+http://hdhd.tk:80/jazzus001/dcn99ztv/28373
+#EXTINF:-1 tvg-id="" tvg-name="USA Latin Fox Sports Deportes" tvg-logo="" group-title="Sports",USA Latin Fox Sports Deportes
+http://hdhd.tk:80/jazzus001/dcn99ztv/28892
+#EXTINF:-1 tvg-id="" tvg-name="USA Marquee Sports Network " tvg-logo="" group-title="Sports",USA Marquee Sports Network 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29031
+#EXTINF:-1 tvg-id="" tvg-name="Carib CNC3" tvg-logo="" group-title="Sports",Carib CNC3
+http://hdhd.tk:80/jazzus001/dcn99ztv/29101
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer01:   Europe - UEFA Europa League : FerencvÃ¡ros vs Tottenham Hotspur @ 12:45pm" tvg-logo="" group-title="Sports",USA Soccer01:   Europe - UEFA Europa League : FerencvÃ¡ros vs Tottenham Hotspur @ 12:45pm
+http://hdhd.tk:80/jazzus001/dcn99ztv/29113
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer02  : Europe - UEFA Europa League : Lazio vs Nice @ 12:45pm" tvg-logo="" group-title="Sports",USA Soccer02  : Europe - UEFA Europa League : Lazio vs Nice @ 12:45pm
+http://hdhd.tk:80/jazzus001/dcn99ztv/29114
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer03 ::  Europe - UEFA Europa League : Olympiakos Piraeus vs Sporting Braga @ 12:45pm" tvg-logo="" group-title="Sports",USA Soccer03 ::  Europe - UEFA Europa League : Olympiakos Piraeus vs Sporting Braga @ 12:45pm
+http://hdhd.tk:80/jazzus001/dcn99ztv/29115
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer04  Europe - UEFA Europa League : Real Sociedad vs Anderlecht @ 12:45pm" tvg-logo="" group-title="Sports",USA Soccer04  Europe - UEFA Europa League : Real Sociedad vs Anderlecht @ 12:45pm
+http://hdhd.tk:80/jazzus001/dcn99ztv/29116
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer05:: Europe - UEFA Europa League : RÄ«gas FS vs Galatasaray @ 12:45pm" tvg-logo="" group-title="Sports",USA Soccer05:: Europe - UEFA Europa League : RÄ«gas FS vs Galatasaray @ 12:45pm
+http://hdhd.tk:80/jazzus001/dcn99ztv/29117
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer06   Europe - UEFA Europa League : Elfsborg vs Roma @ 03:00pm" tvg-logo="" group-title="Sports",USA Soccer06   Europe - UEFA Europa League : Elfsborg vs Roma @ 03:00pm
+http://hdhd.tk:80/jazzus001/dcn99ztv/29118
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer07:: Europe - UEFA Europa League : Porto vs Manchester United @ 03:00pm" tvg-logo="" group-title="Sports",USA Soccer07:: Europe - UEFA Europa League : Porto vs Manchester United @ 03:00pm
+http://hdhd.tk:80/jazzus001/dcn99ztv/29119
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer08  Europe - UEFA Europa League : Twente vs FenerbahÃ§e @ 03:00pm" tvg-logo="" group-title="Sports",USA Soccer08  Europe - UEFA Europa League : Twente vs FenerbahÃ§e @ 03:00pm
+http://hdhd.tk:80/jazzus001/dcn99ztv/29120
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer09: Europe - UEFA Europa League : Rangers vs Olympique Lyonnais @ 03:00pm" tvg-logo="" group-title="Sports",USA Soccer09: Europe - UEFA Europa League : Rangers vs Olympique Lyonnais @ 03:00pm
+http://hdhd.tk:80/jazzus001/dcn99ztv/29121
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer10:" tvg-logo="" group-title="Sports",USA Soccer10:
+http://hdhd.tk:80/jazzus001/dcn99ztv/29122
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer11: : " tvg-logo="" group-title="Sports",USA Soccer11: : 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29123
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer12  " tvg-logo="" group-title="Sports",USA Soccer12  
+http://hdhd.tk:80/jazzus001/dcn99ztv/29124
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer13ï¼š " tvg-logo="" group-title="Sports",USA Soccer13ï¼š 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29125
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer14:: :" tvg-logo="" group-title="Sports",USA Soccer14:: :
+http://hdhd.tk:80/jazzus001/dcn99ztv/29126
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer15   " tvg-logo="" group-title="Sports",USA Soccer15   
+http://hdhd.tk:80/jazzus001/dcn99ztv/29127
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer16: " tvg-logo="" group-title="Sports",USA Soccer16: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29128
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer17:" tvg-logo="" group-title="Sports",USA Soccer17:
+http://hdhd.tk:80/jazzus001/dcn99ztv/29129
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer18  " tvg-logo="" group-title="Sports",USA Soccer18  
+http://hdhd.tk:80/jazzus001/dcn99ztv/29130
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer19 :   " tvg-logo="" group-title="Sports",USA Soccer19 :   
+http://hdhd.tk:80/jazzus001/dcn99ztv/29131
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer20:: " tvg-logo="" group-title="Sports",USA Soccer20:: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29132
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer21:" tvg-logo="" group-title="Sports",USA Soccer21:
+http://hdhd.tk:80/jazzus001/dcn99ztv/29133
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer22:" tvg-logo="" group-title="Sports",USA Soccer22:
+http://hdhd.tk:80/jazzus001/dcn99ztv/29134
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer23 : " tvg-logo="" group-title="Sports",USA Soccer23 : 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29135
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer24: : " tvg-logo="" group-title="Sports",USA Soccer24: : 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29136
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer25  " tvg-logo="" group-title="Sports",USA Soccer25  
+http://hdhd.tk:80/jazzus001/dcn99ztv/29137
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer26: : :" tvg-logo="" group-title="Sports",USA Soccer26: : :
+http://hdhd.tk:80/jazzus001/dcn99ztv/29138
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer27: " tvg-logo="" group-title="Sports",USA Soccer27: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29139
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer28:  " tvg-logo="" group-title="Sports",USA Soccer28:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/29140
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer29   " tvg-logo="" group-title="Sports",USA Soccer29   
+http://hdhd.tk:80/jazzus001/dcn99ztv/29141
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer30:" tvg-logo="" group-title="Sports",USA Soccer30:
+http://hdhd.tk:80/jazzus001/dcn99ztv/29142
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer31:  " tvg-logo="" group-title="Sports",USA Soccer31:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/29143
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer32:" tvg-logo="" group-title="Sports",USA Soccer32:
+http://hdhd.tk:80/jazzus001/dcn99ztv/29144
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer33:" tvg-logo="" group-title="Sports",USA Soccer33:
+http://hdhd.tk:80/jazzus001/dcn99ztv/29145
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer34: " tvg-logo="" group-title="Sports",USA Soccer34: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29146
+#EXTINF:-1 tvg-id="" tvg-name="USA Soccer35:" tvg-logo="" group-title="Sports",USA Soccer35:
+http://hdhd.tk:80/jazzus001/dcn99ztv/29147
+#EXTINF:-1 tvg-id="" tvg-name="USA MLB 01:   Mets VS Brewers (ESPN Feed ) @ 19:08" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA MLB 01:   Mets VS Brewers (ESPN Feed ) @ 19:08
+http://hdhd.tk:80/jazzus001/dcn99ztv/29223
+#EXTINF:-1 tvg-id="" tvg-name="USA MLB 02  " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA MLB 02  
+http://hdhd.tk:80/jazzus001/dcn99ztv/29224
+#EXTINF:-1 tvg-id="" tvg-name="USA MLB 03:" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA MLB 03:
+http://hdhd.tk:80/jazzus001/dcn99ztv/29225
+#EXTINF:-1 tvg-id="" tvg-name="USA MLB 04: : " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA MLB 04: : 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29226
+#EXTINF:-1 tvg-id="" tvg-name="USA MLB 05.   :  " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA MLB 05.   :  
+http://hdhd.tk:80/jazzus001/dcn99ztv/29227
+#EXTINF:-1 tvg-id="" tvg-name="USA  MLB 06 : " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA  MLB 06 : 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29228
+#EXTINF:-1 tvg-id="" tvg-name="USA  MLB 07: " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA  MLB 07: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29229
+#EXTINF:-1 tvg-id="" tvg-name="USA MLB 08: :" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA MLB 08: :
+http://hdhd.tk:80/jazzus001/dcn99ztv/29230
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 09: " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 09: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29231
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 10 " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 10 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29232
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 11 " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 11 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29233
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 12.  " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 12.  
+http://hdhd.tk:80/jazzus001/dcn99ztv/29234
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 13: : " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 13: : 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29235
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 14. " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 14. 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29236
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 15 :" tvg-logo="https://content.sportslogos.net/leagues/thumbs/4.gif" group-title="Sports",USA Real MLB 15 :
+http://hdhd.tk:80/jazzus001/dcn99ztv/29237
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 16 :" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 16 :
+http://hdhd.tk:80/jazzus001/dcn99ztv/29238
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 17:  " tvg-logo="https://content.sportslogos.net/leagues/thumbs/4.gif" group-title="Sports",USA Real MLB 17:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/29239
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 18:  :" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 18:  :
+http://hdhd.tk:80/jazzus001/dcn99ztv/29240
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 19 " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 19 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29241
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 20: " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 20: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29242
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 21: " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 21: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29243
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 22 ::" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 22 ::
+http://hdhd.tk:80/jazzus001/dcn99ztv/29244
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 23 " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 23 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29245
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 24 " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 24 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29246
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 25 " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 25 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29247
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 26: " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 26: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29248
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 27 " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 27 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29249
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 28" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 28
+http://hdhd.tk:80/jazzus001/dcn99ztv/29250
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 29:" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 29:
+http://hdhd.tk:80/jazzus001/dcn99ztv/29251
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 30: " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 30: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29252
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 31 : " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 31 : 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29253
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 32 :" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 32 :
+http://hdhd.tk:80/jazzus001/dcn99ztv/29254
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 33:  " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 33:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/29255
+#EXTINF:-1 tvg-id="" tvg-name="USA Real MLB 34: " tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",USA Real MLB 34: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/29256
+#EXTINF:-1 tvg-id="" tvg-name="FR EXTRÃƒÅ ME SPORTS HD (P)" tvg-logo="" group-title="Sports",FR EXTRÃƒÅ ME SPORTS HD (P)
+http://hdhd.tk:80/jazzus001/dcn99ztv/23463
+#EXTINF:-1 tvg-id="" tvg-name="FR MySports 1 HD (P)" tvg-logo="" group-title="Sports",FR MySports 1 HD (P)
+http://hdhd.tk:80/jazzus001/dcn99ztv/23504
+#EXTINF:-1 tvg-id="" tvg-name="FR MySports HD (P)" tvg-logo="" group-title="Sports",FR MySports HD (P)
+http://hdhd.tk:80/jazzus001/dcn99ztv/23505
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 01: " tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 01: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/30025
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 02  :" tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 02  :
+http://hdhd.tk:80/jazzus001/dcn99ztv/30026
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 03  " tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 03  
+http://hdhd.tk:80/jazzus001/dcn99ztv/30027
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 04 " tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 04 
+http://hdhd.tk:80/jazzus001/dcn99ztv/30028
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 05: " tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 05: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/30029
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 06:  " tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 06:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/30030
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 07  " tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 07  
+http://hdhd.tk:80/jazzus001/dcn99ztv/30031
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 08:" tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 08:
+http://hdhd.tk:80/jazzus001/dcn99ztv/30032
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 09   " tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 09   
+http://hdhd.tk:80/jazzus001/dcn99ztv/30033
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 10: :" tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 10: :
+http://hdhd.tk:80/jazzus001/dcn99ztv/30034
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 11  " tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 11  
+http://hdhd.tk:80/jazzus001/dcn99ztv/30035
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 12 " tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 12 
+http://hdhd.tk:80/jazzus001/dcn99ztv/30036
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 13   :" tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 13   :
+http://hdhd.tk:80/jazzus001/dcn99ztv/30037
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 14::" tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 14::
+http://hdhd.tk:80/jazzus001/dcn99ztv/30038
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 15: " tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 15: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/30039
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 16::   " tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 16::   
+http://hdhd.tk:80/jazzus001/dcn99ztv/30040
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 17:" tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 17:
+http://hdhd.tk:80/jazzus001/dcn99ztv/30041
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 18 : " tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 18 : 
+http://hdhd.tk:80/jazzus001/dcn99ztv/30042
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 19::" tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 19::
+http://hdhd.tk:80/jazzus001/dcn99ztv/30043
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 20:" tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 20:
+http://hdhd.tk:80/jazzus001/dcn99ztv/30044
+#EXTINF:-1 tvg-id="" tvg-name="US NBC Sports Boston" tvg-logo="https://logo.iptveditor.com/nbcsportsboston.png" group-title="Sports",US NBC Sports Boston
+http://hdhd.tk:80/jazzus001/dcn99ztv/38819
+#EXTINF:-1 tvg-id="ballysportsneworleans.us" tvg-name="US Bally Sports New Orleans" tvg-logo="" group-title="Sports",US Bally Sports New Orleans
+http://hdhd.tk:80/jazzus001/dcn99ztv/38961
+#EXTINF:-1 tvg-id="tvasports.ca" tvg-name="CA (FR) TVA Sports " tvg-logo="https://logo.iptveditor.com/tvasports.png" group-title="Sports",CA (FR) TVA Sports 
+http://hdhd.tk:80/jazzus001/dcn99ztv/39006
+#EXTINF:-1 tvg-id="" tvg-name="US Womensports Network" tvg-logo="" group-title="Sports",US Womensports Network
+http://hdhd.tk:80/jazzus001/dcn99ztv/39248
+#EXTINF:-1 tvg-id="ballysportsgreatlakes.us" tvg-name="US Bally Sports Great Lakes" tvg-logo="https://logo.iptveditor.com/ballysportsgreatlakes.png" group-title="Sports",US Bally Sports Great Lakes
+http://hdhd.tk:80/jazzus001/dcn99ztv/39249
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 01 " tvg-logo="" group-title="Sports",NCAAB 01 
+http://hdhd.tk:80/jazzus001/dcn99ztv/39367
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 02" tvg-logo="" group-title="Sports",NCAAB 02
+http://hdhd.tk:80/jazzus001/dcn99ztv/39368
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 03ï¼š" tvg-logo="" group-title="Sports",NCAAB 03ï¼š
+http://hdhd.tk:80/jazzus001/dcn99ztv/39369
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 04ï¼š " tvg-logo="" group-title="Sports",NCAAB 04ï¼š 
+http://hdhd.tk:80/jazzus001/dcn99ztv/39370
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 05: " tvg-logo="" group-title="Sports",NCAAB 05: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/39371
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 06:  " tvg-logo="" group-title="Sports",NCAAB 06:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/39372
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 07:   " tvg-logo="" group-title="Sports",NCAAB 07:   
+http://hdhd.tk:80/jazzus001/dcn99ztv/39373
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 08: " tvg-logo="" group-title="Sports",NCAAB 08: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/39374
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 09:" tvg-logo="" group-title="Sports",NCAAB 09:
+http://hdhd.tk:80/jazzus001/dcn99ztv/39375
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 10: " tvg-logo="" group-title="Sports",NCAAB 10: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/39376
+#EXTINF:-1 tvg-id="" tvg-name="NCAAW B 01: " tvg-logo="" group-title="Sports",NCAAW B 01: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/39395
+#EXTINF:-1 tvg-id="" tvg-name="NCAAW B 02: " tvg-logo="" group-title="Sports",NCAAW B 02: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/39396
+#EXTINF:-1 tvg-id="" tvg-name="NCAAW B 03: " tvg-logo="" group-title="Sports",NCAAW B 03: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/39397
+#EXTINF:-1 tvg-id="" tvg-name="NCAAW B 04:" tvg-logo="" group-title="Sports",NCAAW B 04:
+http://hdhd.tk:80/jazzus001/dcn99ztv/39398
+#EXTINF:-1 tvg-id="" tvg-name="NCAAW B 05:" tvg-logo="" group-title="Sports",NCAAW B 05:
+http://hdhd.tk:80/jazzus001/dcn99ztv/39399
+#EXTINF:-1 tvg-id="" tvg-name="NCAAW B 06: " tvg-logo="" group-title="Sports",NCAAW B 06: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/39400
+#EXTINF:-1 tvg-id="" tvg-name="NCAAW B 07: " tvg-logo="" group-title="Sports",NCAAW B 07: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/39401
+#EXTINF:-1 tvg-id="" tvg-name="CAAW B 08:" tvg-logo="" group-title="Sports",CAAW B 08:
+http://hdhd.tk:80/jazzus001/dcn99ztv/39402
+#EXTINF:-1 tvg-id="" tvg-name="NCAAW B 09:" tvg-logo="" group-title="Sports",NCAAW B 09:
+http://hdhd.tk:80/jazzus001/dcn99ztv/39403
+#EXTINF:-1 tvg-id="" tvg-name="NCAAW B 10: " tvg-logo="" group-title="Sports",NCAAW B 10: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/39404
+#EXTINF:-1 tvg-id="espndeportes.us" tvg-name="US ESPN Deportes" tvg-logo="" group-title="Sports",US ESPN Deportes
+http://hdhd.tk:80/jazzus001/dcn99ztv/39749
+#EXTINF:-1 tvg-id="" tvg-name="US ESPN Longhorn Network" tvg-logo="" group-title="Sports",US ESPN Longhorn Network
+http://hdhd.tk:80/jazzus001/dcn99ztv/39750
+#EXTINF:-1 tvg-id="" tvg-name="US ESPN ACC Network" tvg-logo="" group-title="Sports",US ESPN ACC Network
+http://hdhd.tk:80/jazzus001/dcn99ztv/39751
+#EXTINF:-1 tvg-id="" tvg-name="US AT&T SPORTSNET 2 " tvg-logo="" group-title="Sports",US AT&T SPORTSNET 2 
+http://hdhd.tk:80/jazzus001/dcn99ztv/39783
+#EXTINF:-1 tvg-id="" tvg-name="US AT&T SPORTSNET" tvg-logo="" group-title="Sports",US AT&T SPORTSNET
+http://hdhd.tk:80/jazzus001/dcn99ztv/39784
+#EXTINF:-1 tvg-id="altitudesport.us" tvg-name="US Altitude Sports" tvg-logo="" group-title="Sports",US Altitude Sports
+http://hdhd.tk:80/jazzus001/dcn99ztv/40952
+#EXTINF:-1 tvg-id="atandtsportsnetsouthwest.us" tvg-name="US AT&T SportsNet Southwest" tvg-logo="https://logo.iptveditor.com/attsportsnetsouthwest.png" group-title="Sports",US AT&T SportsNet Southwest
+http://hdhd.tk:80/jazzus001/dcn99ztv/40953
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US AT&T SportsNet Rocky Mountain" tvg-logo="https://logo.iptveditor.com/attsportsnetrockymountain.png" group-title="Sports",US AT&T SportsNet Rocky Mountain
+http://hdhd.tk:80/jazzus001/dcn99ztv/40954
+#EXTINF:-1 tvg-id="" tvg-name="US ESPN 1" tvg-logo="" group-title="Sports",US ESPN 1
+http://hdhd.tk:80/jazzus001/dcn99ztv/41176
+#EXTINF:-1 tvg-id="tvasports2.ca" tvg-name="CA TVA Sports 2" tvg-logo="" group-title="Sports",CA TVA Sports 2
+http://hdhd.tk:80/jazzus001/dcn99ztv/41523
+#EXTINF:-1 tvg-id="mlbstrikezone.us" tvg-name="US MLB Strike Zone" tvg-logo="https://logo.iptveditor.com/mlbstrikezone.png" group-title="Sports",US MLB Strike Zone
+http://hdhd.tk:80/jazzus001/dcn99ztv/41595
+#EXTINF:-1 tvg-id="foxsoccerplus.us" tvg-name="US Fox Soccer Plus " tvg-logo="https://logo.iptveditor.com/foxsoccerplus.png" group-title="Sports",US Fox Soccer Plus 
+http://hdhd.tk:80/jazzus001/dcn99ztv/41596
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 1: " tvg-logo="" group-title="Sports",Flo (FLSP) 1: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42127
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 2ï¼š" tvg-logo="" group-title="Sports",Flo (FLSP) 2ï¼š
+http://hdhd.tk:80/jazzus001/dcn99ztv/42128
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 3: " tvg-logo="" group-title="Sports",Flo (FLSP) 3: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42129
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 4: " tvg-logo="" group-title="Sports",Flo (FLSP) 4: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42130
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 5:" tvg-logo="" group-title="Sports",Flo (FLSP) 5:
+http://hdhd.tk:80/jazzus001/dcn99ztv/42131
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 6: " tvg-logo="" group-title="Sports",Flo (FLSP) 6: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42132
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 7: " tvg-logo="" group-title="Sports",Flo (FLSP) 7: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42133
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 8:" tvg-logo="" group-title="Sports",Flo (FLSP) 8:
+http://hdhd.tk:80/jazzus001/dcn99ztv/42134
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 9: " tvg-logo="" group-title="Sports",Flo (FLSP) 9: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42135
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 10: " tvg-logo="" group-title="Sports",Flo (FLSP) 10: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42136
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 11:  " tvg-logo="" group-title="Sports",Flo (FLSP) 11:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/42137
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 12: " tvg-logo="" group-title="Sports",Flo (FLSP) 12: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42138
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 13:" tvg-logo="" group-title="Sports",Flo (FLSP) 13:
+http://hdhd.tk:80/jazzus001/dcn99ztv/42139
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 14:  " tvg-logo="" group-title="Sports",Flo (FLSP) 14:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/42140
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 15:   " tvg-logo="" group-title="Sports",Flo (FLSP) 15:   
+http://hdhd.tk:80/jazzus001/dcn99ztv/42141
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 16:  " tvg-logo="" group-title="Sports",Flo (FLSP) 16:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/42142
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 17:" tvg-logo="" group-title="Sports",Flo (FLSP) 17:
+http://hdhd.tk:80/jazzus001/dcn99ztv/42143
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 18:  " tvg-logo="" group-title="Sports",Flo (FLSP) 18:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/42144
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 19:  " tvg-logo="" group-title="Sports",Flo (FLSP) 19:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/42145
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 20: " tvg-logo="" group-title="Sports",Flo (FLSP) 20: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42146
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 21:" tvg-logo="" group-title="Sports",Flo (FLSP) 21:
+http://hdhd.tk:80/jazzus001/dcn99ztv/42147
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 22:  " tvg-logo="" group-title="Sports",Flo (FLSP) 22:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/42148
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 23: " tvg-logo="" group-title="Sports",Flo (FLSP) 23: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42149
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 24::" tvg-logo="" group-title="Sports",Flo (FLSP) 24::
+http://hdhd.tk:80/jazzus001/dcn99ztv/42150
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 25:  " tvg-logo="" group-title="Sports",Flo (FLSP) 25:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/42151
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 26:   " tvg-logo="" group-title="Sports",Flo (FLSP) 26:   
+http://hdhd.tk:80/jazzus001/dcn99ztv/42152
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 27:   " tvg-logo="" group-title="Sports",Flo (FLSP) 27:   
+http://hdhd.tk:80/jazzus001/dcn99ztv/42153
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 28:   " tvg-logo="" group-title="Sports",Flo (FLSP) 28:   
+http://hdhd.tk:80/jazzus001/dcn99ztv/42154
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 29:  " tvg-logo="" group-title="Sports",Flo (FLSP) 29:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/42155
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 30: " tvg-logo="" group-title="Sports",Flo (FLSP) 30: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42156
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 31: " tvg-logo="" group-title="Sports",Flo (FLSP) 31: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42157
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 32:  " tvg-logo="" group-title="Sports",Flo (FLSP) 32:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/42158
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 33: " tvg-logo="" group-title="Sports",Flo (FLSP) 33: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42159
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 34::  " tvg-logo="" group-title="Sports",Flo (FLSP) 34::  
+http://hdhd.tk:80/jazzus001/dcn99ztv/42160
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 35. " tvg-logo="" group-title="Sports",Flo (FLSP) 35. 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42161
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 36:  " tvg-logo="" group-title="Sports",Flo (FLSP) 36:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/42162
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 37: " tvg-logo="" group-title="Sports",Flo (FLSP) 37: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42163
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 38: " tvg-logo="" group-title="Sports",Flo (FLSP) 38: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42164
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 39: " tvg-logo="" group-title="Sports",Flo (FLSP) 39: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42165
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 40:   " tvg-logo="" group-title="Sports",Flo (FLSP) 40:   
+http://hdhd.tk:80/jazzus001/dcn99ztv/42166
+#EXTINF:-1 tvg-id="" tvg-name="AF UG BBC Brit" tvg-logo="" group-title="Sports",AF UG BBC Brit
+http://hdhd.tk:80/jazzus001/dcn99ztv/42398
+#EXTINF:-1 tvg-id="" tvg-name="AF UG BBC Lifestyle" tvg-logo="https://logo.iptveditor.com/bbclifestyle.png" group-title="Sports",AF UG BBC Lifestyle
+http://hdhd.tk:80/jazzus001/dcn99ztv/42399
+#EXTINF:-1 tvg-id="" tvg-name="AF ZA BBC Earth" tvg-logo="" group-title="Sports",AF ZA BBC Earth
+http://hdhd.tk:80/jazzus001/dcn99ztv/42400
+#EXTINF:-1 tvg-id="" tvg-name="AF ZA BBC Lifestyle" tvg-logo="https://logo.iptveditor.com/bbclifestyle.png" group-title="Sports",AF ZA BBC Lifestyle
+http://hdhd.tk:80/jazzus001/dcn99ztv/42401
+#EXTINF:-1 tvg-id="" tvg-name="AF ZW BBC First" tvg-logo="" group-title="Sports",AF ZW BBC First
+http://hdhd.tk:80/jazzus001/dcn99ztv/42403
+#EXTINF:-1 tvg-id="" tvg-name="AF UG Curiosity Stream" tvg-logo="https://logo.iptveditor.com/curiositychannel.png" group-title="Sports",AF UG Curiosity Stream
+http://hdhd.tk:80/jazzus001/dcn99ztv/42405
+#EXTINF:-1 tvg-id="" tvg-name="AF ZA Curiosity Stream" tvg-logo="https://logo.iptveditor.com/curiositychannel.png" group-title="Sports",AF ZA Curiosity Stream
+http://hdhd.tk:80/jazzus001/dcn99ztv/42406
+#EXTINF:-1 tvg-id="" tvg-name="AF ZW Curiosity Stream" tvg-logo="https://logo.iptveditor.com/curiositychannel.png" group-title="Sports",AF ZW Curiosity Stream
+http://hdhd.tk:80/jazzus001/dcn99ztv/42408
+#EXTINF:-1 tvg-id="" tvg-name="AF UG RAI Italia" tvg-logo="" group-title="Sports",AF UG RAI Italia
+http://hdhd.tk:80/jazzus001/dcn99ztv/42409
+#EXTINF:-1 tvg-id="" tvg-name="AF ZW RAI Italia" tvg-logo="" group-title="Sports",AF ZW RAI Italia
+http://hdhd.tk:80/jazzus001/dcn99ztv/42410
+#EXTINF:-1 tvg-id="" tvg-name="Golf 01: : Sanderson Farms Championship: Featured Groups (First Round) 10/03 08:00 ET" tvg-logo="" group-title="Sports",Golf 01: : Sanderson Farms Championship: Featured Groups (First Round) 10/03 08:00 ET
+http://hdhd.tk:80/jazzus001/dcn99ztv/42653
+#EXTINF:-1 tvg-id="" tvg-name="Golf 02: Sanderson Farms Championship: Featured Groups (First Round) 10/03 16:00 ET" tvg-logo="" group-title="Sports",Golf 02: Sanderson Farms Championship: Featured Groups (First Round) 10/03 16:00 ET
+http://hdhd.tk:80/jazzus001/dcn99ztv/42654
+#EXTINF:-1 tvg-id="" tvg-name="Golf 03:  " tvg-logo="" group-title="Sports",Golf 03:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/42655
+#EXTINF:-1 tvg-id="" tvg-name="Golf 04:" tvg-logo="" group-title="Sports",Golf 04:
+http://hdhd.tk:80/jazzus001/dcn99ztv/42656
+#EXTINF:-1 tvg-id="" tvg-name="Golf 05: " tvg-logo="" group-title="Sports",Golf 05: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42657
+#EXTINF:-1 tvg-id="" tvg-name="Golf 06 " tvg-logo="" group-title="Sports",Golf 06 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42658
+#EXTINF:-1 tvg-id="" tvg-name="Golf 07 " tvg-logo="" group-title="Sports",Golf 07 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42659
+#EXTINF:-1 tvg-id="" tvg-name="Golf 08  " tvg-logo="" group-title="Sports",Golf 08  
+http://hdhd.tk:80/jazzus001/dcn99ztv/42660
+#EXTINF:-1 tvg-id="" tvg-name="Golf 09:" tvg-logo="" group-title="Sports",Golf 09:
+http://hdhd.tk:80/jazzus001/dcn99ztv/42661
+#EXTINF:-1 tvg-id="" tvg-name="Golf 10 " tvg-logo="" group-title="Sports",Golf 10 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42662
+#EXTINF:-1 tvg-id="" tvg-name="Golf 11   " tvg-logo="" group-title="Sports",Golf 11   
+http://hdhd.tk:80/jazzus001/dcn99ztv/42663
+#EXTINF:-1 tvg-id="" tvg-name="Golf 12  " tvg-logo="" group-title="Sports",Golf 12  
+http://hdhd.tk:80/jazzus001/dcn99ztv/42664
+#EXTINF:-1 tvg-id="" tvg-name="Golf 13" tvg-logo="" group-title="Sports",Golf 13
+http://hdhd.tk:80/jazzus001/dcn99ztv/42665
+#EXTINF:-1 tvg-id="" tvg-name="Golf 14 " tvg-logo="" group-title="Sports",Golf 14 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42666
+#EXTINF:-1 tvg-id="" tvg-name="Golf 15 " tvg-logo="" group-title="Sports",Golf 15 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42667
+#EXTINF:-1 tvg-id="" tvg-name="Golf 16 " tvg-logo="" group-title="Sports",Golf 16 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42668
+#EXTINF:-1 tvg-id="" tvg-name="Golf 17  " tvg-logo="" group-title="Sports",Golf 17  
+http://hdhd.tk:80/jazzus001/dcn99ztv/42669
+#EXTINF:-1 tvg-id="" tvg-name="Golf 18  " tvg-logo="" group-title="Sports",Golf 18  
+http://hdhd.tk:80/jazzus001/dcn99ztv/42670
+#EXTINF:-1 tvg-id="" tvg-name="Golf 19 " tvg-logo="" group-title="Sports",Golf 19 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42671
+#EXTINF:-1 tvg-id="" tvg-name="Golf 20 " tvg-logo="" group-title="Sports",Golf 20 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42672
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 41:" tvg-logo="" group-title="Sports",Flo (FLSP) 41:
+http://hdhd.tk:80/jazzus001/dcn99ztv/42673
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 42:  " tvg-logo="" group-title="Sports",Flo (FLSP) 42:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/42674
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 43: " tvg-logo="" group-title="Sports",Flo (FLSP) 43: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42675
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 44:" tvg-logo="" group-title="Sports",Flo (FLSP) 44:
+http://hdhd.tk:80/jazzus001/dcn99ztv/42676
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 45:" tvg-logo="" group-title="Sports",Flo (FLSP) 45:
+http://hdhd.tk:80/jazzus001/dcn99ztv/42677
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 46::" tvg-logo="" group-title="Sports",Flo (FLSP) 46::
+http://hdhd.tk:80/jazzus001/dcn99ztv/42678
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 47: " tvg-logo="" group-title="Sports",Flo (FLSP) 47: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42679
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 48:  " tvg-logo="" group-title="Sports",Flo (FLSP) 48:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/42680
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 49: " tvg-logo="" group-title="Sports",Flo (FLSP) 49: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42681
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 50:: " tvg-logo="" group-title="Sports",Flo (FLSP) 50:: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42682
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 51:  " tvg-logo="" group-title="Sports",Flo (FLSP) 51:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/42683
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 52: " tvg-logo="" group-title="Sports",Flo (FLSP) 52: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42684
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 53:" tvg-logo="" group-title="Sports",Flo (FLSP) 53:
+http://hdhd.tk:80/jazzus001/dcn99ztv/42685
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 54:" tvg-logo="" group-title="Sports",Flo (FLSP) 54:
+http://hdhd.tk:80/jazzus001/dcn99ztv/42686
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 55: " tvg-logo="" group-title="Sports",Flo (FLSP) 55: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42687
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 56: " tvg-logo="" group-title="Sports",Flo (FLSP) 56: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42688
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 57:" tvg-logo="" group-title="Sports",Flo (FLSP) 57:
+http://hdhd.tk:80/jazzus001/dcn99ztv/42689
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 58: " tvg-logo="" group-title="Sports",Flo (FLSP) 58: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42690
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 59: " tvg-logo="" group-title="Sports",Flo (FLSP) 59: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42691
+#EXTINF:-1 tvg-id="" tvg-name="Flo (FLSP) 60: " tvg-logo="" group-title="Sports",Flo (FLSP) 60: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42692
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Softball 01:" tvg-logo="" group-title="Sports",NCAA Softball 01:
+http://hdhd.tk:80/jazzus001/dcn99ztv/42811
+#EXTINF:-1 tvg-id="" tvg-name="NCAA Softball 02: " tvg-logo="" group-title="Sports",NCAA Softball 02: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/42812
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 01: " tvg-logo="" group-title="Sports",College Baseball 01: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/43214
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 02: " tvg-logo="" group-title="Sports",College Baseball 02: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/43215
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 03 :  " tvg-logo="" group-title="Sports",College Baseball 03 :  
+http://hdhd.tk:80/jazzus001/dcn99ztv/43216
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 04  " tvg-logo="" group-title="Sports",College Baseball 04  
+http://hdhd.tk:80/jazzus001/dcn99ztv/43217
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 05: " tvg-logo="" group-title="Sports",College Baseball 05: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/43218
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 06 : " tvg-logo="" group-title="Sports",College Baseball 06 : 
+http://hdhd.tk:80/jazzus001/dcn99ztv/43219
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 07 " tvg-logo="" group-title="Sports",College Baseball 07 
+http://hdhd.tk:80/jazzus001/dcn99ztv/43220
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 08 : " tvg-logo="" group-title="Sports",College Baseball 08 : 
+http://hdhd.tk:80/jazzus001/dcn99ztv/43221
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 09 : " tvg-logo="" group-title="Sports",College Baseball 09 : 
+http://hdhd.tk:80/jazzus001/dcn99ztv/43222
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 10 " tvg-logo="" group-title="Sports",College Baseball 10 
+http://hdhd.tk:80/jazzus001/dcn99ztv/43223
+#EXTINF:-1 tvg-id="" tvg-name="US (Arabic) On Sports (S)" tvg-logo="" group-title="Sports",US (Arabic) On Sports (S)
+http://hdhd.tk:80/jazzus001/dcn99ztv/43276
+#EXTINF:-1 tvg-id="" tvg-name="BE (DZ) Play Sports 3" tvg-logo="https://logo.iptveditor.com/playsports3.png" group-title="Sports",BE (DZ) Play Sports 3
+http://hdhd.tk:80/jazzus001/dcn99ztv/44590
+#EXTINF:-1 tvg-id="" tvg-name="BE (DZ) Play Sports 2" tvg-logo="https://logo.iptveditor.com/playsports2.png" group-title="Sports",BE (DZ) Play Sports 2
+http://hdhd.tk:80/jazzus001/dcn99ztv/44591
+#EXTINF:-1 tvg-id="" tvg-name="BE (DZ) Play Sports 1" tvg-logo="https://logo.iptveditor.com/playsports1.png" group-title="Sports",BE (DZ) Play Sports 1
+http://hdhd.tk:80/jazzus001/dcn99ztv/44592
+#EXTINF:-1 tvg-id="" tvg-name="BE (DZ) Eleven 1 Pro league FR" tvg-logo="" group-title="Sports",BE (DZ) Eleven 1 Pro league FR
+http://hdhd.tk:80/jazzus001/dcn99ztv/44593
+#EXTINF:-1 tvg-id="" tvg-name="BE (DZ) Eleven 1 FR" tvg-logo="" group-title="Sports",BE (DZ) Eleven 1 FR
+http://hdhd.tk:80/jazzus001/dcn99ztv/44594
+#EXTINF:-1 tvg-id="" tvg-name="BE (DZ) Eleven 1 Pro league NL" tvg-logo="" group-title="Sports",BE (DZ) Eleven 1 Pro league NL
+http://hdhd.tk:80/jazzus001/dcn99ztv/44595
+#EXTINF:-1 tvg-id="" tvg-name="BE (DZ) Eleven 1 NL" tvg-logo="" group-title="Sports",BE (DZ) Eleven 1 NL
+http://hdhd.tk:80/jazzus001/dcn99ztv/44596
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 01: :  2024 US Open (Men\'s Championship Pre-Show) 09/08 13:00 ET" tvg-logo="" group-title="Sports",Tennis 01: :  2024 US Open (Men\'s Championship Pre-Show) 09/08 13:00 ET
+http://hdhd.tk:80/jazzus001/dcn99ztv/45770
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 02  En EspaÃƒÂ±ol-Jannik Sinner vs. Taylor Fritz (Final Masculina) 09/08 13:30 ET" tvg-logo="" group-title="Sports",Tennis 02  En EspaÃƒÂ±ol-Jannik Sinner vs. Taylor Fritz (Final Masculina) 09/08 13:30 ET
+http://hdhd.tk:80/jazzus001/dcn99ztv/45771
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 03:   (1) Sinner vs. (12) Fritz (Men\'s Final) 09/08 14:00 ET" tvg-logo="" group-title="Sports",Tennis 03:   (1) Sinner vs. (12) Fritz (Men\'s Final) 09/08 14:00 ET
+http://hdhd.tk:80/jazzus001/dcn99ztv/45772
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 04:  " tvg-logo="" group-title="Sports",Tennis 04:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/45773
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 05: : " tvg-logo="" group-title="Sports",Tennis 05: : 
+http://hdhd.tk:80/jazzus001/dcn99ztv/45774
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 06: " tvg-logo="" group-title="Sports",Tennis 06: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/45775
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 07: " tvg-logo="" group-title="Sports",Tennis 07: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/45776
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 08: " tvg-logo="" group-title="Sports",Tennis 08: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/45777
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 09: " tvg-logo="" group-title="Sports",Tennis 09: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/45778
+#EXTINF:-1 tvg-id="" tvg-name="Tennis 10: " tvg-logo="" group-title="Sports",Tennis 10: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/45779
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 01: We The East: Inside East Carolina Football (Ep. 6) 10/03 11:00 ET" tvg-logo="" group-title="Sports",NCAAF-E 01: We The East: Inside East Carolina Football (Ep. 6) 10/03 11:00 ET
+http://hdhd.tk:80/jazzus001/dcn99ztv/46633
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 02: : " tvg-logo="" group-title="Sports",NCAAF-E 02: : 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46634
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 03:" tvg-logo="" group-title="Sports",NCAAF-E 03:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46635
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 04: " tvg-logo="" group-title="Sports",NCAAF-E 04: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46636
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 05.   " tvg-logo="" group-title="Sports",NCAAF-E 05.   
+http://hdhd.tk:80/jazzus001/dcn99ztv/46637
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 06:  " tvg-logo="" group-title="Sports",NCAAF-E 06:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/46638
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 07: " tvg-logo="" group-title="Sports",NCAAF-E 07: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46639
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 08:" tvg-logo="" group-title="Sports",NCAAF-E 08:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46640
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 09: " tvg-logo="" group-title="Sports",NCAAF-E 09: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46641
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 10: :" tvg-logo="" group-title="Sports",NCAAF-E 10: :
+http://hdhd.tk:80/jazzus001/dcn99ztv/46642
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 11:  " tvg-logo="" group-title="Sports",NCAAF-E 11:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/46643
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 12: " tvg-logo="" group-title="Sports",NCAAF-E 12: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46644
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 13:" tvg-logo="" group-title="Sports",NCAAF-E 13:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46645
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 14:" tvg-logo="" group-title="Sports",NCAAF-E 14:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46646
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 15  " tvg-logo="" group-title="Sports",NCAAF-E 15  
+http://hdhd.tk:80/jazzus001/dcn99ztv/46647
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 16:" tvg-logo="" group-title="Sports",NCAAF-E 16:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46648
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 17: " tvg-logo="" group-title="Sports",NCAAF-E 17: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46649
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 18ï¼š" tvg-logo="" group-title="Sports",NCAAF-E 18ï¼š
+http://hdhd.tk:80/jazzus001/dcn99ztv/46650
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 19: " tvg-logo="" group-title="Sports",NCAAF-E 19: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46651
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 20: " tvg-logo="" group-title="Sports",NCAAF-E 20: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46652
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 21: " tvg-logo="" group-title="Sports",NCAAF-E 21: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46653
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 22: " tvg-logo="" group-title="Sports",NCAAF-E 22: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46654
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 23:" tvg-logo="" group-title="Sports",NCAAF-E 23:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46655
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 24:" tvg-logo="" group-title="Sports",NCAAF-E 24:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46656
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 25:" tvg-logo="" group-title="Sports",NCAAF-E 25:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46657
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 26:" tvg-logo="" group-title="Sports",NCAAF-E 26:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46658
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 27" tvg-logo="" group-title="Sports",NCAAF-E 27
+http://hdhd.tk:80/jazzus001/dcn99ztv/46659
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 28:" tvg-logo="" group-title="Sports",NCAAF-E 28:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46660
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 29:  " tvg-logo="" group-title="Sports",NCAAF-E 29:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/46661
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 30:" tvg-logo="" group-title="Sports",NCAAF-E 30:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46662
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 31:   " tvg-logo="" group-title="Sports",NCAAF-E 31:   
+http://hdhd.tk:80/jazzus001/dcn99ztv/46663
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 32:" tvg-logo="" group-title="Sports",NCAAF-E 32:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46664
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 33:" tvg-logo="" group-title="Sports",NCAAF-E 33:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46665
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 34" tvg-logo="" group-title="Sports",NCAAF-E 34
+http://hdhd.tk:80/jazzus001/dcn99ztv/46666
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 35: " tvg-logo="" group-title="Sports",NCAAF-E 35: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46667
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 36: :" tvg-logo="" group-title="Sports",NCAAF-E 36: :
+http://hdhd.tk:80/jazzus001/dcn99ztv/46668
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 37:: " tvg-logo="" group-title="Sports",NCAAF-E 37:: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46669
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 38:  " tvg-logo="" group-title="Sports",NCAAF-E 38:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/46670
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 39:  " tvg-logo="" group-title="Sports",NCAAF-E 39:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/46671
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 40: " tvg-logo="" group-title="Sports",NCAAF-E 40: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46672
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 41:" tvg-logo="" group-title="Sports",NCAAF-E 41:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46673
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 42: " tvg-logo="" group-title="Sports",NCAAF-E 42: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46674
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 43: :" tvg-logo="" group-title="Sports",NCAAF-E 43: :
+http://hdhd.tk:80/jazzus001/dcn99ztv/46675
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 44:  " tvg-logo="" group-title="Sports",NCAAF-E 44:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/46676
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 45:  " tvg-logo="" group-title="Sports",NCAAF-E 45:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/46677
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 46:" tvg-logo="" group-title="Sports",NCAAF-E 46:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46678
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 47: : " tvg-logo="" group-title="Sports",NCAAF-E 47: : 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46679
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 48: " tvg-logo="" group-title="Sports",NCAAF-E 48: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46680
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 49:  " tvg-logo="" group-title="Sports",NCAAF-E 49:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/46681
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 50: " tvg-logo="" group-title="Sports",NCAAF-E 50: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46682
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 51: " tvg-logo="" group-title="Sports",NCAAF-E 51: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46683
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 52" tvg-logo="" group-title="Sports",NCAAF-E 52
+http://hdhd.tk:80/jazzus001/dcn99ztv/46684
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 53 " tvg-logo="" group-title="Sports",NCAAF-E 53 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46685
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 54:" tvg-logo="" group-title="Sports",NCAAF-E 54:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46686
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 55:" tvg-logo="" group-title="Sports",NCAAF-E 55:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46687
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 56:" tvg-logo="" group-title="Sports",NCAAF-E 56:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46688
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 57:" tvg-logo="" group-title="Sports",NCAAF-E 57:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46689
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 58 " tvg-logo="" group-title="Sports",NCAAF-E 58 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46690
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 59:   " tvg-logo="" group-title="Sports",NCAAF-E 59:   
+http://hdhd.tk:80/jazzus001/dcn99ztv/46691
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 60: " tvg-logo="" group-title="Sports",NCAAF-E 60: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46692
+#EXTINF:-1 tvg-id="" tvg-name="BR HGTV" tvg-logo="https://logo.iptveditor.com/hgtv.png" group-title="Sports",BR HGTV
+http://hdhd.tk:80/jazzus001/dcn99ztv/46773
+#EXTINF:-1 tvg-id="" tvg-name="MX Investigation Discovery " tvg-logo="https://logo.iptveditor.com/investigationdiscovery.png" group-title="Sports",MX Investigation Discovery 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46774
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 01: NCAAF Texas State at Troy @7:00 pm" tvg-logo="" group-title="Sports",USA NCAAF 01: NCAAF Texas State at Troy @7:00 pm
+http://hdhd.tk:80/jazzus001/dcn99ztv/46880
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 02: NCAAF Sam Houston at UTEP @9:00 pm" tvg-logo="" group-title="Sports",USA NCAAF 02: NCAAF Sam Houston at UTEP @9:00 pm
+http://hdhd.tk:80/jazzus001/dcn99ztv/46881
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 03:  " tvg-logo="" group-title="Sports",USA NCAAF 03:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/46882
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 04 " tvg-logo="" group-title="Sports",USA NCAAF 04 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46883
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 05 " tvg-logo="" group-title="Sports",USA NCAAF 05 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46884
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 06: " tvg-logo="" group-title="Sports",USA NCAAF 06: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46885
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 07: " tvg-logo="" group-title="Sports",USA NCAAF 07: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46886
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 08::" tvg-logo="" group-title="Sports",USA NCAAF 08::
+http://hdhd.tk:80/jazzus001/dcn99ztv/46887
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 09::" tvg-logo="" group-title="Sports",USA NCAAF 09::
+http://hdhd.tk:80/jazzus001/dcn99ztv/46888
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 10: " tvg-logo="" group-title="Sports",USA NCAAF 10: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46889
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 11: " tvg-logo="" group-title="Sports",USA NCAAF 11: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46890
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 12:  : " tvg-logo="" group-title="Sports",USA NCAAF 12:  : 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46891
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 13: " tvg-logo="" group-title="Sports",USA NCAAF 13: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46892
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 14 " tvg-logo="" group-title="Sports",USA NCAAF 14 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46893
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 15:" tvg-logo="" group-title="Sports",USA NCAAF 15:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46894
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 16: " tvg-logo="" group-title="Sports",USA NCAAF 16: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46895
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 17: " tvg-logo="" group-title="Sports",USA NCAAF 17: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46896
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 18  " tvg-logo="" group-title="Sports",USA NCAAF 18  
+http://hdhd.tk:80/jazzus001/dcn99ztv/46897
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 19: " tvg-logo="" group-title="Sports",USA NCAAF 19: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46898
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 20  " tvg-logo="" group-title="Sports",USA NCAAF 20  
+http://hdhd.tk:80/jazzus001/dcn99ztv/46899
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 21:  " tvg-logo="" group-title="Sports",USA NCAAF 21:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/46900
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 22:" tvg-logo="" group-title="Sports",USA NCAAF 22:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46901
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 23: " tvg-logo="" group-title="Sports",USA NCAAF 23: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46902
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 24ï¼š" tvg-logo="" group-title="Sports",USA NCAAF 24ï¼š
+http://hdhd.tk:80/jazzus001/dcn99ztv/46903
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 25: " tvg-logo="" group-title="Sports",USA NCAAF 25: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46904
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 26:" tvg-logo="" group-title="Sports",USA NCAAF 26:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46905
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 27: " tvg-logo="" group-title="Sports",USA NCAAF 27: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46906
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 28:" tvg-logo="" group-title="Sports",USA NCAAF 28:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46907
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 29: :" tvg-logo="" group-title="Sports",USA NCAAF 29: :
+http://hdhd.tk:80/jazzus001/dcn99ztv/46908
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 30: " tvg-logo="" group-title="Sports",USA NCAAF 30: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46909
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 31:" tvg-logo="" group-title="Sports",USA NCAAF 31:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46910
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 32: " tvg-logo="" group-title="Sports",USA NCAAF 32: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46911
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 33: " tvg-logo="" group-title="Sports",USA NCAAF 33: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46912
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 34:  " tvg-logo="" group-title="Sports",USA NCAAF 34:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/46913
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 35: " tvg-logo="" group-title="Sports",USA NCAAF 35: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46914
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 36: " tvg-logo="" group-title="Sports",USA NCAAF 36: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46915
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 37: " tvg-logo="" group-title="Sports",USA NCAAF 37: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46916
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 38: " tvg-logo="" group-title="Sports",USA NCAAF 38: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/46917
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 39: :  " tvg-logo="" group-title="Sports",USA NCAAF 39: :  
+http://hdhd.tk:80/jazzus001/dcn99ztv/46918
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 40:" tvg-logo="" group-title="Sports",USA NCAAF 40:
+http://hdhd.tk:80/jazzus001/dcn99ztv/46919
+#EXTINF:-1 tvg-id="" tvg-name="24/7 WKRP" tvg-logo="" group-title="Sports",24/7 WKRP
+http://hdhd.tk:80/jazzus001/dcn99ztv/46920
+#EXTINF:-1 tvg-id="" tvg-name="TYC Sports" tvg-logo="" group-title="Sports",TYC Sports
+http://hdhd.tk:80/jazzus001/dcn99ztv/47214
+#EXTINF:-1 tvg-id="" tvg-name="Cricket 01  :  [West Indies vs South Africa 2024 ] West Indies vs. South Africa (3rd T20) 08/27 15:00 ET" tvg-logo="" group-title="Sports",Cricket 01  :  [West Indies vs South Africa 2024 ] West Indies vs. South Africa (3rd T20) 08/27 15:00 ET
+http://hdhd.tk:80/jazzus001/dcn99ztv/47250
+#EXTINF:-1 tvg-id="" tvg-name="Cricket 02: " tvg-logo="" group-title="Sports",Cricket 02: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/47251
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 21: " tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 21: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/47272
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 22:" tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 22:
+http://hdhd.tk:80/jazzus001/dcn99ztv/47273
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 23: " tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 23: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/47274
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 24: " tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 24: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/47275
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 25:" tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 25:
+http://hdhd.tk:80/jazzus001/dcn99ztv/47276
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 26: " tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 26: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/47277
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 27:" tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 27:
+http://hdhd.tk:80/jazzus001/dcn99ztv/47278
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 28: " tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 28: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/47279
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 29:" tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 29:
+http://hdhd.tk:80/jazzus001/dcn99ztv/47280
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 30: " tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 30: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/47281
+#EXTINF:-1 tvg-id="ballysportswest.us" tvg-name="US Bally Sports (West)" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports (West)
+http://hdhd.tk:80/jazzus001/dcn99ztv/47359
+#EXTINF:-1 tvg-id="ballysportscarolinas.us" tvg-name="US Bally Sports Carolinas" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Carolinas
+http://hdhd.tk:80/jazzus001/dcn99ztv/47362
+#EXTINF:-1 tvg-id="ballysportsohiocincinnati.us" tvg-name="US Bally Sports Cincinnati" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Cincinnati
+http://hdhd.tk:80/jazzus001/dcn99ztv/47364
+#EXTINF:-1 tvg-id="ballysportsdetroitextra.us" tvg-name="US Bally Sports Detroit Plus" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Detroit Plus
+http://hdhd.tk:80/jazzus001/dcn99ztv/47365
+#EXTINF:-1 tvg-id="ballysportsflorida.us" tvg-name="US Bally Sports Florida North (CFL)" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Florida North (CFL)
+http://hdhd.tk:80/jazzus001/dcn99ztv/47366
+#EXTINF:-1 tvg-id="ballysportsgreatlakes.us" tvg-name="US Bally Sports Great Lake" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Great Lake
+http://hdhd.tk:80/jazzus001/dcn99ztv/47369
+#EXTINF:-1 tvg-id="ballysportsindiana.us" tvg-name="US Bally Sports Indiana" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Indiana
+http://hdhd.tk:80/jazzus001/dcn99ztv/47370
+#EXTINF:-1 tvg-id="ballysportsmidwestindiana.us" tvg-name="US Bally Sports Indiana Plus" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Indiana Plus
+http://hdhd.tk:80/jazzus001/dcn99ztv/47371
+#EXTINF:-1 tvg-id="ballysportsmidwestkansascity.us" tvg-name="US Bally Sports Kansas City" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Kansas City
+http://hdhd.tk:80/jazzus001/dcn99ztv/47372
+#EXTINF:-1 tvg-id="ballysportsmidweststlouis.us" tvg-name="US Bally Sports Midwest - St Louis (SP)" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Midwest - St Louis (SP)
+http://hdhd.tk:80/jazzus001/dcn99ztv/47374
+#EXTINF:-1 tvg-id="" tvg-name="US Bally Sports Midwest - Nebraska" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Midwest - Nebraska
+http://hdhd.tk:80/jazzus001/dcn99ztv/47375
+#EXTINF:-1 tvg-id="" tvg-name="US Bally Sports Net O1P" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Net O1P
+http://hdhd.tk:80/jazzus001/dcn99ztv/47376
+#EXTINF:-1 tvg-id="" tvg-name="US Bally Sports Net O3P" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Net O3P
+http://hdhd.tk:80/jazzus001/dcn99ztv/47377
+#EXTINF:-1 tvg-id="" tvg-name="US Bally Sports Netbase" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Netbase
+http://hdhd.tk:80/jazzus001/dcn99ztv/47378
+#EXTINF:-1 tvg-id="ballysportsoklahoma.us" tvg-name="US Bally Sports Oklahoma" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Oklahoma
+http://hdhd.tk:80/jazzus001/dcn99ztv/47379
+#EXTINF:-1 tvg-id="ballysportsoutheaststennessee.us" tvg-name="US Bally Sports Tennessee" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Tennessee
+http://hdhd.tk:80/jazzus001/dcn99ztv/47381
+#EXTINF:-1 tvg-id="" tvg-name="US Bally Sports YES" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports YES
+http://hdhd.tk:80/jazzus001/dcn99ztv/47382
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 41:" tvg-logo="" group-title="Sports",USA NCAAF 41:
+http://hdhd.tk:80/jazzus001/dcn99ztv/47679
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 42:" tvg-logo="" group-title="Sports",USA NCAAF 42:
+http://hdhd.tk:80/jazzus001/dcn99ztv/47680
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 43: " tvg-logo="" group-title="Sports",USA NCAAF 43: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/47681
+#EXTINF:-1 tvg-id="" tvg-name="USA NCAAF 44: " tvg-logo="" group-title="Sports",USA NCAAF 44: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/47682
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 31:" tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 31:
+http://hdhd.tk:80/jazzus001/dcn99ztv/47822
+#EXTINF:-1 tvg-id="" tvg-name="USA NHL 32: " tvg-logo="https://content.sportslogos.net/leagues/thumbs/1.gif" group-title="Sports",USA NHL 32: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/47823
+#EXTINF:-1 tvg-id="" tvg-name="NBA LP 17" tvg-logo="https://static.epg.best/us/NBATV.us.png" group-title="Sports",NBA LP 17
+http://hdhd.tk:80/jazzus001/dcn99ztv/47887
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 11  " tvg-logo="" group-title="Sports",NCAAB 11  
+http://hdhd.tk:80/jazzus001/dcn99ztv/47888
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 12 " tvg-logo="" group-title="Sports",NCAAB 12 
+http://hdhd.tk:80/jazzus001/dcn99ztv/47889
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 13 ï¼š" tvg-logo="" group-title="Sports",NCAAB 13 ï¼š
+http://hdhd.tk:80/jazzus001/dcn99ztv/47890
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 14 ï¼š " tvg-logo="" group-title="Sports",NCAAB 14 ï¼š 
+http://hdhd.tk:80/jazzus001/dcn99ztv/47891
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 15 " tvg-logo="" group-title="Sports",NCAAB 15 
+http://hdhd.tk:80/jazzus001/dcn99ztv/47892
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 16 : " tvg-logo="" group-title="Sports",NCAAB 16 : 
+http://hdhd.tk:80/jazzus001/dcn99ztv/47893
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 17 " tvg-logo="" group-title="Sports",NCAAB 17 
+http://hdhd.tk:80/jazzus001/dcn99ztv/47894
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 18 : " tvg-logo="" group-title="Sports",NCAAB 18 : 
+http://hdhd.tk:80/jazzus001/dcn99ztv/47895
+#EXTINF:-1 tvg-id="" tvg-name="AR (TR) TyC Sports" tvg-logo="https://logo.iptveditor.com/tycsports.png" group-title="Sports",AR (TR) TyC Sports
+http://hdhd.tk:80/jazzus001/dcn99ztv/48322
+#EXTINF:-1 tvg-id="" tvg-name="USA (DZ) Rise" tvg-logo="" group-title="Sports",USA (DZ) Rise
+http://hdhd.tk:80/jazzus001/dcn99ztv/48427
+#EXTINF:-1 tvg-id="" tvg-name="USA (DZ) Fast+" tvg-logo="" group-title="Sports",USA (DZ) Fast+
+http://hdhd.tk:80/jazzus001/dcn99ztv/48428
+#EXTINF:-1 tvg-id="" tvg-name="USA (DZ) Womans Football" tvg-logo="" group-title="Sports",USA (DZ) Womans Football
+http://hdhd.tk:80/jazzus001/dcn99ztv/48429
+#EXTINF:-1 tvg-id="" tvg-name="USA (DZ) Combat" tvg-logo="" group-title="Sports",USA (DZ) Combat
+http://hdhd.tk:80/jazzus001/dcn99ztv/48430
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 19 " tvg-logo="" group-title="Sports",NCAAB 19 
+http://hdhd.tk:80/jazzus001/dcn99ztv/48437
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 20  " tvg-logo="" group-title="Sports",NCAAB 20  
+http://hdhd.tk:80/jazzus001/dcn99ztv/48438
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 21  ï¼š" tvg-logo="" group-title="Sports",NCAAB 21  ï¼š
+http://hdhd.tk:80/jazzus001/dcn99ztv/48439
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 22ï¼š" tvg-logo="" group-title="Sports",NCAAB 22ï¼š
+http://hdhd.tk:80/jazzus001/dcn99ztv/48440
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 23 " tvg-logo="" group-title="Sports",NCAAB 23 
+http://hdhd.tk:80/jazzus001/dcn99ztv/48441
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 24 " tvg-logo="" group-title="Sports",NCAAB 24 
+http://hdhd.tk:80/jazzus001/dcn99ztv/48442
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 25" tvg-logo="" group-title="Sports",NCAAB 25
+http://hdhd.tk:80/jazzus001/dcn99ztv/48443
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 26: " tvg-logo="" group-title="Sports",NCAAB 26: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/48444
+#EXTINF:-1 tvg-id="" tvg-name="Cricket 03:" tvg-logo="" group-title="Sports",Cricket 03:
+http://hdhd.tk:80/jazzus001/dcn99ztv/48464
+#EXTINF:-1 tvg-id="" tvg-name="Cricket 04: " tvg-logo="" group-title="Sports",Cricket 04: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/48465
+#EXTINF:-1 tvg-id="" tvg-name="Cricket 05: " tvg-logo="" group-title="Sports",Cricket 05: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/48466
+#EXTINF:-1 tvg-id="" tvg-name="Cricket 06: " tvg-logo="" group-title="Sports",Cricket 06: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/48467
+#EXTINF:-1 tvg-id="" tvg-name="Cricket 07: " tvg-logo="" group-title="Sports",Cricket 07: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/48468
+#EXTINF:-1 tvg-id="" tvg-name="Cricket 08:" tvg-logo="" group-title="Sports",Cricket 08:
+http://hdhd.tk:80/jazzus001/dcn99ztv/48469
+#EXTINF:-1 tvg-id="" tvg-name="Cricket 09: " tvg-logo="" group-title="Sports",Cricket 09: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/48470
+#EXTINF:-1 tvg-id="" tvg-name="Cricket 10:" tvg-logo="" group-title="Sports",Cricket 10:
+http://hdhd.tk:80/jazzus001/dcn99ztv/48471
+#EXTINF:-1 tvg-id="" tvg-name="Astro Cricket" tvg-logo="" group-title="Sports",Astro Cricket
+http://hdhd.tk:80/jazzus001/dcn99ztv/48514
+#EXTINF:-1 tvg-id="" tvg-name="CA ATN Cricket Plus" tvg-logo="" group-title="Sports",CA ATN Cricket Plus
+http://hdhd.tk:80/jazzus001/dcn99ztv/48515
+#EXTINF:-1 tvg-id="" tvg-name="CA Willow Cricket" tvg-logo="" group-title="Sports",CA Willow Cricket
+http://hdhd.tk:80/jazzus001/dcn99ztv/48648
+#EXTINF:-1 tvg-id="" tvg-name="MY Astro Cricket" tvg-logo="" group-title="Sports",MY Astro Cricket
+http://hdhd.tk:80/jazzus001/dcn99ztv/48649
+#EXTINF:-1 tvg-id="" tvg-name="AU (KAYO) Fox Sports 501 Cricket (D)" tvg-logo="" group-title="Sports",AU (KAYO) Fox Sports 501 Cricket (D)
+http://hdhd.tk:80/jazzus001/dcn99ztv/48650
+#EXTINF:-1 tvg-id="" tvg-name="AF ZA SuperSport Cricket" tvg-logo="" group-title="Sports",AF ZA SuperSport Cricket
+http://hdhd.tk:80/jazzus001/dcn99ztv/48652
+#EXTINF:-1 tvg-id="" tvg-name="AF ZW SuperSport Cricket" tvg-logo="" group-title="Sports",AF ZW SuperSport Cricket
+http://hdhd.tk:80/jazzus001/dcn99ztv/48653
+#EXTINF:-1 tvg-id="" tvg-name="Carib SportsMax Cricket (S2) (D)" tvg-logo="" group-title="Sports",Carib SportsMax Cricket (S2) (D)
+http://hdhd.tk:80/jazzus001/dcn99ztv/48654
+#EXTINF:-1 tvg-id="" tvg-name="Carib SportsMax Cricket (D)" tvg-logo="" group-title="Sports",Carib SportsMax Cricket (D)
+http://hdhd.tk:80/jazzus001/dcn99ztv/48655
+#EXTINF:-1 tvg-id="" tvg-name="UK Sports Cricket " tvg-logo="" group-title="Sports",UK Sports Cricket 
+http://hdhd.tk:80/jazzus001/dcn99ztv/48658
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 27 : " tvg-logo="" group-title="Sports",NCAAB 27 : 
+http://hdhd.tk:80/jazzus001/dcn99ztv/48888
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 28 ï¼š" tvg-logo="" group-title="Sports",NCAAB 28 ï¼š
+http://hdhd.tk:80/jazzus001/dcn99ztv/48889
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 29 ï¼š" tvg-logo="" group-title="Sports",NCAAB 29 ï¼š
+http://hdhd.tk:80/jazzus001/dcn99ztv/48890
+#EXTINF:-1 tvg-id="" tvg-name="NCAAB 30  " tvg-logo="" group-title="Sports",NCAAB 30  
+http://hdhd.tk:80/jazzus001/dcn99ztv/48891
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 11:: " tvg-logo="" group-title="Sports",College Baseball 11:: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/49729
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 12:  " tvg-logo="" group-title="Sports",College Baseball 12:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/49730
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 13 " tvg-logo="" group-title="Sports",College Baseball 13 
+http://hdhd.tk:80/jazzus001/dcn99ztv/49731
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 14 " tvg-logo="" group-title="Sports",College Baseball 14 
+http://hdhd.tk:80/jazzus001/dcn99ztv/49732
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 15: " tvg-logo="" group-title="Sports",College Baseball 15: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/49733
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 16:  " tvg-logo="" group-title="Sports",College Baseball 16:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/49734
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 17:  " tvg-logo="" group-title="Sports",College Baseball 17:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/49735
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 18 :  " tvg-logo="" group-title="Sports",College Baseball 18 :  
+http://hdhd.tk:80/jazzus001/dcn99ztv/49736
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 19:" tvg-logo="" group-title="Sports",College Baseball 19:
+http://hdhd.tk:80/jazzus001/dcn99ztv/49737
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 20" tvg-logo="" group-title="Sports",College Baseball 20
+http://hdhd.tk:80/jazzus001/dcn99ztv/49738
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 21  " tvg-logo="" group-title="Sports",College Baseball 21  
+http://hdhd.tk:80/jazzus001/dcn99ztv/49739
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 22" tvg-logo="" group-title="Sports",College Baseball 22
+http://hdhd.tk:80/jazzus001/dcn99ztv/49740
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 23:" tvg-logo="" group-title="Sports",College Baseball 23:
+http://hdhd.tk:80/jazzus001/dcn99ztv/49741
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 24: : " tvg-logo="" group-title="Sports",College Baseball 24: : 
+http://hdhd.tk:80/jazzus001/dcn99ztv/49742
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 25 : " tvg-logo="" group-title="Sports",College Baseball 25 : 
+http://hdhd.tk:80/jazzus001/dcn99ztv/49743
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 26  " tvg-logo="" group-title="Sports",College Baseball 26  
+http://hdhd.tk:80/jazzus001/dcn99ztv/49744
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 27: " tvg-logo="" group-title="Sports",College Baseball 27: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/49745
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 28" tvg-logo="" group-title="Sports",College Baseball 28
+http://hdhd.tk:80/jazzus001/dcn99ztv/49746
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 29:   " tvg-logo="" group-title="Sports",College Baseball 29:   
+http://hdhd.tk:80/jazzus001/dcn99ztv/49747
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 30  " tvg-logo="" group-title="Sports",College Baseball 30  
+http://hdhd.tk:80/jazzus001/dcn99ztv/49748
+#EXTINF:-1 tvg-id="" tvg-name="PH One Sports Plus" tvg-logo="" group-title="Sports",PH One Sports Plus
+http://hdhd.tk:80/jazzus001/dcn99ztv/49841
+#EXTINF:-1 tvg-id="" tvg-name="NBC Sports Philadelphia" tvg-logo="" group-title="Sports",NBC Sports Philadelphia
+http://hdhd.tk:80/jazzus001/dcn99ztv/49846
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US MeTV (KSTC) " tvg-logo="" group-title="Sports",US MeTV (KSTC) 
+http://hdhd.tk:80/jazzus001/dcn99ztv/50053
+#EXTINF:-1 tvg-id="" tvg-name="UK BT Sports 2" tvg-logo="" group-title="Sports",UK BT Sports 2
+http://hdhd.tk:80/jazzus001/dcn99ztv/50055
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 31  " tvg-logo="" group-title="Sports",College Baseball 31  
+http://hdhd.tk:80/jazzus001/dcn99ztv/50130
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 32  " tvg-logo="" group-title="Sports",College Baseball 32  
+http://hdhd.tk:80/jazzus001/dcn99ztv/50131
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 33:    " tvg-logo="" group-title="Sports",College Baseball 33:    
+http://hdhd.tk:80/jazzus001/dcn99ztv/50132
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 34: " tvg-logo="" group-title="Sports",College Baseball 34: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/50133
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 35:  " tvg-logo="" group-title="Sports",College Baseball 35:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/50134
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 36 " tvg-logo="" group-title="Sports",College Baseball 36 
+http://hdhd.tk:80/jazzus001/dcn99ztv/50135
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 37  " tvg-logo="" group-title="Sports",College Baseball 37  
+http://hdhd.tk:80/jazzus001/dcn99ztv/50136
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 38: " tvg-logo="" group-title="Sports",College Baseball 38: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/50137
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 39:  " tvg-logo="" group-title="Sports",College Baseball 39:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/50138
+#EXTINF:-1 tvg-id="" tvg-name="College Baseball 40  " tvg-logo="" group-title="Sports",College Baseball 40  
+http://hdhd.tk:80/jazzus001/dcn99ztv/50139
+#EXTINF:-1 tvg-id="" tvg-name="AU Fox Sports 501" tvg-logo="https://logo.iptveditor.com/foxcricket.png" group-title="Sports",AU Fox Sports 501
+http://hdhd.tk:80/jazzus001/dcn99ztv/50140
+#EXTINF:-1 tvg-id="" tvg-name="AU (KAYO) Fox Sports 502 " tvg-logo="" group-title="Sports",AU (KAYO) Fox Sports 502 
+http://hdhd.tk:80/jazzus001/dcn99ztv/50202
+#EXTINF:-1 tvg-id="" tvg-name="AU (KAYO) Fox Sports 503" tvg-logo="" group-title="Sports",AU (KAYO) Fox Sports 503
+http://hdhd.tk:80/jazzus001/dcn99ztv/50203
+#EXTINF:-1 tvg-id="" tvg-name="AU (KAYO) Fox Sports 504 Fotty" tvg-logo="" group-title="Sports",AU (KAYO) Fox Sports 504 Fotty
+http://hdhd.tk:80/jazzus001/dcn99ztv/50204
+#EXTINF:-1 tvg-id="" tvg-name="AU (KAYO) Fox Sports 505" tvg-logo="" group-title="Sports",AU (KAYO) Fox Sports 505
+http://hdhd.tk:80/jazzus001/dcn99ztv/50205
+#EXTINF:-1 tvg-id="" tvg-name="AU (KAYO) Fox Sports 506" tvg-logo="" group-title="Sports",AU (KAYO) Fox Sports 506
+http://hdhd.tk:80/jazzus001/dcn99ztv/50206
+#EXTINF:-1 tvg-id="" tvg-name="AU (KAYO) Fox Sports 507" tvg-logo="" group-title="Sports",AU (KAYO) Fox Sports 507
+http://hdhd.tk:80/jazzus001/dcn99ztv/50207
+#EXTINF:-1 tvg-id="" tvg-name="AU Fox Sports Feed 1" tvg-logo="" group-title="Sports",AU Fox Sports Feed 1
+http://hdhd.tk:80/jazzus001/dcn99ztv/50208
+#EXTINF:-1 tvg-id="" tvg-name="AU Fox Sports News" tvg-logo="" group-title="Sports",AU Fox Sports News
+http://hdhd.tk:80/jazzus001/dcn99ztv/50213
+#EXTINF:-1 tvg-id="" tvg-name="AU (KAYO) Fox Sports News" tvg-logo="" group-title="Sports",AU (KAYO) Fox Sports News
+http://hdhd.tk:80/jazzus001/dcn99ztv/50232
+#EXTINF:-1 tvg-id="" tvg-name="AU (KAYO) Fox Sports 501 Cricket" tvg-logo="" group-title="Sports",AU (KAYO) Fox Sports 501 Cricket
+http://hdhd.tk:80/jazzus001/dcn99ztv/50201
+#EXTINF:-1 tvg-id="" tvg-name="AU Fox Sports 502" tvg-logo="" group-title="Sports",AU Fox Sports 502
+http://hdhd.tk:80/jazzus001/dcn99ztv/50235
+#EXTINF:-1 tvg-id="" tvg-name="AU Fox Sports 504 " tvg-logo="" group-title="Sports",AU Fox Sports 504 
+http://hdhd.tk:80/jazzus001/dcn99ztv/50236
+#EXTINF:-1 tvg-id="" tvg-name="AU Racing" tvg-logo="" group-title="Sports",AU Racing
+http://hdhd.tk:80/jazzus001/dcn99ztv/50237
+#EXTINF:-1 tvg-id="" tvg-name="US Root Sports Northwest" tvg-logo="" group-title="Sports",US Root Sports Northwest
+http://hdhd.tk:80/jazzus001/dcn99ztv/50238
+#EXTINF:-1 tvg-id="" tvg-name="UK PREMIER  SPORTS 1" tvg-logo="" group-title="Sports",UK PREMIER  SPORTS 1
+http://hdhd.tk:80/jazzus001/dcn99ztv/227662
+#EXTINF:-1 tvg-id="" tvg-name="UK PREMIER SPORTS 2" tvg-logo="" group-title="Sports",UK PREMIER SPORTS 2
+http://hdhd.tk:80/jazzus001/dcn99ztv/227663
+#EXTINF:-1 tvg-id="" tvg-name="UK Eir Sport 1" tvg-logo="" group-title="Sports",UK Eir Sport 1
+http://hdhd.tk:80/jazzus001/dcn99ztv/227664
+#EXTINF:-1 tvg-id="" tvg-name="UK Eir Sport 2" tvg-logo="" group-title="Sports",UK Eir Sport 2
+http://hdhd.tk:80/jazzus001/dcn99ztv/227665
+#EXTINF:-1 tvg-id="" tvg-name="UK EuroSport 1" tvg-logo="" group-title="Sports",UK EuroSport 1
+http://hdhd.tk:80/jazzus001/dcn99ztv/227666
+#EXTINF:-1 tvg-id="" tvg-name="UK EuroSport 2" tvg-logo="" group-title="Sports",UK EuroSport 2
+http://hdhd.tk:80/jazzus001/dcn99ztv/227667
+#EXTINF:-1 tvg-id="" tvg-name="UK FreeSports" tvg-logo="" group-title="Sports",UK FreeSports
+http://hdhd.tk:80/jazzus001/dcn99ztv/227668
+#EXTINF:-1 tvg-id="" tvg-name="UK Racing TV HD 1" tvg-logo="" group-title="Sports",UK Racing TV HD 1
+http://hdhd.tk:80/jazzus001/dcn99ztv/227669
+#EXTINF:-1 tvg-id="" tvg-name="UK Racing TV HD 2 " tvg-logo="" group-title="Sports",UK Racing TV HD 2 
+http://hdhd.tk:80/jazzus001/dcn99ztv/227670
+#EXTINF:-1 tvg-id="" tvg-name="UK Sky Arts" tvg-logo="" group-title="Sports",UK Sky Arts
+http://hdhd.tk:80/jazzus001/dcn99ztv/330040
+#EXTINF:-1 tvg-id="" tvg-name="UK Sky Cinema Animation" tvg-logo="" group-title="Sports",UK Sky Cinema Animation
+http://hdhd.tk:80/jazzus001/dcn99ztv/330041
+#EXTINF:-1 tvg-id="" tvg-name="UK Sky Cinema Comedy " tvg-logo="" group-title="Sports",UK Sky Cinema Comedy 
+http://hdhd.tk:80/jazzus001/dcn99ztv/330042
+#EXTINF:-1 tvg-id="" tvg-name="UK Sky Sports F1 1" tvg-logo="" group-title="Sports",UK Sky Sports F1 1
+http://hdhd.tk:80/jazzus001/dcn99ztv/330043
+#EXTINF:-1 tvg-id="" tvg-name="UK Sky Sports Main Even" tvg-logo="" group-title="Sports",UK Sky Sports Main Even
+http://hdhd.tk:80/jazzus001/dcn99ztv/330045
+#EXTINF:-1 tvg-id="" tvg-name="UK Sky News" tvg-logo="" group-title="Sports",UK Sky News
+http://hdhd.tk:80/jazzus001/dcn99ztv/330046
+#EXTINF:-1 tvg-id="" tvg-name="PT (MEO) Eleven Sports 1" tvg-logo="" group-title="Sports",PT (MEO) Eleven Sports 1
+http://hdhd.tk:80/jazzus001/dcn99ztv/331957
+#EXTINF:-1 tvg-id="" tvg-name="PT (MEO) Eleven Sports 2" tvg-logo="" group-title="Sports",PT (MEO) Eleven Sports 2
+http://hdhd.tk:80/jazzus001/dcn99ztv/331958
+#EXTINF:-1 tvg-id="" tvg-name="PT (MEO) Eleven Sports 3" tvg-logo="" group-title="Sports",PT (MEO) Eleven Sports 3
+http://hdhd.tk:80/jazzus001/dcn99ztv/331959
+#EXTINF:-1 tvg-id="" tvg-name="PT (MEO) Eleven Sports 4" tvg-logo="" group-title="Sports",PT (MEO) Eleven Sports 4
+http://hdhd.tk:80/jazzus001/dcn99ztv/331960
+#EXTINF:-1 tvg-id="" tvg-name="PT (MEO) Eleven Sports 5" tvg-logo="" group-title="Sports",PT (MEO) Eleven Sports 5
+http://hdhd.tk:80/jazzus001/dcn99ztv/331961
+#EXTINF:-1 tvg-id="" tvg-name="PT (MEO) Eleven Sports 6" tvg-logo="" group-title="Sports",PT (MEO) Eleven Sports 6
+http://hdhd.tk:80/jazzus001/dcn99ztv/331962
+#EXTINF:-1 tvg-id="" tvg-name="US B/R Max Sports Events 1" tvg-logo="" group-title="Sports",US B/R Max Sports Events 1
+http://hdhd.tk:80/jazzus001/dcn99ztv/334196
+#EXTINF:-1 tvg-id="" tvg-name="US B/R Max Sports Events 2 " tvg-logo="" group-title="Sports",US B/R Max Sports Events 2 
+http://hdhd.tk:80/jazzus001/dcn99ztv/334197
+#EXTINF:-1 tvg-id="" tvg-name="US B/R Max Sports Events 3" tvg-logo="" group-title="Sports",US B/R Max Sports Events 3
+http://hdhd.tk:80/jazzus001/dcn99ztv/334198
+#EXTINF:-1 tvg-id="" tvg-name="US B/R Max Sports Events 4" tvg-logo="" group-title="Sports",US B/R Max Sports Events 4
+http://hdhd.tk:80/jazzus001/dcn99ztv/334199
+#EXTINF:-1 tvg-id="" tvg-name="US B/R Max Sports Events 5" tvg-logo="" group-title="Sports",US B/R Max Sports Events 5
+http://hdhd.tk:80/jazzus001/dcn99ztv/334200
+#EXTINF:-1 tvg-id="" tvg-name="US B/R Max Sports Events 6" tvg-logo="" group-title="Sports",US B/R Max Sports Events 6
+http://hdhd.tk:80/jazzus001/dcn99ztv/334201
+#EXTINF:-1 tvg-id="" tvg-name="US B/R Max Sports Events 7" tvg-logo="" group-title="Sports",US B/R Max Sports Events 7
+http://hdhd.tk:80/jazzus001/dcn99ztv/334202
+#EXTINF:-1 tvg-id="" tvg-name="US B/R Max Sports Events 8" tvg-logo="" group-title="Sports",US B/R Max Sports Events 8
+http://hdhd.tk:80/jazzus001/dcn99ztv/334203
+#EXTINF:-1 tvg-id="" tvg-name="US B/R Max Sports Events 9" tvg-logo="" group-title="Sports",US B/R Max Sports Events 9
+http://hdhd.tk:80/jazzus001/dcn99ztv/334204
+#EXTINF:-1 tvg-id="" tvg-name="US B/R Max Sports Events 10" tvg-logo="" group-title="Sports",US B/R Max Sports Events 10
+http://hdhd.tk:80/jazzus001/dcn99ztv/334205
+#EXTINF:-1 tvg-id="" tvg-name="US B/R Max Sports Events 11 " tvg-logo="" group-title="Sports",US B/R Max Sports Events 11 
+http://hdhd.tk:80/jazzus001/dcn99ztv/334206
+#EXTINF:-1 tvg-id="" tvg-name="US B/R Max Sports Events 12 " tvg-logo="" group-title="Sports",US B/R Max Sports Events 12 
+http://hdhd.tk:80/jazzus001/dcn99ztv/334207
+#EXTINF:-1 tvg-id="" tvg-name="US MLB Network Strike Zone" tvg-logo="" group-title="Sports",US MLB Network Strike Zone
+http://hdhd.tk:80/jazzus001/dcn99ztv/334220
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US T2" tvg-logo="" group-title="Sports",US T2
+http://hdhd.tk:80/jazzus001/dcn99ztv/334288
+#EXTINF:-1 tvg-id="" tvg-name="US Vevo Features" tvg-logo="" group-title="Sports",US Vevo Features
+http://hdhd.tk:80/jazzus001/dcn99ztv/334290
+#EXTINF:-1 tvg-id="espn.us" tvg-name="USA ESPN" tvg-logo="" group-title="Sports",USA ESPN
+http://hdhd.tk:80/jazzus001/dcn99ztv/335111
+#EXTINF:-1 tvg-id="" tvg-name="UK BT Sports 1" tvg-logo="" group-title="Sports",UK BT Sports 1
+http://hdhd.tk:80/jazzus001/dcn99ztv/335183
+#EXTINF:-1 tvg-id="" tvg-name="UK BT Sports 3" tvg-logo="" group-title="Sports",UK BT Sports 3
+http://hdhd.tk:80/jazzus001/dcn99ztv/335184
+#EXTINF:-1 tvg-id="" tvg-name="US Pickleball TV (PBTV) " tvg-logo="" group-title="Sports",US Pickleball TV (PBTV) 
+http://hdhd.tk:80/jazzus001/dcn99ztv/336159
+#EXTINF:-1 tvg-id="" tvg-name="US Spectrum Sports 1" tvg-logo="" group-title="Sports",US Spectrum Sports 1
+http://hdhd.tk:80/jazzus001/dcn99ztv/339173
+#EXTINF:-1 tvg-id="" tvg-name="US Spectrum Sports 2" tvg-logo="" group-title="Sports",US Spectrum Sports 2
+http://hdhd.tk:80/jazzus001/dcn99ztv/339174
+#EXTINF:-1 tvg-id="" tvg-name="MX (HD) TP PX Sports" tvg-logo="" group-title="Sports",MX (HD) TP PX Sports
+http://hdhd.tk:80/jazzus001/dcn99ztv/339208
+#EXTINF:-1 tvg-id="" tvg-name="MX Fox Sports 3" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="Sports",MX Fox Sports 3
+http://hdhd.tk:80/jazzus001/dcn99ztv/339209
+#EXTINF:-1 tvg-id="" tvg-name="MX Fox Sports 1" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="Sports",MX Fox Sports 1
+http://hdhd.tk:80/jazzus001/dcn99ztv/339211
+#EXTINF:-1 tvg-id="wwenetworkcanada.ca" tvg-name="CA Sportsnet WWE" tvg-logo="" group-title="Sports",CA Sportsnet WWE
+http://hdhd.tk:80/jazzus001/dcn99ztv/339380
+#EXTINF:-1 tvg-id="" tvg-name="CA Sportsnet News" tvg-logo="" group-title="Sports",CA Sportsnet News
+http://hdhd.tk:80/jazzus001/dcn99ztv/339381
+#EXTINF:-1 tvg-id="sportsnetworldplus1.ca" tvg-name="CA Sportsnet World Extra 1 " tvg-logo="" group-title="Sports",CA Sportsnet World Extra 1 
+http://hdhd.tk:80/jazzus001/dcn99ztv/339382
+#EXTINF:-1 tvg-id="" tvg-name="CA Sportsnet World Extra 2 " tvg-logo="" group-title="Sports",CA Sportsnet World Extra 2 
+http://hdhd.tk:80/jazzus001/dcn99ztv/339383
+#EXTINF:-1 tvg-id="sportsnetworldplus3.ca" tvg-name="CA Sportsnet World Extra 3" tvg-logo="" group-title="Sports",CA Sportsnet World Extra 3
+http://hdhd.tk:80/jazzus001/dcn99ztv/339384
+#EXTINF:-1 tvg-id="sportsnetworldplus4.ca" tvg-name="CA Sportsnet World Extra 4" tvg-logo="" group-title="Sports",CA Sportsnet World Extra 4
+http://hdhd.tk:80/jazzus001/dcn99ztv/339385
+#EXTINF:-1 tvg-id="" tvg-name="CA Sportsnet Event 1" tvg-logo="" group-title="Sports",CA Sportsnet Event 1
+http://hdhd.tk:80/jazzus001/dcn99ztv/339386
+#EXTINF:-1 tvg-id="" tvg-name="CA Sportsnet Event 2" tvg-logo="" group-title="Sports",CA Sportsnet Event 2
+http://hdhd.tk:80/jazzus001/dcn99ztv/339387
+#EXTINF:-1 tvg-id="" tvg-name="CA Sportsnet Event 3" tvg-logo="" group-title="Sports",CA Sportsnet Event 3
+http://hdhd.tk:80/jazzus001/dcn99ztv/339388
+#EXTINF:-1 tvg-id="" tvg-name="CA Sportsnet Event 4" tvg-logo="" group-title="Sports",CA Sportsnet Event 4
+http://hdhd.tk:80/jazzus001/dcn99ztv/339389
+#EXTINF:-1 tvg-id="" tvg-name="CA Sportsnet Event 5" tvg-logo="" group-title="Sports",CA Sportsnet Event 5
+http://hdhd.tk:80/jazzus001/dcn99ztv/339390
+#EXTINF:-1 tvg-id="" tvg-name="CA Sportsnet Event 6" tvg-logo="" group-title="Sports",CA Sportsnet Event 6
+http://hdhd.tk:80/jazzus001/dcn99ztv/339391
+#EXTINF:-1 tvg-id="" tvg-name="CA Sportsnet Event 7" tvg-logo="" group-title="Sports",CA Sportsnet Event 7
+http://hdhd.tk:80/jazzus001/dcn99ztv/339392
+#EXTINF:-1 tvg-id="" tvg-name="CA Sportsnet Event 8" tvg-logo="" group-title="Sports",CA Sportsnet Event 8
+http://hdhd.tk:80/jazzus001/dcn99ztv/339393
+#EXTINF:-1 tvg-id="" tvg-name="CA Sportsnet Event 9" tvg-logo="" group-title="Sports",CA Sportsnet Event 9
+http://hdhd.tk:80/jazzus001/dcn99ztv/339394
+#EXTINF:-1 tvg-id="" tvg-name="CA Sportsnet Event 10" tvg-logo="" group-title="Sports",CA Sportsnet Event 10
+http://hdhd.tk:80/jazzus001/dcn99ztv/339395
+#EXTINF:-1 tvg-id="" tvg-name="CA Sportsnet Event 11" tvg-logo="" group-title="Sports",CA Sportsnet Event 11
+http://hdhd.tk:80/jazzus001/dcn99ztv/339396
+#EXTINF:-1 tvg-id="" tvg-name="CA Sportsnet Event 12" tvg-logo="" group-title="Sports",CA Sportsnet Event 12
+http://hdhd.tk:80/jazzus001/dcn99ztv/339397
+#EXTINF:-1 tvg-id="" tvg-name="CA Sportsnet Event 13" tvg-logo="" group-title="Sports",CA Sportsnet Event 13
+http://hdhd.tk:80/jazzus001/dcn99ztv/339398
+#EXTINF:-1 tvg-id="" tvg-name="CA Sportsnet Event 14" tvg-logo="" group-title="Sports",CA Sportsnet Event 14
+http://hdhd.tk:80/jazzus001/dcn99ztv/339399
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US MSG 2" tvg-logo="" group-title="Sports",US MSG 2
+http://hdhd.tk:80/jazzus001/dcn99ztv/339524
+#EXTINF:-1 tvg-id="" tvg-name="US MSG SportsZone" tvg-logo="" group-title="Sports",US MSG SportsZone
+http://hdhd.tk:80/jazzus001/dcn99ztv/339525
+#EXTINF:-1 tvg-id="" tvg-name="US peacock REALITY" tvg-logo="" group-title="Sports",US peacock REALITY
+http://hdhd.tk:80/jazzus001/dcn99ztv/339528
+#EXTINF:-1 tvg-id="" tvg-name="AF (SA) Big Brother NAIJA" tvg-logo="" group-title="Sports",AF (SA) Big Brother NAIJA
+http://hdhd.tk:80/jazzus001/dcn99ztv/339544
+#EXTINF:-1 tvg-id="" tvg-name="UK Sky Sports Football" tvg-logo="" group-title="Sports",UK Sky Sports Football
+http://hdhd.tk:80/jazzus001/dcn99ztv/343956
+#EXTINF:-1 tvg-id="" tvg-name="UK Sky Sports News" tvg-logo="" group-title="Sports",UK Sky Sports News
+http://hdhd.tk:80/jazzus001/dcn99ztv/343957
+#EXTINF:-1 tvg-id="court.us" tvg-name="US COURT SPORTS NETWORK" tvg-logo="" group-title="Sports",US COURT SPORTS NETWORK
+http://hdhd.tk:80/jazzus001/dcn99ztv/346027
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US Bare Knuckle Fighting (BKFC) " tvg-logo="" group-title="Sports",US Bare Knuckle Fighting (BKFC) 
+http://hdhd.tk:80/jazzus001/dcn99ztv/346028
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US Speed Sport 1 " tvg-logo="" group-title="Sports",US Speed Sport 1 
+http://hdhd.tk:80/jazzus001/dcn99ztv/346029
+#EXTINF:-1 tvg-id="" tvg-name="US WNBA ION 1" tvg-logo="" group-title="Sports",US WNBA ION 1
+http://hdhd.tk:80/jazzus001/dcn99ztv/346030
+#EXTINF:-1 tvg-id="" tvg-name="US WNBA ION 2" tvg-logo="" group-title="Sports",US WNBA ION 2
+http://hdhd.tk:80/jazzus001/dcn99ztv/346031
+#EXTINF:-1 tvg-id="" tvg-name="US WNBA ION 3" tvg-logo="" group-title="Sports",US WNBA ION 3
+http://hdhd.tk:80/jazzus001/dcn99ztv/346032
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US Locked On Sorts Today" tvg-logo="" group-title="Sports",US Locked On Sorts Today
+http://hdhd.tk:80/jazzus001/dcn99ztv/346033
+#EXTINF:-1 tvg-id="" tvg-name="US Locked On Sorts Los Angeles" tvg-logo="" group-title="Sports",US Locked On Sorts Los Angeles
+http://hdhd.tk:80/jazzus001/dcn99ztv/346034
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="MLB Toronto Blue Jays" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Toronto Blue Jays
+http://hdhd.tk:80/jazzus001/dcn99ztv/347238
+#EXTINF:-1 tvg-id="" tvg-name="MLB Minnesota Twins" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Minnesota Twins
+http://hdhd.tk:80/jazzus001/dcn99ztv/347239
+#EXTINF:-1 tvg-id="" tvg-name="MLB Arizona Diamondbacks" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Arizona Diamondbacks
+http://hdhd.tk:80/jazzus001/dcn99ztv/347240
+#EXTINF:-1 tvg-id="" tvg-name="MLB Atlanta Braves" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Atlanta Braves
+http://hdhd.tk:80/jazzus001/dcn99ztv/347241
+#EXTINF:-1 tvg-id="" tvg-name="MLB Baltimore Orioles" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Baltimore Orioles
+http://hdhd.tk:80/jazzus001/dcn99ztv/347242
+#EXTINF:-1 tvg-id="" tvg-name="MLB Boston Red Sox" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Boston Red Sox
+http://hdhd.tk:80/jazzus001/dcn99ztv/347243
+#EXTINF:-1 tvg-id="" tvg-name="MLB Chicago Cubs" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Chicago Cubs
+http://hdhd.tk:80/jazzus001/dcn99ztv/347244
+#EXTINF:-1 tvg-id="" tvg-name="MLB Chicago White Sox" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Chicago White Sox
+http://hdhd.tk:80/jazzus001/dcn99ztv/347245
+#EXTINF:-1 tvg-id="" tvg-name="MLB Cincinnati Reds" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Cincinnati Reds
+http://hdhd.tk:80/jazzus001/dcn99ztv/347246
+#EXTINF:-1 tvg-id="" tvg-name="MLB Cleveland Guardians" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Cleveland Guardians
+http://hdhd.tk:80/jazzus001/dcn99ztv/347247
+#EXTINF:-1 tvg-id="" tvg-name="MLB Colorado Rockies" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Colorado Rockies
+http://hdhd.tk:80/jazzus001/dcn99ztv/347248
+#EXTINF:-1 tvg-id="" tvg-name="MLB Detroit Tigers" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Detroit Tigers
+http://hdhd.tk:80/jazzus001/dcn99ztv/347249
+#EXTINF:-1 tvg-id="" tvg-name="MLB Kansas City Royals" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Kansas City Royals
+http://hdhd.tk:80/jazzus001/dcn99ztv/347250
+#EXTINF:-1 tvg-id="" tvg-name="MLB Los Angeles Angels" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Los Angeles Angels
+http://hdhd.tk:80/jazzus001/dcn99ztv/347251
+#EXTINF:-1 tvg-id="" tvg-name="MLB Los Angeles Dodgers" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Los Angeles Dodgers
+http://hdhd.tk:80/jazzus001/dcn99ztv/347252
+#EXTINF:-1 tvg-id="" tvg-name="MLB Miami Marlins" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Miami Marlins
+http://hdhd.tk:80/jazzus001/dcn99ztv/347253
+#EXTINF:-1 tvg-id="" tvg-name="MLB Milwaukee Brewers" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Milwaukee Brewers
+http://hdhd.tk:80/jazzus001/dcn99ztv/347254
+#EXTINF:-1 tvg-id="" tvg-name="MLB New York Mets" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB New York Mets
+http://hdhd.tk:80/jazzus001/dcn99ztv/347255
+#EXTINF:-1 tvg-id="" tvg-name="MLB New York Yankees" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB New York Yankees
+http://hdhd.tk:80/jazzus001/dcn99ztv/347256
+#EXTINF:-1 tvg-id="" tvg-name="MLB Oakland Athletics" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Oakland Athletics
+http://hdhd.tk:80/jazzus001/dcn99ztv/347257
+#EXTINF:-1 tvg-id="" tvg-name="MLB Philadelphia Phillies" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Philadelphia Phillies
+http://hdhd.tk:80/jazzus001/dcn99ztv/347258
+#EXTINF:-1 tvg-id="" tvg-name="MLB Pittsburgh Pirates" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Pittsburgh Pirates
+http://hdhd.tk:80/jazzus001/dcn99ztv/347259
+#EXTINF:-1 tvg-id="" tvg-name="MLB San Diego Padres" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB San Diego Padres
+http://hdhd.tk:80/jazzus001/dcn99ztv/347260
+#EXTINF:-1 tvg-id="" tvg-name="MLB San Francisco Giants" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB San Francisco Giants
+http://hdhd.tk:80/jazzus001/dcn99ztv/347261
+#EXTINF:-1 tvg-id="" tvg-name="MLB Seattle Mariners" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Seattle Mariners
+http://hdhd.tk:80/jazzus001/dcn99ztv/347262
+#EXTINF:-1 tvg-id="" tvg-name="MLB St. Louis Cardinals" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB St. Louis Cardinals
+http://hdhd.tk:80/jazzus001/dcn99ztv/347263
+#EXTINF:-1 tvg-id="" tvg-name="MLB Tampa Bay Rays" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Tampa Bay Rays
+http://hdhd.tk:80/jazzus001/dcn99ztv/347264
+#EXTINF:-1 tvg-id="" tvg-name="MLB Texas Rangers" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Texas Rangers
+http://hdhd.tk:80/jazzus001/dcn99ztv/347265
+#EXTINF:-1 tvg-id="" tvg-name="MLB Washington Nationals" tvg-logo="https://content.sportslogos.net/logos/4/490/thumbs/49042272019.gif" group-title="Sports",MLB Washington Nationals
+http://hdhd.tk:80/jazzus001/dcn99ztv/347266
+#EXTINF:-1 tvg-id="ballysportsflorida.us" tvg-name="US Bally Sports Florida Plus" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Florida Plus
+http://hdhd.tk:80/jazzus001/dcn99ztv/347267
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US Bally Sports Midwest Plus" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Midwest Plus
+http://hdhd.tk:80/jazzus001/dcn99ztv/347268
+#EXTINF:-1 tvg-id="" tvg-name="US Bally Sports North Out of Market" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports North Out of Market
+http://hdhd.tk:80/jazzus001/dcn99ztv/347269
+#EXTINF:-1 tvg-id="" tvg-name="US Bally Sports Ohio - Zone 5 (Louisville Lexington)" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Ohio - Zone 5 (Louisville Lexington)
+http://hdhd.tk:80/jazzus001/dcn99ztv/347270
+#EXTINF:-1 tvg-id="" tvg-name="US Bally Sports Ohio 11 (Evansville)" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Ohio 11 (Evansville)
+http://hdhd.tk:80/jazzus001/dcn99ztv/347271
+#EXTINF:-1 tvg-id="" tvg-name="US Bally Sports Ohio 9 (Charleston Huntington Feed)" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Ohio 9 (Charleston Huntington Feed)
+http://hdhd.tk:80/jazzus001/dcn99ztv/347272
+#EXTINF:-1 tvg-id="" tvg-name="US Bally Sports Ohio Plus 5 (Louisville_Lex)" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Ohio Plus 5 (Louisville_Lex)
+http://hdhd.tk:80/jazzus001/dcn99ztv/347273
+#EXTINF:-1 tvg-id="" tvg-name="US Bally Sports Ohio Plus 9 (Charleston)" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Ohio Plus 9 (Charleston)
+http://hdhd.tk:80/jazzus001/dcn99ztv/347274
+#EXTINF:-1 tvg-id="" tvg-name="US Bally Sports San Diego ALT" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports San Diego ALT
+http://hdhd.tk:80/jazzus001/dcn99ztv/347275
+#EXTINF:-1 tvg-id="ballysportssandiego.us" tvg-name="US Bally Sports San Diego Plus " tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports San Diego Plus 
+http://hdhd.tk:80/jazzus001/dcn99ztv/347276
+#EXTINF:-1 tvg-id="ballysportssoutheastgeorgia.us" tvg-name="US Bally Sports South Georgia" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports South Georgia
+http://hdhd.tk:80/jazzus001/dcn99ztv/347277
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US Bally Sports South Plus" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports South Plus
+http://hdhd.tk:80/jazzus001/dcn99ztv/347278
+#EXTINF:-1 tvg-id="ballysportssoutheast.us" tvg-name="US Bally Sports Southeast" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Southeast
+http://hdhd.tk:80/jazzus001/dcn99ztv/347279
+#EXTINF:-1 tvg-id="ballysportsoutheaststennessee.us" tvg-name="US Bally Sports Southeast Tennessee" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Southeast Tennessee
+http://hdhd.tk:80/jazzus001/dcn99ztv/347280
+#EXTINF:-1 tvg-id="ballysportssouthwestplus.us" tvg-name="US Bally Sports Southwest Plus" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Southwest Plus
+http://hdhd.tk:80/jazzus001/dcn99ztv/347281
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US Bally Sports Southwest TX6" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Southwest TX6
+http://hdhd.tk:80/jazzus001/dcn99ztv/347282
+#EXTINF:-1 tvg-id="" tvg-name="US Bally Sports Southwest Zone 2" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Southwest Zone 2
+http://hdhd.tk:80/jazzus001/dcn99ztv/347283
+#EXTINF:-1 tvg-id="andtv.us" tvg-name="US Bally Sports Sun Plus" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Sun Plus
+http://hdhd.tk:80/jazzus001/dcn99ztv/347284
+#EXTINF:-1 tvg-id="kndb.us" tvg-name="US Bally Sports West Plus" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports West Plus
+http://hdhd.tk:80/jazzus001/dcn99ztv/347285
+#EXTINF:-1 tvg-id="ballysportswisconsin.us" tvg-name="US Bally Sports Wisconsin Plus" tvg-logo="https://logo.iptveditor.com/ballysportsdetroit.png" group-title="Sports",US Bally Sports Wisconsin Plus
+http://hdhd.tk:80/jazzus001/dcn99ztv/347286
+#EXTINF:-1 tvg-id="" tvg-name="US Cars.TV" tvg-logo="" group-title="Sports",US Cars.TV
+http://hdhd.tk:80/jazzus001/dcn99ztv/350038
+#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="USA Fubo Sports Network" tvg-logo="https://logo.iptveditor.com/fubosportsnetwork.png" group-title="Sports",USA Fubo Sports Network
+http://hdhd.tk:80/jazzus001/dcn99ztv/350593
+#EXTINF:-1 tvg-id="" tvg-name="OSN Ginx eSports" tvg-logo="" group-title="Sports",OSN Ginx eSports
+http://hdhd.tk:80/jazzus001/dcn99ztv/351211
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 61" tvg-logo="" group-title="Sports",NCAAF-E 61
+http://hdhd.tk:80/jazzus001/dcn99ztv/351329
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 62:  " tvg-logo="" group-title="Sports",NCAAF-E 62:  
+http://hdhd.tk:80/jazzus001/dcn99ztv/351330
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 63:: " tvg-logo="" group-title="Sports",NCAAF-E 63:: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/351331
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 64:" tvg-logo="" group-title="Sports",NCAAF-E 64:
+http://hdhd.tk:80/jazzus001/dcn99ztv/351332
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 65: " tvg-logo="" group-title="Sports",NCAAF-E 65: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/351333
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 66" tvg-logo="" group-title="Sports",NCAAF-E 66
+http://hdhd.tk:80/jazzus001/dcn99ztv/351334
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 67:" tvg-logo="" group-title="Sports",NCAAF-E 67:
+http://hdhd.tk:80/jazzus001/dcn99ztv/351335
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 68:" tvg-logo="" group-title="Sports",NCAAF-E 68:
+http://hdhd.tk:80/jazzus001/dcn99ztv/351336
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 69: " tvg-logo="" group-title="Sports",NCAAF-E 69: 
+http://hdhd.tk:80/jazzus001/dcn99ztv/351337
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 70:" tvg-logo="" group-title="Sports",NCAAF-E 70:
+http://hdhd.tk:80/jazzus001/dcn99ztv/351338
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 71:" tvg-logo="" group-title="Sports",NCAAF-E 71:
+http://hdhd.tk:80/jazzus001/dcn99ztv/351339
+#EXTINF:-1 tvg-id="" tvg-name="NCAAF-E 72:" tvg-logo="" group-title="Sports",NCAAF-E 72:
+http://hdhd.tk:80/jazzus001/dcn99ztv/351340
+#EXTINF:-1 tvg-id="" tvg-name="MX Fox Sports 2" tvg-logo="https://logo.iptveditor.com/foxsports2.png" group-title="Sports",MX Fox Sports 2
+http://hdhd.tk:80/jazzus001/dcn99ztv/351446
