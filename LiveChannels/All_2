@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1  tvg-logo="test" group-title="قنوات عربية",Lesa 11
-https://dai.ly/xsijxt
+https://vod.cf.dmcdn.net/sec2(b_aUoQv8l7a7eWeo1y0O1Wdod36Qw-RdueNLxQyj0mkHc5dXiTMh8YaUSGaQeQF3KEFyOFoI5z0JlByaLRKTB8ohLEY16vGWjiELjRvMsmrnf87JZ3wZ8Rl3SwLOliUpez7h-4YINzyKGrTUFgbVldD5uSQMfciu2Z2hOFv1DK8)/frag(7)/video/798/498/47894897_mp4_h264_aac_hq.ts
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="قنوات عربية",Rotana Cinema
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_1/chunklist.m3u8
