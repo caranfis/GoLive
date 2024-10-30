@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1  tvg-logo="test" group-title="قنوات عربية",Lesa 11
+https://dai.ly/xsijxt
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="قنوات عربية",Rotana Cinema
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_1/chunklist.m3u8
@@ -40,6 +42,310 @@ https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w19563613.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/ADM_Abu_Dhabi_tv_2023.png/revision/latest?cb=20231004191532" group-title="قنوات عربية",Abu Dhabi TV
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 
+########################################################## Temp ###################################################################
+
+#EXTINF:-1 group-title="Temp",Rotana Aflam
+http://hdhd.tk:80/jazzus001/dcn99ztv/28181
+
+#EXTINF:-1 group-title="Temp",Rotana Cinema
+http://hdhd.tk:80/jazzus001/dcn99ztv/43274
+
+#EXTINF:-1 group-title="Temp",Rotana Comedy
+http://hdhd.tk:80/jazzus001/dcn99ztv/43266
+
+#EXTINF:-1 group-title="Temp",Rotana Classic
+http://hdhd.tk:80/jazzus001/dcn99ztv/43253
+
+#EXTINF:-1 group-title="Temp",Rotana America
+http://hdhd.tk:80/jazzus001/dcn99ztv/43247
+
+#EXTINF:-1 group-title="Temp",Rotana Khalijia
+http://hdhd.tk:80/jazzus001/dcn99ztv/43236
+
+#EXTINF:-1 group-title="Temp",Rotana Clip
+http://hdhd.tk:80/jazzus001/dcn99ztv/43262
+
+#EXTINF:-1 group-title="Temp",Rotana Music
+http://hdhd.tk:80/jazzus001/dcn99ztv/28185
+
+#EXTINF:-1 group-title="Temp",Rotana Drama
+http://hdhd.tk:80/jazzus001/dcn99ztv/43228
+
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Y2Fbm3Ptl7AHjN8eAjvsnwHaC1&pid=Api&P=0&h=180" group-title="Temp",MBC 1
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/75.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1 HD" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Y2Fbm3Ptl7AHjN8eAjvsnwHaC1&pid=Api&P=0&h=180" group-title="Temp",MBC 1 HD
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/91888.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 1 4K" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Y2Fbm3Ptl7AHjN8eAjvsnwHaC1&pid=Api&P=0&h=180" group-title="Temp",MBC 1 4K
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16389.ts
+
+#EXTINF:-1 tvg-id="" tvg-name=" MBC 2" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.XoGVqDFY4xnpxARZo1wITgHaEK&pid=Api&P=0&h=180" group-title="Temp",MBC 2
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16390.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2 HD" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.XoGVqDFY4xnpxARZo1wITgHaEK&pid=Api&P=0&h=180" group-title="Temp",MBC 2 HD
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64201.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 2 4K" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.XoGVqDFY4xnpxARZo1wITgHaEK&pid=Api&P=0&h=180" group-title="Temp",MBC 2 4K
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16406.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="http://sf.bleutv.net:8080/images/2ac977676190f1b02597e049993ad32f.png" group-title="Temp",MBC 4
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64269.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4 HD" tvg-logo="http://sf.bleutv.net:8080/images/2ac977676190f1b02597e049993ad32f.png" group-title="Temp",MBC 4 HD
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/91890.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 4 4K" tvg-logo="http://sf.bleutv.net:8080/images/2ac977676190f1b02597e049993ad32f.png" group-title="Temp",MBC 4 4K
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16408.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.XStRMoFKG4r2ywRzGIUqFwHaD_&pid=Api&P=0&h=180" group-title="Temp",MBC 5
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/79.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5 HD" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.XStRMoFKG4r2ywRzGIUqFwHaD_&pid=Api&P=0&h=180" group-title="Temp",MBC 5 HD
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16392.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC 5 " tvg-logo="https://tse1.mm.bing.net/th?id=OIP.XStRMoFKG4r2ywRzGIUqFwHaD_&pid=Api&P=0&h=180" group-title="Temp",MBC 5 
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64206.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA " tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Hw18wLK4kf5Fh1wOsl-SXwHaEK&pid=Api&P=0&h=180" group-title="Temp",MBC DRAMA 
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/97.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Hw18wLK4kf5Fh1wOsl-SXwHaEK&pid=Api&P=0&h=180" group-title="Temp",MBC DRAMA HD
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16396.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA 4K" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Hw18wLK4kf5Fh1wOsl-SXwHaEK&pid=Api&P=0&h=180" group-title="Temp",MBC DRAMA 4K
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16411.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.5waFH10c5cAJvAXYYG1ZYQHaHS&pid=Api&P=0&h=180" group-title="Temp",MBC MASR
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/89.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR 4K" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.5waFH10c5cAJvAXYYG1ZYQHaHS&pid=Api&P=0&h=180" group-title="Temp",MBC MASR 4K
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64214.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR 2 4K" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.DrIwqZC1Fqg0YqarckvyvQHaEh&pid=Api&P=0&h=180" group-title="Temp",MBC MASR 2 4K
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16412.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC ACTION" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.7z_UZcp-R_wEO-gfsFllCAAAAA&pid=Api&P=0&h=180" group-title="Temp",MBC ACTION
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16394.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC ACTION HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.7z_UZcp-R_wEO-gfsFllCAAAAA&pid=Api&P=0&h=180" group-title="Temp",MBC ACTION HD
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/101935.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC ACTION 4K" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.7z_UZcp-R_wEO-gfsFllCAAAAA&pid=Api&P=0&h=180" group-title="Temp",MBC ACTION 4K
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16410.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC MAX " tvg-logo="https://tse2.mm.bing.net/th?id=OIP.xcQ61Wa1_JkmdZjmM2x0CAEsDh&pid=Api&P=0&h=180" group-title="Temp",MBC MAX 
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64210.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC MAX  HD" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.xcQ61Wa1_JkmdZjmM2x0CAEsDh&pid=Api&P=0&h=180" group-title="Temp",MBC MAX  HD
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16395.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC MAX 4K " tvg-logo="https://tse2.mm.bing.net/th?id=OIP.xcQ61Wa1_JkmdZjmM2x0CAEsDh&pid=Api&P=0&h=180" group-title="Temp",MBC MAX 4K 
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64222.ts
+
+#EXTINF:-1 tvg-id="" tvg-name=" MBC IRAQ " tvg-logo="https://tse2.mm.bing.net/th?id=OIP.t8NAptWa6PvDy1EtJO1w8AHaEE&pid=Api&P=0&h=180" group-title="Temp", MBC IRAQ 
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/84.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ HD" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.t8NAptWa6PvDy1EtJO1w8AHaEE&pid=Api&P=0&h=180" group-title="Temp",MBC IRAQ HD
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16398.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ 4K" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.t8NAptWa6PvDy1EtJO1w8AHaEE&pid=Api&P=0&h=180" group-title="Temp",MBC IRAQ 4K
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16415.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC Drama KSA HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Hw18wLK4kf5Fh1wOsl-SXwHaEK&pid=Api&P=0&h=180" group-title="Temp",MBC Drama KSA HD
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/91892.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC VARIETY 4K" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.6nA0kizMr_5VLbCZcT2NNwHaD5&pid=Api&P=0&h=180" group-title="Temp",MBC VARIETY 4K
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64221.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE 4K " tvg-logo="https://tse3.explicit.bing.net/th?id=OIP.ADVKBN5y-Bu4S8FmfJLEqgHaE5&pid=Api&P=0&h=180" group-title="Temp",FOX LIFE 4K 
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64231.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="FOX  MOVIES 4K" tvg-logo="https://tse3.explicit.bing.net/th?id=OIP.ADVKBN5y-Bu4S8FmfJLEqgHaE5&pid=Api&P=0&h=180" group-title="Temp",FOX  MOVIES 4K
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64230.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC+ POWER SPORT 4K" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.45o9i0XiVSZ5-WDWS1ZlnQHaHa&pid=Api&P=0&h=180" group-title="Temp",MBC+ POWER SPORT 4K
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/8353.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC + POWER DRAMA 4K" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Hw18wLK4kf5Fh1wOsl-SXwHaEK&pid=Api&P=0&h=180" group-title="Temp",MBC + POWER DRAMA 4K
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64204.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="STAR WORLD 4K" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Nm6KSWJOzTNfr_ejKWRX4wHaC4&pid=Api&P=0&h=180" group-title="Temp",STAR WORLD 4K
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64229.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC GEO 1 HD" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.I6xNwVUCzRYv7hh2DjXRVAHaEX&pid=Api&P=0&h=180" group-title="Temp",AR: MBC GEO 1 HD
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/101314.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="AR: MBC GEO 1 4K" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.I6xNwVUCzRYv7hh2DjXRVAHaEX&pid=Api&P=0&h=180" group-title="Temp",AR: MBC GEO 1 4K
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/101313.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC GEO 2 4K" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Nm6KSWJOzTNfr_ejKWRX4wHaC4&pid=Api&P=0&h=180" group-title="Temp",MBC GEO 2 4K
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/101315.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC GEO 2 HD" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Nm6KSWJOzTNfr_ejKWRX4wHaC4&pid=Api&P=0&h=180" group-title="Temp",MBC GEO 2 HD
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/101316.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC PREMIUM 4K" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Nm6KSWJOzTNfr_ejKWRX4wHaC4&pid=Api&P=0&h=180" group-title="Temp",MBC PREMIUM 4K
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/101317.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC PLUS 4K" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Nm6KSWJOzTNfr_ejKWRX4wHaC4&pid=Api&P=0&h=180" group-title="Temp",MBC PLUS 4K
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/101318.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC POWER 4K" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Hw18wLK4kf5Fh1wOsl-SXwHaEK&pid=Api&P=0&h=180" group-title="Temp",MBC POWER 4K
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/101319.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC POWER HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Hw18wLK4kf5Fh1wOsl-SXwHaEK&pid=Api&P=0&h=180" group-title="Temp",MBC POWER HD
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/101320.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC FAMILY 4K" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.I6xNwVUCzRYv7hh2DjXRVAHaEX&pid=Api&P=0&h=180" group-title="Temp",MBC FAMILY 4K
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/101321.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR 2" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.DrIwqZC1Fqg0YqarckvyvQHaEh&pid=Api&P=0&h=180" group-title="Temp",MBC MASR 2
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/99219.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.5waFH10c5cAJvAXYYG1ZYQHaHS&pid=Api&P=0&h=180" group-title="Temp",MBC MASR
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/99218.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MBC+ Variety HD" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.6nA0kizMr_5VLbCZcT2NNwHaD5&pid=Api&P=0&h=180" group-title="Temp",MBC+ Variety HD
+http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/99091.ts
+
+#EXTINF:-1 group-title="Temp",DMC Drama
+http://hdhd.tk:80/jazzus001/dcn99ztv/28180
+
+#EXTINF:-1 group-title="Temp",ART Cinema
+http://hdhd.tk:80/jazzus001/dcn99ztv/43245
+
+#EXTINF:-1 group-title="Temp",Al Hayah Series
+http://hdhd.tk:80/jazzus001/dcn99ztv/43249
+
+#EXTINF:-1 group-title="Temp",ART America
+http://hdhd.tk:80/jazzus001/dcn99ztv/43260
+
+#EXTINF:-1 group-title="Temp",ART Hekayet 2
+http://hdhd.tk:80/jazzus001/dcn99ztv/43269
+
+#EXTINF:-1 group-title="Temp",ART Movies
+http://hdhd.tk:80/jazzus001/dcn99ztv/43270
+
+#EXTINF:-1 group-title="Temp",Al Hayah 1
+http://hdhd.tk:80/jazzus001/dcn99ztv/43272
+
+#EXTINF:-1 group-title="Temp",Aghani Aghani
+http://hdhd.tk:80/jazzus001/dcn99ztv/28183
+
+#EXTINF:-1 group-title="Temp",Arabica
+http://hdhd.tk:80/jazzus001/dcn99ztv/43230
+
+#EXTINF:-1 group-title="Temp",Al Iraqiya
+http://hdhd.tk:80/jazzus001/dcn99ztv/43279
+
+#EXTINF:-1 group-title="Temp",MTV
+http://hdhd.tk:80/jazzus001/dcn99ztv/38965
+
+#EXTINF:-1 group-title="Temp",ON E 
+http://hdhd.tk:80/jazzus001/dcn99ztv/38972
+
+#EXTINF:-1 group-title="Temp",TEN Egypt
+http://hdhd.tk:80/jazzus001/dcn99ztv/43251
+
+#EXTINF:-1 group-title="Temp",ART Aflam
+http://hdhd.tk:80/jazzus001/dcn99ztv/28174
+
+#EXTINF:-1 group-title="Temp",Al Jadeed
+http://hdhd.tk:80/jazzus001/dcn99ztv/28175
+
+#EXTINF:-1 group-title="Temp",LBCI
+http://hdhd.tk:80/jazzus001/dcn99ztv/28176
+
+#EXTINF:-1 group-title="Temp",LBC
+http://hdhd.tk:80/jazzus001/dcn99ztv/28177
+
+#EXTINF:-1 group-title="Temp",Future TV
+http://hdhd.tk:80/jazzus001/dcn99ztv/28187
+
+#EXTINF:-1 group-title="Temp",beIN Movies Premiere 1
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MFvDjjrM_XN_Brzhd_gg9M/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN Movies Action 2
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9COXyzr6r6ht-BHhhDsdXhg/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN Movies Drama 3
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9PRWKMfmOxnlI4ga9MXJ2_Y/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN Movies Family 4
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9LAtKhZcgezKukwmpRjBfXY/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN Series 1
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9NQPqnVsvhVsy65XZp927vc/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN Series 2
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Id148p-MdZOB8TbGb9E9PU/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN Drama 1
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9LxIfgvp8KKdC_VxanxVGYo/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN Box Office 1
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Bq5ChjjS6Ifkw_NKfWksYo/m3u8
+
+#EXTINF:-1 group-title="Temp",beIN Box Office 2
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9M9jSqybEXXLi1YhuPV0V0I/m3u8
+
+#EXTINF:-1 group-title="Temp",BeIN Fox Rewayat
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9PfCRRw2ouBkUnlSgwoXFjM/m3u8
+
+#EXTINF:-1 group-title="Temp",BeIN Fox Action Movies
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9GEzdoqCqPrI2NrHDjilSlY/m3u8
+
+#EXTINF:-1 group-title="Temp",BeIN Fox Crime
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9EA3w-wmEOU2y--Pxlx_OZc/m3u8
+
+#EXTINF:-1 group-title="Temp",BeIN Fox Life
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9L0V6IYZtrSR0uv22gK4Zso/m3u8
+
+#EXTINF:-1 group-title="Temp",BeIN Investigation Discovery
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9ICXrCEM-9_3qKNBrQ0f0uc/m3u8
+
+#EXTINF:-1 group-title="Temp",BeIN Star Movies
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9OV9UqUcqw86Te9IakG5Ok8/m3u8
+
+#EXTINF:-1 group-title="Temp",BeIN Star World
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9PD9yTu1nGYWk0RNRKuMB4U/m3u8
+
+#EXTINF:-1 group-title="Temp",Shahid Movies Action VIP
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9H2JyQj2fxw021nnsft4PVU/m3u8
+
+#EXTINF:-1 group-title="Temp",shahid Movies Thriller VIP
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9NeT1yE7sMvuvoTDeHITlGM/m3u8
+
+#EXTINF:-1 group-title="Temp",shahid Aflam VIP
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9ObY5fSuvOpS92HcaDHar3A/m3u8
+
+#EXTINF:-1 group-title="Temp",shahid Movies VIP
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9PPtDQt3Tff0MlRk7zJu22E/m3u8
+
+#EXTINF:-1 group-title="Temp",shahid Just For Laughs
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MJ8tNhUOvOhcsKb6VlevhY/m3u8
+
+#EXTINF:-1 group-title="Temp",shahid topshif
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9AYqf_rBEbp67-X_ZqDrDSw/m3u8
+
+#EXTINF:-1 group-title="Temp",Shahid Classic
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9FEKMZCLvjXKFNXddqgWz5s/m3u8
+
+#EXTINF:-1 group-title="Temp",Shahid action
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9JxusUnegsyBbVBDxROEiyw/m3u8
+
+#EXTINF:-1 group-title="Temp",Shahid Masraheyat
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Lm7e054bzpsCx0kCD7gnYs/m3u8
+
+#EXTINF:-1 group-title="Temp",Shahid Drama
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MCrOnQK7q7xrI9nIYkR9QM/m3u8
+
+#EXTINF:-1 group-title="Temp",Shahid Cinema
+http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9DYf94LLYdrxnzA0p5dglS4/m3u8
+
+**************************************************************************************************************************
 #EXTINF:-1  tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="قنوات اخبار",AL ARABIYA
 https://live.alarabiya.net/alarabiapublish/alarabiya_1080p/playlist.m3u8
 
@@ -91,12 +397,8 @@ http://htvint.mada.ps:8889/orient/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Alqahira Wal Nas
 https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch32.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Al Sharqiya
-
-
 #EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",Al Sharqiya News
 http://95.216.180.111:1935/live/4/chunklist_w990531954.m3u8
-
 
 ########################################################## رياضة ###################################################################
 
@@ -4904,307 +5206,3 @@ https://archive.org/download/jesus-film-chaldean-language/JESUS%20Film%20Chaldea
 
 #EXTINF:-1 tvg-id="200" tvg-logo="" group-title="قنوات مسيحية",فلم يسوع بالعربي
 https://archive.org/download/jesus-film-arabic-modern-standard/JESUS%20Film%20Arabic%20Modern%20Standard.mp4
-
-
-########################################################## Temp ###################################################################
-
-#EXTINF:-1 group-title="Temp",Rotana Aflam
-http://hdhd.tk:80/jazzus001/dcn99ztv/28181
-
-#EXTINF:-1 group-title="Temp",Rotana Cinema
-http://hdhd.tk:80/jazzus001/dcn99ztv/43274
-
-#EXTINF:-1 group-title="Temp",Rotana Comedy
-http://hdhd.tk:80/jazzus001/dcn99ztv/43266
-
-#EXTINF:-1 group-title="Temp",Rotana Classic
-http://hdhd.tk:80/jazzus001/dcn99ztv/43253
-
-#EXTINF:-1 group-title="Temp",Rotana America
-http://hdhd.tk:80/jazzus001/dcn99ztv/43247
-
-#EXTINF:-1 group-title="Temp",Rotana Khalijia
-http://hdhd.tk:80/jazzus001/dcn99ztv/43236
-
-#EXTINF:-1 group-title="Temp",Rotana Clip
-http://hdhd.tk:80/jazzus001/dcn99ztv/43262
-
-#EXTINF:-1 group-title="Temp",Rotana Music
-http://hdhd.tk:80/jazzus001/dcn99ztv/28185
-
-#EXTINF:-1 group-title="Temp",Rotana Drama
-http://hdhd.tk:80/jazzus001/dcn99ztv/43228
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Y2Fbm3Ptl7AHjN8eAjvsnwHaC1&pid=Api&P=0&h=180" group-title="Temp",MBC 1
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/75.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1 HD" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Y2Fbm3Ptl7AHjN8eAjvsnwHaC1&pid=Api&P=0&h=180" group-title="Temp",MBC 1 HD
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/91888.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 1 4K" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Y2Fbm3Ptl7AHjN8eAjvsnwHaC1&pid=Api&P=0&h=180" group-title="Temp",MBC 1 4K
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16389.ts
-
-#EXTINF:-1 tvg-id="" tvg-name=" MBC 2" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.XoGVqDFY4xnpxARZo1wITgHaEK&pid=Api&P=0&h=180" group-title="Temp",MBC 2
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16390.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 2 HD" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.XoGVqDFY4xnpxARZo1wITgHaEK&pid=Api&P=0&h=180" group-title="Temp",MBC 2 HD
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64201.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 2 4K" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.XoGVqDFY4xnpxARZo1wITgHaEK&pid=Api&P=0&h=180" group-title="Temp",MBC 2 4K
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16406.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 4" tvg-logo="http://sf.bleutv.net:8080/images/2ac977676190f1b02597e049993ad32f.png" group-title="Temp",MBC 4
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64269.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 4 HD" tvg-logo="http://sf.bleutv.net:8080/images/2ac977676190f1b02597e049993ad32f.png" group-title="Temp",MBC 4 HD
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/91890.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 4 4K" tvg-logo="http://sf.bleutv.net:8080/images/2ac977676190f1b02597e049993ad32f.png" group-title="Temp",MBC 4 4K
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16408.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 5" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.XStRMoFKG4r2ywRzGIUqFwHaD_&pid=Api&P=0&h=180" group-title="Temp",MBC 5
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/79.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 5 HD" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.XStRMoFKG4r2ywRzGIUqFwHaD_&pid=Api&P=0&h=180" group-title="Temp",MBC 5 HD
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16392.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC 5 " tvg-logo="https://tse1.mm.bing.net/th?id=OIP.XStRMoFKG4r2ywRzGIUqFwHaD_&pid=Api&P=0&h=180" group-title="Temp",MBC 5 
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64206.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA " tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Hw18wLK4kf5Fh1wOsl-SXwHaEK&pid=Api&P=0&h=180" group-title="Temp",MBC DRAMA 
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/97.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Hw18wLK4kf5Fh1wOsl-SXwHaEK&pid=Api&P=0&h=180" group-title="Temp",MBC DRAMA HD
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16396.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC DRAMA 4K" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Hw18wLK4kf5Fh1wOsl-SXwHaEK&pid=Api&P=0&h=180" group-title="Temp",MBC DRAMA 4K
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16411.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.5waFH10c5cAJvAXYYG1ZYQHaHS&pid=Api&P=0&h=180" group-title="Temp",MBC MASR
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/89.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC MASR 4K" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.5waFH10c5cAJvAXYYG1ZYQHaHS&pid=Api&P=0&h=180" group-title="Temp",MBC MASR 4K
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64214.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC MASR 2 4K" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.DrIwqZC1Fqg0YqarckvyvQHaEh&pid=Api&P=0&h=180" group-title="Temp",MBC MASR 2 4K
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16412.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC ACTION" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.7z_UZcp-R_wEO-gfsFllCAAAAA&pid=Api&P=0&h=180" group-title="Temp",MBC ACTION
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16394.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC ACTION HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.7z_UZcp-R_wEO-gfsFllCAAAAA&pid=Api&P=0&h=180" group-title="Temp",MBC ACTION HD
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/101935.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC ACTION 4K" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.7z_UZcp-R_wEO-gfsFllCAAAAA&pid=Api&P=0&h=180" group-title="Temp",MBC ACTION 4K
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16410.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC MAX " tvg-logo="https://tse2.mm.bing.net/th?id=OIP.xcQ61Wa1_JkmdZjmM2x0CAEsDh&pid=Api&P=0&h=180" group-title="Temp",MBC MAX 
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64210.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC MAX  HD" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.xcQ61Wa1_JkmdZjmM2x0CAEsDh&pid=Api&P=0&h=180" group-title="Temp",MBC MAX  HD
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16395.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC MAX 4K " tvg-logo="https://tse2.mm.bing.net/th?id=OIP.xcQ61Wa1_JkmdZjmM2x0CAEsDh&pid=Api&P=0&h=180" group-title="Temp",MBC MAX 4K 
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64222.ts
-
-#EXTINF:-1 tvg-id="" tvg-name=" MBC IRAQ " tvg-logo="https://tse2.mm.bing.net/th?id=OIP.t8NAptWa6PvDy1EtJO1w8AHaEE&pid=Api&P=0&h=180" group-title="Temp", MBC IRAQ 
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/84.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ HD" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.t8NAptWa6PvDy1EtJO1w8AHaEE&pid=Api&P=0&h=180" group-title="Temp",MBC IRAQ HD
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16398.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC IRAQ 4K" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.t8NAptWa6PvDy1EtJO1w8AHaEE&pid=Api&P=0&h=180" group-title="Temp",MBC IRAQ 4K
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/16415.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC Drama KSA HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Hw18wLK4kf5Fh1wOsl-SXwHaEK&pid=Api&P=0&h=180" group-title="Temp",MBC Drama KSA HD
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/91892.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC VARIETY 4K" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.6nA0kizMr_5VLbCZcT2NNwHaD5&pid=Api&P=0&h=180" group-title="Temp",MBC VARIETY 4K
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64221.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="FOX LIFE 4K " tvg-logo="https://tse3.explicit.bing.net/th?id=OIP.ADVKBN5y-Bu4S8FmfJLEqgHaE5&pid=Api&P=0&h=180" group-title="Temp",FOX LIFE 4K 
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64231.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="FOX  MOVIES 4K" tvg-logo="https://tse3.explicit.bing.net/th?id=OIP.ADVKBN5y-Bu4S8FmfJLEqgHaE5&pid=Api&P=0&h=180" group-title="Temp",FOX  MOVIES 4K
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64230.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC+ POWER SPORT 4K" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.45o9i0XiVSZ5-WDWS1ZlnQHaHa&pid=Api&P=0&h=180" group-title="Temp",MBC+ POWER SPORT 4K
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/8353.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC + POWER DRAMA 4K" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Hw18wLK4kf5Fh1wOsl-SXwHaEK&pid=Api&P=0&h=180" group-title="Temp",MBC + POWER DRAMA 4K
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64204.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="STAR WORLD 4K" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Nm6KSWJOzTNfr_ejKWRX4wHaC4&pid=Api&P=0&h=180" group-title="Temp",STAR WORLD 4K
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/64229.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="AR: MBC GEO 1 HD" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.I6xNwVUCzRYv7hh2DjXRVAHaEX&pid=Api&P=0&h=180" group-title="Temp",AR: MBC GEO 1 HD
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/101314.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="AR: MBC GEO 1 4K" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.I6xNwVUCzRYv7hh2DjXRVAHaEX&pid=Api&P=0&h=180" group-title="Temp",AR: MBC GEO 1 4K
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/101313.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC GEO 2 4K" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Nm6KSWJOzTNfr_ejKWRX4wHaC4&pid=Api&P=0&h=180" group-title="Temp",MBC GEO 2 4K
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/101315.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC GEO 2 HD" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Nm6KSWJOzTNfr_ejKWRX4wHaC4&pid=Api&P=0&h=180" group-title="Temp",MBC GEO 2 HD
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/101316.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC PREMIUM 4K" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Nm6KSWJOzTNfr_ejKWRX4wHaC4&pid=Api&P=0&h=180" group-title="Temp",MBC PREMIUM 4K
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/101317.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC PLUS 4K" tvg-logo="https://tse1.mm.bing.net/th?id=OIP.Nm6KSWJOzTNfr_ejKWRX4wHaC4&pid=Api&P=0&h=180" group-title="Temp",MBC PLUS 4K
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/101318.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC POWER 4K" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Hw18wLK4kf5Fh1wOsl-SXwHaEK&pid=Api&P=0&h=180" group-title="Temp",MBC POWER 4K
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/101319.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC POWER HD" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.Hw18wLK4kf5Fh1wOsl-SXwHaEK&pid=Api&P=0&h=180" group-title="Temp",MBC POWER HD
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/101320.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC FAMILY 4K" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.I6xNwVUCzRYv7hh2DjXRVAHaEX&pid=Api&P=0&h=180" group-title="Temp",MBC FAMILY 4K
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/101321.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC MASR 2" tvg-logo="https://tse3.mm.bing.net/th?id=OIP.DrIwqZC1Fqg0YqarckvyvQHaEh&pid=Api&P=0&h=180" group-title="Temp",MBC MASR 2
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/99219.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC MASR" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.5waFH10c5cAJvAXYYG1ZYQHaHS&pid=Api&P=0&h=180" group-title="Temp",MBC MASR
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/99218.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="MBC+ Variety HD" tvg-logo="https://tse2.mm.bing.net/th?id=OIP.6nA0kizMr_5VLbCZcT2NNwHaD5&pid=Api&P=0&h=180" group-title="Temp",MBC+ Variety HD
-http://s1.czxbexchange.xyz:8080/live/172011008535968/172019448598935/99091.ts
-
-#EXTINF:-1 group-title="Temp",DMC Drama
-http://hdhd.tk:80/jazzus001/dcn99ztv/28180
-
-#EXTINF:-1 group-title="Temp",ART Cinema
-http://hdhd.tk:80/jazzus001/dcn99ztv/43245
-
-#EXTINF:-1 group-title="Temp",Al Hayah Series
-http://hdhd.tk:80/jazzus001/dcn99ztv/43249
-
-#EXTINF:-1 group-title="Temp",ART America
-http://hdhd.tk:80/jazzus001/dcn99ztv/43260
-
-#EXTINF:-1 group-title="Temp",ART Hekayet 2
-http://hdhd.tk:80/jazzus001/dcn99ztv/43269
-
-#EXTINF:-1 group-title="Temp",ART Movies
-http://hdhd.tk:80/jazzus001/dcn99ztv/43270
-
-#EXTINF:-1 group-title="Temp",Al Hayah 1
-http://hdhd.tk:80/jazzus001/dcn99ztv/43272
-
-#EXTINF:-1 group-title="Temp",Aghani Aghani
-http://hdhd.tk:80/jazzus001/dcn99ztv/28183
-
-#EXTINF:-1 group-title="Temp",Arabica
-http://hdhd.tk:80/jazzus001/dcn99ztv/43230
-
-#EXTINF:-1 group-title="Temp",Al Iraqiya
-http://hdhd.tk:80/jazzus001/dcn99ztv/43279
-
-#EXTINF:-1 group-title="Temp",MTV
-http://hdhd.tk:80/jazzus001/dcn99ztv/38965
-
-#EXTINF:-1 group-title="Temp",ON E 
-http://hdhd.tk:80/jazzus001/dcn99ztv/38972
-
-#EXTINF:-1 group-title="Temp",TEN Egypt
-http://hdhd.tk:80/jazzus001/dcn99ztv/43251
-
-#EXTINF:-1 group-title="Temp",ART Aflam
-http://hdhd.tk:80/jazzus001/dcn99ztv/28174
-
-#EXTINF:-1 group-title="Temp",Al Jadeed
-http://hdhd.tk:80/jazzus001/dcn99ztv/28175
-
-#EXTINF:-1 group-title="Temp",LBCI
-http://hdhd.tk:80/jazzus001/dcn99ztv/28176
-
-#EXTINF:-1 group-title="Temp",LBC
-http://hdhd.tk:80/jazzus001/dcn99ztv/28177
-
-#EXTINF:-1 group-title="Temp",Future TV
-http://hdhd.tk:80/jazzus001/dcn99ztv/28187
-
-#EXTINF:-1 group-title="Temp",beIN Movies Premiere 1
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MFvDjjrM_XN_Brzhd_gg9M/m3u8
-
-#EXTINF:-1 group-title="Temp",beIN Movies Action 2
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9COXyzr6r6ht-BHhhDsdXhg/m3u8
-
-#EXTINF:-1 group-title="Temp",beIN Movies Drama 3
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9PRWKMfmOxnlI4ga9MXJ2_Y/m3u8
-
-#EXTINF:-1 group-title="Temp",beIN Movies Family 4
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9LAtKhZcgezKukwmpRjBfXY/m3u8
-
-#EXTINF:-1 group-title="Temp",beIN Series 1
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9NQPqnVsvhVsy65XZp927vc/m3u8
-
-#EXTINF:-1 group-title="Temp",beIN Series 2
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Id148p-MdZOB8TbGb9E9PU/m3u8
-
-#EXTINF:-1 group-title="Temp",beIN Drama 1
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9LxIfgvp8KKdC_VxanxVGYo/m3u8
-
-#EXTINF:-1 group-title="Temp",beIN Box Office 1
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Bq5ChjjS6Ifkw_NKfWksYo/m3u8
-
-#EXTINF:-1 group-title="Temp",beIN Box Office 2
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9M9jSqybEXXLi1YhuPV0V0I/m3u8
-
-#EXTINF:-1 group-title="Temp",BeIN Fox Rewayat
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9PfCRRw2ouBkUnlSgwoXFjM/m3u8
-
-#EXTINF:-1 group-title="Temp",BeIN Fox Action Movies
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9GEzdoqCqPrI2NrHDjilSlY/m3u8
-
-#EXTINF:-1 group-title="Temp",BeIN Fox Crime
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9EA3w-wmEOU2y--Pxlx_OZc/m3u8
-
-#EXTINF:-1 group-title="Temp",BeIN Fox Life
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9L0V6IYZtrSR0uv22gK4Zso/m3u8
-
-#EXTINF:-1 group-title="Temp",BeIN Investigation Discovery
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9ICXrCEM-9_3qKNBrQ0f0uc/m3u8
-
-#EXTINF:-1 group-title="Temp",BeIN Star Movies
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9OV9UqUcqw86Te9IakG5Ok8/m3u8
-
-#EXTINF:-1 group-title="Temp",BeIN Star World
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9PD9yTu1nGYWk0RNRKuMB4U/m3u8
-
-#EXTINF:-1 group-title="Temp",Shahid Movies Action VIP
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9H2JyQj2fxw021nnsft4PVU/m3u8
-
-#EXTINF:-1 group-title="Temp",shahid Movies Thriller VIP
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9NeT1yE7sMvuvoTDeHITlGM/m3u8
-
-#EXTINF:-1 group-title="Temp",shahid Aflam VIP
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9ObY5fSuvOpS92HcaDHar3A/m3u8
-
-#EXTINF:-1 group-title="Temp",shahid Movies VIP
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9PPtDQt3Tff0MlRk7zJu22E/m3u8
-
-#EXTINF:-1 group-title="Temp",shahid Just For Laughs
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MJ8tNhUOvOhcsKb6VlevhY/m3u8
-
-#EXTINF:-1 group-title="Temp",shahid topshif
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9AYqf_rBEbp67-X_ZqDrDSw/m3u8
-
-#EXTINF:-1 group-title="Temp",Shahid Classic
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9FEKMZCLvjXKFNXddqgWz5s/m3u8
-
-#EXTINF:-1 group-title="Temp",Shahid action
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9JxusUnegsyBbVBDxROEiyw/m3u8
-
-#EXTINF:-1 group-title="Temp",Shahid Masraheyat
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9Lm7e054bzpsCx0kCD7gnYs/m3u8
-
-#EXTINF:-1 group-title="Temp",Shahid Drama
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MCrOnQK7q7xrI9nIYkR9QM/m3u8
-
-#EXTINF:-1 group-title="Temp",Shahid Cinema
-http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9DYf94LLYdrxnzA0p5dglS4/m3u8
