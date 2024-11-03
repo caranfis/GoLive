@@ -21,9 +21,6 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-iraq.png" group-title="قنوات عربية",MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 
-#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr1.png" group-title="قنوات عربية",MBC MASR 1
-
-
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr2.png" group-title="قنوات عربية",MBC MASR 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 
@@ -45,17 +42,11 @@ https://live.alarabiya.net/alarabiapublish/alarabiya_1080p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="قنوات اخبار",AL JAZEERA MUBASHER
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/8EmVL2d.jpg" group-title="قنوات اخبار",Al Hurra Iraq
-
-
 #EXTINF:-1  tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="قنوات اخبار",Alaraby TV
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="قنوات اخبار",Dijlah
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png" group-title="قنوات عربية",Dijlah Zaman
-https://ghaasiflu.online/tarab/index.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Thikrayat
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index_1.m3u8
@@ -65,9 +56,6 @@ https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chun
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Dubai TV
 https://dmieigthvllta.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/chunklist_b8500000.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/kF7TvcH.png" group-title="قنوات اخبار",Sky News Arabia
-https://stream.skynewsarabia.com/hls/sna_720.m3u8
 
 #EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="قنوات عربية",Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
@@ -86,9 +74,6 @@ http://188.247.86.66/RotanaRadio/OnAirStudio1/index_1.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Watar
 http://htvint.mada.ps:8889/orient/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Alqahira Wal Nas
-https://github.com/MassinDV/Youtube-arabic-channels/raw/main/live/ch32.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",Al Sharqiya News
 http://95.216.180.111:1935/live/4/chunklist_w990531954.m3u8
