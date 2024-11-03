@@ -6,6 +6,12 @@ https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/60
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana +HD
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Classic
+https://edge66.magictvbox.com/liveApple/rotana_classic/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Khalijia
+https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات عربية",MBC 1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
 
@@ -21,6 +27,9 @@ https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/in
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-iraq.png" group-title="قنوات عربية",MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_1.m3u8
 
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr2.png" group-title="قنوات عربية",MBC MASR 1
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
+
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr2.png" group-title="قنوات عربية",MBC MASR 2
 https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
 
@@ -30,8 +39,35 @@ https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-dramap.png" group-title="قنوات عربية",MBC DRAMA+
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DMC
+https://edge66.magictvbox.com/liveApple/ChannelDMC/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Panorama Drama
+https://edge66.magictvbox.com/liveApple/panorama_drama_i/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Al Nahar One
+https://edge66.magictvbox.com/liveApple/AlNaharOne/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ON Drama
+https://edge66.magictvbox.com/liveApple/ChannelonDrama/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Weyyak Action
+https://weyyak-live.akamaized.net/weyyak_action/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Weyyak Mix
+https://weyyak-live.akamaized.net/weyyak_mix/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Mix One
+https://weyyak-live.akamaized.net/weyyak_drama/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Mix Hollywood
+https://edge66.magictvbox.com/liveApple/mix_hollywood/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1  tvg-logo="https://alsharqiya.com/Content/web-assets/img/logo.png" group-title="قنوات عربية",Al Sharqiya TV
 https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w19563613.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Al Rasheed
+https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/ADM_Abu_Dhabi_tv_2023.png/revision/latest?cb=20231004191532" group-title="قنوات عربية",Abu Dhabi TV
 https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
