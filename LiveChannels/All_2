@@ -42,6 +42,9 @@ https://live.alarabiya.net/alarabiapublish/alarabiya_1080p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="قنوات اخبار",AL JAZEERA MUBASHER
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",AL HURRA
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master_2596.m3u8
+
 #EXTINF:-1  tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="قنوات اخبار",Alaraby TV
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
 
