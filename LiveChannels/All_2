@@ -15,6 +15,9 @@ https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات عربية",MBC 1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 2
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/119
+
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
@@ -170,6 +173,87 @@ http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9MCrOnQK7q7xrI9nIYkR9QM/m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Shahid Cinema
 http://102.38.4.226:80/play/eVrteB3XnoQHWXDgREUT9DYf94LLYdrxnzA0p5dglS4/m3u8
+
+
+############################################################### رياضة #######################################################################
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN SPORTS 1ᴴᴰ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/4
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN SPORTS 2ᴴᴰ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/5
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN SPORTS 3ᴴᴰ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/6
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN SPORTS 4ᴴᴰ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/7
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN SPORTS 5ᴴᴰ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN SPORTS 6ᴴᴰ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/9
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN SPORTS 7ᴴᴰ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/10
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN SPORTS 8ᴴᴰ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/11
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN SPORTS 9ᴴᴰ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/12
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN SPORTS 1ടⅾ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/21
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN SPORTS 2ടⅾ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/22
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN SPORTS 3ടⅾ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/23
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN SPORTS 4ടⅾ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/24
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN SPORTS 5ടⅾ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/25
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN SPORTS 6ടⅾ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/26
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN SPORTS 7ടⅾ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/27
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN SPORTS 8ടⅾ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/28
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN SPORTS 9ടⅾ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/29
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN XTRA 1ᴴᴰ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/13
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN XTRA 2ᴴᴰ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/14
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN XTRA 3ᴴᴰ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/15
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN AFC ᴴᴰ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/17
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN AFC 1 ᴴᴰ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/18
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN AFC 2 ᴴᴰ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/19
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="رياضة",⚽ beIN AFC 3ᴴᴰ
+http://mo3ad.xyz:25461/93PMdK65RS/zvqnDquTE2/20
+
+######################################################################################################################################
+
 
 ########################################################## كاظم الساهر ###################################################################
 
