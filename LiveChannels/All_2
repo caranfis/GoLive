@@ -15,8 +15,8 @@ https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات عربية",MBC 1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 2
-http://173.212.193.243:8080/jwlFdw6OW2/uEzFa51BKW/1180
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Cairo+ Today
+https://ffs3.gulfsat.com/hbc/index.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
