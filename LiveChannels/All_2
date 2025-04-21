@@ -3454,7 +3454,7 @@ https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.
 ########################################################## قنوات مسيحية ###################################################################
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/9HocMyE.jpg" group-title="قنوات مسيحية",Al Hayat TV
-http://media.islamexplained.com:1935/live/_definst_mp4:ahme.stream/playlist.m3u8
+http://supersonictv.live:8080/Betty1/Betty1/84100
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/9HocMyE.jpg" group-title="قنوات مسيحية",Al Fadi
 http://media.smc-host.com:1935/alfadytv.tv/alfadytv.smil/chunklist_w520464216_b1896000_slar_t64SEQ=.m3u8
