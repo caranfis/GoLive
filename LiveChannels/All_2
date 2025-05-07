@@ -12,32 +12,11 @@ https://edge66.magictvbox.com/liveApple/rotana_classic/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Khalijia
 https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile Cinema
-http://93.184.10.248/NileCinema/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات عربية",MBC 1
 https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index_8.m3u8
 
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/M/mbc-2-logo-734482AC24-seeklogo.com.png" group-title="قنوات عربية",MBC 2
 https://edge66.magictvbox.com/liveApple/MBC_2/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC Action HD
-http://supersonictv.live:8080/Betty1/Betty1/84010
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC Max HD
-http://supersonictv.live:8080/Betty1/Betty1/84011
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC Variety+ HD
-http://supersonictv.live:8080/Betty1/Betty1/84014
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ART Aflam 1
-http://supersonictv.live:8080/Betty1/Betty1/84021
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ART Aflam 2
-http://supersonictv.live:8080/Betty1/Betty1/84022
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ART Cinema
-http://supersonictv.live:8080/Betty1/Betty1/84023
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Cairo+ Today
 https://ffs3.gulfsat.com/hbc/index.m3u8
@@ -80,90 +59,6 @@ https://edge66.magictvbox.com/liveApple/AlNaharOne/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ON Drama
 https://edge66.magictvbox.com/liveApple/ChannelonDrama/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile Life
-http://supersonictv.live:8080/Betty1/Betty1/84068
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",NILE FAMILY
-http://supersonictv.live:8080/Betty1/Betty1/84069
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",NILE Drama
-http://supersonictv.live:8080/Betty1/Betty1/84070
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile Comedy
-http://supersonictv.live:8080/Betty1/Betty1/84071
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile Cinema
-http://supersonictv.live:8080/Betty1/Betty1/84072
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC Sofra
-http://supersonictv.live:8080/Betty1/Betty1/84073
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC
-http://supersonictv.live:8080/Betty1/Betty1/84074
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nahar drama
-http://supersonictv.live:8080/Betty1/Betty1/84075
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Al Nahar
-http://supersonictv.live:8080/Betty1/Betty1/84076
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC DRAMA
-http://supersonictv.live:8080/Betty1/Betty1/84077
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DMC LIVE
-http://supersonictv.live:8080/Betty1/Betty1/84078
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile TV
-http://supersonictv.live:8080/Betty1/Betty1/84087
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ON HD
-http://supersonictv.live:8080/Betty1/Betty1/84088
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ON Live
-http://supersonictv.live:8080/Betty1/Betty1/84089
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ON Drama
-http://supersonictv.live:8080/Betty1/Betty1/84091
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",PNC Food
-http://supersonictv.live:8080/Betty1/Betty1/84092
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",PNC Film
-http://supersonictv.live:8080/Betty1/Betty1/84093
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",PNC Drama
-http://supersonictv.live:8080/Betty1/Betty1/84094
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",PNC Drama 2
-http://supersonictv.live:8080/Betty1/Betty1/84095
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Al Hayat Drama
-http://supersonictv.live:8080/Betty1/Betty1/84096
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Dmc Drama HD
-http://supersonictv.live:8080/Betty1/Betty1/84097
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",SADAL BALAD 2
-http://supersonictv.live:8080/Betty1/Betty1/84098
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Al kahera Wa Lnas
-http://supersonictv.live:8080/Betty1/Betty1/84101
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Melody Classic
-http://supersonictv.live:8080/Betty1/Betty1/84102
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Al masriya
-http://supersonictv.live:8080/Betty1/Betty1/84103
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Dream TV
-http://supersonictv.live:8080/Betty1/Betty1/84104
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",mehwar TV
-http://supersonictv.live:8080/Betty1/Betty1/84105
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",SADAL BALAD Drama
-http://supersonictv.live:8080/Betty1/Betty1/84106
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Lana TV
 https://p-ltv.akamaized.net/ltv/ltv_2.m3u8
