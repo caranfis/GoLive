@@ -24,10 +24,10 @@ https://edge66.magictvbox.com/liveApple/MBC_2/tracks-v1a1/playlist.m3u8
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
-#EXTINF:-1 ,Movies Action (1080p)
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Movies Action
 https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
 
-#EXTINF:-1 ,Movies Thriller (1080p)
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Movies Thriller
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="قنوات عربية",MBC 4
@@ -51,7 +51,7 @@ https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-dramap.png" group-title="قنوات عربية",MBC DRAMA+
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
-#EXTINF:-1 ,Bab Al Hara (1080p)
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Bab Al Hara
 https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DMC
