@@ -96,22 +96,6 @@ https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Dubai Zaman
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1700000.m3u8
 
-#EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="قنوات عربية",Jordan TV
-https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png" group-title="قنوات عربية",MBC FM
-https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Watar
-http://htvint.mada.ps:8889/orient/mono.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Thikrayat
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/ADM_Abu_Dhabi_tv_2023.png/revision/latest?cb=20231004191532" group-title="قنوات عربية",Abu Dhabi TV
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Alhayat-Drama Blue
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Lana TV
-#EXTINF:-1  tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="قنوات عربية",Wanasah
-#EXTINF:-1  group-title="قنوات عربية",Panorama FM
-
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Al Masriyah
 https://fl1002.bozztv.com/ga-almasriya/index.m3u8
 
@@ -139,88 +123,47 @@ https://fl1002.bozztv.com/ga-cbcdrama/index.m3u8
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC Sofra
 https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",El Mehwar Channel
+https://fl1002.bozztv.com/ga-elmehwar/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",On Drama
+https://fl1002.bozztv.com/ga-ondrama/index.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",On E
+https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",PNC Drama
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",CGTN Arabic
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",CNBC Arabiya
 https://cnbc-live.akamaized.net/cnbc/master.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DMC Drama
-https://fl1002.bozztv.com/ga-dmcdrama/index.m3u8
-
 #EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",DW Arabic
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",El Mehwar Channel
-https://fl1002.bozztv.com/ga-elmehwar/tracks-v1a1/mono.m3u8
-
-
-
-
-
-
-#EXTINF:-1 ,MBC 1 (1080p)
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
-
-#EXTINF:-1 ,MBC 2 (480p)
-https://edge66.magictvbox.com/liveApple/MBC_2/index.m3u8
-
-#EXTINF:-1 ,MBC 4 (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
-
-#EXTINF:-1 ,MBC 5 (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
-
-#EXTINF:-1 ,MBC Bollywood (1080p) [Geo-blocked]
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
-
-#EXTINF:-1 ,MBC Drama KSA (1080p)
-https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
-
-#EXTINF:-1 ,MBC FM (1080p)
-https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8
-
-#EXTINF:-1 ,MBC Masr 2 (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
-
-#EXTINF:-1 ,Movies Action (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
-
-#EXTINF:-1 ,Movies Thriller (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-
-#EXTINF:-1 ,MTV Hits Europe
-http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
-
-#EXTINF:-1 ,On Drama
-https://fl1002.bozztv.com/ga-ondrama/index.m3u8
-
-#EXTINF:-1 ,On E (1080p)
-https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8
-
-#EXTINF:-1 ,PNC Drama (1080p)
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
-
-#EXTINF:-1 ,Qwest TV (1080p)
-https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
-
-#EXTINF:-1 ,Rai Italia
-https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
-
-#EXTINF:-1 ,Ramez (1080p)
-https://shls-live-enc.edgenextcdn.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8
-
-#EXTINF:-1 ,RT Arabic (1080p) [Geo-blocked]
+#EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",RT Arabic
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 
-#EXTINF:-1 ,Spacetoon Arabic (1080p)
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8
-
-#EXTINF:-1 ,TVI �frica (480p) [Not 24/7]
-https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8
-
-#EXTINF:-1 ,Wanasah (1080p)
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wanasa.png" group-title="قنوات عربية",Wanasah
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png" group-title="قنوات عربية",MBC FM
+https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_1.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Watar
+http://htvint.mada.ps:8889/orient/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MTV Hits Europe
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Qwest TV
+https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rai Italia
+https://ilglobotv-live.akamaized.net/channels/RAIItaliaSudAfrica/Live.m3u8
 
 ######################################################################################################################################
 
