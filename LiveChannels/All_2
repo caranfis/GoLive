@@ -9,6 +9,9 @@ https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Classic
 https://edge66.magictvbox.com/liveApple/rotana_classic/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Aflam
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_1.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Khalijia
 https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
 
@@ -17,9 +20,6 @@ https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/in
 
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/M/mbc-2-logo-734482AC24-seeklogo.com.png" group-title="قنوات عربية",MBC 2
 https://edge66.magictvbox.com/liveApple/MBC_2/tracks-v1a1/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Aflam
-https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_1.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
@@ -3452,3 +3452,6 @@ https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="http://www.riseuptv.tv/wp-content/uploads/2020/08/cropped-Al-Kiama-TV-Logo-2_RedWhite-small.png" group-title="قنوات مسيحية",Al-Qiama-TV
 https://5d12bc59c4748.streamlock.net/redirect/riseuptv.tv/riseup?type=m3u8
+
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/I/81944agoE0L.png" group-title="قنوات مسيحية",ABNSAT
+https://mediaserver.abnvideos.com/streams/abnsat.m3u8
