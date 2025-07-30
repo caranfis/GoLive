@@ -18,17 +18,23 @@ https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/in
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/M/mbc-2-logo-734482AC24-seeklogo.com.png" group-title="قنوات عربية",MBC 2
 https://edge66.magictvbox.com/liveApple/MBC_2/tracks-v1a1/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Cairo+ Today
-https://ffs3.gulfsat.com/hbc/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Aflam
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_1.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
+#EXTINF:-1 ,Movies Action (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index.m3u8
+
+#EXTINF:-1 ,Movies Thriller (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="قنوات عربية",MBC 4
-https://shls-mbc4-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index_1.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc5.png" group-title="قنوات عربية",MBC 5
-https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index_1.m3u8
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-iraq.png" group-title="قنوات عربية",MBC Iraq
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
@@ -36,17 +42,14 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39c
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr2.png" group-title="قنوات عربية",MBC MASR 1
 https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
 
-#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr2.png" group-title="قنوات عربية",MBC MASR 2
-https://shls-masr2-prod-dub.shahid.net/out/v1/f683685242b549f48ea8a5171e3e993a/index_1.m3u8
-
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-drama.png" group-title="قنوات عربية",MBC DRAMA
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-dramap.png" group-title="قنوات عربية",MBC DRAMA+
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Alhayat-Drama Blue
-https://stream.wsla.top/live/qanwatlive/qanwatlive/4.m3u8
+#EXTINF:-1 ,Bab Al Hara (1080p)
+https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DMC
 https://edge66.magictvbox.com/liveApple/ChannelDMC/tracks-v1a1/mono.m3u8
@@ -60,9 +63,6 @@ https://edge66.magictvbox.com/liveApple/AlNaharOne/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ON Drama
 https://edge66.magictvbox.com/liveApple/ChannelonDrama/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Lana TV
-https://p-ltv.akamaized.net/ltv/ltv_2.m3u8
-
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Mix Hollywood
 https://edge66.magictvbox.com/liveApple/mix_hollywood/tracks-v1a1/mono.m3u8
 
@@ -74,9 +74,6 @@ http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/imn/general1/chu
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Al Rasheed
 https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/ADM_Abu_Dhabi_tv_2023.png/revision/latest?cb=20231004191532" group-title="قنوات عربية",Abu Dhabi TV
-https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiChannel/HLS/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="قنوات اخبار",AL ARABIYA
 https://live.alarabiya.net/alarabiapublish/alarabiya_1080p/playlist.m3u8
@@ -93,20 +90,11 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000
 #EXTINF:-1  tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="قنوات اخبار",Dijlah
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Thikrayat
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/ef87956651694f4ba2ccc16e852dbb95/index_1.m3u8
-
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Dubai Zaman
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1700000.m3u8
 
 #EXTINF:-1  tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/x/Mp/1/Poster.png" group-title="قنوات عربية",Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="قنوات عربية",Wanasah
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
-
-#EXTINF:-1  group-title="قنوات عربية",Panorama FM
-https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_1.m3u8
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png" group-title="قنوات عربية",MBC FM
 https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_1.m3u8
@@ -114,7 +102,13 @@ https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Watar
 http://htvint.mada.ps:8889/orient/mono.m3u8
 
-
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Thikrayat
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/ADM_Abu_Dhabi_tv_2023.png/revision/latest?cb=20231004191532" group-title="قنوات عربية",Abu Dhabi TV
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr2.png" group-title="قنوات عربية",MBC MASR 2
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Alhayat-Drama Blue
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Lana TV
+#EXTINF:-1  tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="قنوات عربية",Wanasah
+#EXTINF:-1  group-title="قنوات عربية",Panorama FM
 
 ######################################################################################################################################
 
@@ -3439,7 +3433,7 @@ https://archive.org/download/Yawmeyaat.Wanis.Wa.Ahfadoh.S06.By.cdhaty/Yawmeyaat.
 ########################################################## قنوات مسيحية ###################################################################
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/9HocMyE.jpg" group-title="قنوات مسيحية",Al Hayat TV
-http://supersonictv.live:8080/Betty1/Betty1/84100
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b2128000.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/9HocMyE.jpg" group-title="قنوات مسيحية",Al Fadi
 http://media.smc-host.com:1935/alfadytv.tv/alfadytv.smil/chunklist_w520464216_b1896000_slar_t64SEQ=.m3u8
@@ -3458,36 +3452,3 @@ https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="http://www.riseuptv.tv/wp-content/uploads/2020/08/cropped-Al-Kiama-TV-Logo-2_RedWhite-small.png" group-title="قنوات مسيحية",Al-Qiama-TV
 https://5d12bc59c4748.streamlock.net/redirect/riseuptv.tv/riseup?type=m3u8
-
-#EXTINF:-1  tvg-logo="https://i.imgur.com/VCfZB73.png" group-title="قنوات مسيحية",Al Horreya TV
-http://media.smc-host.com:1935/alhorreya.tv/_definst_/mp4:alhorreya3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TheKingdomSat.eg" tvg-logo="https://i.imgur.com/6xa14aQ.png" group-title="قنوات مسيحية",The Kingdom Sat
-https://svs.itworkscdn.net/kingdomsatlive/kingdomsat.smil/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="LogosTV.us" tvg-logo="https://logoschannel.com/images/logo.png" group-title="قنوات مسيحية",Logos TV Mubasher
-https://5aafcc5de91f1.streamlock.net/logoschannel.com/logoshym/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV USA
-https://5d658d7e9f562.streamlock.net/alkarmatv.com/alkarmaNA1.smil/chunklist_w250487669_b1628000_slar.m3u8
-
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV Plus
-https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/chunklist_w398989404_b2328000_slar.m3u8
-
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV MidEast
-https://5a8308add0b31.streamlock.net/alkarmatv.com/alkarmaME1.smil/chunklist_w1657191450_b1628000_slar.m3u8
-
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",Alkarma TV Australia
-https://5d658d7e9f562.streamlock.net/alkarmatv.com/alkarmaAU.smil/chunklist_w1326771803_b1628000_slar.m3u8
-
-#EXTINF:-1  tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg" group-title="قنوات مسيحية",SAT-7
-https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/sat7arabicpublish/sat7arabic_720p/chunks_dvr.m3u8
-
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/12/CopticTelevision.jpg/revision/latest?cb=20210723194712" group-title="قنوات مسيحية",CTV
-https://5d658d7e9f562.streamlock.net/ctvchannel.tv/ctv.smil/chunklist_w1842680643_b1728000_slar_t64SEQ=.m3u8
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="قنوات مسيحية",فلم يسوع بالكلداني
-https://archive.org/download/jesus-film-chaldean-language/JESUS%20Film%20Chaldean%20Language.mp4
-
-#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="قنوات مسيحية",فلم يسوع بالعربي
-https://archive.org/download/jesus-film-arabic-modern-standard/JESUS%20Film%20Arabic%20Modern%20Standard.mp4
