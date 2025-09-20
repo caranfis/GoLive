@@ -3,20 +3,47 @@
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="قنوات عربية",Rotana Cinema
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_1/chunklist.m3u8
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Aflam
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_1.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Masrah
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/masrahyyat/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Comedy
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Adel Imam-1
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/adel-imam-movies/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Adel Imam-2
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alzaeem/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Maraya
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/maraya/playlist/0.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Music
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-music/playlist/0.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Aflam
-https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Action
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/action/playlist/0.m3u8
 
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات عربية",MBC 1
-https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Shamyeh
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/by2ah-shamyeh/playlist/0.m3u8
 
-#EXTINF:-1  tvg-logo="https://seeklogo.com/images/M/mbc-2-logo-734482AC24-seeklogo.com.png" group-title="قنوات عربية",MBC 2
-https://edge66.magictvbox.com/liveApple/MBC_2/tracks-v1a1/playlist.m3u8
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Kitchen
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Caravan
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/caravan/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya World
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/around-the-world/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Adventures
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-adventures/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Drama
+https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/0.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
@@ -45,26 +72,8 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0a
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-drama.png" group-title="قنوات عربية",MBC DRAMA
 https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
 
-#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-dramap.png" group-title="قنوات عربية",MBC DRAMA+
-https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index_1.m3u8
-
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Bab Al Hara
 https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DMC
-https://edge66.magictvbox.com/liveApple/ChannelDMC/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Panorama Drama
-https://edge66.magictvbox.com/liveApple/panorama_drama_i/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Al Nahar One
-https://edge66.magictvbox.com/liveApple/AlNaharOne/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ON Drama
-https://edge66.magictvbox.com/liveApple/ChannelonDrama/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Mix Hollywood
-https://edge66.magictvbox.com/liveApple/mix_hollywood/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://alsharqiya.com/Content/web-assets/img/logo.png" group-title="قنوات عربية",Al Sharqiya TV
 https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w19563613.m3u8
