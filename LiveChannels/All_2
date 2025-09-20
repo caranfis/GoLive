@@ -3,20 +3,14 @@
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1f/Rotana_Cinema_EG_New.png" group-title="قنوات عربية",Rotana Cinema
 https://bcovlive-a.akamaihd.net/9527a892aeaf43019fd9eeb77ad1516e/eu-central-1/6057955906001/profile_1/chunklist.m3u8
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAk884HHYrjyFucz5VbT5J29ZP6z3-IYNZCA&s" group-title="قنوات عربية",Rotana Comedy
-http://154.58.202.185:8000/play/a0b5
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Masrah
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/masrahyyat/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Music
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-music/playlist/0.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Aflam
 https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_1.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Classic
-https://edge66.magictvbox.com/liveApple/rotana_classic/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Drama
-http://154.58.202.185:8000/play/a0b8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Khalijia
-https://edge66.magictvbox.com/liveApple/rotana_khalijiah/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/81/Mbc1logo.png" group-title="قنوات عربية",MBC 1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8
