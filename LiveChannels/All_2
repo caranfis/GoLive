@@ -6,12 +6,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Shahid Aflam
 https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_1.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Al-Hayat
-https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alhayathd/playlist.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Zekrayat Zaman Cinema
-https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119688/zekrayatzamancinema/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Masrah
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/masrahyyat/playlist/0.m3u8
 
@@ -59,8 +53,6 @@ https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/in
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Movies Thriller
 https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 1
 
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="قنوات عربية",MBC 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
@@ -123,9 +115,6 @@ https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000
 
 #EXTINF:-1  tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="قنوات اخبار",Dijlah
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",Al Qahera News
-https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",CGTN Arabic
 https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
