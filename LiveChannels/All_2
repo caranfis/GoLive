@@ -69,9 +69,6 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 2
-http://vipuywc.top:8080/VIP018431738422729326/ab6cb43c362d/6420
-
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="قنوات عربية",MBC 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 
@@ -88,31 +85,25 @@ https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-drama.png" group-title="قنوات عربية",MBC DRAMA
-https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Bab Al Hara
-https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
+https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index_1.m3u8
 
 #EXTINF:-1  tvg-logo="https://alsharqiya.com/Content/web-assets/img/logo.png" group-title="قنوات عربية",Al Sharqiya TV
 https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w19563613.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Al Rasheed
-https://media1.livaat.com/static/AL-RASHEED-HD/playlist.m3u8
-
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Dubai Zaman
 https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1700000.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Bab Al Hara
-https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="قنوات عربية",Future TV
-https://live.kwikmotion.com/futurelive/ftv.smil/playlist.m3u8
+https://live.kwikmotion.com/futurelive/ftv.smil/futurepublish/futuretv_source/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="قنوات عربية",LTV
-https://p-ltv.akamaized.net/ltv/ltv.m3u8
+https://p-ltv.akamaized.net/ltv/ltv_1.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O4DuR9G.png" group-title="قنوات عربية",One TV
-https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8
+https://hms.pfs.gdn/hms/v1/broadcast/one/backup/tracks-v1a1/mono.m3u8?token=tHeyezHr1ktzYtfqz1kjFg:OSr3thHkbFeaE4rT-c7yok8grbRkjmnaJCXSae9RL-mYgujEsalm7HNqlfDoM_Yx-UsHX8Wd0HdZ1uVGqDN20akNU1lIX-dXEnyMftr8vm_jqQG7ATe3mDY6NstYTC91mxJQlSltyouLckawu4KtvYjLjzWZIWizgTzzRrrDqYB22kGaMNPLutigmM_cDsg26xGBCsz4QP7bAR9BrdQIAniYMrxkLK14M6mL7wFUbAE
 
 
 
@@ -146,7 +137,7 @@ https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="أغاني",Aghani Aghani
-https://streaming-a-1035.cdn.nextologies.com/6zj8y5nemi8a32vyjjbkv0oqx/77pcakd8reik3g8qdqnexlkmq/playlist.m3u8
+https://streaming-a-1035.cdn.nextologies.com/4tz2e4r7ns3oefuk51su/fxirbrhsofcbocral8vc/chunks.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wanasa.png" group-title="أغاني",Wanasah
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
@@ -164,7 +155,7 @@ https://pmcrohls.wns.live/hls/stream.m3u8
 http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 
 #EXTINF:-1  tvg-logo="" group-title="أغاني",Qwest TV
-https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8
+https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-qwestjazz-rakuten/cb543b186570648e84c83b6ecef046a1f90b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f19c060017d351f3e9f4c80381ec0c07aa341763a1d759b86b262c9c54b52e7c8787f79e8250c45fa0b10822d5a208aa419588164f8285415b8446f0e61daf00bab720193815b822b2f8badbf310355628e64906fcf923bc0eddc381b8128f4e50c2bd17e01b2c160e1ee2ec5f1f4c64a8eb45ccc6ac2d0b4d3c361dfd3d33afa0698544338703bf1081ee24a984d7edae91bbc08b0759d901db7ab5e0453a74a464ef1fccaf046f71acd88228e5ad0da6ac5628b2a8367a608e8b400f0edf3e84b4f3dabd348210994a5f6c4aa6e738974f2a6ecd36733ceb8442307db7b82737a76c0b48b188dc810d6912686bf666f4baaf8729293b68cf8a3cd1dee43e4f3b4ce731334326e6bab54a18862c826db6cd2b53a2f484856a39f4184a3c14e3c6d5d83921e99532cb0d58f8cc81d79ad441e49e374d64b0f0f9d673b9c84ec3923940a28edfa248c91669e834c1f8688248b3c/137/1920x1080_6046040/index.m3u8
 
 ######################################################################################################################################
 
