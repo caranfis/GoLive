@@ -1,1 +1,320 @@
 #EXTM3U
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana +HD
+https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Shahid Aflam
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",PNC Drama
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana M-Plus
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Masrah
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/masrahyyat/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Comedy
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Adel Imam-1
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/adel-imam-movies/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Adel Imam-2
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alzaeem/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Maraya
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/maraya/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Music
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-music/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Action
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/action/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Shamyeh
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/by2ah-shamyeh/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Kitchen
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Caravan
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/caravan/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya World
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/around-the-world/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Adventures
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-adventures/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Drama
+https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Documentary
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/documentaries/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Dubai One
+https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Movies Action
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Movies Thriller
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="قنوات عربية",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc5.png" group-title="قنوات عربية",MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-iraq.png" group-title="قنوات عربية",MBC Iraq
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr2.png" group-title="قنوات عربية",MBC MASR 1
+https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr2.png" group-title="قنوات عربية",MBC MASR 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-drama.png" group-title="قنوات عربية",MBC DRAMA
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Bab Al Hara
+https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="https://alsharqiya.com/Content/web-assets/img/logo.png" group-title="قنوات عربية",Al Sharqiya TV
+https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w19563613.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Dubai Zaman
+https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1700000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="قنوات عربية",Future TV
+https://live.kwikmotion.com/futurelive/ftv.smil/futurepublish/futuretv_source/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="قنوات عربية",LTV
+https://p-ltv.akamaized.net/ltv/ltv_1.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O4DuR9G.png" group-title="قنوات عربية",One TV
+https://hms.pfs.gdn/hms/v1/broadcast/one/backup/tracks-v1a1/mono.m3u8?token=tHeyezHr1ktzYtfqz1kjFg:OSr3thHkbFeaE4rT-c7yok8grbRkjmnaJCXSae9RL-mYgujEsalm7HNqlfDoM_Yx-UsHX8Wd0HdZ1uVGqDN20akNU1lIX-dXEnyMftr8vm_jqQG7ATe3mDY6NstYTC91mxJQlSltyouLckawu4KtvYjLjzWZIWizgTzzRrrDqYB22kGaMNPLutigmM_cDsg26xGBCsz4QP7bAR9BrdQIAniYMrxkLK14M6mL7wFUbAE
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="قنوات اخبار",AL ARABIYA
+https://live.alarabiya.net/alarabiapublish/alarabiya_1080p/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="قنوات اخبار",AL JAZEERA MUBASHER
+https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",AL HURRA
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master_2596.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="قنوات اخبار",Alaraby TV
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
+
+#EXTINF:-1  tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="قنوات اخبار",Dijlah
+https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",CGTN Arabic
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",CNBC Arabiya
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",RT Arabic
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="أغاني",Aghani Aghani
+https://streaming-a-1035.cdn.nextologies.com/4tz2e4r7ns3oefuk51su/fxirbrhsofcbocral8vc/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wanasa.png" group-title="أغاني",Wanasah
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/O4DuR9G" group-title="أغاني",One FM
+https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="أغاني",Watar
+http://htvint.mada.ps:8889/orient/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png" group-title="أغاني",PMC Royale
+https://pmcrohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="أغاني",MTV Hits Europe
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
+
+#EXTINF:-1  tvg-logo="" group-title="أغاني",Qwest TV
+https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-qwestjazz-rakuten/cb543b186570648e84c83b6ecef046a1f90b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f19c060017d351f3e9f4c80381ec0c07aa341763a1d759b86b262c9c54b52e7c8787f79e8250c45fa0b10822d5a208aa419588164f8285415b8446f0e61daf00bab720193815b822b2f8badbf310355628e64906fcf923bc0eddc381b8128f4e50c2bd17e01b2c160e1ee2ec5f1f4c64a8eb45ccc6ac2d0b4d3c361dfd3d33afa0698544338703bf1081ee24a984d7edae91bbc08b0759d901db7ab5e0453a74a464ef1fccaf046f71acd88228e5ad0da6ac5628b2a8367a608e8b400f0edf3e84b4f3dabd348210994a5f6c4aa6e738974f2a6ecd36733ceb8442307db7b82737a76c0b48b188dc810d6912686bf666f4baaf8729293b68cf8a3cd1dee43e4f3b4ce731334326e6bab54a18862c826db6cd2b53a2f484856a39f4184a3c14e3c6d5d83921e99532cb0d58f8cc81d79ad441e49e374d64b0f0f9d673b9c84ec3923940a28edfa248c91669e834c1f8688248b3c/137/1920x1080_6046040/index.m3u8
+
+######################################################################################################################################
+
+######################################################################### افلام اجنبية ####################################################################
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(The Hunt for Red October - 1990)
+https://archive.org/download/aflamagnabiya/41.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(Cleopatra - 1963)
+https://archive.org/download/aflamagnabiya/40.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(Escape From Alcatraz - 1979)
+https://archive.org/download/aflamagnabiya/39.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(The Grinch - 2018)
+https://archive.org/download/aflamagnabiya/38.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(The Goat Life - 2024)
+https://archive.org/download/aflamagnabiya/37.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="افلام اجنبية",(Society Of The Snow - 2023)
+https://archive.org/download/aflamagnabiya/36.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://www2.yts.nz/assets/images/movies/mission_impossible_dead_reckoning_part_one_2023/medium-cover.jpg" group-title="افلام اجنبية",(Mission: Impossible - Dead Reckoning Part One - 2023)
+https://archive.org/download/aflamagnabiya/29.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://www2.yts.nz/assets/images/movies/The_Day_After_Tomorrow_2004/medium-cover.jpg" group-title="افلام اجنبية",(The Day After Tomorrow - 2004)
+https://archive.org/download/aflamagnabiya/30.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://img.yts.mx/assets/images/movies/french_kiss_1995/medium-cover.jpg" group-title="افلام اجنبية",(French Kiss - 1995)
+https://archive.org/download/aflamagnabiya/25.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://www2.yts.nz/assets/images/movies/Mrs_Doubtfire_1993/medium-cover.jpg" group-title="افلام اجنبية",(Mrs.Doubtfire - 1993)
+https://archive.org/download/aflamagnabiya/27.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://archive.org/download/images_20230809/Awakening1990.jpg" group-title="افلام اجنبية",(Awakenings - 1990)
+https://archive.org/download/aflamagnabiya/34.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://img.yts.mx/assets/images/movies/Philadelphia_1993/medium-cover.jpg" group-title="افلام اجنبية",(Philadelphia - 1993)
+https://archive.org/download/aflamagnabiya/28.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://img.yts.mx/assets/images/movies/The_Untouchables_1987/medium-cover.jpg" group-title="افلام اجنبية",(The Untouchables - 1987)
+https://archive.org/download/aflamagnabiya/31.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://www2.yts.nz/assets/images/movies/Apollo_13_1995/medium-cover.jpg" group-title="افلام اجنبية",(Apollo 13 - 1995)
+https://archive.org/download/aflamagnabiya/32.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://image.tmdb.org/t/p/w300_and_h450_bestv2/4jeoPpAtyPWMavXRPSrMYhy3BpK.jpg" group-title="افلام اجنبية",(Road to Perdition - 2002)
+https://archive.org/download/aflamagnabiya/33.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://www.clearplay.com/MovieBattle/images/tt0099653-1.jpg" group-title="افلام اجنبية",(Ghost - 1990)
+https://archive.org/download/aflamagnabiya/26.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://img.yts.mx/assets/images/movies/bridge_of_spies_2015/medium-cover.jpg" group-title="افلام اجنبية",(Bridge of Spies - 2015)
+https://archive.org/download/aflamagnabiya/5.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://img.yts.mx/assets/images/movies/The_Rock_1996/medium-cover.jpg" group-title="افلام اجنبية",(The Rock - 1996)
+https://archive.org/download/aflamagnabiya/24.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://image.tmdb.org/t/p/original/gJjbjViOhKvin3ytbtG0AYxC7pp.jpg" group-title="افلام اجنبية",(Enemy at the Gate - 2001)
+https://archive.org/download/aflamagnabiya/23.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p14843_v_v13_an.jpg" group-title="افلام اجنبية",(Sleepless in Seattle - 1993)
+https://archive.org/download/aflamagnabiya/22.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://img1.teletype.in/files/8a/f9/8af9cb7f-fc9d-4d66-ba33-e8004b8b51af.jpeg" group-title="افلام اجنبية",(Schindler's List - 1993)
+https://archive.org/download/aflamagnabiya/17.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://m.media-amazon.com/images/I/71h0QNbo79L._AC_UF894,1000_QL80_.jpg" group-title="افلام اجنبية",(The Good the Bad and the Ugly - 1966)
+https://archive.org/download/aflamagnabiya/3.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://archive.org/download/images_20230809/groundhogday.jpg" group-title="افلام اجنبية",(Groundhog Day - 1993)
+https://archive.org/download/aflamagnabiya/18.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://archive.org/download/images_20230809/savingmrbanks.jpeg" group-title="افلام اجنبية",(Saving Mr. Banks - 2013)
+https://archive.org/download/aflamagnabiya/19.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://img.yts.mx/assets/images/movies/Cube_1997/medium-cover.jpg" group-title="افلام اجنبية",(Cube - 1997)
+https://archive.org/download/aflamagnabiya/20.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTYxMTYyNzI1NV5BMl5BanBnXkFtZTYwOTA0NjA5._V1_.jpg" group-title="افلام اجنبية",(Dracula Dead and Loving It - 1995)
+https://archive.org/download/aflamagnabiya/6.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://pbs.twimg.com/media/GAVdhSDboAADfAC?format=jpg&name=4096x4096" group-title="افلام اجنبية",(The Naked Gun: From the Files of Police Squad - 1988)
+https://archive.org/download/aflamagnabiya/7.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/7ae0a259f3eeb0cbd91560bc30bbd42eb0853addbc06278bf153f2e5a0ca8786.jpg" group-title="افلام اجنبية",(The Naked Gun 2 1/2: The Smell of Fear - 1991)
+https://archive.org/download/aflamagnabiya/11.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://image.tmdb.org/t/p/w500/6FG3aldS4eVD4baKwmAi9P8kdRS.jpg" group-title="افلام اجنبية",(Wrongfully Accused - 1998)
+https://archive.org/download/aflamagnabiya/13.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://www.tvguide.com/a/img/catalog/provider/1/2/1-172507697.jpg" group-title="افلام اجنبية",(Spy Hard - 1996)
+https://archive.org/download/aflamagnabiya/14.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://static0.moviewebimages.com/wordpress/wp-content/uploads/movie/mEr52YBbJWdimwLVQR8Ftw4c5YEmqy.jpg" group-title="افلام اجنبية",(Face Off - 1997)
+https://archive.org/download/aflamagnabiya/9.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://themovingpicturereview.files.wordpress.com/2016/12/die9am.jpg" group-title="افلام اجنبية",(Die Hard - 1988)
+https://archive.org/download/aflamagnabiya/8.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://img.yts.mx/assets/images/movies/airplane_ii_the_sequel_1982/medium-cover.jpg" group-title="افلام اجنبية",(Airplane.II.The.Sequel - 1982)
+https://archive.org/download/aflamagnabiya/16.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/p1671_v_v12_aj.jpg" group-title="افلام اجنبية",(Airplane - 1980)
+https://archive.org/download/aflamagnabiya/15.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://www.picclickimg.com/5XcAAOSwSb5k-0x6/Les-Fous-du-Stade-Les-charlots-dvd.webp" group-title="افلام اجنبية",(Les Charlots - Les Fous Du Stade 1972)
+https://archive.org/download/aflamagnabiya/1.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://alchetron.com/cdn/Barabbas-1961-film-images-9ab00416-71c2-4f7a-9fc0-392a13f08cb.jpg" group-title="افلام اجنبية",(Barabbas - 1961)
+https://archive.org/download/aflamagnabiya/10.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://i.pinimg.com/736x/54/7c/45/547c45b2b54d8fbeaca651f453a96e10.jpg" group-title="افلام اجنبية",(Psycho - 1960)
+https://archive.org/download/aflamagnabiya/2.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="https://img.yts.mx/assets/images/movies/12_Angry_Men_1957/medium-cover.jpg" group-title="افلام اجنبية",(12 Angry Men - 1957)
+https://archive.org/download/aflamagnabiya/4.mp4
+
+######################################################################### مسرحيات ####################################################################
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",شاهد ماشافش حاجة
+https://archive.org/download/masrahyat_202312/Shahid_mashfsh_hajatan_1976.1080p.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",الواد سيد الشغال
+https://archive.org/download/FullBack.Masrhyat.AlZaeem.HD/%D8%A7%D9%84%D9%88%D8%A7%D8%AF%20%D8%B3%D9%8A%D8%AF%20%D8%A7%D9%84%D8%B4%D8%BA%D8%A7%D9%84.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",مدرسة المشاغبين
+https://archive.org/download/masrahyat_202312/Madrasat%20Almushagibeen.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",العيال كبرت
+https://archive.org/download/20210116_20210116_0815/%D8%A7%D9%84%D8%B9%D9%8A%D8%A7%D9%84%20%D9%83%D8%A8%D8%B1%D8%AA.ts
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",ريا و سكينة
+https://archive.org/download/masrahyat_202312/Raya_W_Sakina_1080p.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",حزمني يا
+https://archive.org/download/masrahyat_202312/Hazmni.Ya.1994.Cima4U.mp4
+
+#EXTINF:-1 tvg-id="200" tvg-logo="" group-title="مسرحيات",على الرصيف
+https://archive.org/download/masrahyat_202312/3la%20ELRaseef%20720p.mp4
+
+########################################################## قنوات مسيحية ###################################################################
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/9HocMyE.jpg" group-title="قنوات مسيحية",Al Hayat TV
+https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/chunklist_b2128000.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/9HocMyE.jpg" group-title="قنوات مسيحية",Al Fadi
+http://media.smc-host.com:1935/alfadytv.tv/alfadytv.smil/chunklist_w520464216_b1896000_slar_t64SEQ=.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/QrwZu4W.png" group-title="قنوات مسيحية",NourSAT
+https://svs.itworkscdn.net/nour4satlive/livestream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/5VvPLEl.jpg" group-title="قنوات مسيحية",Nour Al Koddas
+https://svs.itworkscdn.net/nour1satlive/livestream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/hiAwky4.jpg" group-title="قنوات مسيحية",Nour Al Sharq
+https://svs.itworkscdn.net/nour8satlive/livestream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/Ow5Lqh6.jpg" group-title="قنوات مسيحية",Nour Mariam
+https://svs.itworkscdn.net/nour9satlive/livestream/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.riseuptv.tv/wp-content/uploads/2020/08/cropped-Al-Kiama-TV-Logo-2_RedWhite-small.png" group-title="قنوات مسيحية",Al-Qiama-TV
+https://5d12bc59c4748.streamlock.net/redirect/riseuptv.tv/riseup?type=m3u8
+
+#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/I/81944agoE0L.png" group-title="قنوات مسيحية",ABNSAT
+https://mediaserver.abnvideos.com/streams/abnsat.m3u8
+
+#EXTINF:-1  tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_nQ_2J30oMghd_xKMr0oOrn4YDFPc9bSKdo8nPTUvtspA=s900-c-k-c0x00ffffff-no-rj" group-title="قنوات مسيحية",Elbeshara GTV
+http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
