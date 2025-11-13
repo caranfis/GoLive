@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Cinema
+http://supersonictv.live:8080/Wireless1/Wireless1/84024
+
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana +HD
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 
