@@ -1,19 +1,172 @@
 #EXTM3U
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Shahid Aflam
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Cinema
+http://supersonictv.live:8080/Wireless1/Wireless1/84024
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Comedy
+http://supersonictv.live:8080/Wireless1/Wireless1/84025
+
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana +HD
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Clip
+http://supersonictv.live:8080/Wireless1/Wireless1/84028
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Music
+http://supersonictv.live:8080/Wireless1/Wireless1/84030
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile Cinema
+http://supersonictv.live:8080/Wireless1/Wireless1/84072
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile Drama
+http://supersonictv.live:8080/Wireless1/Wireless1/84070
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile Life
+http://supersonictv.live:8080/Wireless1/Wireless1/84068
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC Sofra
+http://supersonictv.live:8080/Wireless1/Wireless1/84073
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC
+http://supersonictv.live:8080/Wireless1/Wireless1/84074
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC Drama
+http://supersonictv.live:8080/Wireless1/Wireless1/84077
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ON E
+http://supersonictv.live:8080/Wireless1/Wireless1/84088
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ON Drama
+http://supersonictv.live:8080/Wireless1/Wireless1/84091
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",PNC Film
+http://supersonictv.live:8080/Wireless1/Wireless1/84093
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ART Aflam 2
+http://supersonictv.live:8080/Wireless1/Wireless1/84022
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ART Cinema
+http://supersonictv.live:8080/Wireless1/Wireless1/84023
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nahar Drama
+http://supersonictv.live:8080/Wireless1/Wireless1/84075
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DMC Drama
+http://supersonictv.live:8080/Wireless1/Wireless1/84097
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",PNC Drama
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana M-Plus
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/m-plus/master.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Masrah
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/masrahyyat/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Comedy
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-comedy/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Adel Imam-1
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/adel-imam-movies/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Adel Imam-2
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/alzaeem/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Maraya
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/maraya/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Music
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-music/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Action
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/action/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Shamyeh
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/by2ah-shamyeh/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Kitchen
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-kitchen/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Caravan
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/caravan/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya World
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/around-the-world/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Adventures
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/roya-adventures/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Drama
+https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/0.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Documentary
+https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/documentaries/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Dubai One
 https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist_b1800000.m3u8
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Movies Action
+https://shls-live-enc.edgenextcdn.net/out/v1/46079e838e65490c8299f902a7731168/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Movies Thriller
+https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index_1.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 1
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 2
+http://supersonictv.live:8080/Wireless1/Wireless1/84004
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="قنوات عربية",MBC 4
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc5.png" group-title="قنوات عربية",MBC 5
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
+
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-iraq.png" group-title="قنوات عربية",MBC Iraq
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-iraq/e38c44b1b43474e1c39cb5b90203691e/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr2.png" group-title="قنوات عربية",MBC MASR 1
 https://mbc1-enc.edgenextcdn.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index_46.m3u8
 
+#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr2.png" group-title="قنوات عربية",MBC MASR 2
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-drama.png" group-title="قنوات عربية",MBC DRAMA
-https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8
+https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index_20.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Bab Al Hara
+https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index_1.m3u8
 
 #EXTINF:-1  tvg-logo="https://alsharqiya.com/Content/web-assets/img/logo.png" group-title="قنوات عربية",Al Sharqiya TV
 https://5d94523502c2d.streamlock.net/home/mystream/chunklist_w19563613.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Dubai Zaman
+https://dmiffthftl.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.stream.smil/chunklist_b1700000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OaqEpwe.png" group-title="قنوات عربية",Future TV
+https://live.kwikmotion.com/futurelive/ftv.smil/futurepublish/futuretv_source/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="قنوات عربية",LTV
+https://p-ltv.akamaized.net/ltv/ltv_1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",MTV Lebanon
+http://supersonictv.live:8080/Wireless1/Wireless1/84166
+
+#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",EL JADEED
+http://supersonictv.live:8080/Wireless1/Wireless1/84167
+
+#EXTINF:-1 tvg-logo=".png" group-title="قنوات عربية",OTV
+http://supersonictv.live:8080/Wireless1/Wireless1/84163
+
+#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",LBC
+http://supersonictv.live:8080/Wireless1/Wireless1/84164
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O4DuR9G.png" group-title="قنوات عربية",One TV
+https://hms.pfs.gdn/hms/v1/broadcast/one/backup/tracks-v1a1/mono.m3u8?token=tHeyezHr1ktzYtfqz1kjFg:OSr3thHkbFeaE4rT-c7yok8grbRkjmnaJCXSae9RL-mYgujEsalm7HNqlfDoM_Yx-UsHX8Wd0HdZ1uVGqDN20akNU1lIX-dXEnyMftr8vm_jqQG7ATe3mDY6NstYTC91mxJQlSltyouLckawu4KtvYjLjzWZIWizgTzzRrrDqYB22kGaMNPLutigmM_cDsg26xGBCsz4QP7bAR9BrdQIAniYMrxkLK14M6mL7wFUbAE
 
 #EXTINF:-1  tvg-logo="https://i.imgur.com/7OrfyOx.jpg" group-title="قنوات اخبار",AL ARABIYA
 https://live.alarabiya.net/alarabiapublish/alarabiya_1080p/playlist.m3u8
@@ -21,23 +174,48 @@ https://live.alarabiya.net/alarabiapublish/alarabiya_1080p/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/xx6uOhZ.png" group-title="قنوات اخبار",AL JAZEERA MUBASHER
 https://live-hls-web-ajm.getaj.net/AJM/01.m3u8
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",AL HURRA
+https://mbn-ingest-worldsafe.akamaized.net/hls/live/2038900/MBN_Alhurra_Worldsafe_HLS/master_2596.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/LNI1HNi.png" group-title="قنوات اخبار",Alaraby TV
+https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/chunklist_b4000000.m3u8
+
 #EXTINF:-1  tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="قنوات اخبار",Dijlah
 https://ghaasiflu.online/Dijlah/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/GmgibYW.jpg" group-title="قنوات عربية",Wanasah
-https://shls-wanasah-prod-dub.shahid.net/out/v1/c84ef3128e564b74a6a796e8b6287de6/index_1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",CGTN Arabic
+https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8
 
-#EXTINF:-1  group-title="قنوات عربية",Panorama FM
-https://shls-panoramafm-prod-dub.shahid.net/out/v1/66262e420d824475aaae794dc2d69f14/index_1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",CNBC Arabiya
+https://cnbc-live.akamaized.net/cnbc/master.m3u8
 
-#EXTINF:-1  tvg-logo="https://www.lyngsat.com/logo/radio/mm/mbc_ae_fm.png" group-title="قنوات عربية",MBC FM
-https://mbcfm-riyadh-prod-dub.shahid.net/out/v1/69c8a03f507e422f99cf5c07291c9e3a/index_1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",DW Arabic
+https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 
-#EXTINF:-1  tvg-logo="http://service.mobile.rotanaradio.jo/sites/default/files/studio.png" group-title="قنوات عربية",Rotana Radio Jordan
-http://188.247.86.66/RotanaRadio/OnAirStudio1/index_1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="قنوات اخبار",RT Arabic
+https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="قنوات عربية",Watar
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="أغاني",Aghani Aghani
+https://streaming-a-1035.cdn.nextologies.com/4tz2e4r7ns3oefuk51su/fxirbrhsofcbocral8vc/chunks.m3u8
+
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Wanasa.png" group-title="أغاني",Wanasah
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgur.com/O4DuR9G" group-title="أغاني",One FM
+https://hms.pfs.gdn/v1/broadcast/onefm/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="أغاني",Watar
 http://htvint.mada.ps:8889/orient/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png" group-title="أغاني",PMC Royale
+https://pmcrohls.wns.live/hls/stream.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="أغاني",MTV Hits Europe
+http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
+
+#EXTINF:-1  tvg-logo="" group-title="أغاني",Qwest TV
+https://rakutenaa-qwestjazz-rakuten-7enhv.amagi.tv/ts-eu-w1-n2/playlist/rakutenAA-qwestjazz-rakuten/cb543b186570648e84c83b6ecef046a1f90b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f19c060017d351f3e9f4c80381ec0c07aa341763a1d759b86b262c9c54b52e7c8787f79e8250c45fa0b10822d5a208aa419588164f8285415b8446f0e61daf00bab720193815b822b2f8badbf310355628e64906fcf923bc0eddc381b8128f4e50c2bd17e01b2c160e1ee2ec5f1f4c64a8eb45ccc6ac2d0b4d3c361dfd3d33afa0698544338703bf1081ee24a984d7edae91bbc08b0759d901db7ab5e0453a74a464ef1fccaf046f71acd88228e5ad0da6ac5628b2a8367a608e8b400f0edf3e84b4f3dabd348210994a5f6c4aa6e738974f2a6ecd36733ceb8442307db7b82737a76c0b48b188dc810d6912686bf666f4baaf8729293b68cf8a3cd1dee43e4f3b4ce731334326e6bab54a18862c826db6cd2b53a2f484856a39f4184a3c14e3c6d5d83921e99532cb0d58f8cc81d79ad441e49e374d64b0f0f9d673b9c84ec3923940a28edfa248c91669e834c1f8688248b3c/137/1920x1080_6046040/index.m3u8
+
 
 ##########################################################الكبير أوي الجزء الاول###################################################################
 
