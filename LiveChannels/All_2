@@ -9,8 +9,8 @@ http://supersonictv.live:8080/Wireless1/Wireless1/84024
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Comedy
 http://supersonictv.live:8080/Wireless1/Wireless1/84025
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Aflam +HD
-https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
+#EXTINF:-1  tvg-logo="https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo" group-title="قنوات عربية",Rotana Aflam +HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/rotana-aflam-plus/master.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Clip
 http://supersonictv.live:8080/Wireless1/Wireless1/84028
