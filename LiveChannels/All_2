@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Shahid Aflam
+https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_1.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Cinema
 http://supersonictv.live:8080/Wireless1/Wireless1/84024
 
@@ -9,8 +12,50 @@ http://supersonictv.live:8080/Wireless1/Wireless1/84025
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana +HD
 https://cdn1.iptvcdn.tv/mcnc/ROTANA_AFLAMPLUS/playlist.m3u8?token=demo
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Shahid Aflam
-https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index_1.m3u8
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Clip
+http://supersonictv.live:8080/Wireless1/Wireless1/84028
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Music
+http://supersonictv.live:8080/Wireless1/Wireless1/84030
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile Cinema
+http://supersonictv.live:8080/Wireless1/Wireless1/84072
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile Drama
+http://supersonictv.live:8080/Wireless1/Wireless1/84070
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile Life
+http://supersonictv.live:8080/Wireless1/Wireless1/84068
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC Sofra
+http://supersonictv.live:8080/Wireless1/Wireless1/84073
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC
+http://supersonictv.live:8080/Wireless1/Wireless1/84074
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC Drama
+http://supersonictv.live:8080/Wireless1/Wireless1/84077
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ON E
+http://supersonictv.live:8080/Wireless1/Wireless1/84088
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ON Drama
+http://supersonictv.live:8080/Wireless1/Wireless1/84091
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",PNC Film
+http://supersonictv.live:8080/Wireless1/Wireless1/84093
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ART Aflam 2
+http://supersonictv.live:8080/Wireless1/Wireless1/84022
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ART Cinema
+http://supersonictv.live:8080/Wireless1/Wireless1/84023
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nahar Drama
+http://supersonictv.live:8080/Wireless1/Wireless1/84075
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DMC Drama
+http://supersonictv.live:8080/Wireless1/Wireless1/84097
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",PNC Drama
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
@@ -72,6 +117,9 @@ https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/in
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 2
+http://supersonictv.live:8080/Wireless1/Wireless1/84004
+
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="قنوات عربية",MBC 4
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 
@@ -104,6 +152,18 @@ https://live.kwikmotion.com/futurelive/ftv.smil/futurepublish/futuretv_source/ch
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="قنوات عربية",LTV
 https://p-ltv.akamaized.net/ltv/ltv_1.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",MTV Lebanon
+http://supersonictv.live:8080/Wireless1/Wireless1/84166
+
+#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",EL JADEED
+http://supersonictv.live:8080/Wireless1/Wireless1/84167
+
+#EXTINF:-1 tvg-logo=".png" group-title="قنوات عربية",OTV
+http://supersonictv.live:8080/Wireless1/Wireless1/84163
+
+#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",LBC
+http://supersonictv.live:8080/Wireless1/Wireless1/84164
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/O4DuR9G.png" group-title="قنوات عربية",One TV
 https://hms.pfs.gdn/hms/v1/broadcast/one/backup/tracks-v1a1/mono.m3u8?token=tHeyezHr1ktzYtfqz1kjFg:OSr3thHkbFeaE4rT-c7yok8grbRkjmnaJCXSae9RL-mYgujEsalm7HNqlfDoM_Yx-UsHX8Wd0HdZ1uVGqDN20akNU1lIX-dXEnyMftr8vm_jqQG7ATe3mDY6NstYTC91mxJQlSltyouLckawu4KtvYjLjzWZIWizgTzzRrrDqYB22kGaMNPLutigmM_cDsg26xGBCsz4QP7bAR9BrdQIAniYMrxkLK14M6mL7wFUbAE
