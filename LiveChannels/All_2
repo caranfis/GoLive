@@ -195,6 +195,9 @@ https://archive.org/download/akhoni/64.mp4
 #EXTINF:-1  tvg-logo="" group-title="اخي",EP65
 https://archive.org/download/akhoni/65.mp4
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Aflam
+http://4dg1mmfk.megatv.fun/iptv/ZWAFXC6D7D2WCVFGVZBF97FS/15193/index.m3u8
+
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Cinema
 http://supersonictv.live:8080/Wireless1/Wireless1/84024
 
@@ -228,8 +231,8 @@ http://supersonictv.live:8080/Wireless1/Wireless1/84005
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC MAX
 http://supersonictv.live:8080/Wireless1/Wireless1/84012
 
-#EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc4.png" group-title="قنوات عربية",MBC 4
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 4
+http://4dg1mmfk.megatv.fun/iptv/ZWAFXC6D7D2WCVFGVZBF97FS/15199/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc5.png" group-title="قنوات عربية",MBC 5
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
