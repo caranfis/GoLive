@@ -198,27 +198,6 @@ https://archive.org/download/akhoni/65.mp4
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Aflam
 http://4dg1mmfk.megatv.fun/iptv/ZWAFXC6D7D2WCVFGVZBF97FS/15193/index.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Cinema
-http://supersonictv.live:8080/Wireless1/Wireless1/84024
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Comedy
-http://supersonictv.live:8080/Wireless1/Wireless1/84025
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Classic
-http://supersonictv.live:8080/Keyonna123/Keyonna123/84029
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Drama
-http://supersonictv.live:8080/Wireless1/Wireless1/84027
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Khalijia
-http://supersonictv.live:8080/Wireless1/Wireless1/84026
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Clip
-http://supersonictv.live:8080/Wireless1/Wireless1/84028
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Music
-http://supersonictv.live:8080/Wireless1/Wireless1/84030
-
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 1
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c503a296dd0d8/index.m3u8
 
@@ -226,10 +205,13 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-na/eec141533c90dd34722c
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-1-usa/fdac3a4fc0473f1f56e07ec1d63a4b7b/index.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 2
-http://supersonictv.live:8080/Wireless1/Wireless1/84005
+http://4dg1mmfk.megatv.fun/iptv/ZWAFXC6D7D2WCVFGVZBF97FS/15198/index.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC MAX
-http://supersonictv.live:8080/Wireless1/Wireless1/84012
+http://4dg1mmfk.megatv.fun/iptv/ZWAFXC6D7D2WCVFGVZBF97FS/15195/index.m3u8
+
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Mbc Action
+http://4dg1mmfk.megatv.fun/iptv/ZWAFXC6D7D2WCVFGVZBF97FS/15197/index.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",MBC 4
 http://4dg1mmfk.megatv.fun/iptv/ZWAFXC6D7D2WCVFGVZBF97FS/15199/index.m3u8
@@ -249,44 +231,14 @@ https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr/956eac069c78a35d4724
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-masr2.png" group-title="قنوات عربية",MBC MASR 2
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8
 
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Mbc Drama
+http://4dg1mmfk.megatv.fun/iptv/ZWAFXC6D7D2WCVFGVZBF97FS/15196/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://besttvps.com/app/panel-logos/mbc-drama.png" group-title="قنوات عربية",MBC+ DRAMA
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-plus-drama/e37251ec2aac8f6c98f75cd0fa37cd28/index.m3u8
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile Cinema
-http://supersonictv.live:8080/Wireless1/Wireless1/84072
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nile Drama
-http://supersonictv.live:8080/Wireless1/Wireless1/84070
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC Sofra
-http://supersonictv.live:8080/Wireless1/Wireless1/84073
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC
-http://supersonictv.live:8080/Wireless1/Wireless1/84074
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",CBC Drama
-http://supersonictv.live:8080/Wireless1/Wireless1/84077
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ON E
-http://supersonictv.live:8080/Wireless1/Wireless1/84088
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ON Drama
-http://supersonictv.live:8080/Wireless1/Wireless1/84091
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",PNC Film
-http://supersonictv.live:8080/Wireless1/Wireless1/84093
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ART Aflam 2
-http://supersonictv.live:8080/Wireless1/Wireless1/84022
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",ART Cinema
-http://supersonictv.live:8080/Wireless1/Wireless1/84023
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Nahar Drama
-http://supersonictv.live:8080/Wireless1/Wireless1/84075
-
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",DMC Drama
-http://supersonictv.live:8080/Wireless1/Wireless1/84097
+#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",National Geographic Abu Dhabi
+http://4dg1mmfk.megatv.fun/iptv/ZWAFXC6D7D2WCVFGVZBF97FS/15200/index.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",PNC Drama
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pnc-drama/master.m3u8
@@ -336,13 +288,13 @@ https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/0.m3u8
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Roya Documentary
 https://playlist.fasttvcdn.com/pl/toa2uuhhygheuly7xtuqrg/documentaries/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",Roya TV (1080p) [Not 24/7]
+#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",Roya TV
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",Syria TV (1080p)
+#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",Syria TV
 https://live.kwikmotion.com/syriatvlive/syriatv.smil/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",UTV (1080p)
+#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",UTV
 https://mn-nl.mncdn.com/utviraqi2/64c80359/index.m3u8
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Movies Action
@@ -368,21 +320,6 @@ https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xPoycVY.png" group-title="قنوات عربية",LTV
 https://p-ltv.akamaized.net/ltv/ltv_1.m3u8
-
-#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",MTV Lebanon
-http://supersonictv.live:8080/Wireless1/Wireless1/84166
-
-#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",EL JADEED
-http://supersonictv.live:8080/Wireless1/Wireless1/84167
-
-#EXTINF:-1 tvg-logo=".png" group-title="قنوات عربية",OTV
-http://supersonictv.live:8080/Wireless1/Wireless1/84163
-
-#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",LBC
-http://supersonictv.live:8080/Wireless1/Wireless1/84164
-
-#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",Bab Al Hara
-https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png" group-title="قنوات عربية",Dijlah TV
 https://ghaasiflu.online/Dijlah/index.m3u8
@@ -414,7 +351,7 @@ https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
 #EXTINF:-1 tvg-logo="" group-title="قنوات اخبار",RT Arabic
 https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="أغاني",Fairuz (1080p)
+#EXTINF:-1 tvg-logo="" group-title="أغاني",Fairuz
 https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="أغاني",Arabica TV
