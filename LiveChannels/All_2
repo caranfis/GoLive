@@ -195,8 +195,8 @@ https://archive.org/download/akhoni/64.mp4
 #EXTINF:-1  tvg-logo="" group-title="اخي",EP65
 https://archive.org/download/akhoni/65.mp4
 
-#EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Cinema
-http://supersonictv.live:8080/Wireless1/Wireless1/84024
+#EXTINF:-1 tvg-logo="" group-title="قنوات عربية",Rotana Cinema
+http://supersonictv.live:8080/Wireless1/Wireless1/84024|User-Agent=Mozilla/5.0&Referer=http://supersonictv.live/
 
 #EXTINF:-1  tvg-logo="" group-title="قنوات عربية",Rotana Aflam
 http://4dg1mmfk.megatv.fun/iptv/ZWAFXC6D7D2WCVFGVZBF97FS/15193/index.m3u8
